@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Digest - Week of December 10, 2025</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #FF3366;
+            --secondary: #0D1B2A;
+            --accent: #FFD60A;
+            --bg: #F8F9FA;
+            --text: #1B263B;
+            --border: #E0E1DD;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Work Sans', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        .header {
+            background: var(--secondary);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                linear-gradient(135deg, var(--primary) 0%, transparent 50%),
+                linear-gradient(45deg, var(--accent) 0%, transparent 40%);
+            opacity: 0.1;
+            z-index: 0;
+        }
+        
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        h1 {
+            font-family: 'Righteous', cursive;
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+            letter-spacing: -0.02em;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            background: linear-gradient(135deg, white 0%, var(--accent) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: slideInDown 0.6s ease-out;
+        }
+        
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.8;
+            font-weight: 400;
+            animation: fadeIn 0.8s ease-out 0.2s both;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+        
+        .standout-section {
+            background: white;
+            border-radius: 16px;
+            padding: 2.5rem;
+            margin-bottom: 3rem;
+            border: 3px solid var(--primary);
+            box-shadow: 0 8px 24px rgba(255, 51, 102, 0.15);
+            animation: slideInUp 0.6s ease-out;
+        }
+        
+        .standout-title {
+            font-family: 'Righteous', cursive;
+            font-size: 2rem;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .standout-list {
+            list-style: none;
+            display: grid;
+            gap: 0.75rem;
+        }
+        
+        .standout-item {
+            padding: 1rem;
+            background: linear-gradient(135deg, #FFF5F7 0%, #FFF 100%);
+            border-radius: 8px;
+            border-left: 4px solid var(--primary);
+            transition: all 0.3s ease;
+        }
+        
+        .standout-item:hover {
+            transform: translateX(8px);
+            box-shadow: 0 4px 12px rgba(255, 51, 102, 0.2);
+        }
+        
+        .standout-item a {
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 600;
+            display: block;
+        }
+        
+        .division-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid var(--border);
+            transition: all 0.3s ease;
+            animation: fadeIn 0.8s ease-out;
+        }
+        
+        .division-section:hover {
+            border-color: var(--primary);
+            box-shadow: 0 4px 20px rgba(13, 27, 42, 0.08);
+        }
+        
+        .division-title {
+            font-family: 'Righteous', cursive;
+            font-size: 1.8rem;
+            color: var(--secondary);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 3px solid var(--accent);
+            text-transform: uppercase;
+        }
+        
+        .highlight-link {
+            background: linear-gradient(135deg, var(--secondary) 0%, #1E3A5F 100%);
+            color: white;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .highlight-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(13, 27, 42, 0.3);
+        }
+        
+        .highlight-link a {
+            color: white;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+        
+        .news-list {
+            list-style: none;
+            display: grid;
+            gap: 0.5rem;
+        }
+        
+        .news-item {
+            padding: 0.75rem;
+            border-radius: 6px;
+            transition: background 0.2s ease;
+        }
+        
+        .news-item:hover {
+            background: #F8F9FA;
+        }
+        
+        .news-item a {
+            text-decoration: none;
+            color: var(--text);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .news-title {
+            flex: 1;
+            font-weight: 500;
+        }
+        
+        .news-date {
+            font-size: 0.875rem;
+            color: #6B7280;
+            white-space: nowrap;
+        }
+        
+        .no-news {
+            color: #9CA3AF;
+            font-style: italic;
+            text-align: center;
+            padding: 2rem;
+        }
+        
+        .footer {
+            background: var(--secondary);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+        
+        .footer p {
+            opacity: 0.7;
+            font-size: 0.9rem;
+        }
+        
+        @keyframes slideInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .header {
+                padding: 2rem 1rem;
+            }
+            
+            .container {
+                padding: 2rem 1rem;
+            }
+            
+            .standout-section,
+            .division-section {
+                padding: 1.5rem;
+            }
+            
+            .news-item a {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>⚽ Football Digest</h1>
+            <p class="subtitle">Week ending December 10, 2025</p>
+        </div>
+    </header>
+    
+    <div class="container">
+        <section class="standout-section">
+            <h2 class="standout-title">⚡ Standout Moments</h2>
+            <ul class="standout-list">
+                <li class="no-news">No standout moments this week</li>
+            </ul>
+        </section>
+        
+        
+        <section class="division-section">
+            <h2 class="division-title">Premier League</h2>
+            
+            
+                <div class="highlight-link">
+                    <a href="https://www.youtube.com/results?search_query=Premier+League+highlights+this+week" target="_blank" rel="noopener">
+                        🎬 Watch Premier League Highlights
+                    </a>
+                </div>
+            
+            
+            <ul class="news-list">
+                
+                <li class="news-item">
+                    <a href="https://www.skysports.com/racing/news/12040/13481825/international-jockeys-championship-ryan-moore-clinches-title-in-hong-kong" target="_blank" rel="noopener">
+                        <span class="news-title">Moore secures third international jockeys' crown at Happy Valley</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/boxing/news/12040/13481283/kubrat-pulev-would-relish-oleksandr-usyk-fight-and-chance-to-become-wba-super-champion-as-bulgarian-prepares-for-title-defence" target="_blank" rel="noopener">
+                        <span class="news-title">Could Pulev earn WBA 'super' title fight against Usyk?</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/f1/news/12040/13481787/f1-launches-dates-schedule-for-2026-car-livery-team-reveals-ahead-of-season-featuring-new-regulations" target="_blank" rel="noopener">
+                        <span class="news-title">F1 2026 car and livery launches schedule</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/watch/video/13481834/luke-littler-james-maddison-and-big-john-star-in-hilarious-darts-promo-club-180" target="_blank" rel="noopener">
+                        <span class="news-title">Littler, Maddison and Big John star in hilarious 'Club 180' sketch</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/watch/video/13481785/the-ashes-aussie-radio-station-troll-england-team-on-the-beach" target="_blank" rel="noopener">
+                        <span class="news-title">Ashes nightmare continues as Aussie radio station troll England on beach!</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/boxing/news/12040/13481673/claressa-shields-to-defend-undisputed-heavyweight-crown-against-franchon-crews-dezurn-in-detroit-early-next-year" target="_blank" rel="noopener">
+                        <span class="news-title">Shields to defend undisputed heavyweight crown against Crews-Dezurn</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/boxing/news/12040/13481778/caroline-dubois-targets-terri-harper-world-championship-unification-early-next-year" target="_blank" rel="noopener">
+                        <span class="news-title">Dubois targets Harper fight early in 2026</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/watch/video/13481659/liverpool-van-dijk-on-salah-future" target="_blank" rel="noopener">
+                        <span class="news-title">Van Dijk quizzed over Salah future</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/tennis/news/12040/13481664/aryna-sabalenka-says-women-facing-transgender-athletes-not-fair-ahead-of-battle-of-the-sexes-clash-with-nick-kyrgios" target="_blank" rel="noopener">
+                        <span class="news-title">Sabalenka says women facing transgender athletes 'not fair'</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/darts/news/12040/13481280/the-luke-littler-effect-how-the-nuke-heads-to-world-darts-championship-with-littlermania-pushing-sport-to-new-levels" target="_blank" rel="noopener">
+                        <span class="news-title">The Littler effect: How 'Littlermania' keeps pushing darts to new levels</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/racing/news/12040/13481355/international-jockeys-championship-ryan-moore-hollie-doyle-william-buick-compete-against-worlds-best" target="_blank" rel="noopener">
+                        <span class="news-title">Moore, Doyle and Buick compete against world’s best for IJC title</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/cricket/news/12040/13481647/the-ashes-2025-26-pat-cummins-returns-for-third-test-against-england-as-australia-attempt-to-clinch-series-win" target="_blank" rel="noopener">
+                        <span class="news-title">Cummins back for third Ashes Test as Carey defends England over beach reset</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/f1/news/12040/13481262/f1-driver-ratings-how-do-lando-norris-max-verstappen-lewis-hamilton-and-more-rank-for-2025-formula-1-season" target="_blank" rel="noopener">
+                        <span class="news-title">F1 driver ratings: How do Norris, Verstappen, Hamilton and more rank for 2025?</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/football/news/12040/13481766/joshua-zirkzee-transfer-roma-among-clubs-interested-in-man-utd-forward" target="_blank" rel="noopener">
+                        <span class="news-title">Zirkzee wants to stay at Man Utd amid Roma interest</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+                <li class="news-item">
+                    <a href="https://www.skysports.com/f1/news/12040/13481351/lando-norris-tips-lewis-hamilton-to-bounce-back-in-f1-2026-and-says-he-would-love-more-battles-against-ferrari-driver" target="_blank" rel="noopener">
+                        <span class="news-title">Norris reveals wish for future battles against Hamilton</span>
+                        <span class="news-date">2025-12-10</span>
+                    </a>
+                </li>
+            
+            </ul>
+        </section>
+        
+        <section class="division-section">
+            <h2 class="division-title">Championship</h2>
+            
+            
+                <div class="highlight-link">
+                    <a href="https://www.youtube.com/results?search_query=Championship+highlights+this+week" target="_blank" rel="noopener">
+                        🎬 Watch Championship Highlights
+                    </a>
+                </div>
+            
+            
+            <ul class="news-list">
+                <li class="no-news">No recent news</li>
+            </ul>
+        </section>
+        
+        <section class="division-section">
+            <h2 class="division-title">League One</h2>
+            
+            
+                <div class="highlight-link">
+                    <a href="https://www.youtube.com/results?search_query=League+One+highlights+this+week" target="_blank" rel="noopener">
+                        🎬 Watch League One Highlights
+                    </a>
+                </div>
+            
+            
+            <ul class="news-list">
+                <li class="no-news">No recent news</li>
+            </ul>
+        </section>
+        
+        <section class="division-section">
+            <h2 class="division-title">League Two</h2>
+            
+            
+                <div class="highlight-link">
+                    <a href="https://www.youtube.com/results?search_query=League+Two+highlights+this+week" target="_blank" rel="noopener">
+                        🎬 Watch League Two Highlights
+                    </a>
+                </div>
+            
+            
+            <ul class="news-list">
+                <li class="no-news">No recent news</li>
+            </ul>
+        </section>
+        
+        <section class="division-section">
+            <h2 class="division-title">World Cup</h2>
+            
+            
+                <div class="highlight-link">
+                    <a href="https://www.youtube.com/results?search_query=World+Cup+highlights+this+week" target="_blank" rel="noopener">
+                        🎬 Watch World Cup Highlights
+                    </a>
+                </div>
+            
+            
+            <ul class="news-list">
+                <li class="no-news">No recent news</li>
+            </ul>
+        </section>
+        
+    </div>
+    
+    <footer class="footer">
+        <p>Generated on 2025-12-10 • Updates weekly</p>
+    </footer>
+</body>
+</html>
