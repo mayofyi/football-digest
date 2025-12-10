@@ -1,0 +1,39 @@
+name: Generate Football Digest
+
+on:
+  schedule:
+    # Run every Monday at 9:00 AM UTC (adjust timezone as needed)
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Generate digest data
+        run: |
+          python scraper.py
+          
+      - name: Generate HTML
+        run: |
+          python generate_html.py
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html digest_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update football digest - $(date +%Y-%m-%d)" && git push)
