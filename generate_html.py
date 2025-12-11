@@ -1,60 +1,128 @@
 #!/usr/bin/env python3
 """
-Generate HTML from digest data with distinctive design
+Generate HTML V3 - Real Images with SVG Fallback
+Tries to load images from articles, falls back to SVG if missing
 """
 
 import json
 from datetime import datetime
 
-def generate_html(digest_data):
-    """Generate beautiful HTML from digest data"""
+def get_division_icon(div_key):
+    """Return SVG icon for each division (used as fallback)"""
+    icons = {
+        'premier_league': '''
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        ''',
+        'championship': '''
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#0e4c92"/>
+                <polygon points="100,25 120,75 80,75" fill="#FFD700"/>
+                <text x="100" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CHAMPIONSHIP</text>
+            </svg>
+        ''',
+        'league_one': '''
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#00A859"/>
+                <text x="100" y="50" font-family="Arial" font-size="48" font-weight="bold" fill="white" text-anchor="middle">L1</text>
+                <text x="100" y="95" font-family="Arial" font-size="16" fill="white" text-anchor="middle">LEAGUE ONE</text>
+            </svg>
+        ''',
+        'league_two': '''
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#006B3D"/>
+                <text x="100" y="50" font-family="Arial" font-size="48" font-weight="bold" fill="white" text-anchor="middle">L2</text>
+                <text x="100" y="95" font-family="Arial" font-size="16" fill="white" text-anchor="middle">LEAGUE TWO</text>
+            </svg>
+        ''',
+        'world_cup': '''
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#FFD700"/>
+                <circle cx="100" cy="60" r="30" fill="none" stroke="#000" stroke-width="3"/>
+                <path d="M 85 60 L 95 50 L 105 50 L 115 60 L 105 70 L 95 70 Z" fill="#000"/>
+                <text x="100" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="#000" text-anchor="middle">WORLD CUP</text>
+            </svg>
+        '''
+    }
+    return icons.get(div_key, icons['premier_league'])
+
+def generate_html_v3(digest_data):
+    """Generate V3 HTML with real images + SVG fallback"""
     
     divisions_html = ""
     
     for div_key, div_data in digest_data['divisions'].items():
-        articles_html = ""
+        cards_html = ""
         
-        for article in div_data['articles']:
-            articles_html += f"""
-                <li class="news-item">
-                    <a href="{article['link']}" target="_blank" rel="noopener">
-                        <span class="news-title">{article['title']}</span>
-                        <span class="news-date">{article['published']}</span>
-                    </a>
-                </li>
+        for i, article in enumerate(div_data['articles'][:8]):
+            svg_icon = get_division_icon(div_key)
+            
+            # Try to get image from article (if scraper extracted it)
+            article_image = article.get('image', '')
+            
+            cards_html += f"""
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            {svg_icon}
+                        </div>
+                        <img src="{article_image}" 
+                             alt="{article['title']}" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">{article['published']}</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">{article['title']}</h3>
+                        <a href="{article['link']}" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             """
         
         highlights_html = ""
         for highlight in div_data['highlights']:
-            highlights_html += f"""
-                <div class="highlight-link">
-                    <a href="{highlight['search_url']}" target="_blank" rel="noopener">
-                        🎬 Watch {div_data['name']} Highlights
-                    </a>
-                </div>
+            highlights_html = f"""
+                <a href="{highlight['search_url']}" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch {div_data['name']} Highlights
+                </a>
             """
         
         divisions_html += f"""
         <section class="division-section">
-            <h2 class="division-title">{div_data['name']}</h2>
+            <div class="division-header">
+                <h2 class="division-title">{div_data['name']}</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="{div_key}">‹</button>
+                    <button class="carousel-btn next-btn" data-division="{div_key}">›</button>
+                </div>
+            </div>
             
-            {highlights_html if highlights_html else ''}
+            {highlights_html}
             
-            <ul class="news-list">
-                {articles_html if articles_html else '<li class="no-news">No recent news</li>'}
-            </ul>
+            <div class="carousel-container" id="carousel-{div_key}">
+                <div class="carousel-track">
+                    {cards_html if cards_html else '<div class="no-news-card">No recent news this week</div>'}
+                </div>
+            </div>
         </section>
         """
     
-    # Standout moments
     standout_html = ""
-    for moment in digest_data.get('standout_moments', []):
+    for moment in digest_data.get('standout_moments', [])[:6]:
         standout_html += f"""
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="{moment['link']}" target="_blank" rel="noopener">
-                    ⚡ {moment['moment']}
+                    {moment['moment']}
                 </a>
-            </li>
+            </div>
         """
     
     html = f"""<!DOCTYPE html>
@@ -65,15 +133,15 @@ def generate_html(digest_data):
     <title>Football Digest - Week of {digest_data['week_ending']}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
         :root {{
-            --primary: #FF3366;
-            --secondary: #0D1B2A;
-            --accent: #FFD60A;
-            --bg: #F8F9FA;
-            --text: #1B263B;
-            --border: #E0E1DD;
+            --pitch-green: #00A859;
+            --dark-green: #006B3D;
+            --black: #0A0A0A;
+            --white: #FFFFFF;
+            --light-gray: #F5F5F5;
+            --accent-yellow: #FFD700;
         }}
         
         * {{
@@ -83,34 +151,49 @@ def generate_html(digest_data):
         }}
         
         body {{
-            font-family: 'Work Sans', -apple-system, sans-serif;
-            background: var(--bg);
-            color: var(--text);
+            font-family: 'Outfit', -apple-system, sans-serif;
+            background: var(--black);
+            color: var(--white);
             line-height: 1.6;
             overflow-x: hidden;
         }}
         
-        .header {{
-            background: var(--secondary);
-            color: white;
-            padding: 3rem 2rem;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }}
-        
-        .header::before {{
+        body::before {{
             content: '';
-            position: absolute;
+            position: fixed;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
             background: 
-                linear-gradient(135deg, var(--primary) 0%, transparent 50%),
-                linear-gradient(45deg, var(--accent) 0%, transparent 40%);
-            opacity: 0.1;
+                repeating-linear-gradient(
+                    90deg,
+                    transparent,
+                    transparent 100px,
+                    rgba(0, 168, 89, 0.03) 100px,
+                    rgba(0, 168, 89, 0.03) 200px
+                );
+            pointer-events: none;
             z-index: 0;
+        }}
+        
+        .header {{
+            background: linear-gradient(135deg, var(--pitch-green) 0%, var(--dark-green) 100%);
+            padding: 4rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 4px solid var(--accent-yellow);
+        }}
+        
+        .header::before {{
+            content: '⚽';
+            position: absolute;
+            font-size: 20rem;
+            opacity: 0.05;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-15deg);
         }}
         
         .header-content {{
@@ -119,22 +202,20 @@ def generate_html(digest_data):
         }}
         
         h1 {{
-            font-family: 'Righteous', cursive;
-            font-size: clamp(2.5rem, 6vw, 4.5rem);
-            letter-spacing: -0.02em;
+            font-family: 'Bebas Neue', cursive;
+            font-size: clamp(3rem, 8vw, 6rem);
+            letter-spacing: 0.05em;
             margin-bottom: 0.5rem;
             text-transform: uppercase;
-            background: linear-gradient(135deg, white 0%, var(--accent) 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: var(--white);
+            text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.3);
             animation: slideInDown 0.6s ease-out;
         }}
         
         .subtitle {{
-            font-size: 1.1rem;
-            opacity: 0.8;
-            font-weight: 400;
+            font-size: 1.2rem;
+            font-weight: 600;
+            opacity: 0.95;
             animation: fadeIn 0.8s ease-out 0.2s both;
         }}
         
@@ -142,146 +223,260 @@ def generate_html(digest_data):
             max-width: 1400px;
             margin: 0 auto;
             padding: 3rem 2rem;
+            position: relative;
+            z-index: 1;
         }}
         
         .standout-section {{
-            background: white;
-            border-radius: 16px;
-            padding: 2.5rem;
-            margin-bottom: 3rem;
-            border: 3px solid var(--primary);
-            box-shadow: 0 8px 24px rgba(255, 51, 102, 0.15);
+            background: linear-gradient(135deg, var(--dark-green) 0%, var(--black) 100%);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            border: 3px solid var(--pitch-green);
+            box-shadow: 0 10px 40px rgba(0, 168, 89, 0.3);
             animation: slideInUp 0.6s ease-out;
         }}
         
         .standout-title {{
-            font-family: 'Righteous', cursive;
-            font-size: 2rem;
-            color: var(--primary);
-            margin-bottom: 1.5rem;
+            font-family: 'Bebas Neue', cursive;
+            font-size: 2.5rem;
+            color: var(--accent-yellow);
+            margin-bottom: 2rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
         }}
         
-        .standout-list {{
-            list-style: none;
+        .standout-grid {{
             display: grid;
-            gap: 0.75rem;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
         }}
         
-        .standout-item {{
-            padding: 1rem;
-            background: linear-gradient(135deg, #FFF5F7 0%, #FFF 100%);
-            border-radius: 8px;
-            border-left: 4px solid var(--primary);
-            transition: all 0.3s ease;
-        }}
-        
-        .standout-item:hover {{
-            transform: translateX(8px);
-            box-shadow: 0 4px 12px rgba(255, 51, 102, 0.2);
-        }}
-        
-        .standout-item a {{
-            text-decoration: none;
-            color: var(--text);
-            font-weight: 600;
-            display: block;
-        }}
-        
-        .division-section {{
-            background: white;
+        .standout-card {{
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem;
             border-radius: 12px;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent-yellow);
             transition: all 0.3s ease;
-            animation: fadeIn 0.8s ease-out;
-        }}
-        
-        .division-section:hover {{
-            border-color: var(--primary);
-            box-shadow: 0 4px 20px rgba(13, 27, 42, 0.08);
-        }}
-        
-        .division-title {{
-            font-family: 'Righteous', cursive;
-            font-size: 1.8rem;
-            color: var(--secondary);
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 3px solid var(--accent);
-            text-transform: uppercase;
-        }}
-        
-        .highlight-link {{
-            background: linear-gradient(135deg, var(--secondary) 0%, #1E3A5F 100%);
-            color: white;
-            padding: 1rem 1.5rem;
-            border-radius: 8px;
-            margin-bottom: 1.5rem;
-            text-align: center;
-            transition: all 0.3s ease;
-        }}
-        
-        .highlight-link:hover {{
-            transform: translateY(-2px);
-            box-shadow: 0 8px 20px rgba(13, 27, 42, 0.3);
-        }}
-        
-        .highlight-link a {{
-            color: white;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 1.1rem;
-        }}
-        
-        .news-list {{
-            list-style: none;
-            display: grid;
-            gap: 0.5rem;
-        }}
-        
-        .news-item {{
-            padding: 0.75rem;
-            border-radius: 6px;
-            transition: background 0.2s ease;
-        }}
-        
-        .news-item:hover {{
-            background: #F8F9FA;
-        }}
-        
-        .news-item a {{
-            text-decoration: none;
-            color: var(--text);
             display: flex;
-            justify-content: space-between;
             align-items: center;
             gap: 1rem;
         }}
         
-        .news-title {{
+        .standout-card:hover {{
+            transform: translateX(8px);
+            background: rgba(255, 255, 255, 0.1);
+            border-left-width: 8px;
+        }}
+        
+        .standout-icon {{
+            font-size: 2rem;
+            flex-shrink: 0;
+        }}
+        
+        .standout-card a {{
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 600;
             flex: 1;
-            font-weight: 500;
         }}
         
-        .news-date {{
+        .division-section {{
+            margin-bottom: 4rem;
+            animation: fadeIn 0.8s ease-out;
+        }}
+        
+        .division-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }}
+        
+        .division-title {{
+            font-family: 'Bebas Neue', cursive;
+            font-size: 3rem;
+            color: var(--pitch-green);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.5);
+        }}
+        
+        .division-controls {{
+            display: flex;
+            gap: 0.5rem;
+        }}
+        
+        .carousel-btn {{
+            background: var(--pitch-green);
+            border: none;
+            color: var(--white);
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(0, 168, 89, 0.4);
+        }}
+        
+        .carousel-btn:hover {{
+            background: var(--dark-green);
+            transform: scale(1.1);
+        }}
+        
+        .carousel-btn:active {{
+            transform: scale(0.95);
+        }}
+        
+        .watch-highlights-btn {{
+            display: inline-block;
+            background: var(--accent-yellow);
+            color: var(--black);
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.4);
+        }}
+        
+        .watch-highlights-btn:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 6px 30px rgba(255, 215, 0, 0.6);
+        }}
+        
+        .carousel-container {{
+            overflow: hidden;
+            position: relative;
+        }}
+        
+        .carousel-track {{
+            display: flex;
+            gap: 2rem;
+            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            padding: 1rem 0;
+        }}
+        
+        .carousel-card {{
+            min-width: 350px;
+            background: var(--white);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }}
+        
+        .carousel-card:hover {{
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(0, 168, 89, 0.6);
+        }}
+        
+        .card-image {{
+            position: relative;
+            height: 200px;
+            overflow: hidden;
+            background: linear-gradient(135deg, var(--pitch-green), var(--dark-green));
+        }}
+        
+        /* SVG Fallback */
+        .card-svg-container {{
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            transition: transform 0.3s ease;
+        }}
+        
+        .card-svg-container svg {{
+            width: 100%;
+            height: 100%;
+        }}
+        
+        /* Real Image */
+        .card-real-image {{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            display: none;
+            transition: transform 0.3s ease;
+        }}
+        
+        .carousel-card:hover .card-svg-container,
+        .carousel-card:hover .card-real-image {{
+            transform: scale(1.05);
+        }}
+        
+        .card-date {{
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: rgba(0, 0, 0, 0.8);
+            color: var(--white);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
             font-size: 0.875rem;
-            color: #6B7280;
-            white-space: nowrap;
+            font-weight: 700;
+            backdrop-filter: blur(10px);
+            z-index: 10;
         }}
         
-        .no-news {{
-            color: #9CA3AF;
-            font-style: italic;
+        .card-content {{
+            padding: 1.5rem;
+            background: var(--white);
+            color: var(--black);
+        }}
+        
+        .card-title {{
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            line-height: 1.4;
+            color: var(--black);
+            min-height: 3em;
+        }}
+        
+        .card-link {{
+            color: var(--pitch-green);
+            text-decoration: none;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }}
+        
+        .card-link:hover {{
+            color: var(--dark-green);
+            gap: 1rem;
+        }}
+        
+        .no-news-card {{
+            min-width: 350px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 3rem;
             text-align: center;
-            padding: 2rem;
+            color: rgba(255, 255, 255, 0.5);
+            font-style: italic;
         }}
         
         .footer {{
-            background: var(--secondary);
-            color: white;
+            background: var(--black);
+            border-top: 3px solid var(--pitch-green);
             text-align: center;
             padding: 2rem;
             margin-top: 4rem;
@@ -332,14 +527,22 @@ def generate_html(digest_data):
                 padding: 2rem 1rem;
             }}
             
-            .standout-section,
-            .division-section {{
-                padding: 1.5rem;
+            .standout-section {{
+                padding: 2rem;
             }}
             
-            .news-item a {{
+            .division-header {{
                 flex-direction: column;
                 align-items: flex-start;
+                gap: 1rem;
+            }}
+            
+            .carousel-card {{
+                min-width: 280px;
+            }}
+            
+            .standout-grid {{
+                grid-template-columns: 1fr;
             }}
         }}
     </style>
@@ -354,38 +557,92 @@ def generate_html(digest_data):
     
     <div class="container">
         <section class="standout-section">
-            <h2 class="standout-title">⚡ Standout Moments</h2>
-            <ul class="standout-list">
-                {standout_html if standout_html else '<li class="no-news">No standout moments this week</li>'}
-            </ul>
+            <h2 class="standout-title">⚡ Top Moments This Week</h2>
+            <div class="standout-grid">
+                {standout_html if standout_html else '<div class="no-news-card">No standout moments this week</div>'}
+            </div>
         </section>
         
         {divisions_html}
     </div>
     
     <footer class="footer">
-        <p>Generated on {digest_data['generated_date']} • Updates weekly</p>
+        <p>Generated on {digest_data['generated_date']} • Updates weekly • Made with ⚽ and code</p>
     </footer>
+    
+    <script>
+        // Carousel functionality
+        document.querySelectorAll('.prev-btn, .next-btn').forEach(btn => {{
+            btn.addEventListener('click', function() {{
+                const division = this.dataset.division;
+                const carousel = document.getElementById(`carousel-${{division}}`);
+                const track = carousel.querySelector('.carousel-track');
+                const cardWidth = track.querySelector('.carousel-card, .no-news-card')?.offsetWidth || 350;
+                const gap = 32;
+                const scrollAmount = cardWidth + gap;
+                
+                const currentScroll = track.style.transform ? 
+                    parseInt(track.style.transform.replace('translateX(', '').replace('px)', '')) : 0;
+                
+                let newScroll;
+                if (this.classList.contains('next-btn')) {{
+                    newScroll = currentScroll - scrollAmount;
+                }} else {{
+                    newScroll = currentScroll + scrollAmount;
+                }}
+                
+                const maxScroll = -(track.scrollWidth - carousel.offsetWidth);
+                newScroll = Math.max(maxScroll, Math.min(0, newScroll));
+                
+                track.style.transform = `translateX(${{newScroll}}px)`;
+            }});
+        }});
+        
+        // Touch/swipe support
+        document.querySelectorAll('.carousel-track').forEach(track => {{
+            let startX = 0;
+            let currentTranslate = 0;
+            let prevTranslate = 0;
+            let isDragging = false;
+            
+            track.addEventListener('touchstart', (e) => {{
+                startX = e.touches[0].clientX;
+                isDragging = true;
+                const transform = track.style.transform;
+                prevTranslate = transform ? parseInt(transform.replace('translateX(', '').replace('px)', '')) : 0;
+            }});
+            
+            track.addEventListener('touchmove', (e) => {{
+                if (!isDragging) return;
+                const currentX = e.touches[0].clientX;
+                currentTranslate = prevTranslate + (currentX - startX);
+                track.style.transform = `translateX(${{currentTranslate}}px)`;
+            }});
+            
+            track.addEventListener('touchend', () => {{
+                isDragging = false;
+            }});
+        }});
+    </script>
 </body>
 </html>"""
     
     return html
 
 def main():
-    """Generate HTML from digest data"""
-    # Load digest data
+    """Generate V3 HTML from digest data"""
     with open('digest_data.json', 'r', encoding='utf-8') as f:
         digest_data = json.load(f)
     
-    # Generate HTML
-    html = generate_html(digest_data)
+    html = generate_html_v3(digest_data)
     
-    # Save HTML
     output_file = 'index.html'
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(html)
     
-    print(f"✅ HTML generated successfully: {output_file}")
+    print(f"✅ V3 HTML generated successfully: {output_file}")
+    print("🖼️  Images will load from articles when available")
+    print("🎨 SVG fallback displays when images fail or missing")
 
 if __name__ == "__main__":
     main()
