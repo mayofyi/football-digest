@@ -6,15 +6,15 @@
     <title>Football Digest - Week of December 11, 2025</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: #FF3366;
-            --secondary: #0D1B2A;
-            --accent: #FFD60A;
-            --bg: #F8F9FA;
-            --text: #1B263B;
-            --border: #E0E1DD;
+            --pitch-green: #00A859;
+            --dark-green: #006B3D;
+            --black: #0A0A0A;
+            --white: #FFFFFF;
+            --light-gray: #F5F5F5;
+            --accent-yellow: #FFD700;
         }
         
         * {
@@ -24,34 +24,49 @@
         }
         
         body {
-            font-family: 'Work Sans', -apple-system, sans-serif;
-            background: var(--bg);
-            color: var(--text);
+            font-family: 'Outfit', -apple-system, sans-serif;
+            background: var(--black);
+            color: var(--white);
             line-height: 1.6;
             overflow-x: hidden;
         }
         
-        .header {
-            background: var(--secondary);
-            color: white;
-            padding: 3rem 2rem;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .header::before {
+        body::before {
             content: '';
-            position: absolute;
+            position: fixed;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
             background: 
-                linear-gradient(135deg, var(--primary) 0%, transparent 50%),
-                linear-gradient(45deg, var(--accent) 0%, transparent 40%);
-            opacity: 0.1;
+                repeating-linear-gradient(
+                    90deg,
+                    transparent,
+                    transparent 100px,
+                    rgba(0, 168, 89, 0.03) 100px,
+                    rgba(0, 168, 89, 0.03) 200px
+                );
+            pointer-events: none;
             z-index: 0;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--pitch-green) 0%, var(--dark-green) 100%);
+            padding: 4rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 4px solid var(--accent-yellow);
+        }
+        
+        .header::before {
+            content: '⚽';
+            position: absolute;
+            font-size: 20rem;
+            opacity: 0.05;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-15deg);
         }
         
         .header-content {
@@ -60,22 +75,20 @@
         }
         
         h1 {
-            font-family: 'Righteous', cursive;
-            font-size: clamp(2.5rem, 6vw, 4.5rem);
-            letter-spacing: -0.02em;
+            font-family: 'Bebas Neue', cursive;
+            font-size: clamp(3rem, 8vw, 6rem);
+            letter-spacing: 0.05em;
             margin-bottom: 0.5rem;
             text-transform: uppercase;
-            background: linear-gradient(135deg, white 0%, var(--accent) 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: var(--white);
+            text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.3);
             animation: slideInDown 0.6s ease-out;
         }
         
         .subtitle {
-            font-size: 1.1rem;
-            opacity: 0.8;
-            font-weight: 400;
+            font-size: 1.2rem;
+            font-weight: 600;
+            opacity: 0.95;
             animation: fadeIn 0.8s ease-out 0.2s both;
         }
         
@@ -83,146 +96,260 @@
             max-width: 1400px;
             margin: 0 auto;
             padding: 3rem 2rem;
+            position: relative;
+            z-index: 1;
         }
         
         .standout-section {
-            background: white;
-            border-radius: 16px;
-            padding: 2.5rem;
-            margin-bottom: 3rem;
-            border: 3px solid var(--primary);
-            box-shadow: 0 8px 24px rgba(255, 51, 102, 0.15);
+            background: linear-gradient(135deg, var(--dark-green) 0%, var(--black) 100%);
+            border-radius: 20px;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            border: 3px solid var(--pitch-green);
+            box-shadow: 0 10px 40px rgba(0, 168, 89, 0.3);
             animation: slideInUp 0.6s ease-out;
         }
         
         .standout-title {
-            font-family: 'Righteous', cursive;
-            font-size: 2rem;
-            color: var(--primary);
-            margin-bottom: 1.5rem;
+            font-family: 'Bebas Neue', cursive;
+            font-size: 2.5rem;
+            color: var(--accent-yellow);
+            margin-bottom: 2rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
         }
         
-        .standout-list {
-            list-style: none;
+        .standout-grid {
             display: grid;
-            gap: 0.75rem;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
         }
         
-        .standout-item {
-            padding: 1rem;
-            background: linear-gradient(135deg, #FFF5F7 0%, #FFF 100%);
-            border-radius: 8px;
-            border-left: 4px solid var(--primary);
-            transition: all 0.3s ease;
-        }
-        
-        .standout-item:hover {
-            transform: translateX(8px);
-            box-shadow: 0 4px 12px rgba(255, 51, 102, 0.2);
-        }
-        
-        .standout-item a {
-            text-decoration: none;
-            color: var(--text);
-            font-weight: 600;
-            display: block;
-        }
-        
-        .division-section {
-            background: white;
+        .standout-card {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem;
             border-radius: 12px;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            border: 1px solid var(--border);
+            border-left: 4px solid var(--accent-yellow);
             transition: all 0.3s ease;
-            animation: fadeIn 0.8s ease-out;
-        }
-        
-        .division-section:hover {
-            border-color: var(--primary);
-            box-shadow: 0 4px 20px rgba(13, 27, 42, 0.08);
-        }
-        
-        .division-title {
-            font-family: 'Righteous', cursive;
-            font-size: 1.8rem;
-            color: var(--secondary);
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 3px solid var(--accent);
-            text-transform: uppercase;
-        }
-        
-        .highlight-link {
-            background: linear-gradient(135deg, var(--secondary) 0%, #1E3A5F 100%);
-            color: white;
-            padding: 1rem 1.5rem;
-            border-radius: 8px;
-            margin-bottom: 1.5rem;
-            text-align: center;
-            transition: all 0.3s ease;
-        }
-        
-        .highlight-link:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 20px rgba(13, 27, 42, 0.3);
-        }
-        
-        .highlight-link a {
-            color: white;
-            text-decoration: none;
-            font-weight: 700;
-            font-size: 1.1rem;
-        }
-        
-        .news-list {
-            list-style: none;
-            display: grid;
-            gap: 0.5rem;
-        }
-        
-        .news-item {
-            padding: 0.75rem;
-            border-radius: 6px;
-            transition: background 0.2s ease;
-        }
-        
-        .news-item:hover {
-            background: #F8F9FA;
-        }
-        
-        .news-item a {
-            text-decoration: none;
-            color: var(--text);
             display: flex;
-            justify-content: space-between;
             align-items: center;
             gap: 1rem;
         }
         
-        .news-title {
+        .standout-card:hover {
+            transform: translateX(8px);
+            background: rgba(255, 255, 255, 0.1);
+            border-left-width: 8px;
+        }
+        
+        .standout-icon {
+            font-size: 2rem;
+            flex-shrink: 0;
+        }
+        
+        .standout-card a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 600;
             flex: 1;
-            font-weight: 500;
         }
         
-        .news-date {
+        .division-section {
+            margin-bottom: 4rem;
+            animation: fadeIn 0.8s ease-out;
+        }
+        
+        .division-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        
+        .division-title {
+            font-family: 'Bebas Neue', cursive;
+            font-size: 3rem;
+            color: var(--pitch-green);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.5);
+        }
+        
+        .division-controls {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .carousel-btn {
+            background: var(--pitch-green);
+            border: none;
+            color: var(--white);
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(0, 168, 89, 0.4);
+        }
+        
+        .carousel-btn:hover {
+            background: var(--dark-green);
+            transform: scale(1.1);
+        }
+        
+        .carousel-btn:active {
+            transform: scale(0.95);
+        }
+        
+        .watch-highlights-btn {
+            display: inline-block;
+            background: var(--accent-yellow);
+            color: var(--black);
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.4);
+        }
+        
+        .watch-highlights-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 30px rgba(255, 215, 0, 0.6);
+        }
+        
+        .carousel-container {
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .carousel-track {
+            display: flex;
+            gap: 2rem;
+            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            padding: 1rem 0;
+        }
+        
+        .carousel-card {
+            min-width: 350px;
+            background: var(--white);
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .carousel-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(0, 168, 89, 0.6);
+        }
+        
+        .card-image {
+            position: relative;
+            height: 200px;
+            overflow: hidden;
+            background: linear-gradient(135deg, var(--pitch-green), var(--dark-green));
+        }
+        
+        /* SVG Fallback */
+        .card-svg-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            transition: transform 0.3s ease;
+        }
+        
+        .card-svg-container svg {
+            width: 100%;
+            height: 100%;
+        }
+        
+        /* Real Image */
+        .card-real-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            display: none;
+            transition: transform 0.3s ease;
+        }
+        
+        .carousel-card:hover .card-svg-container,
+        .carousel-card:hover .card-real-image {
+            transform: scale(1.05);
+        }
+        
+        .card-date {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: rgba(0, 0, 0, 0.8);
+            color: var(--white);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
             font-size: 0.875rem;
-            color: #6B7280;
-            white-space: nowrap;
+            font-weight: 700;
+            backdrop-filter: blur(10px);
+            z-index: 10;
         }
         
-        .no-news {
-            color: #9CA3AF;
-            font-style: italic;
+        .card-content {
+            padding: 1.5rem;
+            background: var(--white);
+            color: var(--black);
+        }
+        
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            line-height: 1.4;
+            color: var(--black);
+            min-height: 3em;
+        }
+        
+        .card-link {
+            color: var(--pitch-green);
+            text-decoration: none;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .card-link:hover {
+            color: var(--dark-green);
+            gap: 1rem;
+        }
+        
+        .no-news-card {
+            min-width: 350px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 3rem;
             text-align: center;
-            padding: 2rem;
+            color: rgba(255, 255, 255, 0.5);
+            font-style: italic;
         }
         
         .footer {
-            background: var(--secondary);
-            color: white;
+            background: var(--black);
+            border-top: 3px solid var(--pitch-green);
             text-align: center;
             padding: 2rem;
             margin-top: 4rem;
@@ -273,14 +400,22 @@
                 padding: 2rem 1rem;
             }
             
-            .standout-section,
-            .division-section {
-                padding: 1.5rem;
+            .standout-section {
+                padding: 2rem;
             }
             
-            .news-item a {
+            .division-header {
                 flex-direction: column;
                 align-items: flex-start;
+                gap: 1rem;
+            }
+            
+            .carousel-card {
+                min-width: 280px;
+            }
+            
+            .standout-grid {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -295,306 +430,680 @@
     
     <div class="container">
         <section class="standout-section">
-            <h2 class="standout-title">⚡ Standout Moments</h2>
-            <ul class="standout-list">
+            <h2 class="standout-title">⚡ Top Moments This Week</h2>
+            <div class="standout-grid">
                 
-            <li class="standout-item">
-                <a href="https://www.bbc.com/sport/football/articles/c0kdpk8gz5yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ Liverpool, Man City and Spurs in running for Semenyo
-                </a>
-            </li>
-        
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="https://www.bbc.com/sport/football/videos/cq5q8p1p7p1o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ Leverkusen score late equaliser to deny Newcastle win
+                    Leverkusen score late equaliser to deny Newcastle win
                 </a>
-            </li>
+            </div>
         
-            <li class="standout-item">
-                <a href="https://www.bbc.com/sport/football/videos/c30jz29zpleo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ Szoboszlai scores late penalty as Liverpool beat Inter
-                </a>
-            </li>
-        
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="https://www.bbc.com/sport/football/articles/cvgqvvgglgdo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ 'A stunning team performance' as Chelsea share goals around against Roma
+                    'A stunning team performance' as Chelsea share goals around against Roma
                 </a>
-            </li>
+            </div>
         
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="https://www.bbc.com/sport/football/videos/cgjnddz7179o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ 'Magic' Martinelli scores stunning third for Arsenal
+                    'Magic' Martinelli scores stunning third for Arsenal
                 </a>
-            </li>
+            </div>
         
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="https://www.bbc.com/sport/football/videos/c9w7yeeve12o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ Ajax come from behind twice to beat  Qarabag in six-goal thriller
+                    Ajax come from behind twice to beat  Qarabag in six-goal thriller
                 </a>
-            </li>
+            </div>
         
-            <li class="standout-item">
+            <div class="standout-card">
+                <span class="standout-icon">⚡</span>
                 <a href="https://www.bbc.com/sport/football/videos/cn982p87j33o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ 17-year-old Karl scores again for Bayern in comeback win
+                    17-year-old Karl scores again for Bayern in comeback win
                 </a>
-            </li>
+            </div>
         
-            <li class="standout-item">
-                <a href="https://www.bbc.com/sport/football/articles/cpvdjvygm38o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                    ⚡ Who is Arsenal's teenage debutant Salmon?
+            </div>
+        </section>
+        
+        
+        <section class="division-section">
+            <div class="division-header">
+                <h2 class="division-title">Premier League</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="premier_league">‹</button>
+                    <button class="carousel-btn next-btn" data-division="premier_league">›</button>
+                </div>
+            </div>
+            
+            
+                <a href="https://www.youtube.com/results?search_query=Premier+League+highlights+this+week" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch Premier League Highlights
                 </a>
-            </li>
-        
-            </ul>
-        </section>
-        
-        
-        <section class="division-section">
-            <h2 class="division-title">Premier League</h2>
             
             
-                <div class="highlight-link">
-                    <a href="https://www.youtube.com/results?search_query=Premier+League+highlights+this+week" target="_blank" rel="noopener">
-                        🎬 Watch Premier League Highlights
-                    </a>
+            <div class="carousel-container" id="carousel-premier_league">
+                <div class="carousel-track">
+                    
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/753ad400-d676-11f0-b3b7-219405133caa.jpg" 
+                             alt="Is Salah right to feel 'thrown under the bus'?" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Is Salah right to feel 'thrown under the bus'?</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c0q5pv8qlkdo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
                 </div>
             
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef4/live/cb18b2b0-d695-11f0-8c06-f5d460985095.jpg" 
+                             alt="Sutton's predictions v England Gaming star Daniel 'Stingray' Ray" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Sutton's predictions v England Gaming star Daniel 'Stingray' Ray</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/ce8q055q17ro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-            <ul class="news-list">
-                
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c0q5pv8qlkdo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Is Salah right to feel 'thrown under the bus'?</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5af/live/30f93f60-d6ae-11f0-9566-091746611f5e.jpg" 
+                             alt="Liverpool, Man City and Spurs in running for Semenyo" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Liverpool, Man City and Spurs in running for Semenyo</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c0kdpk8gz5yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/ce8q055q17ro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Sutton's predictions v England Gaming star Daniel 'Stingray' Ray</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a35/live/18922b30-d622-11f0-9fb5-5f3a3703a365.jpg" 
+                             alt="Can 'magic moment' Madueke find consistency for Arsenal?" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Can 'magic moment' Madueke find consistency for Arsenal?</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c8xd1d9y474o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c0kdpk8gz5yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Liverpool, Man City and Spurs in running for Semenyo</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e037/live/0e7cbc00-d5c3-11f0-b834-9fc74eefc7d3.jpg" 
+                             alt="Emery's perseverance & belief key to Villa resurgence" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Emery's perseverance & belief key to Villa resurgence</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c5yqdmg9m2do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c8xd1d9y474o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Can 'magic moment' Madueke find consistency for Arsenal?</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c4/live/8abd60b0-c5fd-11f0-a892-01d657345866.jpg" 
+                             alt="Macclesfield FC 'saved his life' - how football club owner overcame addiction" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Macclesfield FC 'saved his life' - how football club owner overcame addiction</h3>
+                        <a href="https://www.bbc.com/sport/football/videos/cvgm28n5gy7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c5yqdmg9m2do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Emery's perseverance & belief key to Villa resurgence</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e434/live/7f02fc20-d599-11f0-9fb5-5f3a3703a365.jpg" 
+                             alt="Which three Arsenal assets to pick v Wolves? FPL team of week" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Which three Arsenal assets to pick v Wolves? FPL team of week</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/cvgrvdlld9ro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/videos/cvgm28n5gy7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Macclesfield FC 'saved his life' - how football club owner overcame addiction</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#38003c"/>
+                <circle cx="100" cy="60" r="35" fill="none" stroke="#00ff85" stroke-width="4"/>
+                <text x="100" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#00ff85" text-anchor="middle">PL</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbb/live/ee872160-d626-11f0-9ae9-1d7339c7a1f9.jpg" 
+                             alt="'A stunning team performance' as Chelsea share goals around against Roma" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">'A stunning team performance' as Chelsea share goals around against Roma</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/cvgqvvgglgdo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cvgrvdlld9ro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Which three Arsenal assets to pick v Wolves? FPL team of week</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cewj4vwp9xgo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Vardy is first English Serie A player of the month</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cvgqvvgglgdo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">'A stunning team performance' as Chelsea share goals around against Roma</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/czdgrgj8ldjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">'You have to stand up and be counted' - history repeats itself for Newcastle</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.bbc.co.uk/sounds/play/p0mmty64?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">UCL Debrief: 100% Arsenal, nearly for Newcastle & Man City add to pressure on Alonso</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.skysports.com/football/news/12040/13481435/afcon-2025-man-utds-bryan-mbeumo-brentfords-dango-ouattara-among-uk-based-players-selected-for-tournament" target="_blank" rel="noopener">
-                        <span class="news-title">Which UK-based players have been selected for AFCON 2025?</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.skysports.com/football/news/12040/13482112/afcon-the-storylines-to-watch-in-every-group-including-morocco-egypt-senegal-and-ivory-coast" target="_blank" rel="noopener">
-                        <span class="news-title">AFCON: The storylines to watch in every group</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.skysports.com/football/news/12040/13482175/noni-madueke-bringing-different-qualities-to-arsenal-as-gunners-feel-benefits-of-competition-with-bukayo-saka" target="_blank" rel="noopener">
-                        <span class="news-title">Madueke pushing Saka as Arsenal feel benefits</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.skysports.com/football/news/12040/13482040/real-madrid-boss-xabi-alonso-backed-by-jude-bellingham-but-facing-uncertain-future-after-man-city-defeat" target="_blank" rel="noopener">
-                        <span class="news-title">Alonso backed by Bellingham but facing uncertain Real Madrid future</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-            </ul>
+                </div>
+            </div>
         </section>
         
         <section class="division-section">
-            <h2 class="division-title">Championship</h2>
+            <div class="division-header">
+                <h2 class="division-title">Championship</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="championship">‹</button>
+                    <button class="carousel-btn next-btn" data-division="championship">›</button>
+                </div>
+            </div>
             
             
-                <div class="highlight-link">
-                    <a href="https://www.youtube.com/results?search_query=Championship+highlights+this+week" target="_blank" rel="noopener">
-                        🎬 Watch Championship Highlights
-                    </a>
+                <a href="https://www.youtube.com/results?search_query=Championship+highlights+this+week" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch Championship Highlights
+                </a>
+            
+            
+            <div class="carousel-container" id="carousel-championship">
+                <div class="carousel-track">
+                    
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#0e4c92"/>
+                <polygon points="100,25 120,75 80,75" fill="#FFD700"/>
+                <text x="100" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CHAMPIONSHIP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://e2.365dm.com/25/12/1920x1080/skysports-darts-pdc-world-championships_7100731.jpg?20251204105235" 
+                             alt="World Darts Championship: Littler headlining opening night LIVE!" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">World Darts Championship: Littler headlining opening night LIVE!</h3>
+                        <a href="https://www.skysports.com/darts/live-blog/12040/13480473/world-darts-championship-2026-live-updates-video-analysis-results-schedule-with-luke-littler-luke-humphries-michael-van-gerwen-in-action" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
                 </div>
             
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#0e4c92"/>
+                <polygon points="100,25 120,75 80,75" fill="#FFD700"/>
+                <text x="100" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CHAMPIONSHIP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://e1.365dm.com/25/12/1920x1080/skysports-golf-alfred-dunhill_7107546.jpg?20251211154037" 
+                             alt="Chacarra leads the way after first round at Alfred Dunhill Championship" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Chacarra leads the way after first round at Alfred Dunhill Championship</h3>
+                        <a href="https://www.skysports.com/watch/video/13482239/alfred-dunhill-championship-day-one-highlights" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-            <ul class="news-list">
-                
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cqxq37w3n1eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Cardiff proving they will not be bullied - Wintle</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#0e4c92"/>
+                <polygon points="100,25 120,75 80,75" fill="#FFD700"/>
+                <text x="100" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CHAMPIONSHIP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://e1.365dm.com/25/12/1920x1080/skysports-efl-on_7107356.jpg?20251211123202" 
+                             alt="Can Sheff Utd heap more pressure on West Brom? Saints to march on? - EFL on Sky this weekend" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Can Sheff Utd heap more pressure on West Brom? Saints to march on? - EFL on Sky this weekend</h3>
+                        <a href="https://www.skysports.com/football/news/12040/13410242/efl-on-sky-this-weekend-more-pressure-coming-for-leicester-boss-marti-cifuentes-as-they-go-to-derby" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.skysports.com/watch/video/13482239/alfred-dunhill-championship-day-one-highlights" target="_blank" rel="noopener">
-                        <span class="news-title">Chacarra leads the way after first round at Alfred Dunhill Championship</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#0e4c92"/>
+                <polygon points="100,25 120,75 80,75" fill="#FFD700"/>
+                <text x="100" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="white" text-anchor="middle">CHAMPIONSHIP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://e1.365dm.com/25/12/1920x1080/skysports-michael-smith-darts_7104716.jpg?20251208122026" 
+                             alt="Smith taking cortisone injections ahead of Ashton showdown at Worlds" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Smith taking cortisone injections ahead of Ashton showdown at Worlds</h3>
+                        <a href="https://www.skysports.com/darts/news/12040/13480904/world-darts-championship-michael-smith-on-taking-cortisone-injections-for-ankle-and-wrist-problems-ahead-of-lisa-ashton-showdown" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.skysports.com/football/news/12040/13410242/efl-on-sky-this-weekend-more-pressure-coming-for-leicester-boss-marti-cifuentes-as-they-go-to-derby" target="_blank" rel="noopener">
-                        <span class="news-title">Can Sheff Utd heap more pressure on West Brom? Saints to march on? - EFL on Sky this weekend</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.skysports.com/rugby-league/news/12040/13482028/jake-connor-leeds-rhinos-super-league-man-of-steel-signs-new-contract-after-impressive-2025-season" target="_blank" rel="noopener">
-                        <span class="news-title">Man of Steel Connor extends Leeds contract</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
-            
-            </ul>
+                </div>
+            </div>
         </section>
         
         <section class="division-section">
-            <h2 class="division-title">League One</h2>
+            <div class="division-header">
+                <h2 class="division-title">League One</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="league_one">‹</button>
+                    <button class="carousel-btn next-btn" data-division="league_one">›</button>
+                </div>
+            </div>
             
             
-                <div class="highlight-link">
-                    <a href="https://www.youtube.com/results?search_query=League+One+highlights+this+week" target="_blank" rel="noopener">
-                        🎬 Watch League One Highlights
-                    </a>
+                <a href="https://www.youtube.com/results?search_query=League+One+highlights+this+week" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch League One Highlights
+                </a>
+            
+            
+            <div class="carousel-container" id="carousel-league_one">
+                <div class="carousel-track">
+                    
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#00A859"/>
+                <text x="100" y="50" font-family="Arial" font-size="48" font-weight="bold" fill="white" text-anchor="middle">L1</text>
+                <text x="100" y="95" font-family="Arial" font-size="16" fill="white" text-anchor="middle">LEAGUE ONE</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/e6e15160-d671-11f0-91f5-0bd827601511.jpg" 
+                             alt="Cardiff proving they will not be bullied - Wintle" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Cardiff proving they will not be bullied - Wintle</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/cqxq37w3n1eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
                 </div>
             
-            
-            <ul class="news-list">
-                <li class="no-news">No recent news</li>
-            </ul>
+                </div>
+            </div>
         </section>
         
         <section class="division-section">
-            <h2 class="division-title">League Two</h2>
-            
-            
-                <div class="highlight-link">
-                    <a href="https://www.youtube.com/results?search_query=League+Two+highlights+this+week" target="_blank" rel="noopener">
-                        🎬 Watch League Two Highlights
-                    </a>
+            <div class="division-header">
+                <h2 class="division-title">League Two</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="league_two">‹</button>
+                    <button class="carousel-btn next-btn" data-division="league_two">›</button>
                 </div>
+            </div>
             
             
-            <ul class="news-list">
-                <li class="no-news">No recent news</li>
-            </ul>
+                <a href="https://www.youtube.com/results?search_query=League+Two+highlights+this+week" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch League Two Highlights
+                </a>
+            
+            
+            <div class="carousel-container" id="carousel-league_two">
+                <div class="carousel-track">
+                    <div class="no-news-card">No recent news this week</div>
+                </div>
+            </div>
         </section>
         
         <section class="division-section">
-            <h2 class="division-title">World Cup</h2>
+            <div class="division-header">
+                <h2 class="division-title">World Cup</h2>
+                <div class="division-controls">
+                    <button class="carousel-btn prev-btn" data-division="world_cup">‹</button>
+                    <button class="carousel-btn next-btn" data-division="world_cup">›</button>
+                </div>
+            </div>
             
             
-                <div class="highlight-link">
-                    <a href="https://www.youtube.com/results?search_query=World+Cup+highlights+this+week" target="_blank" rel="noopener">
-                        🎬 Watch World Cup Highlights
-                    </a>
+                <a href="https://www.youtube.com/results?search_query=World+Cup+highlights+this+week" target="_blank" rel="noopener" class="watch-highlights-btn">
+                    ▶ Watch World Cup Highlights
+                </a>
+            
+            
+            <div class="carousel-container" id="carousel-world_cup">
+                <div class="carousel-track">
+                    
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#FFD700"/>
+                <circle cx="100" cy="60" r="30" fill="none" stroke="#000" stroke-width="3"/>
+                <path d="M 85 60 L 95 50 L 105 50 L 115 60 L 105 70 L 95 70 Z" fill="#000"/>
+                <text x="100" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="#000" text-anchor="middle">WORLD CUP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c381/live/c001f850-d6b3-11f0-869d-bbedf17d59c0.jpg" 
+                             alt="'Monumental betrayal' - cheapest World Cup final ticket to cost £3,119" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-11</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">'Monumental betrayal' - cheapest World Cup final ticket to cost £3,119</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c80x38e04yro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
                 </div>
             
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#FFD700"/>
+                <circle cx="100" cy="60" r="30" fill="none" stroke="#000" stroke-width="3"/>
+                <path d="M 85 60 L 95 50 L 105 50 L 115 60 L 105 70 L 95 70 Z" fill="#000"/>
+                <text x="100" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="#000" text-anchor="middle">WORLD CUP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a09/live/8d12b1c0-d5a8-11f0-8ba2-0920210c8b30.jpg" 
+                             alt="BBC to show Scotland's first World Cup game since 1998" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-10</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">BBC to show Scotland's first World Cup game since 1998</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/cgjnd28w56po?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-            <ul class="news-list">
-                
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c80x38e04yro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">'Monumental betrayal' - cheapest World Cup final ticket to cost £3,119</span>
-                        <span class="news-date">2025-12-11</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#FFD700"/>
+                <circle cx="100" cy="60" r="30" fill="none" stroke="#000" stroke-width="3"/>
+                <path d="M 85 60 L 95 50 L 105 50 L 115 60 L 105 70 L 95 70 Z" fill="#000"/>
+                <text x="100" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="#000" text-anchor="middle">WORLD CUP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e52/live/c9d18ba0-d4f3-11f0-96eb-53528c4e8a84.jpg" 
+                             alt="BBC or ITV? Inside how World Cup broadcast picks are made" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-10</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">BBC or ITV? Inside how World Cup broadcast picks are made</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cgjnd28w56po?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">BBC to show Scotland's first World Cup game since 1998</span>
-                        <span class="news-date">2025-12-10</span>
-                    </a>
-                </li>
+                <div class="carousel-card">
+                    <div class="card-image">
+                        <div class="card-svg-container svg-fallback">
+                            
+            <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+                <rect width="200" height="120" fill="#FFD700"/>
+                <circle cx="100" cy="60" r="30" fill="none" stroke="#000" stroke-width="3"/>
+                <path d="M 85 60 L 95 50 L 105 50 L 115 60 L 105 70 L 95 70 Z" fill="#000"/>
+                <text x="100" y="105" font-family="Arial" font-size="14" font-weight="bold" fill="#000" text-anchor="middle">WORLD CUP</text>
+            </svg>
+        
+                        </div>
+                        <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/7cb210f0-d41d-11f0-a892-01d657345866.png" 
+                             alt="Egypt want World Cup 'Pride Match' plans cancelled" 
+                             class="card-real-image"
+                             loading="lazy"
+                             onerror="this.style.display='none'; this.previousElementSibling.style.display='flex';"
+                             onload="this.previousElementSibling.style.display='none'; this.style.display='block';">
+                        <div class="card-date">2025-12-10</div>
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Egypt want World Cup 'Pride Match' plans cancelled</h3>
+                        <a href="https://www.bbc.com/sport/football/articles/c208392884jo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" class="card-link">
+                            Read Full Story →
+                        </a>
+                    </div>
+                </div>
             
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">BBC or ITV? Inside how World Cup broadcast picks are made</span>
-                        <span class="news-date">2025-12-10</span>
-                    </a>
-                </li>
-            
-                <li class="news-item">
-                    <a href="https://www.bbc.com/sport/football/articles/c208392884jo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-                        <span class="news-title">Egypt want World Cup 'Pride Match' plans cancelled</span>
-                        <span class="news-date">2025-12-10</span>
-                    </a>
-                </li>
-            
-            </ul>
+                </div>
+            </div>
         </section>
         
     </div>
     
     <footer class="footer">
-        <p>Generated on 2025-12-11 • Updates weekly</p>
+        <p>Generated on 2025-12-11 • Updates weekly • Made with ⚽ and code</p>
     </footer>
+    
+    <script>
+        // Carousel functionality
+        document.querySelectorAll('.prev-btn, .next-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                const division = this.dataset.division;
+                const carousel = document.getElementById(`carousel-${division}`);
+                const track = carousel.querySelector('.carousel-track');
+                const cardWidth = track.querySelector('.carousel-card, .no-news-card')?.offsetWidth || 350;
+                const gap = 32;
+                const scrollAmount = cardWidth + gap;
+                
+                const currentScroll = track.style.transform ? 
+                    parseInt(track.style.transform.replace('translateX(', '').replace('px)', '')) : 0;
+                
+                let newScroll;
+                if (this.classList.contains('next-btn')) {
+                    newScroll = currentScroll - scrollAmount;
+                } else {
+                    newScroll = currentScroll + scrollAmount;
+                }
+                
+                const maxScroll = -(track.scrollWidth - carousel.offsetWidth);
+                newScroll = Math.max(maxScroll, Math.min(0, newScroll));
+                
+                track.style.transform = `translateX(${newScroll}px)`;
+            });
+        });
+        
+        // Touch/swipe support
+        document.querySelectorAll('.carousel-track').forEach(track => {
+            let startX = 0;
+            let currentTranslate = 0;
+            let prevTranslate = 0;
+            let isDragging = false;
+            
+            track.addEventListener('touchstart', (e) => {
+                startX = e.touches[0].clientX;
+                isDragging = true;
+                const transform = track.style.transform;
+                prevTranslate = transform ? parseInt(transform.replace('translateX(', '').replace('px)', '')) : 0;
+            });
+            
+            track.addEventListener('touchmove', (e) => {
+                if (!isDragging) return;
+                const currentX = e.touches[0].clientX;
+                currentTranslate = prevTranslate + (currentX - startX);
+                track.style.transform = `translateX(${currentTranslate}px)`;
+            });
+            
+            track.addEventListener('touchend', () => {
+                isDragging = false;
+            });
+        });
+    </script>
 </body>
 </html>
