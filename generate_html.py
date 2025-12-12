@@ -551,7 +551,7 @@ def generate_html_v3(digest_data):
     <header class="header">
         <div class="header-content">
             <h1>⚽ Football Digest</h1>
-            <p class="subtitle">Week ending {digest_data['week_ending']}</p>
+            <p class="subtitle">Digest as of {digest_data['week_ending']}</p>
         </div>
     </header>
     
