@@ -1,16 +1,72 @@
 {
-  "generated_date": "2025-12-11",
-  "week_ending": "December 11, 2025",
+  "generated_date": "2025-12-12",
+  "week_ending": "December 12, 2025",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Is Salah right to feel 'thrown under the bus'?",
-          "link": "https://www.bbc.com/sport/football/articles/c0q5pv8qlkdo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-11",
-          "summary": "BBC Sport's chief football writer Phil McNulty takes a look at whether the Liverpool striker's claim is justified.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/753ad400-d676-11f0-b3b7-219405133caa.jpg"
+          "title": "Slot to hold talks with Salah about facing Brighton",
+          "link": "https://www.bbc.com/sport/football/articles/c99774y45l7o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "Liverpool manager Arne Slot says he will speak with Mohamed Salah on Friday morning about whether he will be involved against Brighton on Saturday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+        },
+        {
+          "title": "'There can only be one singer' - my secrets of successful man-management",
+          "link": "https://www.bbc.com/sport/football/articles/c208vr0ewj5o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis looks at man-management and how dealing with unhappy players is not the only challenge a manager will face.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+        },
+        {
+          "title": "'Nancy exposed to brutal life as Celtic manager as cup final looms'",
+          "link": "https://www.bbc.com/sport/football/articles/cm2887zk7r3o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "BBC Scotland's chief sportswriter, Tom English, dissects Wilfried Nancy's start as Celtic manager with the Premier Sports Cup final looming.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b5/live/61b52e70-d6f9-11f0-8c06-f5d460985095.jpg"
+        },
+        {
+          "title": "Is Saka an alternative to Haaland as captain? The FPL talking point",
+          "link": "https://www.bbc.com/sport/football/articles/crk7l6dym68o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "With Premier League leaders Arsenal hosting bottom club Wolves, is it time to captain Bukayo Saka in your fantasy football team? Our FPL experts give their views.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6369/live/893b8180-d5e9-11f0-ab62-eb598af64ced.jpg"
+        },
+        {
+          "title": "Bronze's 'beautiful' chip features in UWCL goals of the week",
+          "link": "https://www.bbc.com/sport/football/videos/c1j99dgn92po?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "Strikes from Lucy Bronze, Linda Caicedo and Melchie Dumornay all feature in the best goals of the week from the Women's Champions League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ccb/live/62789ef0-d6cc-11f0-8c06-f5d460985095.jpg"
+        },
+        {
+          "title": "Does Nancy 'know what he's walked in to' amid horror Celtic start?",
+          "link": "https://www.bbc.com/sport/football/articles/czdgg52e9qmo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "Wilfried Nancy has become the first Celtic manager to lose his first two games sparking concerns amid the club's supporters.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/c00bcea0-d6fb-11f0-9fb5-5f3a3703a365.png"
+        },
+        {
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "link": "https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/89855b90-d5c4-11f0-9fb5-5f3a3703a365.jpg"
+        },
+        {
+          "title": "Pitts TD treble leads Falcons to stunning comeback win over Buccaneers",
+          "link": "https://www.skysports.com/nfl/news/12040/13482427/nfl-kyle-pitts-scores-three-touchdowns-as-atlanta-falcons-beat-tampa-bay-buccaneers-in-stunning-29-28-comeback-win",
+          "published": "2025-12-12",
+          "summary": "Kirk Cousins threw three touchdown passes to Kyle Pitts to set up the opportunity for Zane Gonzalez to kick a game-winning field goal as time expired to complete the Atlanta Falcons' 29-28 comeback vi...",
+          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-kyle-pitts-atlanta_7107927.jpg?20251212063632"
+        },
+        {
+          "title": "Adeleye targets Wardley revenge in 2026: 'I get to right my wrong!'",
+          "link": "https://www.skysports.com/boxing/news/12040/13482222/david-adeleye-targets-fabio-wardley-rematch-revenge-in-2026-i-get-to-right-my-wrong",
+          "published": "2025-12-12",
+          "summary": "David Adeleye is determined to pursue revenge in a rematch with Fabio Wardley next year.",
+          "image": "https://e2.365dm.com/25/08/1920x1080/skysports-david-adeleye-filip-hrgovic_7001871.jpg?20250826170513"
         },
         {
           "title": "Sutton's predictions v England Gaming star Daniel 'Stingray' Ray",
@@ -20,25 +76,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef4/live/cb18b2b0-d695-11f0-8c06-f5d460985095.jpg"
         },
         {
-          "title": "Liverpool, Man City and Spurs in running for Semenyo",
-          "link": "https://www.bbc.com/sport/football/articles/c0kdpk8gz5yo?at_medium=RSS&at_campaign=rss",
+          "title": "Villa defeat 'reality check' for struggling Liverpool",
+          "link": "https://www.bbc.com/sport/football/articles/cev8894x9z9o?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-11",
-          "summary": "Antoine Semenyo's future looks set to dominate the forthcoming transfer window with rival clubs circling.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5af/live/30f93f60-d6ae-11f0-9566-091746611f5e.jpg"
+          "summary": "Under-pressure Liverpool manager Gareth Taylor says his side have had a \"real reality check\" as their winless start to the Women's Super League season continues.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c41/live/b05f4960-d722-11f0-a892-01d657345866.jpg"
         },
         {
-          "title": "Can 'magic moment' Madueke find consistency for Arsenal?",
-          "link": "https://www.bbc.com/sport/football/articles/c8xd1d9y474o?at_medium=RSS&at_campaign=rss",
+          "title": "I'm learning a new football language - Rashford",
+          "link": "https://www.bbc.com/sport/videos/cp8441gp75ko?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-11",
-          "summary": "Noni Madueke might reflect on the Champions League win at Club Brugge as a landmark night in his Arsenal career - but can he find consistency?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a35/live/18922b30-d622-11f0-9fb5-5f3a3703a365.jpg"
-        },
-        {
-          "title": "Emery's perseverance & belief key to Villa resurgence",
-          "link": "https://www.bbc.com/sport/football/articles/c5yqdmg9m2do?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-11",
-          "summary": "Just 11 weeks ago Aston Villa were winless and third bottom of the Premier League. Now they are in the conversation for the title.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e037/live/0e7cbc00-d5c3-11f0-b834-9fc74eefc7d3.jpg"
+          "summary": "Marcus Rashford speaks to BBC Sport Spanish football reporter Elizabeth Conway about how he is settling into life with Barcelona.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3be3/live/45e15380-d6cd-11f0-8c06-f5d460985095.jpg"
         },
         {
           "title": "Macclesfield FC 'saved his life' - how football club owner overcame addiction",
@@ -48,67 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c4/live/8abd60b0-c5fd-11f0-a892-01d657345866.jpg"
         },
         {
-          "title": "Which three Arsenal assets to pick v Wolves? FPL team of week",
-          "link": "https://www.bbc.com/sport/football/articles/cvgrvdlld9ro?at_medium=RSS&at_campaign=rss",
+          "title": "Rangers 'as bad as I've seen' as Keane revels in Ferencvaros win",
+          "link": "https://www.bbc.com/sport/football/articles/cwygglyqky2o?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-11",
-          "summary": "A home match for Arsenal against dismal Wolves is the key fixture for FPL managers to target this week - it's just a case of deciding which three Gunners to select.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e434/live/7f02fc20-d599-11f0-9fb5-5f3a3703a365.jpg"
+          "summary": "Rangers were comfortably second-best as they slumped to yet another Europa League defeat, according to victorious Ferencvaros boss Robbie Keane.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df40/live/8060d8c0-d6e9-11f0-9fb5-5f3a3703a365.png"
         },
         {
-          "title": "'A stunning team performance' as Chelsea share goals around against Roma",
-          "link": "https://www.bbc.com/sport/football/articles/cvgqvvgglgdo?at_medium=RSS&at_campaign=rss",
+          "title": "Is Salah right to feel 'thrown under the bus'?",
+          "link": "https://www.bbc.com/sport/football/articles/c0q5pv8qlkdo?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-11",
-          "summary": "Five players wrote their names on the scoresheet as Chelsea saw off Roma in the Women's Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbb/live/ee872160-d626-11f0-9ae9-1d7339c7a1f9.jpg"
-        },
-        {
-          "title": "'You have to stand up and be counted' - history repeats itself for Newcastle",
-          "link": "https://www.bbc.com/sport/football/articles/czdgrgj8ldjo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-11",
-          "summary": "Newcastle United show immense spirit to come from behind against Bayer Leverkusen only to concede another late goal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be13/live/31c2b2b0-d626-11f0-9ae9-1d7339c7a1f9.jpg"
-        },
-        {
-          "title": "UCL Debrief: 100% Arsenal, nearly for Newcastle & Man City add to pressure on Alonso",
-          "link": "https://www.bbc.co.uk/sounds/play/p0mmty64?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-11",
-          "summary": "Steve Crossman presents reaction to Wednesday's Champions League.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mmtyyy.jpg"
-        },
-        {
-          "title": "Which UK-based players have been selected for AFCON 2025?",
-          "link": "https://www.skysports.com/football/news/12040/13481435/afcon-2025-man-utds-bryan-mbeumo-brentfords-dango-ouattara-among-uk-based-players-selected-for-tournament",
-          "published": "2025-12-11",
-          "summary": "AFCON 2025 starts on Sunday December 21, when hosts Morocco take on Comoros in Rabat.",
-          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-afcon-mohamed-salah_7107500.jpg?20251211143536"
-        },
-        {
-          "title": "AFCON: The storylines to watch in every group",
-          "link": "https://www.skysports.com/football/news/12040/13482112/afcon-the-storylines-to-watch-in-every-group-including-morocco-egypt-senegal-and-ivory-coast",
-          "published": "2025-12-11",
-          "summary": "With the Africa Cup of Nations kicking off on December 21, <em>Sky Sports News' </em>Yoseph Kiflie takes a look at the storylines to watch from every group...",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-mohamed-salah-egypt_7107347.jpg?20251211121931"
-        },
-        {
-          "title": "Madueke pushing Saka as Arsenal feel benefits",
-          "link": "https://www.skysports.com/football/news/12040/13482175/noni-madueke-bringing-different-qualities-to-arsenal-as-gunners-feel-benefits-of-competition-with-bukayo-saka",
-          "published": "2025-12-11",
-          "summary": "Mikel Arteta described Noni Madueke's opening goal in Arsenal's Champions League win over Club Brugge as a \"magic moment\" but, as he knows as well as anyone, it did not come from nowhere. It was the r...",
-          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-noni-madueke-arsenal_7107462.jpg?20251211140019"
-        },
-        {
-          "title": "Alonso backed by Bellingham but facing uncertain Real Madrid future",
-          "link": "https://www.skysports.com/football/news/12040/13482040/real-madrid-boss-xabi-alonso-backed-by-jude-bellingham-but-facing-uncertain-future-after-man-city-defeat",
-          "published": "2025-12-11",
-          "summary": "Xabi Alonso returned to Real Madrid as one of the most highly-regarded young coaches in world football but after six months in the job he is already facing an uncertain future. Defeat to his old mento...",
-          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-xabi-alonso-jude-bellingham_7107229.jpg?20251211094705"
-        },
-        {
-          "title": "Madueke scores twice in Arsenal victory over Club Brugge",
-          "link": "https://www.bbc.com/sport/football/videos/cj9ywpx2pv2o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-10",
-          "summary": "Noni Madueke scores twice and Gabriel Martinelli scores a third for Arsenal to beat Club Brugge 3-0 and maintain their Champions League winning streak.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0bb/live/a9c2f640-d611-11f0-8c06-f5d460985095.jpg"
+          "summary": "BBC Sport's chief football writer Phil McNulty takes a look at whether the Liverpool striker's claim is justified.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/753ad400-d676-11f0-b3b7-219405133caa.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "World Darts Championship: Littler headlining opening night LIVE!",
-          "link": "https://www.skysports.com/darts/live-blog/12040/13480473/world-darts-championship-2026-live-updates-video-analysis-results-schedule-with-luke-littler-luke-humphries-michael-van-gerwen-in-action",
-          "published": "2025-12-11",
-          "summary": "",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-darts-pdc-world-championships_7100731.jpg?20251204105235"
+          "title": "Lampard wins second manager of the month award",
+          "link": "https://www.bbc.com/sport/football/articles/cvgrk94gml8o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-12",
+          "summary": "Coventry City boss Frank Lampard is named the Championship's manager of the month for November with striker Ellis Simms winning the player award.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/b2e6a1e0-d6b1-11f0-9566-091746611f5e.jpg"
         },
         {
           "title": "Chacarra leads the way after first round at Alfred Dunhill Championship",
@@ -144,11 +144,18 @@
           "image": "https://e1.365dm.com/25/12/1920x1080/skysports-efl-on_7107356.jpg?20251211123202"
         },
         {
-          "title": "Smith taking cortisone injections ahead of Ashton showdown at Worlds",
-          "link": "https://www.skysports.com/darts/news/12040/13480904/world-darts-championship-michael-smith-on-taking-cortisone-injections-for-ankle-and-wrist-problems-ahead-of-lisa-ashton-showdown",
+          "title": "Littler plays down push for Taylor's record after winning start",
+          "link": "https://www.skysports.com/darts/news/12040/13482084/world-darts-championship-luke-littler-plays-down-prospect-of-beating-phil-taylors-record-ahead-of-winning-start-to-title-defence",
           "published": "2025-12-11",
-          "summary": "Michael Smith has spoken about battling through the pain barrier by taking cortisone injections for his ankle and wrist ahead of facing Lisa Ashton at the World Darts Championship.",
-          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-michael-smith-darts_7104716.jpg?20251208122026"
+          "summary": "Luke Littler believes he may never beat Phil Taylor&#8217;s record of World Darts Championship titles, despite making a winning start to his title defence at the Alexandra Palace.",
+          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-luke-littler-darts_7107984.jpg?20251212080459"
+        },
+        {
+          "title": "Watch: Best of weekend action from around the leagues",
+          "link": "https://www.bbc.com/sport/videos/ckg9e7rekyyo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-08",
+          "summary": "Watch the best of the action from the SPFL weekend, as Arbroath make progress at the top of the Championship and there are two thrillers in League Two.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b77/live/d9311cc0-dc9f-11ef-902e-cf9b84dc1357.jpg"
         }
       ],
       "highlights": [
@@ -163,11 +170,11 @@
       "name": "League One",
       "articles": [
         {
-          "title": "Cardiff proving they will not be bullied - Wintle",
-          "link": "https://www.bbc.com/sport/football/articles/cqxq37w3n1eo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-11",
-          "summary": "Cardiff City are proving they will not be \"bullied\" by League One's physically-imposing teams, says Ryan Wintle.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/e6e15160-d671-11f0-91f5-0bd827601511.jpg"
+          "title": "Shade scores hat-trick as Burton beat non-league Brackley",
+          "link": "https://www.bbc.com/sport/football/videos/c78347p504zo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-08",
+          "summary": "Watch highlights as Burton Albion beat Brackley Town 3-1 to reach the FA Cup third round, thanks to a hat-trick from Tyrese Shade.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5764/live/4caf5720-d47f-11f0-9fb5-5f3a3703a365.jpg"
         }
       ],
       "highlights": [
@@ -205,20 +212,6 @@
           "published": "2025-12-10",
           "summary": "The BBC will broadcast Scotland's first World Cup match since 1998, when they take on Haiti on 14 June, plus their final group match against Brazil and England's group match against Ghana.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a09/live/8d12b1c0-d5a8-11f0-8ba2-0920210c8b30.jpg"
-        },
-        {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "link": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-10",
-          "summary": "We now know the broadcast schedule for the 2026 World Cup, but how do BBC and ITV decide who shows which matches?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e52/live/c9d18ba0-d4f3-11f0-96eb-53528c4e8a84.jpg"
-        },
-        {
-          "title": "Egypt want World Cup 'Pride Match' plans cancelled",
-          "link": "https://www.bbc.com/sport/football/articles/c208392884jo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-10",
-          "summary": "The organisation behind the LGBTQ+ \"Pride Match\" at the 2026 World Cup say they intend to push forward with their plans despite one of the teams involved objecting to Fifa.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/7cb210f0-d41d-11f0-a892-01d657345866.png"
         }
       ],
       "highlights": [
@@ -232,24 +225,32 @@
   },
   "standout_moments": [
     {
-      "moment": "Leverkusen score late equaliser to deny Newcastle win",
-      "link": "https://www.bbc.com/sport/football/videos/cq5q8p1p7p1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "moment": "'A stunning team performance' as Chelsea share goals around against Roma",
       "link": "https://www.bbc.com/sport/football/articles/cvgqvvgglgdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'Magic' Martinelli scores stunning third for Arsenal",
-      "link": "https://www.bbc.com/sport/football/videos/cgjnddz7179o?at_medium=RSS&at_campaign=rss"
+      "moment": "Shade scores hat-trick as Burton beat non-league Brackley",
+      "link": "https://www.bbc.com/sport/football/videos/c78347p504zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Ajax come from behind twice to beat  Qarabag in six-goal thriller",
-      "link": "https://www.bbc.com/sport/football/videos/c9w7yeeve12o?at_medium=RSS&at_campaign=rss"
+      "moment": "Watch: Best of weekend action from around the leagues",
+      "link": "https://www.bbc.com/sport/videos/ckg9e7rekyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "17-year-old Karl scores again for Bayern in comeback win",
-      "link": "https://www.bbc.com/sport/football/videos/cn982p87j33o?at_medium=RSS&at_campaign=rss"
+      "moment": "Everton end Chelsea's record breaking undefeated run",
+      "link": "https://www.bbc.com/sport/football/videos/c9w7yxvng9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Pitts TD treble leads Falcons to stunning comeback win over Buccaneers",
+      "link": "https://www.skysports.com/nfl/news/12040/13482427/nfl-kyle-pitts-scores-three-touchdowns-as-atlanta-falcons-beat-tampa-bay-buccaneers-in-stunning-29-28-comeback-win"
+    },
+    {
+      "moment": "Littler plays down push for Taylor's record after winning start",
+      "link": "https://www.skysports.com/darts/news/12040/13482084/world-darts-championship-luke-littler-plays-down-prospect-of-beating-phil-taylors-record-ahead-of-winning-start-to-title-defence"
+    },
+    {
+      "moment": "'I don't think anyone will beat Phil's record!' | Littler doubts reaching Taylor's 16 world titles",
+      "link": "https://www.skysports.com/watch/video/13482334/littler-on-taylor-record"
     }
   ]
 }
