@@ -130,7 +130,7 @@ def generate_html_v3(digest_data):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Football Digest - Week of {digest_data['week_ending']}</title>
+    <title>Football Digest - As of {digest_data['week_ending']}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
@@ -551,7 +551,7 @@ def generate_html_v3(digest_data):
     <header class="header">
         <div class="header-content">
             <h1>⚽ Football Digest</h1>
-            <p class="subtitle">Digest as of {digest_data['week_ending']}</p>
+            <p class="subtitle">As of {digest_data['week_ending']}</p>
         </div>
     </header>
     
