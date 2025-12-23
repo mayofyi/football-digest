@@ -1,16 +1,79 @@
 {
-  "generated_date": "2025-12-22",
-  "week_ending": "December 22, 2025",
+  "generated_date": "2025-12-23",
+  "week_ending": "December 23, 2025",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "The striker from England's eighth tier hoping to face Salah at Afcon",
-          "link": "https://www.bbc.com/sport/football/articles/c80xjzj4481o?at_medium=RSS&at_campaign=rss",
+          "title": "Why Hollywood battle could change how you watch sport",
+          "link": "https://www.bbc.com/sport/football/articles/cvgjwq4np9wo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-23",
+          "summary": "A multi-billion dollar takeover fight is being played out in Hollywood - and Premier League bosses will be watching on closely.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55e/live/7f6a9ca0-dbf1-11f0-9215-a1336f9b1117.jpg"
+        },
+        {
+          "title": "'A step ahead' - why Wharton holds key for Palace",
+          "link": "https://www.bbc.com/sport/football/articles/clyx6q9y8wpo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-23",
+          "summary": "Adam Wharton holds the key to Crystal Palace enjoying more success and becoming a consistent presence in European football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e89a/live/b5afcd50-dcee-11f0-bc51-61713ec32de7.jpg"
+        },
+        {
+          "title": "Nigeria ready to win 'dream' Afcon - Osimhen",
+          "link": "https://www.bbc.com/sport/football/articles/cde6wgjwknno?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-23",
+          "summary": "Victor Osimhen is determined to lead a \"talented\" Super Eagles squad to the 2025 Africa Cup of Nations title, aiming to overcome past disappointments.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1497/live/5a8f8f40-df79-11f0-82a8-237d9e3f4eb8.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mq023q?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-23",
+          "summary": "Who will be crowned the Women\u2019s Football Weekly friends quiz champion?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mq025v.jpg"
+        },
+        {
+          "title": "Penalty king Jimenez equals record - who are the Premier League's best?",
+          "link": "https://www.bbc.com/sport/football/articles/cwyg4k0kl9wo?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-22",
-          "summary": "Macauley Bonne plays for Maldon & Tiptree in England's eighth tier, but is going to Afcon with Zimbabwe.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c666/live/a8d49fe0-dcba-11f0-adc6-3df3a71ee64f.jpg"
+          "summary": "Fulham's Raul Jimenez scored his 11th Premier League penalty from 11 attempts, but who are the best spot-kick takers?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f6/live/cb544810-df88-11f0-aae2-2191c0e48a3b.png"
+        },
+        {
+          "title": "Man Utd eye Gallagher loan deal - Tuesday's gossip",
+          "link": "https://www.bbc.com/sport/football/articles/cx2e54gl8y9o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Manchester United are seeking a loan deal for Conor Gallager, three Premier League clubs are vying for Antoine Semenyo, Aston Villa join the race for Brennan Johnson, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb6b/live/debe6b60-df7e-11f0-aae2-2191c0e48a3b.png"
+        },
+        {
+          "title": "Top and bottom at Christmas - what does it mean?",
+          "link": "https://www.bbc.com/sport/football/articles/c87lqlw9ej2o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "As we approach the halfway point of the season, what do the ghosts of Christmas past tell us about the Premier League title race and relegation battle?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b3b/live/afdefa70-ddf4-11f0-9faa-bb36d4d42b5c.png"
+        },
+        {
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.com/sport/football/articles/crmdrkykyx2o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7def/live/5f957480-df85-11f0-aae2-2191c0e48a3b.png"
+        },
+        {
+          "title": "Jimenez penalty enough to earn Fulham win over Forest",
+          "link": "https://www.bbc.com/sport/football/videos/c75vk47eekeo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Raul Jimenez's first-half penalty proves enough for Fulham to get their Premier League season back on track with a hard-fought win at home to Nottingham Forest.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9be/live/42ab7c90-df83-11f0-aae2-2191c0e48a3b.jpg"
+        },
+        {
+          "title": "Forest not 'clear-headed enough' against Fulham - Dyche",
+          "link": "https://www.bbc.com/sport/football/videos/cpq4xv72dwyo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Nottingham Forest manager Sean Dyche says his team's \"basics\" were not quite what they should have been in their 1-0 defeat away to Fulham.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96a/live/95f3d790-df87-11f0-a8dc-93c15fe68710.jpg"
         },
         {
           "title": "How Rogers and Villa exposed Man Utd defence",
@@ -20,95 +83,32 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cff/live/a9a8ead0-deb2-11f0-aae2-2191c0e48a3b.jpg"
         },
         {
-          "title": "January transfer window: Key dates and Deadline Day",
-          "link": "https://www.skysports.com/football/news/12040/13485681/january-transfer-window-2026-when-does-it-open-and-close-deadline-day-dates-for-premier-league-efl-wsl-and-europe",
+          "title": "Explaining Celtic manager Nancy's 'unusual' tactics",
+          "link": "https://www.bbc.com/sport/football/articles/cx25vx4vvwdo?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-22",
-          "summary": "The transfer window re-opens on Thursday January 1, allowing clubs across the leagues to seek reinforcements and reshape their squads.",
-          "image": "https://e2.365dm.com/24/07/1920x1080/skysports-transfers-transfer_6618372.jpg?20240705103249"
+          "summary": "Analysing Wilfried Nancy's tactical approach, why his Columbus Crew side impressed and what he is trying to create at Celtic.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffc/live/ff63ec50-dede-11f0-933d-697cafd004f7.jpg"
         },
         {
-          "title": "New Zealand secure West Indies Test series win after five Duffy wickets",
-          "link": "https://www.skysports.com/cricket/news/12040/13486567/new-zealand-vs-west-indies-hosts-secure-test-series-victory-after-succession-of-records-broken-in-third-match",
+          "title": "Precheur gone - so what's next for London City?",
+          "link": "https://www.bbc.com/sport/football/articles/cvg17pv3rlpo?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-22",
-          "summary": "Jacob Duffy took 5-42 as New Zealand bowled out the West Indies for 138 on a deteriorating fifth-day pitch to win the third Test by 323 runs and take the three-match series 2-0.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-new-zealand-test_7117224.jpg?20251222064239"
+          "summary": "When London City Lionesses sacked manager Jocelyn Precheur it sparked controversy - but they are a club who have always done things differently.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f442/live/3afe1540-df3b-11f0-b6a6-1bf5f87ee304.jpg"
         },
         {
-          "title": "'Fighter' Rogers shows importance as Villa stay in title race",
-          "link": "https://www.bbc.com/sport/football/articles/cm21jdy1wjeo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Morgan Rogers shows his importance to Aston Villa with two goals in a win over Manchester United, as Unai Emery's side remain in the title hunt.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af80/live/c3a12160-deb1-11f0-b67b-690eb873de1b.jpg"
+          "title": "Glasner critical of EFL's Conference League stance",
+          "link": "https://www.bbc.com/sport/football/articles/c5yqre2yd14o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Crystal Palace manager Oliver Glasner accuses the EFL of a lack of respect towards the Uefa Conference League amid his side's fixture congestion.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/7091ff90-df41-11f0-a5e8-050d4171e402.jpg"
         },
         {
-          "title": "'Hearts have arrived'... but McInnes warns they can get better",
-          "link": "https://www.bbc.com/sport/football/articles/cr4d7vw46d0o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Hearts \"have arrived\" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"
-        },
-        {
-          "title": "Stunning Rogers double secures Villa win over Man Utd",
-          "link": "https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/415d/live/f1667940-de9a-11f0-aae2-2191c0e48a3b.jpg"
-        },
-        {
-          "title": "Man City to weigh players before Forest game",
-          "link": "https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd6/live/7379d5f0-de80-11f0-b6eb-fb9209f47010.jpg"
-        },
-        {
-          "title": "'Not at end of storm, but light amid darkness for Nancy at Celtic'",
-          "link": "https://www.bbc.com/sport/football/articles/ce86kxkj309o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "On the winter solstice, some light finally illuminated the darkness of Wilfried Nancy's opening 17 days as Celtic manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed1e/live/327d3520-dea2-11f0-b67b-690eb873de1b.png"
-        },
-        {
-          "title": "Chelsea hammer nine goals past Liverpool in Women's League Cup",
-          "link": "https://www.bbc.com/sport/football/videos/c4g5y11204yo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Chelsea put nine past Liverpool in the Women's League Cup to progress to the semi-finals, as Sam Kerr scores the opening two goals and Johanna Rytting Kaneryd completes a hat-trick.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a28/live/9c013b70-dec7-11f0-a8dc-93c15fe68710.jpg"
-        },
-        {
-          "title": "The best team today lost - Amorim",
-          "link": "https://www.bbc.com/sport/football/videos/clydjrnz4xdo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Manchester United Manager Ruben Amorim says that Manchester United performed better despite losing 2-1 to Aston Villa.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/fae9b3d0-dea7-11f0-b67b-690eb873de1b.jpg"
-        },
-        {
-          "title": "Emery elated with 'fantastic' Aston Villa win",
-          "link": "https://www.bbc.com/sport/football/videos/c04vxrz9qz7o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Aston Villa manager Unai Emery praises his \"fantastic\" players in a hard-fought 2-1 win against Manchester United.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee4f/live/930b4760-dea7-11f0-a8dc-93c15fe68710.jpg"
-        },
-        {
-          "title": "Can Aston Villa sustain a title challenge?",
-          "link": "https://www.bbc.com/sport/football/videos/cd9z5qlveq1o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Football Focus's Alex Scott, Nedum Onuoha and Glenn Murray look at Aston Villa's incredible Premier League form and whether they can sustain a title challenge this season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95e/live/2da5a730-ddb7-11f0-aae2-2191c0e48a3b.jpg"
-        },
-        {
-          "title": "Chelsea put nine past Liverpool in Women's League Cup",
-          "link": "https://www.bbc.com/sport/football/articles/c7vmyg3lppmo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "Chelsea hammer Liverpool 9-1 to reach the Women's League Cup semi-finals, while Manchester City, Manchester United and Arsenal also progress.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d788/live/083d3ba0-de86-11f0-b6eb-fb9209f47010.jpg"
-        },
-        {
-          "title": "West Ham set to appoint Guarino as manager",
-          "link": "https://www.bbc.com/sport/football/articles/cr5zjpmmd4lo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-21",
-          "summary": "West Ham are set to appoint Rita Guarino as their women's team manager following the sacking of Rehanne Skinner.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dec/live/3c218480-de68-11f0-93bc-bdb57778df93.jpg"
+          "title": "Man denies racially abusing Antoine Semenyo",
+          "link": "https://www.bbc.com/news/articles/c3e0kngvjl0o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Semenyo reported being abused by a spectator during the first Premier League game of the season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/781c/live/eb516680-df55-11f0-a8dc-93c15fe68710.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "'What's his problem?' Suljovic bats away slow-play claims as Cullen fumes at 'cheating'",
-          "link": "https://www.skysports.com/darts/news/12040/13486317/world-darts-championship-joe-cullen-says-mensur-suljovics-behaviour-on-stage-is-not-darts-after-defeat-at-alexandra-palace",
-          "published": "2025-12-21",
-          "summary": "Mensur Suljovic has denied intentionally provoking Joe Cullen during their World Darts Championship clash, with the Englishman describing his pace of play as like \"cheating\" and \"not darts\".",
-          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-mensur-suljovic-joe-cullen_7116861.jpg?20251221163431"
+          "title": "Head coach Rowett sacked by Oxford United",
+          "link": "https://www.bbc.com/sport/football/articles/cvgrxx7nn5zo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-23",
+          "summary": "Oxford United head coach Gary Rowett is sacked with the club in the Championship relegation zone.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
         },
         {
-          "title": "Highlights: Littler gets the job done in tough contest against Davies",
-          "link": "https://www.skysports.com/watch/video/13486531/world-darts-championship-luke-littler-vs-david-davies-highlights",
-          "published": "2025-12-21",
-          "summary": "Highlights of the World Darts Championship second- round match between Luke Littler and David Davies.",
-          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-littler-davies-darts_7117136.jpg?20251221221046"
+          "title": "Humphries: Why 'superstar' Van Veen is major threat to me and Littler",
+          "link": "https://www.skysports.com/darts/news/12040/13486825/luke-humphries-explains-why-superstar-gian-van-veen-is-major-threat-to-himself-and-luke-littler-at-world-darts-championship",
+          "published": "2025-12-22",
+          "summary": "Luke Humphries picked out Gian van Veen as a major threat to himself and Luke Littler at this year's World Darts Championship.",
+          "image": "https://e2.365dm.com/25/10/1920x1080/skysports-luke-humphries-gian-van-veen_7067731.jpg?20251031103610"
+        },
+        {
+          "title": "'Clinical' Humphries thrashes Lim to progress to third round",
+          "link": "https://www.skysports.com/darts/news/12040/13486711/world-darts-championship-luke-humphries-thrashes-paul-lim-in-second-round-as-gian-van-veen-nathan-aspinall-also-win",
+          "published": "2025-12-22",
+          "summary": "Luke Humphries thrashed Paul Lim 3-0 with a dominant display in the second round of the World Darts Championship on Monday night.",
+          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-luke-humphries-darts_7117907.jpg?20251222210515"
         }
       ],
       "highlights": [
@@ -169,7 +176,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Fifa tests new technology for ball out of play and offside",
+          "link": "https://www.bbc.com/sport/football/articles/cqxq7zejvnno?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-22",
+          "summary": "Fifa is testing new technology which can determine if the ball went out of play before a goal was scored.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad1/live/d5cd73d0-df73-11f0-ad0b-4759baf4609b.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -181,24 +196,24 @@
   },
   "standout_moments": [
     {
+      "moment": "Head coach Rowett sacked by Oxford United",
+      "link": "https://www.bbc.com/sport/football/articles/cvgrxx7nn5zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Penalty king Jimenez equals record - who are the Premier League's best?",
+      "link": "https://www.bbc.com/sport/football/articles/cwyg4k0kl9wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Stunning Rogers double secures Villa win over Man Utd",
       "link": "https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Broja heads home late equaliser for Burnley at Bournemouth",
-      "link": "https://www.bbc.com/sport/football/videos/cy845pn8lnno?at_medium=RSS&at_campaign=rss"
+      "moment": "Precheur gone - so what's next for London City?",
+      "link": "https://www.bbc.com/sport/football/articles/cvg17pv3rlpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Chelsea hammer nine goals past Liverpool in Women's League Cup",
       "link": "https://www.bbc.com/sport/football/videos/c4g5y11204yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'Do we want to be remembered for fighting or being cowards?'",
-      "link": "https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Maresca hints at wanting older heads at end of chaotic week",
-      "link": "https://www.bbc.com/sport/football/articles/c20kynlj473o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
