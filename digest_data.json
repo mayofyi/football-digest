@@ -1,23 +1,65 @@
 {
-  "generated_date": "2025-12-25",
-  "week_ending": "December 25, 2025",
+  "generated_date": "2025-12-26",
+  "week_ending": "December 26, 2025",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Transfer 360: The story of Shearer's move from Blackburn to Newcastle",
-          "link": "https://www.skysports.com/watch/video/13486637/transfer-360-the-story-of-alan-shearers-move-from-blackburn-to-newcastle",
-          "published": "2025-12-25",
-          "summary": "Alan Shearer gives the story of his move from Blackburn Rovers to his boyhood club Newcastle Utd.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/sky-sports-alan-shearer-transfer-360_7117446.jpg?20251222120412"
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "link": "https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-26",
+          "summary": "BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/89855b90-d5c4-11f0-9fb5-5f3a3703a365.jpg"
         },
         {
-          "title": "Take on our BBC Gameshows ultimate football quiz",
-          "link": "https://www.bbc.com/sport/football/articles/c898kv2zp58o?at_medium=RSS&at_campaign=rss",
+          "title": "Forest fulcrum Robertson - 'a talented, highly skilled, unbelievable outside-left'",
+          "link": "https://www.bbc.com/sport/football/articles/cy4x2dx82g9o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "John Robertson, who has died aged 72, was dubbed \"the Picasso of football\" and made Brian Clough's great Nottingham Forest side tick, says chief football writer Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/f42eceb0-df63-11f0-876a-05947b6d6bdb.jpg"
+        },
+        {
+          "title": "'Picasso' of football Robertson dies aged 72",
+          "link": "https://www.bbc.com/sport/football/articles/cwywvy9yj9po?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "Former Scotland, Nottingham Forest and Derby County winger John Robertson - once described by manager Brian Clough as \"a Picasso of our game\" - dies at the age of 72.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ef/live/f0f30280-dc1f-11f0-a8dc-93c15fe68710.png"
+        },
+        {
+          "title": "Players can only leave if replacements come in - Amorim",
+          "link": "https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "Manchester United head coach Ruben Amorim is not willing to let any players leave in the January transfer window unless replacements come in.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a0/live/51a2e9e0-e0e1-11f0-94d6-33dfd766fcaa.jpg"
+        },
+        {
+          "title": "Sitting with Ferguson and getting 'knocked out' - a photographer's tales",
+          "link": "https://www.bbc.com/sport/football/articles/cwylx81311qo?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "Magi Haroun, the first Premier League-accredited female photographer, shares her stories about sitting in the dugout with Sir Alex Ferguson and more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e541/live/9ebca930-dc1a-11f0-babc-21f9e89ffedf.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mqltq4?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "Katie Smith previews the busy festive football period",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+        },
+        {
+          "title": "How to save your FPL season with a few brave choices",
+          "link": "https://www.bbc.com/sport/football/articles/cwyljg53l3po?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-25",
+          "summary": "No matter how far back you are in your FPL mini-league, there's always a way to recover - you just need to make some brave choices.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3966/live/bee65f90-df4d-11f0-bc84-7b55a945c58f.jpg"
+        },
+        {
+          "title": "All your FPL stats and Premier League team news in one place",
+          "link": "https://www.bbc.com/sport/articles/cgl6j0n6e9zo?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-24",
-          "summary": "We've built five quizzes to celebrate five BBC shows - but only those with the biggest football trivia brains can beat them all.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/ca802ee0-d998-11f0-b67b-690eb873de1b.jpg"
+          "summary": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"
         },
         {
           "title": "Sutton's predictions v The Wellermen's Jonny Stewart",
@@ -27,18 +69,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716b/live/e8173b70-de97-11f0-b67b-690eb873de1b.png"
         },
         {
-          "title": "'Always hungry, always brave' - why Man City want Semenyo",
-          "link": "https://www.bbc.com/sport/football/articles/c9qeryx8vn4o?at_medium=RSS&at_campaign=rss",
+          "title": "Take on our BBC Gameshows ultimate football quiz",
+          "link": "https://www.bbc.com/sport/football/articles/c898kv2zp58o?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-24",
-          "summary": "Every transfer window, there is a player whose future becomes the defining saga of the month. This January, it looks set to be Bournemouth's Antoine Semenyo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/962d9f00-e0b5-11f0-a5d4-dbc340b0ceeb.jpg"
-        },
-        {
-          "title": "'Why I was always driving home for Christmas'",
-          "link": "https://www.bbc.com/sport/football/articles/cwyw0q74rn9o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-24",
-          "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis reflects on what the festive period was like as a player and manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+          "summary": "We've built five quizzes to celebrate five BBC shows - but only those with the biggest football trivia brains can beat them all.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/ca802ee0-d998-11f0-b67b-690eb873de1b.jpg"
         },
         {
           "title": "The final Christmas Day fixture in England - 60 years on",
@@ -55,11 +90,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75e5/live/0d7e3550-e017-11f0-b67b-690eb873de1b.png"
         },
         {
-          "title": "All your FPL stats and Premier League team news in one place",
-          "link": "https://www.bbc.com/sport/articles/cgl6j0n6e9zo?at_medium=RSS&at_campaign=rss",
+          "title": "'Why I was always driving home for Christmas'",
+          "link": "https://www.bbc.com/sport/football/articles/cwyw0q74rn9o?at_medium=RSS&at_campaign=rss",
           "published": "2025-12-24",
-          "summary": "Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"
+          "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis reflects on what the festive period was like as a player and manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+        },
+        {
+          "title": "'Always hungry, always brave' - why Man City want Semenyo",
+          "link": "https://www.bbc.com/sport/football/articles/c9qeryx8vn4o?at_medium=RSS&at_campaign=rss",
+          "published": "2025-12-24",
+          "summary": "Every transfer window, there is a player whose future becomes the defining saga of the month. This January, it looks set to be Bournemouth's Antoine Semenyo.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/962d9f00-e0b5-11f0-a5d4-dbc340b0ceeb.jpg"
         },
         {
           "title": "Why football at Christmas is a very British tradition",
@@ -67,48 +109,6 @@
           "published": "2025-12-24",
           "summary": "Mob football, Bank Holiday legislation and the strange tradition of too much football at Christmas.",
           "image": "https://ichef.bbci.co.uk/images/ic/480xn/p07xcfzj.jpg"
-        },
-        {
-          "title": "Afcon 'bringing hope' to Sudan amid civil war",
-          "link": "https://www.bbc.com/sport/football/articles/cy07z8373rzo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-24",
-          "summary": "Sudan's participation in the Africa Cup of Nations is \"bringing hope\" to the country amid its civil war, forward Abobaker Eisa says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4502/live/cf565ac0-e0b9-11f0-a5d4-dbc340b0ceeb.jpg"
-        },
-        {
-          "title": "Arsenal conceding late goals is not a defence issue - it's an attack one",
-          "link": "https://www.skysports.com/football/news/12040/13487234/arsenal-conceding-late-goals-is-not-a-defensive-problem-for-mikel-arteta-its-an-attacking-one",
-          "published": "2025-12-24",
-          "summary": "Another fright before Christmas. Arsenal never seem to do it the easy way.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-arsenal-goals_7118801.jpg?20251224104715"
-        },
-        {
-          "title": "'I know it's not a nice place to be' - Stokes rallies around under-fire Duckett",
-          "link": "https://www.skysports.com/cricket/news/12040/13487204/ben-duckett-england-captain-ben-stokes-pledges-support-for-under-fire-opener",
-          "published": "2025-12-24",
-          "summary": "England captain Ben Stokes has thrown a protective arm around his beleaguered side and pledged his support for under-fire opener Ben Duckett.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-ben-stokes-ben-duckett_7118719.jpg?20251224073643"
-        },
-        {
-          "title": "'We cannot make same mistakes' | Amorim on if Man Utd will make January signings",
-          "link": "https://www.skysports.com/watch/video/13487282/premier-league-ruben-amorim-on-if-manchester-united-will-make-january-signings",
-          "published": "2025-12-24",
-          "summary": "Manchester United's Ruben Amorim says they will only look to bring in signings during the January transfer window if they're convinced they'll improve the squad.",
-          "image": "https://e1.365dm.com/25/12/1920x1080/skysports-football-pl-united_7118908.jpg?20251224154606"
-        },
-        {
-          "title": "Kelly: Finding happiness after darkest of times",
-          "link": "https://www.skysports.com/football/news/12040/13487067/chloe-kelly-arsenal-and-england-lioness-on-finding-happiness-after-darkest-of-times",
-          "published": "2025-12-24",
-          "summary": "From a dramatic Transfer Deadline Day in January to success with England and Arsenal, 2025 has been a year of contrasts for Chloe Kelly, writes Anton Toloui...",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-chloe-kelly-arsenal_7117409.jpg?20251222112037"
-        },
-        {
-          "title": "Slot frustrated as Liverpool set to lose Isak for 'long time'",
-          "link": "https://www.bbc.com/sport/football/videos/cly5j3dplvdo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-23",
-          "summary": "Liverpool manager Arne Slot says he expects to lose Alexander Isak for \"a couple of months\" after the striker was injured in a tackle by Tottenham's Micky van de Ven - a challenge that Slot has called...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9568/live/115f4ca0-e002-11f0-a8dc-93c15fe68710.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Are we heading for a Littler vs Humphries showdown at Ally Pally?",
-          "link": "https://www.skysports.com/darts/news/12040/13487229/world-darts-championship-are-we-heading-for-a-luke-littler-vs-luke-humphries-final-and-why-are-so-many-seeds-tumbling-out-at-ally-pally",
-          "published": "2025-12-24",
-          "summary": "Are we heading for a Luke Littler vs Luke Humphries final at the World Darts Championship and why are so many seeds tumbling out at Ally Pally?",
-          "image": "https://e0.365dm.com/25/10/1920x1080/skysports-luke-littler-luke-humphries_7048934.png?20251012120631"
+          "title": "Littler 'expecting the worst' from Suljovic as styles expected to clash",
+          "link": "https://www.skysports.com/darts/news/12040/13487104/luke-littler-reigning-champion-expecting-the-worst-from-mensur-suljovic-in-third-round-of-world-darts-championship",
+          "published": "2025-12-26",
+          "summary": "Luke Littler says he's \"expecting the worst\" from Mensur Suljovic when they meet in the third round of the World Darts Championship on Saturday night.",
+          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-luke-littler-darts_7118509.jpg?20251223193026"
         },
         {
           "title": "Oxford sack Rowett after one win in 10 games",
@@ -169,15 +169,7 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [
-        {
-          "title": "Mozambique target historic first Afcon win in Morocco",
-          "link": "https://www.bbc.com/sport/football/articles/cwyp80jq4wgo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-24",
-          "summary": "Mozambique believe they can reach the knockout stage at the 2025 Africa Cup of Nations, according to former international Manuel Bucuane.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec84/live/92b873f0-daab-11f0-b2d6-8b03c56348b7.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -189,12 +181,12 @@
   },
   "standout_moments": [
     {
-      "moment": "EFL Quiz of the Year: Who has been breaking records in 2025?",
-      "link": "https://www.bbc.com/sport/football/articles/cvg177qp566o?at_medium=RSS&at_campaign=rss"
+      "moment": "'Picasso' of football Robertson dies aged 72",
+      "link": "https://www.bbc.com/sport/football/articles/cwywvy9yj9po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Mozambique target historic first Afcon win in Morocco",
-      "link": "https://www.bbc.com/sport/football/articles/cwyp80jq4wgo?at_medium=RSS&at_campaign=rss"
+      "moment": "EFL Quiz of the Year: Who has been breaking records in 2025?",
+      "link": "https://www.bbc.com/sport/football/articles/cvg177qp566o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Stunning Rogers double secures Villa win over Man Utd",
@@ -211,10 +203,6 @@
     {
       "moment": "Penalty king Jimenez equals record - who are the Premier League's best?",
       "link": "https://www.bbc.com/sport/football/articles/cwyg4k0kl9wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Kelly: Finding happiness after darkest of times",
-      "link": "https://www.skysports.com/football/news/12040/13487067/chloe-kelly-arsenal-and-england-lioness-on-finding-happiness-after-darkest-of-times"
     }
   ]
 }
