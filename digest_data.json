@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-01-01",
-  "week_ending": "January 01, 2026",
+  "generated_date": "2026-01-02",
+  "week_ending": "January 02, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Which men's footballers could be on the move in January?",
-          "link": "https://www.bbc.com/sport/football/articles/c5yx8jp4ndno?at_medium=RSS&at_campaign=rss",
+          "title": "'Best bargain' Kamara at heart of Aston Villa success",
+          "link": "https://www.bbc.com/sport/football/articles/czdg84m99vvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-02",
+          "summary": "Boubacar Kamara is Aston Villa's unassuming star and has quietly evolved into one of the best midfielders in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf77/live/f0418800-e63f-11f0-8786-db2fc8f3a075.jpg"
+        },
+        {
+          "title": "London City appoint Maestre as manager",
+          "link": "https://www.bbc.com/sport/football/articles/c4g35ev479do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-02",
+          "summary": "Women's Super League side London City Lionesses have appointed Eder Maestre as manager following the sacking of Jocelyn Precheur.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f4/live/93e13f40-e75e-11f0-9302-f3ab4dc3b713.jpg"
+        },
+        {
+          "title": "How Farke's 'rock solid' Leeds turned the corner",
+          "link": "https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-02",
+          "summary": "Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc03/live/ef5d3ca0-e76a-11f0-a8dc-93c15fe68710.jpg"
+        },
+        {
+          "title": "FREE STREAM: Good Morning Transfers LIVE!",
+          "link": "https://www.skysports.com/football/news/12040/13489527/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+          "published": "2026-01-02",
+          "summary": "",
+          "image": "https://e1.365dm.com/25/08/1920x1080/skysports-transfers-good-morning-transfers_7004245.jpg?20250829090301"
+        },
+        {
+          "title": "'We are not happy' - Man City fall behind Arsenal in title race",
+          "link": "https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-01",
-          "summary": "Antoine Semenyo is widely expected to complete a move from Bournemouth to Manchester City shortly, but which other Premier League players could be on the move in January?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/b1212540-e635-11f0-a76c-07ff70ccfd82.png"
+          "summary": "Pep Guardiola questioned whether it was only a two-horse Premier League title race, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5e/live/97d159a0-e768-11f0-aae2-2191c0e48a3b.jpg"
         },
         {
-          "title": "Who might be on move in January in WSL?",
-          "link": "https://www.bbc.com/sport/football/articles/c2dzd789185o?at_medium=RSS&at_campaign=rss",
+          "title": "'Heavy metal? It's not even aluminium foil football'",
+          "link": "https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-01",
-          "summary": "With the January transfer window opening in the Women's Super League, which players could be on the move and who is out of contract?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e407/live/d0630400-e644-11f0-8786-db2fc8f3a075.jpg"
+          "summary": "As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"
         },
         {
-          "title": "Eight men's footballers hoping for a big 2026",
-          "link": "https://www.bbc.com/sport/football/articles/c70rjq0x728o?at_medium=RSS&at_campaign=rss",
+          "title": "Rosenior leading contender for Chelsea job",
+          "link": "https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-01",
-          "summary": "BBC Sport looks at some of the players hoping for a big 2026 for various reasons.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6f0/live/ad22a9a0-e644-11f0-aae2-2191c0e48a3b.png"
+          "summary": "Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17a/live/085f12a0-e725-11f0-9d59-75d9bc66798b.jpg"
         },
         {
-          "title": "'Are you sure?' - Guardiola questions two-horse race",
-          "link": "https://www.bbc.com/sport/football/articles/c23rle944x8o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Pep Guardiola has questioned whether the Premier League title race this season is a two-horse race between his Manchester City side and leaders Arsenal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c6/live/35e32660-e64b-11f0-a14d-bdb5da8c32cf.jpg"
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd9/live/dcdd5dd0-e76a-11f0-aae2-2191c0e48a3b.jpg"
         },
         {
-          "title": "Everton wrongly denied penalty in Arsenal loss, says panel",
-          "link": "https://www.bbc.com/sport/football/articles/cz9vwvde2y0o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Everton should have been awarded a penalty in their 1-0 defeat by Arsenal, the Premier League's Key Match Incidents Panel has said.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73b1/live/a0aba350-e65f-11f0-a8f2-d9e8fba7dc3b.jpg"
+          "title": "Man City held by stubborn Sunderland in entertaining draw",
+          "link": "https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Manchester City fall four points behind Arsenal in the Premier League title race after being held to a goalless draw by Sunderland, who maintain their unbeaten home record.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e9/live/db08a630-e75c-11f0-aae2-2191c0e48a3b.jpg"
         },
         {
-          "title": "'It's all going right for Arsenal' - can they make it count this time?",
-          "link": "https://www.bbc.com/sport/football/articles/ce8r0dj8gj7o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Arsenal end 2025 with a statement win and clear at the top of the Premier League - can they make it count this time?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f80/live/ccbdf370-e5d9-11f0-b67b-690eb873de1b.jpg"
+          "title": "Leeds hold Liverpool to goalless draw at Anfield",
+          "link": "https://www.bbc.com/sport/football/videos/cp82ly9eg32o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Liverpool draw 0-0 with Leeds to start 2026 with their first goalless draw of Arne Slot's tenure at Anfield.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf4/live/7923f080-e74a-11f0-b67b-690eb873de1b.jpg"
         },
         {
-          "title": "Who was the best men's footballer in 2025?",
-          "link": "https://www.bbc.com/sport/football/articles/ckgm37r4z45o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "BBC Sport looks at some of the best players in the men's game over the course of the last 12 months.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2259/live/ebad1990-d1f8-11f0-a732-cbe19f3047f2.png"
+          "title": "Spurs draw on Frank's return to Brentford",
+          "link": "https://www.bbc.com/sport/football/videos/clyw52dly9zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Spurs are unable to produce a win at manager Thomas Frank's former club as they draw 0-0 against Brentford.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d4/live/f9f250a0-e75c-11f0-aae2-2191c0e48a3b.jpg"
         },
         {
-          "title": "Sackings, trophies & the long throw returns - your PL club's 2025 reviewed",
-          "link": "https://www.bbc.com/sport/football/articles/c0mp2xd0e0zo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Our Premier League fan writers give their assessment of the past 12 months.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c498/live/cd8b1d80-dcd0-11f0-a8dc-93c15fe68710.jpg"
+          "title": "Match of the Day",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002p279?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Highlights from the four Premier League matches played on New Year\u2019s Day.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mpqdsx.jpg"
         },
         {
-          "title": "Hojlund permanent Napoli move a 'formality'",
-          "link": "https://www.bbc.com/sport/football/articles/cj3v587l6l1o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Striker Rasmus Hojlund completing his permanent transfer from Manchester United to Napoli is a \"formality\", says Napoli sporting director Giovanni Manna.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c6e/live/f9549110-e64b-11f0-a14d-bdb5da8c32cf.jpg"
+          "title": "Silva calls for review of head injury treatment rules",
+          "link": "https://www.bbc.com/sport/football/articles/c8x9eg58njvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Fulham manager Marco Silva wants a review of the rules on head injury treatment after Jorge Cuenca is off the pitch during Crystal Palace's goal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/990c3350-e757-11f0-8141-5b4fd7943e4e.jpg"
         },
         {
-          "title": "How is the Premier League doing in the race for five Champions League places?",
-          "link": "https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae64/live/35f68880-e665-11f0-aae2-2191c0e48a3b.jpg"
+          "title": "'Defending Haaland with no fear' - How Sunderland stopped Man City",
+          "link": "https://www.bbc.com/sport/football/videos/c0mk08pvgvwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "Match of the Day Pundits Steph Houghton and Dion Dublin discuss the strength in Sunderland's defence to keep a clean sheet against Manchester City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef52/live/1e0dbd30-e767-11f0-a8dc-93c15fe68710.jpg"
         },
         {
-          "title": "Who will win what in 2026? Make your predictions",
-          "link": "https://www.bbc.com/sport/football/articles/cwy54ywengwo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Who will win the Premier League, Champions League and Ballon d'Or in 2026? It's time to make your predictions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce3/live/dea70f60-c53e-11f0-bf7b-db7c049674ab.png"
-        },
-        {
-          "title": "'That is divine!' - watch every PL goal of the month winner from 2025",
-          "link": "https://www.bbc.com/sport/football/videos/cq6vryz2163o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Watch every winner from Match of the Day's goal of the month votes in 2025, and a selection of December's best Premier League goals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6f/live/b75c9830-e5dc-11f0-aae2-2191c0e48a3b.jpg"
-        },
-        {
-          "title": "Gabriel & Saliba dominate as Arsenal make 'big statement'",
-          "link": "https://www.bbc.com/sport/football/videos/c4g3dz93xg1o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Match of the Day pundit Danny Murphy analyses how Gabriel Magalhaes and William Saliba dominated in defence for Arsenal in their 4-1 victory over Aston Villa.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e3/live/ee6bf560-e5d6-11f0-b67b-690eb873de1b.jpg"
-        },
-        {
-          "title": "Set-pieces 'becoming a problem' for Chelsea",
-          "link": "https://www.bbc.com/sport/football/videos/c07xeg5xeyro?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Match of the Day pundits Danny Murphy and Rob Green discuss where Chelsea fell short in defending set pieces in their 2-2 draw with Bournemouth.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58bb/live/3a03cb40-e5d4-11f0-b67b-690eb873de1b.jpg"
-        },
-        {
-          "title": "From Taylor Swift to football nirvana - Motherwell's long road to Celtic demolition",
-          "link": "https://www.bbc.com/sport/football/articles/c4gwe09p9l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "BBC Scotland charts the long road Motherwell have taken to get to the scintillating football which broke Celtic.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ec/live/780f05c0-e5e4-11f0-a8dc-93c15fe68710.png"
+          "title": "Why Maresca's tenure at Chelsea turned sour",
+          "link": "https://www.bbc.com/sport/football/videos/cqj2ry09950o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-01",
+          "summary": "BBC Sport reporter Nizaar Kinsella explains how Enzo Maresca's position as Chelsea's manager became \"untenable\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e6/live/eff2db00-e76c-11f0-b67b-690eb873de1b.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,32 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Hyam eyes Wrexham improvement before Rovers return",
-          "link": "https://www.bbc.com/sport/football/articles/c4gvdj0vjpyo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Dom Hyam heads back to Blackburn Rovers on New Year's Day believing Wrexham must improve their away form in 2026 if they are to earn a Championship play-off place.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb1/live/74147130-e634-11f0-a76c-07ff70ccfd82.jpg"
+          "title": "'No cure' - Searle opens up on eye condition ahead of semi-final with Littler",
+          "link": "https://www.skysports.com/darts/news/12040/13489334/ryan-searle-heavy-metal-opens-up-on-rare-eye-condition-ahead-of-world-darts-championship-semi-final-against-luke-littler",
+          "published": "2026-01-01",
+          "summary": "Ryan Searle has opened up on his rare eye conditions as he looks to shock Luke Littler in the semi-finals of the World Darts Championship.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-darts-ryan-searle_7123625.jpg?20260101132230"
         },
         {
-          "title": "'Absolutely pivotal' - Championship transfer window preview",
-          "link": "https://www.bbc.com/sport/football/articles/cx2pdwe0leqo?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-30",
-          "summary": "With the winter window opening on 1 January, BBC Sport correspondents assess the transfer needs of the 24 Championship clubs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b8/live/73ab4b70-e01b-11f0-a8dc-93c15fe68710.jpg"
+          "title": "Van Veen: I know I can give Littler a game, I have beaten him before",
+          "link": "https://www.skysports.com/watch/video/13489553/world-darts-championship-van-veen-i-can-give-littler-a-good-game",
+          "published": "2026-01-01",
+          "summary": "Gian van Veen is confident he has what it takes to give Luke Littler a good game, ahead of a potential meeting at the final of the World Darts Championships.",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-darts-la_7124176.jpg?20260101225942"
+        },
+        {
+          "title": "Littler plays down crowd criticism - 'I want them on my side again'",
+          "link": "https://www.skysports.com/darts/news/12040/13489319/world-darts-championship-luke-littler-plays-down-crowd-criticism-after-statement-win-to-make-semi-finals-i-want-them-on-my-side-again",
+          "published": "2026-01-01",
+          "summary": "Luke Littler admitted he wants the Alexandra Palace crowd 'on his side again' after breezing through to the World Darts Championship semi-finals.",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-luke-littler-darts_7124142.jpg?20260101220801"
+        },
+        {
+          "title": "Humphries dumped out of Worlds by Van Veen as Littler sails through to semis",
+          "link": "https://www.skysports.com/darts/news/12040/13489317/world-darts-championship-2026-luke-humphries-dumped-out-by-gian-van-veen-as-luke-littler-sails-through-to-semi-finals",
+          "published": "2026-01-01",
+          "summary": "Luke Humphries was dumped out of the World Darts Championship 2026 after a 5-1 loss to Gian van Veen as Luke Littler breezed to the semi-finals at Alexandra Palace.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-darts-gian-van-veen_7124088.jpg?20260101205147"
         }
       ],
       "highlights": [
@@ -147,22 +161,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "'Rangers right in mix' - can they now go level with Celtic?",
-          "link": "https://www.bbc.com/sport/football/articles/c0q4ewvkq44o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Danny Rohl has Rangers \"right in the mix\" for the Scottish Premiership title before Saturday's mouth-watering Old Firm derby at Celtic.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4563/live/6365c600-e5de-11f0-8615-a15c74edfbc8.jpg"
-        },
-        {
-          "title": "Are Nancy's 'uncomfortable' Celtic ready for Old Firm?",
-          "link": "https://www.bbc.com/sport/football/articles/c20z7ln44e3o?at_medium=RSS&at_campaign=rss",
-          "published": "2025-12-31",
-          "summary": "Celtic hirple into Saturday's second league Old Firm derby of the season knowing Rangers can move level on points with a win.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4411/live/7dbed280-e5e3-11f0-956e-47166c96f12f.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -196,16 +195,28 @@
   },
   "standout_moments": [
     {
-      "moment": "'Rangers right in mix' - can they now go level with Celtic?",
-      "link": "https://www.bbc.com/sport/football/articles/c0q4ewvkq44o?at_medium=RSS&at_campaign=rss"
+      "moment": "London City appoint Maestre as manager",
+      "link": "https://www.bbc.com/sport/football/articles/c4g35ev479do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Are Nancy's 'uncomfortable' Celtic ready for Old Firm?",
-      "link": "https://www.bbc.com/sport/football/articles/c20z7ln44e3o?at_medium=RSS&at_campaign=rss"
+      "moment": "Man City held by stubborn Sunderland in entertaining draw",
+      "link": "https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "We gave ourselves mountain to climb - Parker",
-      "link": "https://www.bbc.com/sport/football/videos/c8xd0kgw190o?at_medium=RSS&at_campaign=rss"
+      "moment": "How does Maresca's Chelsea record compare?",
+      "link": "https://www.bbc.com/sport/football/articles/c0q4zz75gd1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'Our standards are high' - Le Bris proud after Man City draw",
+      "link": "https://www.bbc.com/sport/football/videos/c78vdneydj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'No cure' - Searle opens up on eye condition ahead of semi-final with Littler",
+      "link": "https://www.skysports.com/darts/news/12040/13489334/ryan-searle-heavy-metal-opens-up-on-rare-eye-condition-ahead-of-world-darts-championship-semi-final-against-luke-littler"
+    },
+    {
+      "moment": "Man City lose ground on Arsenal with Sunderland draw",
+      "link": "https://www.skysports.com/football/sunderland-vs-manchester-city/report/531317"
     }
   ]
 }
