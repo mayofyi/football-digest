@@ -1,16 +1,86 @@
 {
-  "generated_date": "2026-01-12",
-  "week_ending": "January 12, 2026",
+  "generated_date": "2026-01-13",
+  "week_ending": "January 13, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Are fans being turned off multi-club ownership model?",
-          "link": "https://www.bbc.com/sport/football/articles/c4g49xrjnxno?at_medium=RSS&at_campaign=rss",
+          "title": "VAR errors increase: Each of the 13 mistakes so far this season",
+          "link": "https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"
+        },
+        {
+          "title": "BBC Women's Football Weekly",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mtlg0g?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Would you rather chase down the title or be chased?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
+        },
+        {
+          "title": "First openly gay male footballer accuses former club of homophobia",
+          "link": "https://www.skysports.com/football/news/12040/13493615/josh-cavallo-footballer-who-made-history-as-first-openly-gay-male-player-accuses-former-club-of-homophobia",
+          "published": "2026-01-13",
+          "summary": "Josh Cavallo, who made history in 2021 when he became the first man to come out as gay while playing elite football, has accused his former club Adelaide United of being homophobic.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-josh-cavallo-adelaide-united_7133911.jpg?20260113082712"
+        },
+        {
+          "title": "Coming soon to Old Trafford?! Boro's best team goals under Carrick!",
+          "link": "https://www.skysports.com/watch/video/13493400/manchester-united-how-michael-carrick-had-his-middlesbrough-team-playing",
+          "published": "2026-01-13",
+          "summary": "As Michael Carrick is strongly linked with the vacant managerial role at Manchester United, we look back at the best team goals Middlesbrough scored whilst the ex-midfielder was in charge.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-carrick-boro_7133440.jpg?20260112130926"
+        },
+        {
+          "title": "Why Alonso's reign is over at Real Madrid",
+          "link": "https://www.bbc.com/sport/football/articles/c3ed5x7d172o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-12",
-          "summary": "Strasbourg fans thought they had it good from being aligned with Chelsea. Then manager Liam Rosenior walked out mid-season to take charge of the Blues.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/32d13d10-ec8e-11f0-abc2-c92f19f0499a.jpg"
+          "summary": "After Xabi Alonso's departure as Real Madrid manager, Spanish football expert Guillem Balague looks into where it all went wrong.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c66/live/42664630-efea-11f0-b5f7-49f0357294ff.png"
+        },
+        {
+          "title": "Is Carrick the right man for Man Utd?",
+          "link": "https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "Michael Carrick is favourite to be named Man United's next interim manager. Simon Stone assesses if he is the right fit for the job.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b40/live/60b65640-efca-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Late goals add shine as Liverpool beat spirited Barnsley in FA Cup",
+          "link": "https://www.bbc.com/sport/football/videos/c4g0ry7mnqzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "Liverpool score two late goals to add shine to their FA Cup third round victory over spirited League One side Barnsley at Anfield.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9565/live/30e198d0-f001-11f0-b385-5f48925de19a.jpg"
+        },
+        {
+          "title": "Cascarino denied WSL debut because of earring",
+          "link": "https://www.bbc.com/sport/football/videos/c8rme8zjxxlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "West Ham's new signing Estelle Cascarino was denied a chance to make her Women's Super League debut because of an earring.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b527/live/c1efb950-eff3-11f0-b5f7-49f0357294ff.jpg"
+        },
+        {
+          "title": "Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win",
+          "link": "https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "Macclesfield manager John Rooney and defender Sam Heathcote talk to BBC Breakfast about their stunning FA Cup upset over holders Crystal Palace.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5e/live/accf7e00-efaf-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "'I'd take him back in a heartbeat' - which players return to haunt old clubs?",
+          "link": "https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"
+        },
+        {
+          "title": "Manager Alonso leaves Real Madrid as Arbeloa takes charge",
+          "link": "https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "Xabi Alonso leaves his position as Real Madrid manager after less than eight months in charge as former Liverpool team-mate Alvaro Arbeloa is appointed as replacement.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dfe/live/cdd95a70-efdd-11f0-be9a-5d00009628a6.jpg"
         },
         {
           "title": "Watch every angle of Gordon's save of the season contender",
@@ -20,95 +90,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "FREE STREAM: Good Morning Transfers",
-          "link": "https://www.skysports.com/football/news/12040/13489527/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+          "title": "Are fans being turned off multi-club ownership model?",
+          "link": "https://www.bbc.com/sport/football/articles/c4g49xrjnxno?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-12",
-          "summary": "",
-          "image": "https://e1.365dm.com/25/08/1920x1080/skysports-transfers-good-morning-transfers_7004245.jpg?20250829090301"
+          "summary": "Strasbourg fans thought they had it good from being aligned with Chelsea. Then manager Liam Rosenior walked out mid-season to take charge of the Blues.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/32d13d10-ec8e-11f0-abc2-c92f19f0499a.jpg"
         },
         {
-          "title": "Maye leads Patriots past Chargers to claim first playoff win",
-          "link": "https://www.skysports.com/nfl/news/12040/13493271/nfl-playoffs-new-england-patriots-beat-los-angeles-chargers-16-3-as-drake-maye-claims-first-post-season-victory",
+          "title": "Simeone apologises to Real Madrid's Vinicius Jr",
+          "link": "https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-12",
-          "summary": "Drake Maye threw a touchdown pass to Hunter Henry in the fourth quarter as the New England Patriots defense roughed up Justin Herbert in a 16-3 AFC Wild Card playoff victory over the Los Angeles Charg...",
-          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-drake-maye-new-england_7133091.jpg?20260112062734"
+          "summary": "Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"
         },
         {
-          "title": "Goals, shocks and fan power on a record-breaking FA Cup weekend",
-          "link": "https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "If anyone needed convincing that the FA Cup still matters, this season's record-breaking third round provided all the necessary evidence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6be/live/46e871d0-ef0c-11f0-bff1-0379204eb6d3.jpg"
-        },
-        {
-          "title": "'Fragile' Man Utd set for fewest games in season since 1914-15",
-          "link": "https://www.bbc.com/sport/football/articles/cly53k69xj1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Manchester United will prepare for next Saturday's game with Manchester City with no manager in place to lift their \"fragile\" confidence.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1f/live/f94fc740-ef2c-11f0-ab23-bf37baa8f655.png"
-        },
-        {
-          "title": "'Big personality' Martinelli goes from 'idiot' to hat-trick hero",
-          "link": "https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Gabriel Martinelli was branded an \"idiot\" a few days ago - but showed great personality to respond with an FA Cup hat-trick, according to Arsenal manager Mikel Arteta.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b8945db0-ef18-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "'Clean sheet mentality' key in Rohl's Rangers revival",
-          "link": "https://www.bbc.com/sport/football/articles/cvgp7l2142xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Another win and another clean sheet for Rangers as they stay on the coattails of Scottish Premiership leaders Hearts, with manager Danny Rohl hailing the team's \"outstanding development\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eab/live/7048e1f0-ef42-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Arsenal beat Portsmouth thanks to Martinelli hat-trick",
-          "link": "https://www.bbc.com/sport/football/videos/cq5yw5d6vppo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Gabriel Martinelli scores the first hat-trick of his senior career as an Arsenal side showing 10 changes come from a goal down to beat Championship side Portsmouth 4-1 in the FA Cup third round.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cf/live/434377f0-ef07-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Castellanos scores in extra time as West Ham edge past QPR",
-          "link": "https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Valentin 'Taty' Castellanos scores his first goal for West Ham United as they beat Queens Park Rangers in extra time and progress to the fourth round of the FA Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7755/live/3118f930-ef14-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Man City beat Everton at home to strengthen grip on WSL title",
-          "link": "https://www.bbc.com/sport/football/videos/c2k9vzj9lnwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Manchester City consolidate their place at the top of the Women's Super League table with a convincing win over Everton.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643c/live/67030050-eefa-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Are 'efficient' Chelsea ready to chase down titles?",
-          "link": "https://www.bbc.com/sport/football/articles/c0jvzjj940do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Having won the last six Women's Super League titles, Chelsea have not had to chase for a while. But they are up for the challenge this time.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da81/live/1b632a70-ef19-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Daly and Hanson spark Villa comeback against Brighton",
-          "link": "https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Aston Villa score twice in two second-half minutes as they come from behind to beat Brighton in the Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165c/live/4f7109a0-ef22-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Arsenal set pieces punish Portsmouth in FA Cup third round",
-          "link": "https://www.bbc.com/sport/football/videos/cn42qzkzq9eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Match of the Day pundits Dion Dublin and Phil Jones look at how Portsmouth were punished by Arsenal's set pieces as the Gunners secure comfortable 4-1 win to progress to the fourth round of the FA Cup...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc0/live/f3df6090-ef45-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Chelsea kick off new year by thrashing West Ham",
-          "link": "https://www.bbc.com/sport/football/videos/cy05x8nglzyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Chelsea begin the new year with an impressive victory over West Ham in visiting manager Rita Guarino's first match in the Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a73/live/23913a70-ef14-11f0-b385-5f48925de19a.jpg"
+          "title": "A 'new sport' with 'room to improve' - how is Baller League doing?",
+          "link": "https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-12",
+          "summary": "After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/1a3e32a0-ef3e-11f0-8b31-619a92b39215.jpg"
         }
       ],
       "highlights": [
@@ -135,27 +135,6 @@
           "published": "2026-01-11",
           "summary": "James Justin scored his first goal for Leeds United since joining from Leicester City in the summer, in a second-half comeback after Derby County took the lead thanks to a Ben Brereton Diaz strike.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/28f21820-eef8-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "West Brom fight back to beat Swansea on penalties",
-          "link": "https://www.bbc.com/sport/football/videos/c9vxevp198jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "Managerless West Bromwich Albion end a run of 10 successive away defeats as they come from behind to win their FA Cup third-round tie at Championship rivals Swansea City on penalties.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa1/live/0d36c740-ef19-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Mansfield stun Sheff Utd as Norwich, West Brom, Hull advance in FA Cup",
-          "link": "https://www.skysports.com/football/news/12040/13492600/mansfield-stun-sheffield-united-as-norwich-west-brom-and-hull-advance-into-fa-cup-fourth-round",
-          "published": "2026-01-11",
-          "summary": "Two goals from Louis Reed against his former club helped Mansfield to a shock 4-3 victory at Sheffield United in the FA Cup.",
-          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-fa-cup-sheffield-united_7132694.jpg?20260111155238"
-        },
-        {
-          "title": "Second-half turnaround helps Leeds overcome Derby in FA Cup",
-          "link": "https://www.skysports.com/football/derby-county-vs-leeds-united/report/550858",
-          "published": "2026-01-11",
-          "summary": "Two goals in four second-half minutes helped a much-changed Leeds United come from behind to beat Derby County 3-1 at Pride Park to book their place in the FA Cup fourth round.",
-          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-fa-cup-derby-leeds_7132595.jpg?20260111132647"
         }
       ],
       "highlights": [
@@ -210,12 +189,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Goals, shocks and fan power on a record-breaking FA Cup weekend",
-      "link": "https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&at_campaign=rss"
+      "moment": "Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win",
+      "link": "https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'Big personality' Martinelli goes from 'idiot' to hat-trick hero",
-      "link": "https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&at_campaign=rss"
+      "moment": "'I'd take him back in a heartbeat' - which players return to haunt old clubs?",
+      "link": "https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Manager Alonso leaves Real Madrid as Arbeloa takes charge",
+      "link": "https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Arsenal beat Portsmouth thanks to Martinelli hat-trick",
@@ -234,20 +217,16 @@
       "link": "https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Own goal gives Spurs narrow home win over Leicester",
-      "link": "https://www.bbc.com/sport/football/videos/c9314dprez0o?at_medium=RSS&at_campaign=rss"
+      "moment": "Goals, shocks and fan power on a record-breaking FA Cup weekend",
+      "link": "https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "How does Amorim's record compare to other Man Utd managers?",
-      "link": "https://www.bbc.com/sport/football/articles/cx2knxv6jngo?at_medium=RSS&at_campaign=rss"
+      "moment": "'Big personality' Martinelli goes from 'idiot' to hat-trick hero",
+      "link": "https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Mansfield stun Sheff Utd as Norwich, West Brom, Hull advance in FA Cup",
-      "link": "https://www.skysports.com/football/news/12040/13492600/mansfield-stun-sheffield-united-as-norwich-west-brom-and-hull-advance-into-fa-cup-fourth-round"
-    },
-    {
-      "moment": "Second-half turnaround helps Leeds overcome Derby in FA Cup",
-      "link": "https://www.skysports.com/football/derby-county-vs-leeds-united/report/550858"
+      "moment": "Liverpool see off Barnsley to set up FA Cup tie with Brighton",
+      "link": "https://www.skysports.com/football/news/12040/13492595/liverpool-4-1-barnsley-dominik-szoboszlai-scores-stunner-as-reds-beat-league-one-side-to-set-up-brighton-tie"
     }
   ]
 }
