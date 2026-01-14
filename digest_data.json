@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-01-13",
-  "week_ending": "January 13, 2026",
+  "generated_date": "2026-01-14",
+  "week_ending": "January 14, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Why has no English boss won Premier League -  and who could be first?",
+          "link": "https://www.bbc.com/sport/football/articles/cp37k9ql449o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "Why has an English manager not won the Premier League? Chief football writer Phil McNulty explores who could make history.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/e2b22580-f06e-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Could Arsenal win Premier League without a regular goalscorer?",
+          "link": "https://www.bbc.com/sport/football/articles/cn56k7dpw7ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "No team has ever won the Premier League title without having a player in the top 10 goalscorers, but could Arsenal change that?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/61a58fd0-f09c-11f0-95c2-2f43243b954d.jpg"
+        },
+        {
+          "title": "Why Osimhen has become 'king of Nigerian football'",
+          "link": "https://www.bbc.com/sport/football/articles/ce9yxjr98pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "Nigeria face a huge semi-final against Africa Cup of Nations hosts and favourites Morocco on Wednesday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/d7b29840-f06e-11f0-a8a9-7f10ab32742b.jpg"
+        },
+        {
+          "title": "What is it like to be a caretaker manager?",
+          "link": "https://www.bbc.com/sport/football/articles/cx2w783d9ezo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "BBC Sport's Ask Me Anything team explains what life is like as a caretaker boss after Michael Carrick's appointment at Manchester United, with Neil Warnock and Phil Brown detailing their experiences.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990e/live/b958a680-f075-11f0-a422-4ba8a094a8fa.png"
+        },
+        {
+          "title": "Afcon quiz: Name every Africa Cup of Nations winner",
+          "link": "https://www.bbc.com/sport/football/articles/c5yql3n8v5qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "With the Africa Cup of Nations kicking off on Sunday, 21 December, can you name every tournament winner?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2af/live/dba94040-db59-11f0-b67b-690eb873de1b.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mtv06q?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-14",
+          "summary": "Kelly Cates chats with Dwight Gayle, Pat Nevin and Ian Dennis after Carrick's appointment",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mtv07p.jpg"
+        },
+        {
+          "title": "'The game has gone' - a bad night for VAR in semi-final",
+          "link": "https://www.bbc.com/sport/football/articles/czdqvydez71o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Manchester City's 2-0 win over Newcastle in the first leg of the Carabao Cup semi-final was overshadowed by a contentious decision to disallow a goal from Antoine Semenyo in the second half.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e784/live/fbee2bd0-f0cc-11f0-bcee-b1804f3a177a.jpg"
+        },
+        {
+          "title": "Hasty or a shrewd move? Madrid in shock at swift Arbeloa appointment",
+          "link": "https://www.bbc.com/sport/football/articles/cz7yle2e3d9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Many Real Madrid fans are in shock at Alvaro Arbeloa's appointment as manager - is it a hasty move or a shrewd decision?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2e/live/9ab62b80-f0a7-11f0-b546-d96774f73259.jpg"
+        },
+        {
+          "title": "Is Carrick the right man for Man Utd?",
+          "link": "https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Michael Carrick is appointed as Manchester United's interim manager. Simon Stone assesses if he is the right fit for the job.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b40/live/60b65640-efca-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Rosenior to talk to Sterling and Disasi about Chelsea exile",
+          "link": "https://www.bbc.com/sport/football/articles/c5y42lg2w8lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "New Chelsea manager has pledged to speak to Raheem Sterling and Axel Disasi, who were left in limbo by the previous boss.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d29/live/bde6da10-efd9-11f0-be9a-5d00009628a6.jpg"
+        },
+        {
+          "title": "Salah-Mane rivalry renewed in Afcon semi-finals",
+          "link": "https://www.bbc.com/sport/football/articles/c9dvg5lyz02o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Mohamed Salah's Egypt will face Senegal in the Afcon 2025 semi-finals, offering the chance of revenge against his old Liverpool team-mate Sadio Mane.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0536/live/ce2f7960-f090-11f0-b385-5f48925de19a.png"
+        },
+        {
+          "title": "Rodri and Cisse star in best goals of the FA Cup third round",
+          "link": "https://www.bbc.com/sport/football/videos/c62vnmyj6vmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Watch the best goals from across the FA Cup third-round weekend, including Isaac Buckley-Ricketts' stunner for Macclesfield FC.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6e/live/4dc90cb0-ef27-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Gabon's government lifts sanctions on team and Aubameyang",
+          "link": "https://www.bbc.com/sport/football/articles/c07xdzdlg4mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Gabon's government lifts the sanctions it imposed on the national team and striker Pierre-Emerick Aubameyang after their exit from Afcon 2025.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a9/live/166b7f70-f0a1-11f0-85ea-637af9691683.jpg"
+        },
+        {
+          "title": "Football fan died after being targeted by 'predatory' gambling sites",
+          "link": "https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"
+        },
         {
           "title": "VAR errors increase: Each of the 13 mistakes so far this season",
           "link": "https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-13",
           "summary": "The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"
-        },
-        {
-          "title": "BBC Women's Football Weekly",
-          "link": "https://www.bbc.co.uk/sounds/play/p0mtlg0g?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-13",
-          "summary": "Would you rather chase down the title or be chased?",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-        },
-        {
-          "title": "First openly gay male footballer accuses former club of homophobia",
-          "link": "https://www.skysports.com/football/news/12040/13493615/josh-cavallo-footballer-who-made-history-as-first-openly-gay-male-player-accuses-former-club-of-homophobia",
-          "published": "2026-01-13",
-          "summary": "Josh Cavallo, who made history in 2021 when he became the first man to come out as gay while playing elite football, has accused his former club Adelaide United of being homophobic.",
-          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-josh-cavallo-adelaide-united_7133911.jpg?20260113082712"
-        },
-        {
-          "title": "Coming soon to Old Trafford?! Boro's best team goals under Carrick!",
-          "link": "https://www.skysports.com/watch/video/13493400/manchester-united-how-michael-carrick-had-his-middlesbrough-team-playing",
-          "published": "2026-01-13",
-          "summary": "As Michael Carrick is strongly linked with the vacant managerial role at Manchester United, we look back at the best team goals Middlesbrough scored whilst the ex-midfielder was in charge.",
-          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-carrick-boro_7133440.jpg?20260112130926"
-        },
-        {
-          "title": "Why Alonso's reign is over at Real Madrid",
-          "link": "https://www.bbc.com/sport/football/articles/c3ed5x7d172o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "After Xabi Alonso's departure as Real Madrid manager, Spanish football expert Guillem Balague looks into where it all went wrong.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c66/live/42664630-efea-11f0-b5f7-49f0357294ff.png"
-        },
-        {
-          "title": "Is Carrick the right man for Man Utd?",
-          "link": "https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Michael Carrick is favourite to be named Man United's next interim manager. Simon Stone assesses if he is the right fit for the job.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b40/live/60b65640-efca-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Late goals add shine as Liverpool beat spirited Barnsley in FA Cup",
-          "link": "https://www.bbc.com/sport/football/videos/c4g0ry7mnqzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Liverpool score two late goals to add shine to their FA Cup third round victory over spirited League One side Barnsley at Anfield.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9565/live/30e198d0-f001-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Cascarino denied WSL debut because of earring",
-          "link": "https://www.bbc.com/sport/football/videos/c8rme8zjxxlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "West Ham's new signing Estelle Cascarino was denied a chance to make her Women's Super League debut because of an earring.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b527/live/c1efb950-eff3-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win",
-          "link": "https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Macclesfield manager John Rooney and defender Sam Heathcote talk to BBC Breakfast about their stunning FA Cup upset over holders Crystal Palace.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5e/live/accf7e00-efaf-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "'I'd take him back in a heartbeat' - which players return to haunt old clubs?",
-          "link": "https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"
-        },
-        {
-          "title": "Manager Alonso leaves Real Madrid as Arbeloa takes charge",
-          "link": "https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Xabi Alonso leaves his position as Real Madrid manager after less than eight months in charge as former Liverpool team-mate Alvaro Arbeloa is appointed as replacement.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dfe/live/cdd95a70-efdd-11f0-be9a-5d00009628a6.jpg"
-        },
-        {
-          "title": "Watch every angle of Gordon's save of the season contender",
-          "link": "https://www.bbc.com/sport/videos/c5y5xqw06y6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Watch Hearts goalkeeper Craig Gordon's impressive late save in his side's 1-0 win at Dundee from different angles.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Are fans being turned off multi-club ownership model?",
-          "link": "https://www.bbc.com/sport/football/articles/c4g49xrjnxno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Strasbourg fans thought they had it good from being aligned with Chelsea. Then manager Liam Rosenior walked out mid-season to take charge of the Blues.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/32d13d10-ec8e-11f0-abc2-c92f19f0499a.jpg"
-        },
-        {
-          "title": "Simeone apologises to Real Madrid's Vinicius Jr",
-          "link": "https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"
-        },
-        {
-          "title": "A 'new sport' with 'room to improve' - how is Baller League doing?",
-          "link": "https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/1a3e32a0-ef3e-11f0-8b31-619a92b39215.jpg"
         }
       ],
       "highlights": [
@@ -177,7 +177,22 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Raducanu fights back in Hobart to win first match since September",
+          "link": "https://www.skysports.com/tennis/news/12040/13494022/emma-raducanu-british-no-1-fights-back-in-hobart-to-win-first-match-since-september-beating-camila-osorio",
+          "published": "2026-01-14",
+          "summary": "Emma Raducanu earned her first victory since September after fighting back to beat Camila Osorio in straight sets in the first round of the Hobart International.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-emma-raducanu-tennis_7134360.jpg?20260113171521"
+        },
+        {
+          "title": "Eritrea included in Afcon 2027 preliminary qualifying",
+          "link": "https://www.bbc.com/sport/football/articles/c4g0dx44nego?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-13",
+          "summary": "Eritrea are included in the preliminary qualifying round draw for the 2027 Africa Cup of Nations despite being unranked by world governing body Fifa.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d19/live/4e5c7d50-f08b-11f0-92ac-9f1b3a47bd73.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -189,16 +204,16 @@
   },
   "standout_moments": [
     {
+      "moment": "Hasty or a shrewd move? Madrid in shock at swift Arbeloa appointment",
+      "link": "https://www.bbc.com/sport/football/articles/cz7yle2e3d9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Is Carrick the right man for Man Utd?",
+      "link": "https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win",
       "link": "https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'I'd take him back in a heartbeat' - which players return to haunt old clubs?",
-      "link": "https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Manager Alonso leaves Real Madrid as Arbeloa takes charge",
-      "link": "https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Arsenal beat Portsmouth thanks to Martinelli hat-trick",
@@ -213,20 +228,12 @@
       "link": "https://www.bbc.com/sport/football/videos/cvgn7g5100zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Daly and Hanson spark Villa comeback against Brighton",
-      "link": "https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo?at_medium=RSS&at_campaign=rss"
+      "moment": "'I'd take him back in a heartbeat' - which players return to haunt old clubs?",
+      "link": "https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Goals, shocks and fan power on a record-breaking FA Cup weekend",
-      "link": "https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'Big personality' Martinelli goes from 'idiot' to hat-trick hero",
-      "link": "https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Liverpool see off Barnsley to set up FA Cup tie with Brighton",
-      "link": "https://www.skysports.com/football/news/12040/13492595/liverpool-4-1-barnsley-dominik-szoboszlai-scores-stunner-as-reds-beat-league-one-side-to-set-up-brighton-tie"
+      "moment": "Manager Alonso leaves Real Madrid as Arbeloa takes charge",
+      "link": "https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
