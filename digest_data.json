@@ -1,30 +1,65 @@
 {
-  "generated_date": "2026-01-16",
-  "week_ending": "January 16, 2026",
+  "generated_date": "2026-01-17",
+  "week_ending": "January 17, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Roma sign forward Malen from Aston Villa",
-          "link": "https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-16",
-          "summary": "Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"
+          "title": "When caretaker Carrick's Man Utd beat Arsenal",
+          "link": "https://www.bbc.com/sport/football/videos/clyz1vv00dyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-17",
+          "summary": "BBC Sport looks back on Michael Carrick's last match as caretaker boss for Manchester United, a win against Arsenal in 2021.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e955/live/549c6200-f330-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "From Fiji to Latvia - are cross-border leagues the future?",
-          "link": "https://www.bbc.com/sport/football/articles/cly5wy081y3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-16",
-          "summary": "The OFC Professional League kicks off this week and a Baltic League has been proposed, so is there a future for cross-border football competitions?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f10/live/67f9b630-ef17-11f0-8189-e99395d44bc9.jpg"
+          "title": "All the goals as Rangers blow away Annan in Scottish Cup",
+          "link": "https://www.bbc.com/sport/videos/c62vlznyzlzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-17",
+          "summary": "Watch highlights as Rangers advance in the Scottish Cup by beating Annan Athletic.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da15/live/23b19e50-f333-11f0-b5f7-49f0357294ff.jpg"
         },
         {
-          "title": "Should you keep or sell Semenyo? FPL talking point",
-          "link": "https://www.bbc.com/sport/football/articles/cj0nyq9q717o?at_medium=RSS&at_campaign=rss",
+          "title": "'No panic buy' - Guehi would cap \u00a3414m rebuild as Man City up title ante",
+          "link": "https://www.bbc.com/sport/football/articles/cwywey6yyzlo?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-16",
-          "summary": "Antoine Semenyo has made a fantastic start to his career at Manchester City with two goals in as many games - so should he stay in your FPL team?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee44/live/e97f56c0-f1fa-11f0-a2ce-b77b236ada53.jpg"
+          "summary": "Manchester City have upped the ante in the Premier League title race by flexing their muscles in the January transfer window.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7775/live/07873460-f306-11f0-b2ab-f70ba525289e.png"
+        },
+        {
+          "title": "The dramatic 24 hours that sealed Guehi and Glasner's futures",
+          "link": "https://www.bbc.com/sport/football/articles/cvgpvgzl377o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "BBC Sport looks at a dramatic 24 hours for Crystal Palace as captain Marc Guehi agrees to join Manchester City and manager Oliver Glasner confirms he is leaving in the summer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8779/live/38e79810-f315-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Liverpool keeper gets six-game ban after racism claim",
+          "link": "https://www.bbc.com/sport/football/articles/c0jv9xlzldpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Liverpool goalkeeper Rafaela Borggrafe receives a six-game ban for using discriminatory language towards a team-mate.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f8/live/d5cbe3a0-f2ef-11f0-9a08-61d9f795eeed.jpg"
+        },
+        {
+          "title": "Sutton's predictions v WWE superstar Drew McIntyre",
+          "link": "https://www.bbc.com/sport/football/articles/c1dkg0d9z3do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "BBC Sport football expert Chris Sutton takes on WWE superstar Drew McIntyre - and AI - with his predictions for this week's Premier League fixtures.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/8103d0e0-f203-11f0-b385-5f48925de19a.png"
+        },
+        {
+          "title": "Senegal stand in way of Morocco's 50-year wait for Afcon glory",
+          "link": "https://www.bbc.com/sport/football/articles/cevn22grxgzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "The game in Rabat (19:00 GMT) pits the continent's top two teams against one another, with the North Africans ranked 11th in the world and the Teranga Lions eight places below them.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136b/live/e3ed02a0-f233-11f0-a422-4ba8a094a8fa.png"
+        },
+        {
+          "title": "Glasner to leave Palace as Guehi agrees Man City deal",
+          "link": "https://www.bbc.com/sport/football/videos/cpv70v07ry1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Crystal Palace manager Oliver Glasner says he will not extend his contract at the end of the season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70f/live/4271f0a0-f2f8-11f0-b385-5f48925de19a.jpg"
         },
         {
           "title": "Caretaker boss Carrick's best Man Utd moments",
@@ -34,81 +69,46 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a42a/live/021daa70-f17d-11f0-b5f7-49f0357294ff.jpg"
         },
         {
-          "title": "How to follow the Premier League on the BBC this week",
-          "link": "https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss",
+          "title": "Boots from Easter Bunny and teenage parties - Glasner tells his story",
+          "link": "https://www.bbc.com/sport/football/articles/c9vxdy2np80o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-16",
-          "summary": "BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd1/live/54812390-f098-11f0-b385-5f48925de19a.jpg"
+          "summary": "Crystal Palace boss Oliver Glasner sits down with Kelly Somers to talk about his background and career in football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636c/live/5281e940-f2ea-11f0-b385-5f48925de19a.jpg"
         },
         {
-          "title": "Cardiff boss Barry-Murphy: Hopefully I can deliver for Vincent Tan, or else...",
-          "link": "https://www.skysports.com/football/news/12040/13494631/brian-barry-murphy-interview-cardiff-boss-discusses-how-he-navigated-team-to-top-of-league-one-without-raft-of-signings",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mvh0y9?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-16",
-          "summary": "The January transfer window is open and clubs up and down the land are looking for new players. But it's all quiet at Cardiff.",
-          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-efl-league-one-cardiff_7108226.jpg?20251212132654"
+          "summary": "Oasis star Noel Gallagher joins Darren Fletcher to chat Man City and their new signings.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mvh50f.jpg"
         },
         {
-          "title": "After agony in Morocco, what's next for Salah with club and country?",
-          "link": "https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"
+          "title": "'To enjoy what I'm doing' - what Glasner wants in his career",
+          "link": "https://www.bbc.com/sport/football/videos/cew8ywkg74po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Crystal Palace manager Oliver Glasner sat down for the Football Interview just over a week before announcing he will leave.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/275c/live/8d42f410-f2f5-11f0-b5f7-49f0357294ff.jpg"
         },
         {
-          "title": "Rejections, depression & promise to his mum - Thiago's route to top",
-          "link": "https://www.bbc.com/sport/football/articles/c07xpzyv1yno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Igor Thiago's route to the Premier League has been far from straightforward - BBC Sport charts the rise of Brentford's record-breaking Brazilian striker.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ff/live/831069c0-f203-11f0-b385-5f48925de19a.png"
+          "title": "What will Carrick's Man Utd look like?",
+          "link": "https://www.bbc.com/sport/football/videos/crlezjxe8jeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "BBC football tactics correspondent Umir Irfan looks at what Michael Carrick's appointment as Manchester United's interim head coach will mean for their set-up on the pitch.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/705d/live/322c1c00-f237-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "Managers' authority is being eroded - Southgate",
-          "link": "https://www.bbc.com/sport/football/articles/cgk8rgpgkpyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Football managers' authority is being steadily eroded, Sir Gareth Southgate says, but the switch to head coaching still brings a \"significant melting pot of problems and pressure\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b05/live/799abb60-f204-11f0-af44-156539fce2f7.jpg"
+          "title": "From Fiji to Latvia - are cross-border leagues the future?",
+          "link": "https://www.bbc.com/sport/football/articles/cly5wy081y3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "The OFC Professional League kicks off this week and a Baltic League has been proposed, so is there a future for cross-border football competitions?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f10/live/67f9b630-ef17-11f0-8189-e99395d44bc9.jpg"
         },
         {
-          "title": "Robertson keen to stay at Liverpool but 'wants to play football'",
-          "link": "https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Liverpool's Andy Robertson on contract talks, a \"stressful summer\" and why he \"wants to play\" rather than sit on the bench.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "'He knows what he wants' - Chalobah on new manager Rosenior",
-          "link": "https://www.bbc.com/sport/football/videos/cy9yxwd4p8no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Chelsea defender Trevoh Chalobah says new manager Liam Rosenior has asked the squad to \"trust in themselves\" and to \"rely on each other\" following his appointment at Stamford Bridge.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a3b/live/09d178d0-f161-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "'Cut me a little slack' - O'Neill calls for patience on Celtic transfers",
-          "link": "https://www.bbc.com/sport/football/articles/cn0kz04107do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "The Celtic manager Martin O'Neill says \"cut me a little bit of slack\" as the club work on bringing in new faces this month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae1/live/ea04d080-f1a4-11f0-9b61-4569884e5694.jpg"
-        },
-        {
-          "title": "What does xG predict for the rest of the season?",
-          "link": "https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"
-        },
-        {
-          "title": "Offside or not? Man City, Arsenal and VAR inconsistencies",
-          "link": "https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Manchester City had their goal disallowed, while Arsenal's was allowed to stand. But the VAR should not look to be consistent with a previous bad decision.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3283/live/00b40a10-f206-11f0-af44-156539fce2f7.jpg"
-        },
-        {
-          "title": "Aberdeen manager shortlist 'in a few more days'",
-          "link": "https://www.bbc.com/sport/football/articles/c4grjj8wd58o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Aberdeen will be closer to a managerial shortlist \"in a few more days\", says sporting director Lutz Pfannenstiel.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e67/live/09e5c640-f234-11f0-b0c7-71b671ae4961.jpg"
+          "title": "Roma sign forward Malen from Aston Villa",
+          "link": "https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Watch best of Saturday's weather-affected SPFL action",
-          "link": "https://www.bbc.com/sport/football/videos/c3ve53qek4eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-12",
-          "summary": "Watch the best of the action from Saturday's weather-affected Scottish Championship, League 1 and League 2 programme.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
+          "title": "Leicester hold discussions with Como over Lehmann",
+          "link": "https://www.bbc.com/sport/football/articles/cvgr935p08no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Leicester City have held talks with FC Como in an attempt to sign Switzerland forward Alisha Lehmann this month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6208/live/04ef4da0-f315-11f0-bc8b-a34ab510ca4e.jpg"
         },
         {
-          "title": "Leeds avoid upset with second-half comeback against Derby",
-          "link": "https://www.bbc.com/sport/football/videos/c87rp7g4pg2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-11",
-          "summary": "James Justin scored his first goal for Leeds United since joining from Leicester City in the summer, in a second-half comeback after Derby County took the lead thanks to a Ben Brereton Diaz strike.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/28f21820-eef8-11f0-b385-5f48925de19a.jpg"
+          "title": "Bristol City & Millwall sanctioned for mass brawl",
+          "link": "https://www.bbc.com/sport/football/articles/cz6y0qvj58do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Bristol City and Millwall are fined and players from both sides banned after the FA imposes further punishments following a mass brawl at the end of their Championship meeting last month.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/1964ec50-f2f1-11f0-9a08-61d9f795eeed.jpg"
+        },
+        {
+          "title": "West Brom make impressive comeback... but Boro snatch late winner!",
+          "link": "https://www.skysports.com/watch/video/13495202/west-brom-2-3-middlesbrough-championship-highlights",
+          "published": "2026-01-16",
+          "summary": "Highlights of the Sky Bet Championship match between West Bromwich Albion and Middlesbrough.",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-middlesbrough-boro_7137592.jpg?20260116221156"
         }
       ],
       "highlights": [
@@ -149,18 +156,11 @@
       "name": "League One",
       "articles": [
         {
-          "title": "Wrexham's O'Connor fined for FA betting offences",
-          "link": "https://www.bbc.com/sport/football/articles/cdxjy54k2kzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Wrexham's Tom O'Connor - currently on loan at Peterborough United - has been fined for breaches of the Football Association's betting rules.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba0e/live/f15ed0c0-f225-11f0-a33d-037f0064a0e8.jpg"
-        },
-        {
-          "title": "Morocco set for derby with Algeria in Wafcon 2026 group",
-          "link": "https://www.bbc.com/sport/football/articles/cg7yj2pe9e4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "Morocco are handed a North African derby with Algeria and holders Nigeria will face Zambia in the group stage at the 2026 Women's Africa Cup of Nations.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"
+          "title": "Van Gerwen wins Bahrain title as Littler's 21-match winning run is ended",
+          "link": "https://www.skysports.com/darts/news/12040/13495058/bahrain-darts-masters-michael-van-gerwen-wins-title-against-gian-van-veen-as-luke-littlers-winning-streak-is-ended",
+          "published": "2026-01-16",
+          "summary": "Michael van Gerwen won the Dutch derby against Gian van Veen to win the Bahrain Darts Masters as Luke Littler's 21-match winning run came to an end.",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-michael-van-gerwen_7137496.jpg?20260116201743"
         }
       ],
       "highlights": [
@@ -186,11 +186,11 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Players need social skills for World Cup - Tuchel",
-          "link": "https://www.bbc.com/sport/football/articles/c5y5lqq2p7po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-15",
-          "summary": "England manager Thomas Tuchel says players will need the right \"social skills\" and personality to make his World Cup squad.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d57bfab0-f246-11f0-aff5-138622067c76.jpg"
+          "title": "From public park to World Cup dream - Bowie's rise to fame",
+          "link": "https://www.bbc.com/sport/football/articles/cx2l78jl8k7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-16",
+          "summary": "Scotland striker Kieron Bowie returns to roots of his rising football star as Hibernian face Dunfermline Athletic in the Scottish Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/6f018040-f2e4-11f0-b8a1-43fe5a262db0.jpg"
         }
       ],
       "highlights": [
@@ -204,28 +204,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Rejections, depression & promise to his mum - Thiago's route to top",
-      "link": "https://www.bbc.com/sport/football/articles/c07xpzyv1yno?at_medium=RSS&at_campaign=rss"
+      "moment": "The dramatic 24 hours that sealed Guehi and Glasner's futures",
+      "link": "https://www.bbc.com/sport/football/articles/cvgpvgzl377o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win",
-      "link": "https://www.bbc.com/sport/football/videos/c9dvq680dzlo?at_medium=RSS&at_campaign=rss"
+      "moment": "Arbeloa 'looking for solutions' and fans' support",
+      "link": "https://www.bbc.com/sport/football/articles/c77k62dzj6vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Arsenal beat Portsmouth thanks to Martinelli hat-trick",
-      "link": "https://www.bbc.com/sport/football/videos/cq5yw5d6vppo?at_medium=RSS&at_campaign=rss"
+      "moment": "Van Gerwen wins Bahrain title as Littler's 21-match winning run is ended",
+      "link": "https://www.skysports.com/darts/news/12040/13495058/bahrain-darts-masters-michael-van-gerwen-wins-title-against-gian-van-veen-as-luke-littlers-winning-streak-is-ended"
     },
     {
-      "moment": "Leeds avoid upset with second-half comeback against Derby",
-      "link": "https://www.bbc.com/sport/football/videos/c87rp7g4pg2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Morocco set for derby with Algeria in Wafcon 2026 group",
-      "link": "https://www.bbc.com/sport/football/articles/cg7yj2pe9e4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "PL Predictions: Destruction derby? City set to smash United",
-      "link": "https://www.skysports.com/football/news/12040/13494770/premier-league-predictions-and-best-bets-destruction-derby-manchester-city-set-to-smash-manchester-united"
+      "moment": "West Brom make impressive comeback... but Boro snatch late winner!",
+      "link": "https://www.skysports.com/watch/video/13495202/west-brom-2-3-middlesbrough-championship-highlights"
     }
   ]
 }
