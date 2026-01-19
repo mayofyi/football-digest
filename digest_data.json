@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-01-18",
-  "week_ending": "January 18, 2026",
+  "generated_date": "2026-01-19",
+  "week_ending": "January 19, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Will final be Mane's last Afcon dance with Senegal?",
+          "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
+          "link": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "Senegal beat Morocco to win the Africa Cup of Nations after the final is overshadowed when they temporarily refuse to play.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbfd/live/a2879210-f4bf-11f0-b992-d128a0103e53.jpg"
+        },
+        {
+          "title": "Diaz will 'have nightmares' over 'Panenka' failure",
+          "link": "https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/f2362be0-f4c0-11f0-b992-d128a0103e53.png"
+        },
+        {
+          "title": "Everton disallowed goal frustrating but right decision - Hart",
+          "link": "https://www.bbc.com/sport/football/videos/cx20n7v7k4jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "Match of the Day pundit Joe Hart says Everton players and fans are right to be \"frustrated\" by their disallowed goal against Aston Villa, it was the correct decision.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb7/live/afa68aa0-f4c4-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Will Frank and Glasner see the season out?",
+          "link": "https://www.bbc.com/sport/football/videos/c5yxpgkgn53o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2024/live/fdef6b30-f4cb-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Arsenal & Chelsea overtake Barcelona in women's money league",
+          "link": "https://www.bbc.com/sport/football/articles/ce3k535edx9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "Arsenal and Chelsea leapfrog Barcelona to post highest revenue growth in European football after successful 2025.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1de/live/9ecdffb0-f302-11f0-a422-4ba8a094a8fa.png"
+        },
+        {
+          "title": "Frank expected to take charge of Spurs against Dortmund",
+          "link": "https://www.skysports.com/football/news/12040/13496099/thomas-frank-tottenham-head-coach-expected-to-be-in-charge-against-borussia-dortmund-as-spurs-look-at-alternative-options",
+          "published": "2026-01-19",
+          "summary": "Thomas Frank is expected to remain in charge of Tottenham for their Champions League fixture against Borussia Dortmund on Tuesday night.",
+          "image": "https://e2.365dm.com/25/11/1920x1080/skysports-thomas-frank-spurs_7096107.jpg?20251129222718"
+        },
+        {
+          "title": "Ref Watch LIVE! AFCON chaos and should Dalot have seen red?",
+          "link": "https://www.skysports.com/football/live-blog/12040/13496105/ref-watch-live-premier-league-efl-and-scottish-premiership-incidents-analysed-by-dermot-gallagher-and-jay-bothroyd",
+          "published": "2026-01-19",
+          "summary": "",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-dalot-doku-man-utd_7139435.png?20260119092313"
+        },
+        {
+          "title": "'Arsenal will never forgive themselves if they don't win title now'",
+          "link": "https://www.bbc.com/sport/football/articles/cm24736mrm7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-18",
+          "summary": "This is Mikel Arteta and Arsenal's \"now or never\" moment as Premier League title rivals stumble badly, says chief football writer Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aca/live/71d64f90-f4af-11f0-b385-5f48925de19a.jpg"
+        },
+        {
+          "title": "'I'm not so sure I learned much' - O'Neill knows what Celtic need after cup win",
+          "link": "https://www.bbc.com/sport/football/articles/cwyrkd6rqqko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-18",
+          "summary": "Celtic manager Martin O'Neill admits he did not learn much about his squad after a laborious Scottish Cup victory over sixth-tier Auchinleck Talbot.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af7/live/68bd6960-f4bf-11f0-b5f7-49f0357294ff.jpg"
+        },
+        {
+          "title": "'An ambassador for African football' - Mane is Senegal's Afcon hero",
           "link": "https://www.bbc.com/sport/football/articles/clynjj2ngy8o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-18",
-          "summary": "Forward Sadio Mane looks to help inspire Senegal to glory against host nation Morocco after the 33-year-old said this will be his \"last Afcon final\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a0/live/e213c1a0-f2ea-11f0-b8a1-43fe5a262db0.jpg"
+          "summary": "Senegal forward Sadio Mane is the hero once again, but this time for unexpected reasons as his side leaves the pitch during the chaotic Afcon final win over Morocco.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c3c/live/1e7d29b0-f4c1-11f0-b992-d128a0103e53.jpg"
         },
         {
-          "title": "How Carrick's Man Utd dismantled Man City",
-          "link": "https://www.bbc.com/sport/football/videos/c9wxde029d8o?at_medium=RSS&at_campaign=rss",
+          "title": "Goals galore in FA Cup as Liverpool, Man Utd & Man City progress",
+          "link": "https://www.bbc.com/sport/football/articles/cwyrkl2xn76o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-18",
-          "summary": "Match of the Day pundits Alan Shearer and Wayne Rooney break down how Manchester United's shape frustrated Manchester City in Michael Carrick's first game as interim manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b8/live/6dff03b0-f3fd-11f0-a422-4ba8a094a8fa.jpg"
+          "summary": "Liverpool, Manchester City and Manchester United all cruise into the fifth round of the Women's FA Cup as 55 goals are scored across 12 matches on Sunday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6368/live/210d40b0-f490-11f0-a665-27642cc33205.jpg"
         },
         {
-          "title": "'I'll be surprised if he's here next game' - Shearer on Glasner",
-          "link": "https://www.bbc.com/sport/football/videos/crle5wkrd9ro?at_medium=RSS&at_campaign=rss",
+          "title": "Barry secures deserved win for Everton against Villa",
+          "link": "https://www.bbc.com/sport/football/videos/c62r5xexrw9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-18",
-          "summary": "Match of the Day pundit Alan Shearer expects Oliver Glasner to leave Crystal Palace in the coming week, after his outburst against the board in the wake of their defeat by Sunderland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7340/live/6767ea90-f406-11f0-b5f7-49f0357294ff.jpg"
+          "summary": "Everton's Thierno Barry capitalises on a mistake by Aston Villa's Emi Martinez for a 1-0 win to The Toffees, which stops Villa going second in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776e/live/75e58650-f49b-11f0-b5f7-49f0357294ff.jpg"
         },
         {
-          "title": "'The fans have spoken' - Why Frank's future at Spurs looks bleak",
-          "link": "https://www.bbc.com/sport/football/videos/cj4lyg12wpqo?at_medium=RSS&at_campaign=rss",
+          "title": "Newcastle miss out on top-five spot in draw with Wolves",
+          "link": "https://www.bbc.com/sport/football/videos/cvgn9zz814do?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-18",
-          "summary": "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney explain why they think Thomas Frank's time as Tottenham Hotspur manager is about to come to an end following his side's 2-1 home defeat t...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82bf/live/63a9b4a0-f407-11f0-b5f7-49f0357294ff.jpg"
+          "summary": "Wolves held Newcastle United to a goalless draw to prevent Eddie Howe's side from climbing into the top five of the Premier League table.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d1/live/f84bb590-f48e-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "'Why not look into new things?' - Pfannenstiel on Aberdeen dugout noise",
-          "link": "https://www.bbc.com/sport/football/articles/c3wz57qv91jo?at_medium=RSS&at_campaign=rss",
+          "title": "Everton win over Villa 'incredibly satisfying' - Moyes",
+          "link": "https://www.bbc.com/sport/football/videos/c0r4v2rwgk0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-18",
-          "summary": "Aberdeen sporting director Lutz Pfannenstiel says Scottish football should \"not just think about how it was in the past\", after being \"a bit surprised\" by reaction to him joining interim manager Peter...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/79549240-f3d3-11f0-b13b-119ae35a4f81.jpg"
+          "summary": "Everton manager David Moyes says his side's performance against Aston Villa was \"incredibly satisfying\" as they won 1-0 at Villa Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5726/live/82ba7d90-f4a0-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "Was this the day Spurs fans finally lost all faith in Frank?",
-          "link": "https://www.bbc.com/sport/football/articles/c78v4vpgp15o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Was the dismal home loss to struggling West Ham the day Spurs fans finally lost all faith in head coach Thomas Frank, asks chief football writer Phil McNulty?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d5/live/c587a7a0-f3d9-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Missed opportunity for Arsenal - but were they denied 'clear penalty'?",
-          "link": "https://www.bbc.com/sport/football/articles/cx2p7dkxxgpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Arsenal have moved seven points clear at the top of the Premier League after a 0-0 draw at Nottingham Forest - but should the Gunners have been awarded a penalty?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b18/live/7d5825e0-f3e3-11f0-808e-fddbe2ff1e6c.jpg"
-        },
-        {
-          "title": "Glasner 'feels abandoned completely' at Palace",
-          "link": "https://www.bbc.com/sport/football/articles/cx2kpkr7yr7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Crystal Palace manager Oliver Glasner says he feels his squad \"are being abandoned completely\" by the club's hierarchy.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323a/live/8c6c0a40-f3e0-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "'No energy' and 'predictable' - Guardiola won't blame VAR for derby loss",
-          "link": "https://www.bbc.com/sport/football/articles/c041qv7ke7vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Manchester City were outfought by rivals Manchester United on Saturday lunchtime and the damaging defeat could leave them outmanoeuvred in this season's Premier League title race.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587c/live/ed8d7950-f3d9-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Ruthless Man Utd beat Man City in dream start for Carrick",
-          "link": "https://www.bbc.com/sport/football/videos/ce3k7gqnx9xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Michael Carrick gets off to the perfect start in his first match as interim manager for Manchester United with a two-goal derby win against Manchester City, leaving Pep Guardiola's side winless in the...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33bb/live/10f98a80-f3cd-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Arsenal stumble in draw against resilient Forest",
-          "link": "https://www.bbc.com/sport/football/videos/cdexzpnzzlwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Arsenal missed the chance to extend their lead at the top of the Premier League table to nine points, with a goalless draw against a determined Nottingham Forest.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b89/live/4cfdb820-f3e2-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Last-minute Wilson goal leaves fans booing Frank's Spurs",
-          "link": "https://www.bbc.com/sport/football/videos/c5y208yqe41o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "A last-minute Callum Wilson goal gives West Ham an important three points and increases the pressure on Tottenham boss Thomas Frank.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/54c3b780-f3dd-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Chelsea beat Brentford for Rosenior's first Premier League win",
-          "link": "https://www.bbc.com/sport/football/videos/crkr682z434o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Cole Palmer scored a penalty to secure the a for Chelsea against Brentford and give Liam Rosenior his first Premier League win as manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60e7/live/6df22380-f3de-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Super-sub Nmecha wins it for Leeds in stoppage time",
-          "link": "https://www.bbc.com/sport/football/videos/czejy0r8we0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Substitute Lukas Nmecha scores in stoppage time to give Leeds an important win against Fulham, and leave them eight points clear of the Premier League relegation zone.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbcd/live/950f9100-f3de-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Brobbey goal earns Sunderland comeback win over struggling Palace",
-          "link": "https://www.bbc.com/sport/football/videos/cwy8ejxve70o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Enzo Le Fee and Brian Brobbey were on the scoresheet as Sunderland came from behind to beat Crystal Palace, who are without a win in 10 matches in all competitions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad49/live/c1d96980-f3d5-11f0-a422-4ba8a094a8fa.jpg"
+          "title": "Results, fans, fall-outs - factors that lead to managerial pressure",
+          "link": "https://www.bbc.com/sport/football/articles/cdrny1jy8jno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-18",
+          "summary": "From bad results to a clash with a club's owners - BBC Sport takes a look at some of the factors that lead to managers coming under pressure.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0941/live/3176cdc0-f500-11f0-a422-4ba8a094a8fa.jpg"
         }
       ],
       "highlights": [
@@ -121,29 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Seahawks dominate 49ers to advance to NFC championship game",
-          "link": "https://www.skysports.com/nfl/news/12040/13495752/seattle-seahawks-claim-dominant-41-6-win-over-san-francisco-49ers-to-advance-to-nfc-championship-game",
-          "published": "2026-01-18",
-          "summary": "Seattle&#160;Seahawks found a new level of dominance as they stormed to a 41-6 win over San Francisco 49ers in what was their first playoff game in front of home fans in&#160;almost a&#160;decade.",
-          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-kenneth-walker-leonard-williams_7138672.jpg?20260118075811"
-        },
-        {
-          "title": "Coventry back on track but Baggies in trouble - Aaron McLean's EFL takeaways",
-          "link": "https://www.bbc.com/sport/football/articles/cly3l1jk4vpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-17",
-          "summary": "Final Score pundit Aaron McLean gives his five takeaways from what we learned across the Championship, League One and League Two this weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"
-        },
-        {
-          "title": "Leicester close in on Lehmann signing from FC Como",
-          "link": "https://www.bbc.com/sport/football/articles/cvgr935p08no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-16",
-          "summary": "Leicester City are closing in on the signing of Switzerland forward Alisha Lehmann from FC Como this month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6208/live/04ef4da0-f315-11f0-bc8b-a34ab510ca4e.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -176,7 +154,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Red cards, VAR and offside laws facing Ifab review",
+          "link": "https://www.bbc.com/sport/football/articles/czdq0m2z0emo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-19",
+          "summary": "The Ifab's annual business meeting in London will discuss changes to the laws for the Fifa World Cup and domestic leagues.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3af/live/58f926f0-f4a5-11f0-a32f-c7b341d373c9.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -188,28 +174,20 @@
   },
   "standout_moments": [
     {
-      "moment": "'No energy' and 'predictable' - Guardiola won't blame VAR for derby loss",
-      "link": "https://www.bbc.com/sport/football/articles/c041qv7ke7vo?at_medium=RSS&at_campaign=rss"
+      "moment": "Afcon quiz: Name every Africa Cup of Nations winner",
+      "link": "https://www.bbc.com/sport/football/articles/c5yql3n8v5qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Ruthless Man Utd beat Man City in dream start for Carrick",
-      "link": "https://www.bbc.com/sport/football/videos/ce3k7gqnx9xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Brobbey goal earns Sunderland comeback win over struggling Palace",
-      "link": "https://www.bbc.com/sport/football/videos/cwy8ejxve70o?at_medium=RSS&at_campaign=rss"
+      "moment": "Villa did not deliver against 'fantastic' Everton - Emery",
+      "link": "https://www.bbc.com/sport/football/videos/cwygk24dmr0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Man Utd players 'really care' - Carrick on derby heroics",
       "link": "https://www.bbc.com/sport/football/videos/cgezq8nqjqqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'I might be back for a job!' - Wilson laughs off transfer saga",
-      "link": "https://www.bbc.com/sport/football/videos/cy09v94jr2ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "The dramatic 24 hours that sealed Guehi and Glasner's futures",
-      "link": "https://www.bbc.com/sport/football/articles/cvgpvgzl377o?at_medium=RSS&at_campaign=rss"
+      "moment": "'No energy' and 'predictable' - Guardiola won't blame VAR for derby loss",
+      "link": "https://www.bbc.com/sport/football/articles/c041qv7ke7vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Rejections, depression & promise to his mum - Thiago's route to top",
