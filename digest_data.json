@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-01-21",
-  "week_ending": "January 21, 2026",
+  "generated_date": "2026-01-22",
+  "week_ending": "January 22, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Bellingham responds to partying claims with 'joke' drinking celebration",
-          "link": "https://www.bbc.com/sport/articles/c24g6r250veo?at_medium=RSS&at_campaign=rss",
+          "title": "Slot praises Salah return on important night for both",
+          "link": "https://www.bbc.com/sport/football/articles/cn0yyexlvrgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "Arne Slot praises the return of Mohamed Salah, with Liverpool's Champions League win in Marseille proving important for both.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d3a/live/4d158f60-f723-11f0-8122-b3b439b7bd3a.jpg"
+        },
+        {
+          "title": "'He came here for these nights' - Wissa inspires Newcastle",
+          "link": "https://www.bbc.com/sport/football/articles/cy599yy9reyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "Eddie Howe says Yoane Wissa came to Newcastle \"for these nights\" after his first Champions League goal at St James' Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/526f0ce0-f771-11f0-b385-5f48925de19a.jpg"
+        },
+        {
+          "title": "'Ridiculous amount of games' - has Haaland played too much football?",
+          "link": "https://www.bbc.com/sport/football/articles/cy7mv3eg5nlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "Erling Haaland made a blistering start to the season but that prolific run of form has ground to a halt with only one goal in his past eight games.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3810/live/acd08380-f6c2-11f0-9af0-6331be72883e.jpg"
+        },
+        {
+          "title": "What to do with misfiring Haaland? FPL team of the week",
+          "link": "https://www.bbc.com/sport/football/articles/c1lzrjyr1lqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "FPL managers will be worried about Erling Haaland's recent form - is it time to move away from the Manchester City striker as a captain choice?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ca/live/0aa926a0-f6b0-11f0-b385-5f48925de19a.jpg"
+        },
+        {
+          "title": "Eat & Yap - Arsenal striker Smith answers quickfire questions",
+          "link": "https://www.bbc.com/sport/football/videos/cd0yk919p71o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "Arsenal striker and Women's Super League record signing Olivia Smith answers Alex Scott's quickfire questions in BBC Sport's new Eat & Yap series.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/441f/live/a7df9d50-f6ec-11f0-a422-4ba8a094a8fa.jpg"
+        },
+        {
+          "title": "Liverpool top English club in Deloitte Money League",
+          "link": "https://www.bbc.com/sport/football/articles/cx2kd52yxpdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "Liverpool become the top-earning Premier League club for the first time, according to analysis from financial firm Deloitte.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239b/live/b274e830-f609-11f0-b990-27d7007e546f.jpg"
+        },
+        {
+          "title": "BBC Women's Football Weekly",
+          "link": "https://www.bbc.co.uk/sounds/play/p0mwb1dp?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-22",
+          "summary": "The Kim Little fan club are reunited!",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mwb1jh.jpg"
+        },
+        {
+          "title": "Djokovic's 399th Grand Slam match win propels him into Australian Open third round",
+          "link": "https://www.skysports.com/tennis/news/12040/13497405/novak-djokovics-399th-grand-slam-match-win-propels-him-into-australian-open-third-round",
+          "published": "2026-01-22",
+          "summary": "Novak Djokovic's 399th Grand Slam match win over Italian qualifier Francesco &#8203;Maestrelli propelled him into the Australian Open third round.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-novak-djokovic-tennis_7142133.jpg?20260122060814"
+        },
+        {
+          "title": "Man Utd fall to lowest position in Money League as Liverpool highest-earning PL club",
+          "link": "https://www.skysports.com/football/news/12040/13497208/deloitte-football-money-league-man-utd-fall-to-lowest-position-with-liverpool-the-highest-earning-pl-club-and-real-madrid-top",
+          "published": "2026-01-22",
+          "summary": "Manchester United have fallen to their lowest position in the Deloitte Football Money League, with Liverpool the highest-earning English club for the first time.",
+          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-man-utd_7141754.jpg?20260121163127"
+        },
+        {
+          "title": "Salah returns as Liverpool score three to beat Marseille",
+          "link": "https://www.bbc.com/sport/football/videos/cvg5w77wyxyo?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "Jude Bellingham responds to partying claims with a goal celebration in the Champions League win over Monaco.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dc/live/f3bb1180-f65d-11f0-b385-5f48925de19a.jpg"
+          "summary": "Mohammad Salah returns to the Liverpool starting XI as Liverpool score three goals, including an intelligent Dominik Szoboszlai free kick, to beat Olympique Marseille.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3d/live/72b49b40-f718-11f0-b385-5f48925de19a.jpg"
         },
         {
-          "title": "Watch: Livingston 1-1 St Mirren highlights",
-          "link": "https://www.bbc.com/sport/videos/cwyrgke2gygo?at_medium=RSS&at_campaign=rss",
+          "title": "Who can join Arsenal & Bayern in Champions League knockouts?",
+          "link": "https://www.bbc.com/sport/football/articles/c3ve1gnk26eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "Watch highlights as St Mirren's Alex Gogic scores a late equaliser to deny Livingston their first victory in the Scottish Premiership since early August.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfdc/live/95b8c850-f65a-11f0-a422-4ba8a094a8fa.jpg"
+          "summary": "With the league phase of Champions League almost at its conclusion, which teams can join Arsenal and Bayern Munich in the top eight?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c092/live/0ceba480-f71c-11f0-b5f7-49f0357294ff.png"
         },
         {
-          "title": "Champions League quiz: Name every city to host a final",
-          "link": "https://www.bbc.com/sport/football/articles/c7v0871l89po?at_medium=RSS&at_campaign=rss",
+          "title": "Newcastle secure last-16 play-off spot after comfortable win over PSV",
+          "link": "https://www.bbc.com/sport/football/videos/c801pnn9yvzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "The Champions League and its forerunner the European Cup have a combined 70-year history. Can you name all the cities that have staged the final of the men's competition?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c210/live/ffddc320-f4ca-11f0-b5f7-49f0357294ff.jpg"
+          "summary": "Newcastle United clinch a Champions League last 16 play-off spot following a comfortable 3-0 win over PSV Eindhoven at St James's Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f35/live/be6e8a00-f713-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "FREE STREAM: Good Morning Transfers",
-          "link": "https://www.skysports.com/football/news/12040/13489527/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+          "title": "Chelsea keep top-eight hopes alive with win over Pafos",
+          "link": "https://www.bbc.com/sport/football/videos/ce8rr0pvzy7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "",
-          "image": "https://e1.365dm.com/25/08/1920x1080/skysports-transfers-good-morning-transfers_7004245.jpg?20250829090301"
+          "summary": "Moises Caicedo's 77th-minute goal keeps Chelsea's hopes of finishing in the Champions League top eight alive after victory of Pafos at Stamford Bridge.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/8df39f20-f716-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "Frank: 'Magic' Dortmund win proves we're all on the same page",
-          "link": "https://www.skysports.com/football/news/12040/13496995/thomas-frank-under-pressure-tottenham-boss-says-magic-borussia-dortmund-win-shows-were-on-same-page",
+          "title": "Defeat for 10-player Arsenal as Man Utd reach first League Cup final",
+          "link": "https://www.bbc.com/sport/football/videos/clyzdgn20n9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "Under-pressure Tottenham head coach Thomas Frank hailed their \"magic\" Champions League home win over Borussia Dortmund as evidence that everyone at the club is \"on the same page\".",
-          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-thomas-frank-spurs_7141276.jpg?20260121080550"
+          "summary": "Manchester United reach the Women's League Cup final for the first time with a narrow 1-0 victory against Arsenal, in a rain-drenched semi-final at Meadow Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e8/live/52bd9920-f710-11f0-b5f7-49f0357294ff.jpg"
         },
         {
-          "title": "Arsenal on course to win the Premier League \u2013 but why stop there?",
-          "link": "https://www.skysports.com/football/news/12040/13496759/arsenals-win-at-inter-was-big-for-belief-8211-could-the-gunners-win-champions-league-and-premier-league",
+          "title": "Kaptein goal sends Chelsea into seventh straight League Cup final",
+          "link": "https://www.bbc.com/sport/football/videos/c24g69vmgy5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-21",
-          "summary": "Inter needed the points more. Arsenal took them anyway. Seven changes to Mikel Arteta's starting line-up and still they made it seven wins from seven. A top-two finish secured let alone top eight &#82...",
-          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-arsenal-inter-san-siro_7141236.jpg?20260121070821"
-        },
-        {
-          "title": "'Tears in my eyes' - Jesus enjoys 'dream night' in San Siro",
-          "link": "https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Gabriel Jesus says he had \"tears in my eyes\" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc0/live/1bf576d0-f655-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Slot hints Salah will start for Liverpool in Marseille",
-          "link": "https://www.bbc.com/sport/football/articles/c9wx7ykl098o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1702/live/6b4e0790-f639-11f0-a7bd-a712d1b3c2cf.jpg"
-        },
-        {
-          "title": "'Everything is going wrong' - Guardiola on Bodo/Glimt upset",
-          "link": "https://www.bbc.com/sport/football/videos/cz6y80exn3zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/e4032b20-f643-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Arsenal depth of quality 'incredible' - Arteta",
-          "link": "https://www.bbc.com/sport/football/videos/crkr7jyg7dro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Arsenal manager Mikel Arteta was delighted with Gabriel Jesus's display and two goals in the 3-1 Champions League win at Inter Milan, showing the \"incredible\" depth of quality in his squad.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b25c/live/1a7fd150-f656-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Frank on how he is managing the pressure at Spurs",
-          "link": "https://www.bbc.com/sport/football/videos/c0q457vnqy7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Thomas Frank feels his Tottenham Hotspur side are getting better and that he deserves patience following their two goal win over 10-man Borussia Dortmund in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/7acbfcc0-f654-11f0-b385-5f48925de19a.jpg"
-        },
-        {
-          "title": "Fulham in talks to sign Man City winger Bobb",
-          "link": "https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65af/live/f6ea7bf0-f60f-11f0-b990-27d7007e546f.jpg"
-        },
-        {
-          "title": "The day I discovered the Everton contract Revie never signed",
-          "link": "https://www.bbc.com/sport/football/articles/cy8yp1nqd21o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78ef/live/953469a0-f5f8-11f0-a422-4ba8a094a8fa.jpg"
-        },
-        {
-          "title": "Return of the 0-0 - is the Premier League getting boring?",
-          "link": "https://www.bbc.com/sport/football/articles/clymd1lgp44o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Two goalless fixtures at the weekend mean this season's Premier League has already featured more 0-0 draws than the whole of last term \u2013 but does that mean the league has been boring?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/80550da0-f611-11f0-b990-27d7007e546f.jpg"
-        },
-        {
-          "title": "Refs' boss Webb backs officials over Dalot incident",
-          "link": "https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "Premier League referees' boss Howard Webb rejects claims that his officials made a mistake by not sending off Diogo Dalot in Saturday's Manchester derby.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b14d/live/74b78720-f61b-11f0-9215-6946c5ffd40e.jpg"
+          "summary": "Holders Chelsea reach a seventh successive final of the Women's League Cup with a narrow victory over rivals Manchester City at Joie Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f8/live/4d6d3500-f712-11f0-b5f7-49f0357294ff.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Huddersfield appoint Manning as head coach",
-          "link": "https://www.bbc.com/sport/football/articles/cqxy37400pzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-20",
-          "summary": "League One Huddersfield Town appoint former Norwich and Bristol City boss Liam Manning as head coach.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685f/live/3fddee20-f5ff-11f0-842b-5772902eef21.jpg"
-        },
-        {
-          "title": "Coventry, Ipswich win; Norwich HAMMER West Brom - Championship highlights",
+          "title": "Middlesbrough back up to second; Saints beat Sheff Utd - Championship highlights",
           "link": "https://www.skysports.com/football/live-blog/12040/13496703/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
-          "published": "2026-01-20",
+          "published": "2026-01-21",
           "summary": "",
-          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-ipswich-town-jack-clarke_7140979.jpg?20260120211018"
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-middlesbrough-fc_7142007.jpg?20260121214204"
         }
       ],
       "highlights": [
@@ -181,28 +174,28 @@
   },
   "standout_moments": [
     {
-      "moment": "'Everything is going wrong' - Guardiola on Bodo/Glimt upset",
-      "link": "https://www.bbc.com/sport/football/videos/cz6y80exn3zo?at_medium=RSS&at_campaign=rss"
+      "moment": "Eat & Yap - Arsenal striker Smith answers quickfire questions",
+      "link": "https://www.bbc.com/sport/football/videos/cd0yk919p71o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Stunning late goal earns Brighton draw against Bournemouth",
-      "link": "https://www.bbc.com/sport/football/videos/c1kl81n2mpdo?at_medium=RSS&at_campaign=rss"
+      "moment": "Lopez stunner helps Barca win six-goal thriller",
+      "link": "https://www.bbc.com/sport/football/videos/c6208emjymyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Refs' boss Webb backs officials over Dalot incident",
-      "link": "https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&at_campaign=rss"
+      "moment": "Qarabag score last-gasp winner to seal comeback win over Frankfurt",
+      "link": "https://www.bbc.com/sport/football/videos/ckgylepzw30o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Rashford scores but Barcelona suffer shock defeat",
-      "link": "https://www.bbc.com/sport/football/videos/c23r1z500npo?at_medium=RSS&at_campaign=rss"
+      "moment": "Bodo/Glimt humble Man City with stunning home win",
+      "link": "https://www.bbc.com/sport/football/videos/c3r1901dg4do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "From bad to worse: Now 'embarassing' Man City suffer shock defeat at Bodo",
-      "link": "https://www.skysports.com/football/bodo-glimt-vs-manchester-city/report/548019"
+      "moment": "Arsenal extend perfect Champions League record with victory in Milan",
+      "link": "https://www.bbc.com/sport/football/videos/ckgx6vx56z3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Pep: 'Everything is going wrong' for Man City",
-      "link": "https://www.skysports.com/football/news/12040/13496809/pep-guardiola-something-needs-to-change-soon-for-fragile-manchester-city"
+      "moment": "Man City squad to refund ticket costs for fans",
+      "link": "https://www.bbc.com/sport/football/articles/c4gwp79rdz7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
