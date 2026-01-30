@@ -1,30 +1,93 @@
 {
-  "generated_date": "2026-01-29",
-  "week_ending": "January 29, 2026",
+  "generated_date": "2026-01-30",
+  "week_ending": "January 30, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Why have English teams dominated as Real & PSG face play-offs?",
-          "link": "https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-29",
-          "summary": "Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf1/live/348c75c0-fca1-11f0-9beb-e3402c5a09de.jpg"
+          "title": "Everything you need to know about the Champions League play-off draw",
+          "link": "https://www.bbc.com/sport/football/articles/c77kmg1xnp4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "BBC Sport's Ask Me Anything team explains how the Champions League knockout phase play-offs work and when the draw is taking place.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220d/live/3fd21a30-fad4-11f0-a422-4ba8a094a8fa.jpg"
         },
         {
-          "title": "Trubin's 'miracle' - how Mourinho's Benfica stunned Real Madrid",
-          "link": "https://www.bbc.com/sport/football/articles/c8j329y9yk2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-29",
-          "summary": "Goalkeeper Anatoly Trubin's header gives Jose Mourinho an unforgettable moment as Benfica beat Real Madrid to stay alive in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc8/live/4c15f310-fc9c-11f0-b934-81e74c6120db.jpg"
+          "title": "Journalist dreams & Keane reunion? How O'Neill continues to revive Celtic",
+          "link": "https://www.bbc.com/sport/football/articles/cn42dpdx1edo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "Showman Martin O'Neill continues to thrive as Celtic's interim manager as he guides the club through to the Europa League play-off round.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b791/live/74b85930-fd68-11f0-a00a-0545b9d7ca40.jpg"
         },
         {
-          "title": "Rosenior comes out on top as Conte's European woes continue",
-          "link": "https://www.bbc.com/sport/football/articles/cz6y266dv9xo?at_medium=RSS&at_campaign=rss",
+          "title": "How do Liverpool fix their struggles against low blocks?",
+          "link": "https://www.bbc.com/sport/football/articles/cew8qnqqgqzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "Why are Liverpool struggling against low blocks in the Premier League, how are they trying to unlock them and what could they do better?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9508/live/dce7c940-fd0f-11f0-833e-6bf0186607ca.jpg"
+        },
+        {
+          "title": "Can you name every team still in the Champions League?",
+          "link": "https://www.bbc.com/sport/football/articles/cg7y4r5d3lno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "The Champions League knockout phase gets under way with the play-off first legs on 17 and 18 February - can you name all 24 teams still in the competition?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a72/live/b1bd2190-fdb7-11f0-b7e1-afb6d0884c18.jpg"
+        },
+        {
+          "title": "Keeper-turned-striker Steele still inspired by Ferguson rocket",
+          "link": "https://www.bbc.com/sport/football/articles/cpwne85ng97o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "Former Manchester United goalkeeper Luke Steele, once given a training-ground rocket by Sir Alex Ferguson, is now banging in the goals in non-league aged 41.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f1/live/c691f010-fdbb-11f0-b724-c371fd414c33.jpg"
+        },
+        {
+          "title": "Pato interest shows strength of English game - Cowley",
+          "link": "https://www.bbc.com/sport/football/articles/c4gwynynpnmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "Alexandre Pato's interest in Colchester United underlines the overall strength of the English football pyramid, says manager Danny Cowley.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e1/live/f8e1c960-fdb5-11f0-8e3f-176b350fc659.jpg"
+        },
+        {
+          "title": "Dangerman Makhmudov a threat in 'dream fight' against Fury?",
+          "link": "https://www.skysports.com/boxing/news/12040/13500815/tyson-fury-under-threat-meet-the-heavyweight-dangerman-arslanbek-makhmudov-taking-on-fury-in-comeback-fight",
+          "published": "2026-01-30",
+          "summary": "Few boxers can match the towering Tyson Fury for size and stature. But the imposing Arslanbek Makhmudov gets close.",
+          "image": "https://e1.365dm.com/25/10/1920x1080/skysports-arslanbek-makhmudov_7048354.jpg?20251011133508"
+        },
+        {
+          "title": "Sutton's predictions v boxer Francesca Hennessy",
+          "link": "https://www.bbc.com/sport/football/articles/cx204g4rn8xo?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-29",
-          "summary": "Antonio Conte lifted the Champions League as a player in 1995-96 but has experienced nothing but despair as a manager in the competition.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee21/live/fc812f90-fcaa-11f0-a8b8-bdd2c5f9bcad.jpg"
+          "summary": "BBC Sport football expert Chris Sutton takes on boxer Francesca Hennessy and AI with his predictions for this week's Premier League fixtures.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d0/live/3345b7f0-fd30-11f0-a8b8-bdd2c5f9bcad.png"
+        },
+        {
+          "title": "Who is 'shy and nervous' Villa match-winner Jimoh-Aloba?",
+          "link": "https://www.bbc.com/sport/football/articles/c8j32vezyylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-29",
+          "summary": "Aston Villa match-winner Jamaldeen Jimoh-Aloba is described as \"shy and nervous\" by Morgan Rogers - but the teenager announced himself on the European stage.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d8/live/86b31130-fd62-11f0-9c09-35264ee739f3.jpg"
+        },
+        {
+          "title": "What happened in final round of Europa League matches?",
+          "link": "https://www.bbc.com/sport/football/articles/c62015dell5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-29",
+          "summary": "Your guide to the teams that made the top eight, the 16 clubs in the play-offs and the sides who have been eliminated from the Europa League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0956/live/d7289e20-fd5b-11f0-809e-0391886361ed.jpg"
+        },
+        {
+          "title": "'Barca move gave me confidence I could adapt'",
+          "link": "https://www.bbc.com/sport/football/videos/czx32x07lzzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-29",
+          "summary": "Chelsea's Lucy Bronze - England's most decorated female footballer - tells BBC Sport's Emma Sanders that she \"found even more confidence in myself\" after leaving Manchester City in 2022.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64aa/live/8703e040-fc65-11f0-9972-d3f265c101c6.jpg"
+        },
+        {
+          "title": "How English clubs got smart to dominate this season's Champions League",
+          "link": "https://www.bbc.com/sport/football/articles/c9qp21lej5zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-29",
+          "summary": "Premier League clubs always had the money, but now they also have the know-how they have dominated this season's Champions League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b523/live/ecc723e0-fd20-11f0-8de9-b9e0f3a8919a.jpg"
         },
         {
           "title": "Senegal boss Thiaw banned after Afcon final chaos",
@@ -34,80 +97,17 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2921/live/05d22f60-fce0-11f0-b827-6fb9814e291f.jpg"
         },
         {
-          "title": "Havertz return a 'big boost' for Arsenal",
-          "link": "https://www.bbc.com/sport/football/videos/c0mkyv70n1do?at_medium=RSS&at_campaign=rss",
+          "title": "Bompastor tracks back on WSL title 'gone' comments",
+          "link": "https://www.bbc.com/sport/football/articles/clye0zq328no?at_medium=RSS&at_campaign=rss",
           "published": "2026-01-29",
-          "summary": "Match of the Day pundit Nedum Onuoha analyses how Kai Havertz's return gives a \"big boost\" to Mikel Arteta's Arsenal side.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c5/live/bb1d5dc0-fca6-11f0-9972-d3f265c101c6.jpg"
-        },
-        {
-          "title": "How 'star signing' Ekitike is leading the way for Liverpool",
-          "link": "https://www.bbc.com/sport/football/videos/c9qp27d45r9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-29",
-          "summary": "Champions League pundits Stephen Warnock and Julien Laurens discuss how Hugo Ekitike has become the \"star signing\" of Arne Slot's Liverpool side.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f1/live/f153c340-fca4-11f0-9972-d3f265c101c6.jpg"
-        },
-        {
-          "title": "Housby: When England play South Africa it's always a grudge match",
-          "link": "https://www.skysports.com/netball/news/12040/13500320/helen-housby-whenever-england-play-south-africa-its-always-a-grudge-match",
-          "published": "2026-01-29",
-          "summary": "England star Helen Housby is looking for the Vitality Roses to make a statement in a &#8220;huge&#8221; series against South Africa this week.",
-          "image": "https://e1.365dm.com/25/11/1920x1080/skysports-helen-housby-england-netball_7083536.jpg?20251116183501"
-        },
-        {
-          "title": "Watch Benfica keeper score stoppage-time goal against Real Madrid",
-          "link": "https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions Leagu...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db88/live/4948e2a0-fc97-11f0-9972-d3f265c101c6.jpg"
-        },
-        {
-          "title": "Rare night of joy for Salah and Slot amid turbulent season",
-          "link": "https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "After sweeping their way into the last 16, chief football writer Phil McNulty asks can the Champions League rescue Liverpool's season of turmoil?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d7/live/6675b980-fca5-11f0-901a-7136c00da938.jpg"
-        },
-        {
-          "title": "Liverpool march into last 16 with six-goal Qarabag thrashing",
-          "link": "https://www.bbc.com/sport/football/videos/c5y3e1yje7do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Liverpool thrash Qarabag 6-0 to automatically reach the last 16 of the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbaa/live/38f85c60-fc96-11f0-a8b8-bdd2c5f9bcad.jpg"
-        },
-        {
-          "title": "Pedro scores superb double to give Chelsea top eight finish",
-          "link": "https://www.bbc.com/sport/football/videos/ckglpgzldgpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Joao Pedro scores twice as Chelsea beat Napoli 3-2 to secure automatic qualification into the last 16 of the UEFA Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/f1a3b5d0-fc95-11f0-9972-d3f265c101c6.jpg"
-        },
-        {
-          "title": "Arsenal maintain perfect record with narrow win over Kairat",
-          "link": "https://www.bbc.com/sport/football/videos/cd0yp1v0d4zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "First-half goals from Viktor Gyokeres, Kai Havertz and Gabriel Martinelli give Arsenal a 3-2 win over Kairat to completing a perfect league phase for the Gunners with eight victories in eight games.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ac/live/75d38e40-fc99-11f0-9972-d3f265c101c6.jpg"
-        },
-        {
-          "title": "Spurs see off Frankfurt to secure last 16 qualification",
-          "link": "https://www.bbc.com/sport/football/videos/cgezp3lwrnvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Goals from Randal Kolo Muani and Dominic Solanke give Tottenham a comfortable 2-0 away win against Eintracht Frankfurt, as Thomas Frank's side finish the league phase in fourth to automatically qualif...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7e/live/95f77fb0-fc94-11f0-b7e1-afb6d0884c18.jpg"
-        },
-        {
-          "title": "Newcastle face play-off after draw with holders PSG",
-          "link": "https://www.bbc.com/sport/football/videos/cqxy1jrlg7jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Joe Willock scores for Newcastle as they draw 1-1 with PSG at the Parc des Princes to confirm their place in the Champions League play-offs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd5/live/68b2c420-fc98-11f0-b7e1-afb6d0884c18.jpg"
+          "summary": "Chelsea manager Sonia Bompastor has tracked back on her comments saying the WSL title is \"probably over\" by insisting her side will \"never give up\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63eb/live/d15fa4e0-fd2c-11f0-890b-55ca0a00c59d.jpg"
         },
         {
           "title": "England on course for fifth Champions League spot",
           "link": "https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-01-28",
-          "summary": "Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.",
+          "published": "2026-01-29",
+          "summary": "Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phases.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"
         }
       ],
@@ -121,7 +121,29 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Scottish Championship top two set for battle - live on BBC",
+          "link": "https://www.bbc.com/sport/football/articles/crml0de20v9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-01-30",
+          "summary": "St Johnstone against Partick Thistle on Friday night - live on the BBC - will go some way to deciding the Scottish Championship title.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da8/live/f93eedb0-fd2a-11f0-890b-55ca0a00c59d.jpg"
+        },
+        {
+          "title": "Littler named PDC Player of the Year as part of awards hat-trick",
+          "link": "https://www.skysports.com/darts/news/12040/13500869/luke-littler-named-pdc-player-of-the-year-as-part-of-awards-hat-trick",
+          "published": "2026-01-29",
+          "summary": "Luke Littler picked up three accolades at the PDC's Annual Awards after his World Championship-winning triumph earlier this month.",
+          "image": "https://e2.365dm.com/26/01/1920x1080/skysports-luke-littler-darts_7125642.jpg?20260130073916"
+        },
+        {
+          "title": "He'll come back with VENGEANCE!' | Brundle backs Piastri to claim maiden championship",
+          "link": "https://www.skysports.com/watch/video/13500822/i-think-he-will-come-back-with-vengeance-martin-brundle-backs-oscar-piastri-to-claim-maiden-championship",
+          "published": "2026-01-29",
+          "summary": "Martin Brundle backs Oscar Piastri to claim his maiden championship!",
+          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-martin-brundle-oscar-p_7149888.jpg?20260129215138"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -154,7 +176,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Highlights: South Africa pip England in first match of series",
+          "link": "https://www.skysports.com/watch/video/13500750/south-africa-52-48-england-netball-international-series-highlights",
+          "published": "2026-01-29",
+          "summary": "Highlights of the Vitality Roses' first match of their three -game international series against South Africa.",
+          "image": "https://e0.365dm.com/26/01/1920x1080/skysports-england-netball-south-africa-netball_7149726.jpg?20260129181248"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -166,20 +196,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Arsenal maintain perfect record with narrow win over Kairat",
-      "link": "https://www.bbc.com/sport/football/videos/cd0yp1v0d4zo?at_medium=RSS&at_campaign=rss"
+      "moment": "How 'superb' Fernandes led Man Utd to win at Arsenal",
+      "link": "https://www.bbc.com/sport/football/videos/c2lgw7n2yewo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Keeper scores dramatic late goal against Real to put Benfica into play-offs",
-      "link": "https://www.bbc.com/sport/football/videos/ckglp5pn98no?at_medium=RSS&at_campaign=rss"
+      "moment": "Six of the most memorable goalkeeper goals",
+      "link": "https://www.bbc.com/sport/football/articles/c2d7yjwgex4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Stabbed Chelsea fan shocked by Naples attack",
-      "link": "https://www.bbc.com/sport/football/articles/ceqzd5xzqx0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "O'Neill dismayed by Trusty verdict but hopeful on Celtic signings",
-      "link": "https://www.bbc.com/sport/football/articles/cx201915gk4o?at_medium=RSS&at_campaign=rss"
+      "moment": "Littler named PDC Player of the Year as part of awards hat-trick",
+      "link": "https://www.skysports.com/darts/news/12040/13500869/luke-littler-named-pdc-player-of-the-year-as-part-of-awards-hat-trick"
     }
   ]
 }
