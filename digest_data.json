@@ -1,30 +1,93 @@
 {
-  "generated_date": "2026-02-02",
-  "week_ending": "February 02, 2026",
+  "generated_date": "2026-02-03",
+  "week_ending": "February 03, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Why I loved a deadline-day deal - and never saw them as a risk",
-          "link": "https://www.bbc.com/sport/football/articles/cly3wj02vlno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-02",
-          "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis explains why the right deadline day signing can transform your team's fortunes, but sometimes it is not just about the effect a deal has on t...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+          "title": "Liverpool's Borggrafe joins Leverkusen on loan",
+          "link": "https://www.bbc.com/sport/football/articles/c4gv141077xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-03",
+          "summary": "Liverpool goalkeeper Rafaela Borggrafe joins Bayer Leverkusen on loan for the rest of the 2025-26 season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af58/live/a5fca120-00df-11f1-86f0-a753a1cb9eea.jpg"
         },
         {
-          "title": "Booed by some, loved by others - why does Vinicius divide Real fans?",
-          "link": "https://www.bbc.com/sport/football/articles/cg4e9v3kyl4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-02",
-          "summary": "Despite scoring a vital goal against Rayo Vallecano, why does forward Vinicius Jr continue to split opinion at the Bernabeu?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828c/live/bb1e5040-ffa8-11f0-8271-fbc780087a4c.jpg"
+          "title": "Just seven signings - the Premier League's quiet deadline day",
+          "link": "https://www.bbc.com/sport/football/articles/c30154v3r0zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-03",
+          "summary": "A low-key transfer deadline day ended with the fewest Premier League deals completed in a winter window. BBC Sport looks at the spending that was done, and examines why there was so little activity.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/879c4b90-008a-11f1-8eb1-afb5f4206c84.png"
         },
         {
-          "title": "Quiz: Name the record transfer for every letter of the alphabet",
-          "link": "https://www.bbc.com/sport/football/articles/czx1qq7g0ygo?at_medium=RSS&at_campaign=rss",
+          "title": "What to look out for on WSL transfer deadline day",
+          "link": "https://www.bbc.com/sport/football/articles/czdqzd4v789o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-03",
+          "summary": "The Women's Super League transfer window shuts on Tuesday - so what can we expect to happen on the final day of business?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/6b5b2ab0-0070-11f1-b49c-93e7b72bd9b3.jpg"
+        },
+        {
+          "title": "West Ham sell Denton for club record fee to Bay FC",
+          "link": "https://www.bbc.com/sport/football/articles/cgjw9l4075no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-03",
+          "summary": "West Ham sell defender Anouk Denton for a club record fee of \u00a3200,000 to American side Bay FC.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847f/live/4ef737c0-00d3-11f1-aa82-6f1782137694.jpg"
+        },
+        {
+          "title": "Ref Watch LIVE! Rodri outburst, Villa goal and Fulham incidents analysed",
+          "link": "https://www.skysports.com/football/live-blog/12040/13502599/ref-watch-live-man-city-aston-villa-fulham-incidents-and-more-analysed-by-former-referee-dermot-gallagher-and-jamie-ohara",
+          "published": "2026-02-03",
+          "summary": "",
+          "image": "https://e0.365dm.com/26/02/1920x1080/skysports-jorge-cuenca-john-brooks_7152527.jpg?20260201173438"
+        },
+        {
+          "title": "Mardle: Humphries and MVG have points to prove in Premier League",
+          "link": "https://www.skysports.com/darts/news/12040/13499131/premier-league-darts-2026-luke-humphries-and-michael-van-gerwen-have-points-to-prove-says-wayne-mardle",
+          "published": "2026-02-03",
+          "summary": "Wayne Mardle says Luke Humphries will use his Premier League Darts campaign to prove a point with the defending champion flying somewhat under the radar.",
+          "image": "https://e1.365dm.com/25/09/1920x1080/skysports-humphries-van-gerwen_7018109.png?20250912172539"
+        },
+        {
+          "title": "Who is in the relegation fight - and what is needed for survival?",
+          "link": "https://www.bbc.com/sport/football/articles/cddgjj6e31mo?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-02",
-          "summary": "When it comes to transfer windows, it's not all about the numbers - the letters are important too!",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f9/live/8ad57d80-fedd-11f0-9972-d3f265c101c6.png"
+          "summary": "Could West Ham, Burnley or Wolves defy the odds and secure Premier League survival?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42e/live/c5e89aa0-0082-11f1-9975-a5537eb5de21.jpg"
+        },
+        {
+          "title": "'Pure genius' - find out who is in Troy's Premier League team of the week",
+          "link": "https://www.bbc.com/sport/football/articles/c5y4n8wnr6xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f81/live/afbdfaf0-0090-11f1-9972-d3f265c101c6.jpg"
+        },
+        {
+          "title": "All the done deals on deadline day in one place",
+          "link": "https://www.bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+        },
+        {
+          "title": "'Disgraceful that Spurs had only 11 fit players' - captain Romero",
+          "link": "https://www.bbc.com/sport/football/articles/c5y4n80x821o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Captain Cristian Romero says it is \"disgraceful\" Tottenham had just 11 senior players available for Sunday's 2-2 Premier League draw at home to Manchester City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b253/live/dbac9700-0079-11f1-b527-21c46db45f72.jpg"
+        },
+        {
+          "title": "Is Benzema joining rivals behind Ronaldo's frustration in Saudi Arabia?",
+          "link": "https://www.bbc.com/sport/football/articles/cn56d999p91o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Cristiano Ronaldo's future at Al-Nassr is plunged into doubt after he is left out of their squad for Monday's Saudi Pro League game against Al-Riyadh.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c66/live/f563e5e0-0029-11f1-9972-d3f265c101c6.jpg"
+        },
+        {
+          "title": "Le Bris calms Europe talk as '40 points the target'",
+          "link": "https://www.bbc.com/sport/football/videos/ckgnqwzx1j1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Sunderland manager Regis Le Bris says he is primarily focused on achieving Premier League safety, despite a 3-0 win over Burnley propelling his side to eighth in the table.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40d0/live/aa808390-0087-11f1-a8b8-bdd2c5f9bcad.jpg"
         },
         {
           "title": "Moves to look out for on transfer deadline day",
@@ -34,81 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61cb/live/a6041480-ffc9-11f0-9972-d3f265c101c6.jpg"
         },
         {
-          "title": "Premier League Darts is back! Key info ahead of night one in Newcastle",
-          "link": "https://www.skysports.com/darts/news/12040/13501154/premier-league-darts-newcastle-2026-matches-schedule-tickets-odds-and-predictions-as-luke-littler-faces-gian-van-veen",
+          "title": "'The front three are frightening' - how Man City punished Chelsea",
+          "link": "https://www.bbc.com/sport/football/videos/cx2gz7ylwnwo?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-02",
-          "summary": "Premier League Darts is back for a new season on Thursday, <em>live on Sky Sports</em>, with Newcastle hosting the opening night of the 2026 schedule.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-darts-michael-van-gerwen_7119402.jpg?20251226122518"
+          "summary": "Women's Football Show pundits Natasha Dowie and Fern Whelan analyse Manchester City's \"ruthless\" 5-1 display over Chelsea in the Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcb/live/b8c76680-002d-11f1-b7e1-afb6d0884c18.jpg"
         },
         {
-          "title": "How does January window compare and what could happen on deadline day?",
-          "link": "https://www.bbc.com/sport/football/articles/c701gy85d4ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "With transfer deadline day approaching, how does the January window compare to previous years and what could still happen?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c264/live/2ee3be60-ff96-11f0-b5b6-6b2a047b2cea.png"
-        },
-        {
-          "title": "All the done deals on deadline day in one place",
-          "link": "https://www.bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-        },
-        {
-          "title": "Sesko scores dramatic late winner as Man Utd beat Fulham",
-          "link": "https://www.bbc.com/sport/football/videos/c2k97dxk9j1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Manchester United avoided Fulham's late comeback due to a Benjamin Sesko goal in stoppage time to give United three points and continue head coach Michael Carrick's perfect start.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/7497fd90-ffa5-11f0-a8b8-bdd2c5f9bcad.jpg"
-        },
-        {
-          "title": "Sarr earns Palace draw at Forest as Williams sees red for handball",
-          "link": "https://www.bbc.com/sport/football/videos/czx3ed19k96o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Neco Williams is sent off for deliberate handball in Nottingham Forest's draw with Crystal Palace, as he punched Jefferson Lerma's goalbound header off the line.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e871/live/e3a94ac0-ff98-11f0-a8b8-bdd2c5f9bcad.jpg"
-        },
-        {
-          "title": "Watch: Match of the Day",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002qwy6?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Highlights of the day's four Premier League games, including Tottenham v Manchester City.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mxyxq4.jpg"
-        },
-        {
-          "title": "Juventus want Everton striker Beto - Monday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cp370nrklkqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Marcus Rashford's future may be out of Manchester United's control, Liverpool look set to miss out on a target and Newcastle United's Jamaal Lascelles could be heading for the Championship.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9a/live/6ccba9b0-ffb7-11f0-9972-d3f265c101c6.png"
-        },
-        {
-          "title": "'If Arsenal don't win title now the blame will be entirely their own'",
-          "link": "https://www.bbc.com/sport/football/articles/cd7z981295xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Arsenal will only have themselves to blame if they do not win the title as their rivals stumble in a perfect weekend for the Gunners, says chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c954/live/c22bf090-ffad-11f0-8271-fbc780087a4c.jpg"
-        },
-        {
-          "title": "Does Rangers' title bid hinge on signing new striker?",
-          "link": "https://www.bbc.com/sport/football/articles/c4gw72xx37yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Andy Halliday questions whether Rangers have the attacking output to win the league after Sunday's goalless draw at Hibernian - but what do the numbers say?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf68/live/c6e4a560-ffa7-11f0-8271-fbc780087a4c.jpg"
-        },
-        {
-          "title": "Who is in the relegation fight - and what is needed for survival?",
-          "link": "https://www.bbc.com/sport/football/articles/cddgjj6e31mo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Could West Ham, Burnley or Wolves defy the odds and secure Premier League survival?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aac/live/a3d9ebe0-ffa5-11f0-b7e1-afb6d0884c18.jpg"
-        },
-        {
-          "title": "Celtic close to two signings & eyeing more - O'Neill",
-          "link": "https://www.bbc.com/sport/football/articles/c0mk3r70zzko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-01",
-          "summary": "Celtic interim manager Martin O'Neill reveals two prospective signings are having medicals and hinted the club could do further deals after his team beat Falkirk 2-0 to move above Rangers into second ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b05/live/4f954f30-ffa4-11f0-81fe-cd28593c1412.jpg"
+          "title": "Monday Night Club: Mateta\u2019s move off, Man City\u2019s slump and Liverpool\u2019s new star man",
+          "link": "https://www.bbc.co.uk/sounds/play/p0myptth?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Reaction to an underwhelming Transfer Deadline Day and Arsenal\u2019s six-point lead.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0myptwp.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,18 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Watch: Late drama in Championship & huge win for Edinburgh City",
-          "link": "https://www.bbc.com/sport/football/videos/cj3vd73g87go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-02",
-          "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
+          "title": "Late transfer flurry sets Wrexham up for run-in",
+          "link": "https://www.bbc.com/sport/football/articles/cwywz3j9eego?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-03",
+          "summary": "Wrexham made numerous changes to their squad during the transfer window as they remain in pursuit of a play-off place in the Championship.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd83/live/ce0d30f0-00ce-11f1-9972-d3f265c101c6.png"
         },
         {
-          "title": "Championship talking points: Are Middlesbrough now promotion favourites as Coventry slip again?",
-          "link": "https://www.skysports.com/football/news/12040/13500647/championship-talking-points-are-middlesbrough-now-promotion-favourites-as-coventry-slip-again",
-          "published": "2026-02-01",
-          "summary": "",
-          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-middlesbrough-fc_7151237.jpg?20260131152221"
+          "title": "Talbi rocket seals decisive Sunderland win over Burnley",
+          "link": "https://www.bbc.com/sport/football/videos/c4g31dqzk8no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-02",
+          "summary": "Watch highlights as Sunderland earn a decisive victory over struggling Burnley, capped by an incredible long-range goal from Chemsdine Talbi.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2c/live/18be6510-0084-11f1-a8b8-bdd2c5f9bcad.jpg"
         }
       ],
       "highlights": [
@@ -158,15 +158,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Pele, borrowed kits and Euro glory: The FAW at 150",
-          "link": "https://www.bbc.com/sport/football/articles/c14rdm1lmg6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-02",
-          "summary": "BBC Sport Wales looks at key moments in the history of the world third oldest football association, formed in Wrexham on 2 February, 1876.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3182/live/f6836930-fdc4-11f0-9fd1-b16cd887f03f.png"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -189,20 +181,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Quiz: Name the record transfer for every letter of the alphabet",
-      "link": "https://www.bbc.com/sport/football/articles/czx1qq7g0ygo?at_medium=RSS&at_campaign=rss"
+      "moment": "West Ham sell Denton for club record fee to Bay FC",
+      "link": "https://www.bbc.com/sport/football/articles/cgjw9l4075no?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Sesko scores dramatic late winner as Man Utd beat Fulham",
       "link": "https://www.bbc.com/sport/football/videos/c2k97dxk9j1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'Pass forward, run forward' - Spurs' superb second half",
-      "link": "https://www.bbc.com/sport/football/articles/cnvglrvem8ro?at_medium=RSS&at_campaign=rss"
+      "moment": "'Historic day for women's football' - but was Champions Cup a success?",
+      "link": "https://www.bbc.com/sport/football/articles/cn8jmde3yzzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Sensational Solanke SCORPION KICK completes Spurs comeback to STUN City",
-      "link": "https://www.skysports.com/watch/video/13502052/spurs-2-2-manchester-city-premier-league-highlights"
+      "moment": "'Pass forward, run forward' - Spurs' superb second half",
+      "link": "https://www.bbc.com/sport/football/articles/cnvglrvem8ro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
