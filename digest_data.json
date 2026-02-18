@@ -1,30 +1,72 @@
 {
-  "generated_date": "2026-02-17",
-  "week_ending": "February 17, 2026",
+  "generated_date": "2026-02-18",
+  "week_ending": "February 18, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "'We really messed up' - does European football need more balance?",
-          "link": "https://www.bbc.com/sport/football/articles/cgmzylx4004o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-17",
-          "summary": "One set of clubs dominate the Champions League, another win their domestic title every year but cannot compete - does European football have a problem?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/06d51180-d5b1-11f0-a892-01d657345866.jpg"
+          "title": "'Cowards' - Vinicius speaks out as Benfica deny racism claims",
+          "link": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-18",
+          "summary": "The Champions League match between Real Madrid and Benfica was halted for 10 minutes, with both sets of players leaving the pitch.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc7/live/d1cba020-0c61-11f1-a0df-a5df7a949202.jpg"
         },
         {
-          "title": "Is facing a Champions League play-off really that bad?",
-          "link": "https://www.bbc.com/sport/football/articles/c5y2y7y2pwwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-17",
-          "summary": "The Champions League returns this week and some of Europe's biggest teams will be back in action a lot earlier than they would have hoped.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f996/live/166225d0-09a9-11f1-b7e1-afb6d0884c18.jpg"
+          "title": "Is VAR any better in the rest of Europe's top leagues?",
+          "link": "https://www.bbc.com/sport/football/articles/cdxz2ey2lz2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-18",
+          "summary": "You do not need to look far to find people proclaiming that VAR works fine outside the Premier League. BBC Sport spoke to people across Europe's top leagues to find out.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38e/live/effc78b0-0c9f-11f1-ab92-c5c4ffbfd0e0.jpg"
         },
         {
-          "title": "Why Benfica tie is pivotal for Arbeloa and Real Madrid",
-          "link": "https://www.bbc.com/sport/football/articles/cn0e4x87pz3o?at_medium=RSS&at_campaign=rss",
+          "title": "Can you name every team that's finished top or bottom in the Premier League era?",
+          "link": "https://www.bbc.com/sport/football/articles/ce8wn2p17jxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-18",
+          "summary": "We want you to name every team who has finished top or bottom in the Premier League era. Good luck!",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ecf/live/1be05a50-08ef-11f1-9972-d3f265c101c6.jpg"
+        },
+        {
+          "title": "Pacquiao resumes return with 10-round exhibition against Provodnikov",
+          "link": "https://www.skysports.com/boxing/news/12040/13508896/manny-pacquiao-announces-another-return-with-10-round-exhibition-against-ruslan-provodnikov",
+          "published": "2026-02-18",
+          "summary": "Manny Pacquiao has confirmed he will take on Ruslan Provodnikov in a 10-round welterweight exhibition match on April 18 at Thomas and Mack Center in Las Vegas.",
+          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-manny-pacquiao-boxing_7167879.jpg?20260218074932"
+        },
+        {
+          "title": "'I try to be balanced' - Mourinho after Vinicius alleges racist abuse",
+          "link": "https://www.skysports.com/watch/video/13508885/vinicius-jr-racism-allegation-jose-mourinho-says-he-tried-to-be-balanced-after-incident-during-benfica-vs-real-madrid",
+          "published": "2026-02-18",
+          "summary": "Benfica boss Jose Mourinho says he tried to be 'balanced' in his response to Vinicius Jr's racism allegation during the Champions League game against Real Madrid.",
+          "image": "https://e1.365dm.com/26/02/1920x1080/skysports-mourinho-real-madrid_7167848.jpg?20260218063829"
+        },
+        {
+          "title": "Real Madrid tie at Benfica halted over Vinicius racism allegation",
+          "link": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-17",
-          "summary": "After a difficult start as Real Madrid manager, Alvaro Arbeloa will know the importance of progressing past Jose Mourinho's Benfica in the Champions League play-off round.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80be/live/83daa6a0-0b75-11f1-87ad-1da650b598ae.jpg"
+          "summary": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8abd/live/30708100-0c5c-11f1-b5e2-dd58fc65f0f6.jpg"
+        },
+        {
+          "title": "Arsenal make Saka best-paid player with new five-year deal",
+          "link": "https://www.bbc.com/sport/football/articles/c4gje501g51o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "England winger Bukayo Saka commits his future to Premier League leaders Arsenal by signing a new five-year deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16aa/live/5eaa90a0-ed6d-11f0-88e7-5d06f9172e94.jpg"
+        },
+        {
+          "title": "Watch: Dundee United edge out Spartans in Scottish Cup",
+          "link": "https://www.bbc.com/sport/articles/c1d641qk5geo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "Watch as Dundee United survive an early red card - and a late comeback from League 2 visitors Spartans - to win 2-1 and set up a Scottish Cup quarter-final away to Premiership rivals Falkirk.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f681/live/0dc630a0-0c52-11f1-b5e2-dd58fc65f0f6.jpg"
+        },
+        {
+          "title": "Bicycle kicks & set-piece magic - FA Cup fourth round best goals",
+          "link": "https://www.bbc.com/sport/football/videos/cgjz5dx595vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "Watch the best goals from across the FA Cup fourth-round weekend, including a stunning free kick from Mansfield's Louis Reed and a strike from outside the box by Newcastle's Sandro Tonali.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ce/live/0dd8a5a0-0bee-11f1-b5e2-dd58fc65f0f6.jpg"
         },
         {
           "title": "Own goal helps Brentford end Macclesfield's FA Cup run",
@@ -34,81 +76,39 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6faf/live/ac738400-0b8a-11f1-9972-d3f265c101c6.jpg"
         },
         {
-          "title": "How well do you remember the league phase of the Champions League?",
-          "link": "https://www.bbc.com/sport/football/articles/cx2rj2d9yggo?at_medium=RSS&at_campaign=rss",
+          "title": "Arteta 'respectful' of fans but has felt 'exposed'",
+          "link": "https://www.bbc.com/sport/football/articles/cp9myp1nlxmo?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-17",
-          "summary": "There was plenty of drama and high-profile clashes in this season's league phase stage of Europe's elite club competition.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/b5a0beb0-0b3c-11f1-9972-d3f265c101c6.jpg"
+          "summary": "Arsenal manager Mikel Arteta says he is \"happy\" to interact with fans but there are times where he has felt \"exposed\" and \"not very comfortable\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede1/live/91a34ea0-0c28-11f1-a62a-a37536f5ddff.jpg"
         },
         {
-          "title": "FA Cup heroes Macclesfield make memories to last a lifetime",
-          "link": "https://www.bbc.com/sport/football/articles/cgjz52exvy3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Macclesfield's FA Cup odyssey may have ended against Brentford but they have made memories to last a lifetime, says chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da0/live/e5343ab0-0b84-11f1-96df-afee630d98b9.jpg"
+          "title": "'We really messed up' - does European football need more balance?",
+          "link": "https://www.bbc.com/sport/football/articles/cgmzylx4004o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "One set of clubs dominate the Champions League, another win their domestic title every year but cannot compete - does European football have a problem?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/06d51180-d5b1-11f0-a892-01d657345866.jpg"
         },
         {
-          "title": "League One Mansfield to host Arsenal in fifth round - full FA Cup draw",
-          "link": "https://www.bbc.com/sport/football/articles/cwy9ewq4yp9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "League One club Mansfield will host record 14-time winners Arsenal at Field Mill in the FA Cup fifth round, as Manchester City head to Newcastle in a repeat of the League Cup semi-final.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe05/live/3af878b0-0b69-11f1-8935-77ca02594f06.jpg"
+          "title": "Toney leaves Premier League door open - Wednesday's gossip",
+          "link": "https://www.bbc.com/sport/football/articles/c89kyq9z9pqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "Ivan Toney leaves the door open for a move back to the Premier League, Liverpool have no plans to sell Dominik Szoboszlai, Nick Woltemade is eyeing a move back to the Bundesliga, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/8b17a430-0c52-11f1-b5e2-dd58fc65f0f6.png"
         },
         {
-          "title": "Was Tullis-Joyce's 'tactical injury' a smart move? Fara thinks so",
-          "link": "https://www.bbc.com/sport/football/videos/cewzkl9dzj8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Fara Williams suggests that Phallon Tullis\u2011Joyce's 'tactical injury' was a clever move, as it gave Manchester United players the chance to receive instructions - guidance that subsequently contributed...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/f1d3be20-0b49-11f1-b5e2-dd58fc65f0f6.jpg"
+          "title": "'Some people think it's live' - how is the commentary in EA Sports FC 26 put together?",
+          "link": "https://www.bbc.com/sport/football/articles/c4g40828ngjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "BBC Sport's Ask Me Anything team explains how the commentary in best-selling football video game EA FC 26 is put together.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/460c/live/2f027d50-0662-11f1-9972-d3f265c101c6.jpg"
         },
         {
-          "title": "'Golazo!'- why one of football's most iconic intros has returned",
-          "link": "https://www.bbc.com/sport/football/articles/c9dn572dn80o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "BBC Sport looks at a feature of Serie A coverage which is delighting fans once more, three decades after the height of its popularity.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/1e54e0f0-0b59-11f1-b472-df9c1c12cffb.png"
-        },
-        {
-          "title": "Referee and assistant stood down after FA Cup mistakes",
-          "link": "https://www.bbc.com/sport/football/articles/c15xq3y41v9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Referee Chris Kavanagh and his assistant Nick Greenhalgh have not been selected for a Premier League game this weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aca/live/150e58e0-0b5a-11f1-b472-df9c1c12cffb.jpg"
-        },
-        {
-          "title": "Is the Scottish title race the most exciting in Europe?",
-          "link": "https://www.bbc.com/sport/football/articles/c3wl8gn95zeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Can any other European league rival the drama of Scotland? BBC Sport has picked out the five closest title battles.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/986f2ce0-0b2e-11f1-a204-b3f033b84443.jpg"
-        },
-        {
-          "title": "Arrests made after discriminatory chants at Hull City",
-          "link": "https://www.bbc.com/sport/football/articles/cvg8748r0w2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Arrests have been made following incidents of alleged discriminatory chanting during the FA Cup fourth round match between Hull City and Chelsea.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b2b/live/792d5b70-092d-11f1-9b8e-358033f9eafe.jpg"
-        },
-        {
-          "title": "What thrilling week tells us about Scottish Premiership title race",
-          "link": "https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "A super Sunday in the Scottish Premiership delivered thrills and spills and leaves the top three covered by just three points.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"
-        },
-        {
-          "title": "Ramadan breaks to be used across English football again",
-          "link": "https://www.bbc.com/sport/football/articles/c20jpvd300do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Matches will briefly stop during a natural pause in play to allow Muslim players to break their fast - as has been the case since 2021 across English football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761a/live/4ec18d10-0b2c-11f1-a204-b3f033b84443.jpg"
-        },
-        {
-          "title": "Wounded kings Real will be dangerous - Mourinho",
-          "link": "https://www.bbc.com/sport/football/articles/cvg39xezen1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-16",
-          "summary": "Jose Mourinho warns his side that the \"kings of the Champions League\" will be dangerous after Benfica's dramatic win against Real Madrid last month.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6539/live/4e1db680-0b2d-11f1-a204-b3f033b84443.jpg"
+          "title": "Tudor says 'no time for excuses' about Spurs form",
+          "link": "https://www.bbc.com/sport/football/articles/cj0dqndpej5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "New Tottenham Hotspur interim manager Igor Tudor says \"nobody can accept\" the club's current position.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec58/live/aba04650-0c0a-11f1-8fde-154221cb04db.jpg"
         }
       ],
       "highlights": [
@@ -123,25 +123,18 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Wright hat-trick FIRES Coventry back to top of Championship!",
-          "link": "https://www.skysports.com/watch/video/13508386/coventry-city-3-1-middlesbrough-championship-highlights",
-          "published": "2026-02-16",
-          "summary": "Highlights of the Sky Bet Championship clash between Coventry City and Middlesbrough.",
-          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-coventry-efl_7166898.jpg?20260216222021"
+          "title": "What did we learn from the biggest Championship game of the season?",
+          "link": "https://www.bbc.com/sport/football/articles/cwyxgvlwd3ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "After Coventry's win over Middlesbrough took them top of the Championship, where do both sides go from here?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66fc/live/65fb72a0-0c0a-11f1-9972-d3f265c101c6.jpg"
         },
         {
-          "title": "'Big players, big moments, big nights!' | Wright completes hat-trick from penalty spot",
-          "link": "https://www.skysports.com/watch/video/13508374/haji-wright-completes-coventry-hat-trick-from-spot-after-matt-targett-handball",
+          "title": "'Oh wow, TWO!?' | Nijman has back-to-back bounce-outs in Players Championship",
+          "link": "https://www.skysports.com/watch/video/13508284/players-championship-3-wessel-nijman-suffers-two-bounce-outs-during-loss-to-kevin-doets",
           "published": "2026-02-16",
-          "summary": "Haji Wright completed his hat-trick for Coventry City from the penalty spot to put the Sky Blues 3-1 ahead against Middlesbrough in their Sky Bet Championship clash.",
-          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-haji-wright-wright_7166878.jpg?20260216214813"
-        },
-        {
-          "title": "'He should score!' | Wright heads against post for Coventry",
-          "link": "https://www.skysports.com/watch/video/13508352/haji-wright-hits-post-in-blistering-coventry-start-he-should-score",
-          "published": "2026-02-16",
-          "summary": "Coventry's Haji Wright hit the post with a headed effort from six-yard out in the first two minutes of the Sky Bet Championship clash against Middlesbrough.",
-          "image": "https://e1.365dm.com/26/02/1920x1080/skysports-wright-haji-wright_7166818.jpg?20260216201515"
+          "summary": "Wessel Nijman had a moment to forget as he had back-to-back bounce-outs in one visit as he lost to Dutch compatriot Kevin Doets in the Players Championship 3. Credit: OfficialPDC",
+          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-nijman-darts_7166669.jpg?20260216163526"
         },
         {
           "title": "Leeds beat Birmingham on penalties in FA Cup",
@@ -197,7 +190,22 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "O'Neill 'delighted' Northern Ireland play-off is in Bergamo",
+          "link": "https://www.bbc.com/sport/football/articles/c3dz82l9xylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "Northern Ireland manager Michael O'Neill says he is \"delighted\" that March's World Cup play-off semi-final with Italy will be played in Bergamo.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7699/live/ca5fda10-0c37-11f1-9972-d3f265c101c6.jpg"
+        },
+        {
+          "title": "Scotland choose Charlotte as base for World Cup",
+          "link": "https://www.bbc.com/sport/football/articles/cp8rvr1m6njo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-17",
+          "summary": "Scotland will set up camp at the home of Charlotte FC in North Carolina for the duration of the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdec/live/00235950-0c11-11f1-b7e1-afb6d0884c18.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -209,48 +217,20 @@
   },
   "standout_moments": [
     {
-      "moment": "League One Mansfield to host Arsenal in fifth round - full FA Cup draw",
-      "link": "https://www.bbc.com/sport/football/articles/cwy9ewq4yp9o?at_medium=RSS&at_campaign=rss"
+      "moment": "Watch: Dundee United edge out Spartans in Scottish Cup",
+      "link": "https://www.bbc.com/sport/articles/c1d641qk5geo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Bicycle kicks & set-piece magic - FA Cup fourth round best goals",
+      "link": "https://www.bbc.com/sport/football/videos/cgjz5dx595vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Spurs unstoppable in 10-goal thriller against Aston Villa",
       "link": "https://www.bbc.com/sport/football/videos/cy9gl5pprljo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Wounded kings Real will be dangerous - Mourinho",
-      "link": "https://www.bbc.com/sport/football/articles/cvg39xezen1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Celtic spirit reminds O'Neill of glory years",
-      "link": "https://www.bbc.com/sport/football/articles/ceqv908d5jro?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "moment": "Reed & Kevin earn Fulham comeback win at Stoke",
       "link": "https://www.bbc.com/sport/football/videos/cx2457y27dyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'It was cruel' - slick Spurs hit seven but Ho still not satisfied",
-      "link": "https://www.bbc.com/sport/football/articles/cr5l3q20lj3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Mansfield's Reed scores fabulous free-kick to upset Burnley",
-      "link": "https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Papers: Man Utd ponder shock summer move for Mac Allister",
-      "link": "https://www.skysports.com/football/news/12040/13508312/alexis-mac-allister-man-utd-ponder-shock-summer-move-for-liverpool-midfielder-paper-talk-and-football-transfer-gossip"
-    },
-    {
-      "moment": "Wright hat-trick FIRES Coventry back to top of Championship!",
-      "link": "https://www.skysports.com/watch/video/13508386/coventry-city-3-1-middlesbrough-championship-highlights"
-    },
-    {
-      "moment": "'Big players, big moments, big nights!' | Wright completes hat-trick from penalty spot",
-      "link": "https://www.skysports.com/watch/video/13508374/haji-wright-completes-coventry-hat-trick-from-spot-after-matt-targett-handball"
-    },
-    {
-      "moment": "Barcelona miss chance to regain top spot with shock loss at Girona",
-      "link": "https://www.skysports.com/watch/video/13508394/girona-2-1-barcelona-laliga-highlights"
     }
   ]
 }
