@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-02-28",
-  "week_ending": "February 28, 2026",
+  "generated_date": "2026-03-01",
+  "week_ending": "March 01, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "The moment I told my mum I wanted to stop football - and how life changed",
-          "link": "https://www.bbc.com/sport/football/articles/c363j2ygwy8o?at_medium=RSS&at_campaign=rss",
+          "title": "Arsenal set to celebrate St Totteringham's Day earlier than ever",
+          "link": "https://www.bbc.com/sport/football/articles/cwygre5geq2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-01",
+          "summary": "The day it becomes impossible for Spurs to finish above Arsenal in the Premier League, St Totteringham's Day is set to arrive earlier than ever.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c695/live/4d3c5c20-130d-11f1-95cc-e915f3740ffd.jpg"
+        },
+        {
+          "title": "'You can't avoid the political climate' -  Fishlock on EuroGames 'honour'",
+          "link": "https://www.bbc.com/sport/football/articles/c6200gylppzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-01",
+          "summary": "Jess Fishlock, generally regarded as Wales' greatest ever female footballer, says she felt compelled to become an ambassador for the 2027 EuroGames in Cardiff due to the \"political climate right now\" ...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/832b7720-f77a-11f0-b7ec-55c1cb544783.jpg"
+        },
+        {
+          "title": "'World-class save' - How Pickford & Everton thwarted Newcastle",
+          "link": "https://www.bbc.com/sport/football/videos/cx2lgevrr67o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-01",
+          "summary": "Match of the Day pundits Alan Shearer and Ashley Williams react to Jordan Pickford's \"remarkable\" injury-time save against Newcastle.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1895/live/8e480b00-1502-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "'Not fair to fans' - how VAR denied Burnley one of greatest comebacks",
+          "link": "https://www.bbc.com/sport/football/articles/cdjm83ljpmno?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-28",
-          "summary": "England captain Leah Williamson tells presenter Kelly Somers about her journey in football - and life away from the game.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da76/live/64e92980-1474-11f1-9120-a910fc22c6ac.jpg"
+          "summary": "Burnley were set to complete one of the greatest Premier League comebacks - until VAR intervened. BBC Sport takes a look at whether the decisions were correct.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed6/live/2c08cfb0-14e4-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "Benfica suspend five fans over racist incidents",
-          "link": "https://www.bbc.com/sport/football/articles/cwy6kz692lyo?at_medium=RSS&at_campaign=rss",
+          "title": "New set-piece kings Liverpool can still achieve 'something beautiful'",
+          "link": "https://www.bbc.com/sport/football/articles/c4g2972nrpeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-02-28",
-          "summary": "Benfica suspend five supporters for racist incidents following the recent Champions League game against Real Madrid.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/0ad72c50-147c-11f1-b958-e37187297895.jpg"
+          "summary": "Liverpool boosted their Champions League hopes with a 5-2 win against West Ham, helped by three goals from set-pieces in the first half.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a228/live/f4ee7b30-14d7-11f1-b106-cbf633dcab7a.jpg"
         },
         {
-          "title": "Emery's title 'dream' over - but will Villa salvage top-five hopes?",
-          "link": "https://www.bbc.com/sport/football/articles/c78x13vvnv5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Aston Villa boss Unai Emery concedes his Premier League title \"dreams\" are over, but will the club salvage their Champions League hopes?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3512/live/fcafbfe0-1433-11f1-9120-a910fc22c6ac.png"
+          "title": "'Not the sign of a top team' - Newcastle take huge step backwards",
+          "link": "https://www.bbc.com/sport/football/articles/cly80vd4nvdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Newcastle are languishing in 12th place in the Premier League for a reason - they have conceded 23 goals since they last kept a clean sheet in any competition.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8258/live/f18701b0-14e1-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "Chelsea to face holders PSG in Champions League last 16",
-          "link": "https://www.bbc.com/sport/football/articles/c70njrx7enwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Chelsea will play holders Paris St-Germain in the Champions League last 16 while Manchester City will face Real Madrid in the knockout stages for a fifth straight season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b929/live/bfbff630-13d0-11f1-b048-c9424b2cf5fd.png"
+          "title": "'Manager of season contender' Andrews has Brentford dreaming of Europe",
+          "link": "https://www.bbc.com/sport/football/articles/c15x740p2wko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "That Brentford are seventh in the Premier League is credit to Keith Andrews, who - it is easy to forget - is in his debut season as a manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb00/live/15a01360-14e3-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "How do Man City's Muslim players adapt to Ramadan?",
-          "link": "https://www.bbc.com/sport/football/articles/c20lzy1n59lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Muslims around the world are currently observing the Islamic holy month of Ramadan, including professional footballers, so how do Manchester City help their players?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68cd/live/e44003f0-1309-11f1-b989-2bdf9643fe72.png"
+          "title": "Boos heard during Ramadan pause at Elland Road",
+          "link": "https://www.bbc.com/sport/football/articles/c178x0jppelo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e40c/live/385ace90-14d9-11f1-b106-cbf633dcab7a.jpg"
         },
         {
-          "title": "Wolves beat Villa to surpass lowest-ever points record",
-          "link": "https://www.bbc.com/sport/football/videos/cm217k34lg2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Watch highlights as Wolves dent Aston Villa's Champions League qualification hopes with a 2-0 home win, ensuring they better the worst Premier League points tally set by Derby County.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d60/live/1ec109c0-142c-11f1-801d-ed3cff6bf876.jpg"
+          "title": "Liverpool score five in dominant win over West Ham",
+          "link": "https://www.bbc.com/sport/football/videos/c62d07zy202o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Liverpool put five past West Ham United in a dominant performance that moves them up to fifth in the Premier League table.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c837/live/7b85d000-14d6-11f1-b048-c9424b2cf5fd.jpg"
         },
         {
-          "title": "Augsburg mark landmark game with win over Cologne",
-          "link": "https://www.bbc.com/sport/football/videos/c0j5d57x50po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Watch Bundesliga highlights, as hostAugsburg celebrate their 500th game in the competition with a win over Cologne, thanks to a well-taken goal by Rodrigo Ribeiro.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7733/live/f38d2670-1427-11f1-801d-ed3cff6bf876.jpg"
+          "title": "Pickford and Barry heroics earn Everton late win at Newcastle",
+          "link": "https://www.bbc.com/sport/football/videos/c80j3dpe78do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Thierno Barry responds to Newcastle's late equaliser with a goal of his own to see Everton beat Newcastle 3-2.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ecc/live/d6583d60-14d6-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "'Laser-focused' - is lack of European football helping Man United?",
-          "link": "https://www.bbc.com/sport/football/videos/cx2rnne0rp1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Manchester United caretaker head coach Michael Carrick says \"it's a relief\" his side aren't in any European competitions this season, which has allowed them to focus solely on the Premier League with ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d2/live/196b32c0-13ff-11f1-b048-c9424b2cf5fd.jpg"
+          "title": "Semenyo makes the difference as Man City beat Leeds",
+          "link": "https://www.bbc.com/sport/football/videos/ce8wg3zrr29o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Antoine Semenyo's goal for Man City moments before half-time is enough to beat Leeds United and close in on leaders Arsenal in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d332/live/db7c7ce0-14de-11f1-b048-c9424b2cf5fd.jpg"
         },
         {
-          "title": "So much for three-year plan - what is the secret to manager longevity?",
-          "link": "https://www.bbc.com/sport/football/articles/ckg1lzwegpgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "In his BBC Sport column, ex-Premier League boss Tony Pulis explains why it is so hard for football managers to keep their jobs in the modern game.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+          "title": "Late Brentford winner thwarts spirited Burnley comeback",
+          "link": "https://www.bbc.com/sport/football/videos/cn71e2xkxrno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Brentford hold on as Burnley have their three-goal comeback against squashed by Mikel Damsgaard's injury-time winner, with Ashley Barnes' last gasp equaliser ruled out.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a932/live/8a368190-14da-11f1-b048-c9424b2cf5fd.jpg"
         },
         {
-          "title": "Arrests after flares thrown in Forest's Europa League match",
-          "link": "https://www.bbc.com/news/articles/ckg8kzde992o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Police say they received reports of flares being thrown from the away end and arrested three people.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e2/live/6fceeea0-13ef-11f1-82ca-eb805bf206d6.jpg"
+          "title": "Evanilson goal extends Bournemouth unbeaten run",
+          "link": "https://www.bbc.com/sport/football/videos/c86y70jlyezo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Bournemouth's unbeaten run extends to eight Premier League games after coming from behind to draw 1-1 with Sunderland.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/15aa6d10-14b6-11f1-b048-c9424b2cf5fd.jpg"
         },
         {
-          "title": "From Hearts failure to Estoril excitement - the 'most Portuguese Scot there is'",
-          "link": "https://www.bbc.com/sport/football/articles/ce94r0x3v55o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "After a forgettable seven months in charge at Hearts in 2017, Scottish manager Ian Cathro is rebuilding his reputation at Estoril.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dae/live/1f470660-122e-11f1-8a75-7b501e33d8b5.jpg"
+          "title": "How one of Europe's best defences has Motherwell in title mix",
+          "link": "https://www.bbc.com/sport/football/articles/cre03z19r2vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "BBC Scotland examines Motherwell's incredible defensive record as they move into the Scottish Premiership title mix.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e742/live/923e8340-14e6-11f1-928b-9ba417355900.jpg"
         },
         {
-          "title": "VAR to be used for first time in Northern Ireland",
-          "link": "https://www.bbc.com/sport/articles/cdjmrxzr942o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Video Assistant Referee (VAR) technology is to be used in Northern Ireland domestic football for the first time in next month's BetMcLean Cup final between Linfield and Glentoran at Windsor Park.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/68f7bf10-13d3-11f1-aa2d-1d11f10592ef.jpg"
-        },
-        {
-          "title": "Emery preaches positivity after loss to bottom side Wolves",
-          "link": "https://www.bbc.com/sport/football/videos/cj6dnx9kge4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Aston Villa manager Unai Emery reflects on his side's performance against Wolves and says \"now is the time to be together\" in the Premier League top-four race after their 2-0 defeat at Molineux.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e02/live/0ebb7260-142f-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "title": "'He's a tough guy' - Rosenior supports Fofana after online racist abuse",
-          "link": "https://www.bbc.com/sport/football/videos/cj6dnxl35wko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Chelsea head coach Liam Rosenior has urged his squad to ignore comments on social media after defender Wesley Fofana was subject to racist abuse following Chelsea's 1-1 draw against Burnley in the Pre...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced7/live/9fda3150-13f8-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "title": "Nuno helps me improve every day - Summerville",
-          "link": "https://www.bbc.com/sport/football/videos/ckg1377xy4zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "West Ham's Crysencio Summerville shares how manager Nuno Espirito Santo has been helping him improve this season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa0/live/58ad6580-1331-11f1-b048-c9424b2cf5fd.jpg"
+          "title": "'Out of absolutely nothing' - Lamine Yamal's solo stunner",
+          "link": "https://www.bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-02-28",
+          "summary": "Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Lig...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1792/live/5185b920-14cf-11f1-b048-c9424b2cf5fd.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,18 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Norwich's Sargent completes \u00a320m move to Toronto",
-          "link": "https://www.bbc.com/sport/football/articles/c93jk35nzz0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Norwich City striker Josh Sargent completes his move to MLS side Toronto FC in a deal worth more than \u00a320m.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f56/live/ca276dc0-1091-11f1-9e15-6d49321af9ff.jpg"
+          "title": "Green wins Women's World Championship for second time",
+          "link": "https://www.skysports.com/golf/news/12040/13513762/womens-world-championship-hannah-green-wins-lpga-tour-title-for-second-time-ahead-of-auston-kim",
+          "published": "2026-03-01",
+          "summary": "Australian Hannah Green won the HSBC Women's World Championship for a second time after holding off fast-finishing American Auston Kim to claim a one-stroke victory.",
+          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-hannah-green-australia_7178539.jpg?20260301083831"
+        },
+        {
+          "title": "Leeds shine bright in 58-6 win over Hull KR in Las Vegas!",
+          "link": "https://www.skysports.com/watch/video/13513722/hull-kr-6-58-leeds-rhinos-super-league-highlights",
+          "published": "2026-03-01",
+          "summary": "Watch the highlights from the Las Vegas Super League showdown between Hull KR and Leeds Rhinos",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-super-league-hull-kr_7178450.jpg?20260301023614"
         }
       ],
       "highlights": [
@@ -140,15 +147,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "'Extraordinary' Rohl comments rile O'Neill before derby",
-          "link": "https://www.bbc.com/sport/football/articles/cgrz4x2lj92o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Celtic manager Martin O'Neill expresses surprise at Rangers counterpart Danny Rohl's comments about his team before Sunday's crucial Old Firm derby.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741a/live/15da8330-1405-11f1-8e3a-e7cecfbdc12f.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -177,13 +176,6 @@
           "published": "2026-02-28",
           "summary": "Leah Williamson speaks to Kelly Somers on The Football Interview.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef58/live/4ec75850-11a1-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "'Breath of fresh air' Lindsay backed for NI job",
-          "link": "https://www.bbc.com/sport/football/articles/c1d60q3ygp1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-02-27",
-          "summary": "Northern Ireland midfielder Nadene Caldwell backs Kris Lindsay to take the manager's job permanently after impressing players in camp before their opening two World Cup qualifiers",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ca/live/131970c0-13ec-11f1-82ca-eb805bf206d6.jpg"
         }
       ],
       "highlights": [
@@ -197,24 +189,48 @@
   },
   "standout_moments": [
     {
-      "moment": "'Extraordinary' Rohl comments rile O'Neill before derby",
-      "link": "https://www.bbc.com/sport/football/articles/cgrz4x2lj92o?at_medium=RSS&at_campaign=rss"
+      "moment": "'Not fair to fans' - how VAR denied Burnley one of greatest comebacks",
+      "link": "https://www.bbc.com/sport/football/articles/cdjm83ljpmno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Late Brentford winner thwarts spirited Burnley comeback",
+      "link": "https://www.bbc.com/sport/football/videos/cn71e2xkxrno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "How one of Europe's best defences has Motherwell in title mix",
+      "link": "https://www.bbc.com/sport/football/articles/cre03z19r2vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'Out of absolutely nothing' - Lamine Yamal's solo stunner",
+      "link": "https://www.bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Pickford save 'out of this world' - Moyes",
+      "link": "https://www.bbc.com/sport/football/videos/cqlg9l4ly66o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'It's not a good look' - Howe calls for accountability",
+      "link": "https://www.bbc.com/sport/football/videos/cwy87yn8q99o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'Too much drama for my liking' - Andrews on seven-goal thriller",
+      "link": "https://www.bbc.com/sport/football/videos/cp32xvg14zwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "'He cares so much about this team' - Damsgaard on Andrews",
+      "link": "https://www.bbc.com/sport/football/videos/c204k70zj8mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Wolves beat Villa to surpass lowest-ever points record",
       "link": "https://www.bbc.com/sport/football/videos/cm217k34lg2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'Don't know what fuss was about' - chaotic Palace season could end in glory",
-      "link": "https://www.bbc.com/sport/football/articles/c14mp80157vo?at_medium=RSS&at_campaign=rss"
+      "moment": "How have Chelsea made biggest loss in English football history?",
+      "link": "https://www.bbc.com/sport/football/articles/crrxjyk54zpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Late DRAMA as Wolves STUN Aston Villa in West Midlands derby",
-      "link": "https://www.skysports.com/watch/video/13513174/wolves-2-0-aston-villa-premier-league-highlights"
-    },
-    {
-      "moment": "Wolves stun third-placed Villa to overhaul Derby points record",
-      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-aston-villa/report/531408"
+      "moment": "Dundee and Hibernian share spoils following dramatic six-goal thriller",
+      "link": "https://www.skysports.com/football/dundee-vs-hibernian/report/531895"
     }
   ]
 }
