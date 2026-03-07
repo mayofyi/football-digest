@@ -1,16 +1,44 @@
 {
-  "generated_date": "2026-03-06",
-  "week_ending": "March 06, 2026",
+  "generated_date": "2026-03-07",
+  "week_ending": "March 07, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Disillusionment and disbelief - thousands leave early with Spurs in freefall",
-          "link": "https://www.bbc.com/sport/football/articles/cr731n9g521o?at_medium=RSS&at_campaign=rss",
+          "title": "The manager who knows how to upset Chelsea in the FA Cup",
+          "link": "https://www.bbc.com/sport/football/articles/c5yq8er7kj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-07",
+          "summary": "Phil Parkinson is the most recent manager of a lower division side to knock Chelsea out of the FA Cup and is aiming to create more history this weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d323/live/65677ae0-194e-11f1-b402-73299da4d55f.jpg"
+        },
+        {
+          "title": "'Slot needs something to keep him in a job' - could the FA Cup be it?",
+          "link": "https://www.bbc.com/sport/football/articles/cp814p8j3kdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-06",
-          "summary": "Spurs interim manager Igor Tudor says he is more confident now of surviving relegation than before the club's 3-1 defeat by Crystal Palace.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd9/live/0ed503c0-18e3-11f1-8e18-c962acd329dd.jpg"
+          "summary": "Despite a torrid Premier League campaign, could winning the FA Cup keep Liverpool manager Arne Slot in a job?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee37/live/66652b70-19b4-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "Who is to blame for Spurs' chaotic descent towards relegation?",
+          "link": "https://www.bbc.com/sport/football/articles/cwy9xd2y392o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "BBC Sport's chief football writer Phil McNulty examines who - or what - is to blame for Spurs' crisis as they fight to avoid relegation.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/53894230-196d-11f1-a1cd-a71e69f1cf89.jpg"
+        },
+        {
+          "title": "'What is a foul? What is a contact?' - Nuno calls for clarity",
+          "link": "https://www.bbc.com/sport/football/articles/cev7k83zv12o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "West Ham manager Nuno Espirito Santo is calling for clarity on what constitutes a foul at set-pieces, warning current levels of grappling and blocking are \"almost crazy\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a9/live/7c9b1df0-1973-11f1-a394-29243d7b0fc8.jpg"
+        },
+        {
+          "title": "Challenges are Celtic 'wake-up call' - O'Neill",
+          "link": "https://www.bbc.com/sport/football/articles/cwygvwv59lvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "The possibility of Celtic ending the season without a trophy \"should be a wake-up call for the football club\", interim manager Martin O'Neill says.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c83/live/d6a4cad0-1978-11f1-9156-4356592fc9c8.jpg"
         },
         {
           "title": "'Howard Webb, where are you?' - How we can stop VAR ruining football",
@@ -20,11 +48,46 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
         },
         {
-          "title": "How Chelsea and Abramovich paved the way for Wrexham",
-          "link": "https://www.bbc.com/sport/football/articles/ckg1ynx0d41o?at_medium=RSS&at_campaign=rss",
+          "title": "Early goals send Falkirk to Scottish Cup semi-finals",
+          "link": "https://www.bbc.com/sport/videos/cn0e8pgjyp8o?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-06",
-          "summary": "Loved by their fans but loathed by rivals, free\u2011spending Wrexham are doing to the EFL what Chelsea did to European football in 2003.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c077/live/ee1421d0-17f1-11f1-9120-a910fc22c6ac.png"
+          "summary": "Two early goals help Falkirk make it by Dundee United to reach the Scottish Cup semi-finals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3384/live/ca84f850-19ab-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "Bayern hammer Monchengladbach to move 14 points clear",
+          "link": "https://www.bbc.com/sport/football/videos/cly8dp0dve2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Bayern Munich win their fifth match in a row with a 4-1 win over Borussia Monchengladbach, to move to 14 points clear at the top of the Bundesliga table.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b9/live/ad13eeb0-19ac-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "title": "'As pure as you can hit it!' Robertson fires Liverpool into lead",
+          "link": "https://www.bbc.com/sport/football/videos/cp856pv564no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Liverpool left-back Andrew Robertson scores a superb opening goal for his side in their FA Cup fifth round tie against Wolves at Molineux.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/c04036f0-19a8-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "title": "'We don't know what is a foul' - Nuno wants set-piece review",
+          "link": "https://www.bbc.com/sport/football/videos/cdr2mnmll3po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab3/live/e00b6cc0-1971-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "title": "Rangers 'have to' lift silverware, says Rohl ahead of Celtic game",
+          "link": "https://www.bbc.com/sport/football/articles/cjd98y0mmmdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Rangers manager Danny Rohl says Sunday's game with Celtic is a \"great opportunity to make a good step towards\" winning a trophy.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8361/live/88bc7a40-1944-11f1-aa25-55dd10ec078f.jpg"
+        },
+        {
+          "title": "Sanchez 'disappointed' but Rosenior doesn't have a number one goalkeeper",
+          "link": "https://www.bbc.com/sport/football/articles/cwy9xl5y3q4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Chelsea head coach Liam Rosenior says goalkeeper Robert Sanchez was \"really disappointed\" to be left out at Aston Villa.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba2/live/e8e82bf0-196f-11f1-a1cd-a71e69f1cf89.jpg"
         },
         {
           "title": "From Rochdale to Premier League: the making of Mane",
@@ -34,81 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3756/live/eca022a0-17f5-11f1-9c51-afc92387d880.jpg"
         },
         {
-          "title": "Who has made Troy's Premier League team of the week?",
-          "link": "https://www.bbc.com/sport/football/articles/c62d4w645k5o?at_medium=RSS&at_campaign=rss",
+          "title": "Pick your England XI to face Iceland",
+          "link": "https://www.bbc.com/sport/football/articles/cz6eed9gl0do?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-06",
-          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5d/live/e56d04d0-18f4-11f1-801d-ed3cff6bf876.png"
+          "summary": "Choose who England manager Sarina Wiegman should name in her line-up to play Iceland on Saturday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1d/live/edf9f2a0-17bb-11f1-9c22-99724fe2ca37.jpg"
         },
         {
-          "title": "Liverpool weren't good enough against Wolves - Robertson",
-          "link": "https://www.bbc.com/sport/football/videos/cjen43vqe2no?at_medium=RSS&at_campaign=rss",
+          "title": "Footballer pleads not guilty to assaulting woman",
+          "link": "https://www.bbc.com/news/articles/cjen4n35znlo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-06",
-          "summary": "Defender Andy Robertson says Liverpool will have to play better in Friday's FA Cup tie against Wolves than they did in Tuesday's Premier League defeat by the same opposition.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ec/live/ffab8ca0-18c6-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "FA Cup could be a bright spark in a difficult season - Edwards",
-          "link": "https://www.bbc.com/sport/football/videos/c2d11618dz3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "Wolves manager Rob Edwards shares why the FA Cup is so important to him, before Friday evening's fifth-round tie against Liverpool.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decd/live/5d54d070-18b6-11f1-b048-c9424b2cf5fd.jpg"
-        },
-        {
-          "title": "How and why Espanyol use psychologists on the bench to gain an edge",
-          "link": "https://www.skysports.com/football/news/12040/13508229/inside-espanyol-how-barcelonas-other-club-uses-psychologists-on-the-bench-to-help-academy-players-fulfil-potential",
-          "published": "2026-03-06",
-          "summary": "Espanyol&#8217;s academy team are leading Racing Zaragoza at half-time thanks in part to a sensational solo goal by Denis Cruz. In the concourse, the club&#8217;s head of methodology Gerard Bofill is ...",
-          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-espanyol-roberto-fernandez_7183130.jpg?20260305131058"
-        },
-        {
-          "title": "Williams loses eighth consecutive WTA singles match in Tour return",
-          "link": "https://www.skysports.com/tennis/news/12040/13515990/venus-williams-loses-eighth-consecutive-wta-singles-match-in-tour-return-after-falling-in-first-round-of-indian-wells",
-          "published": "2026-03-06",
-          "summary": "Venus Williams suffered another blow in her return to the BNP Paribas Open, falling in the first round 6-3, 6-7 (4-7), 6-1 to Diane Parry of France.",
-          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-venus-williams-wta_7183898.jpg?20260306073547"
-        },
-        {
-          "title": "Littler 'back to his best' in Cardiff - but will win provide Premier League catalyst?",
-          "link": "https://www.skysports.com/darts/news/12040/13515929/luke-littler-will-premier-league-darts-victory-in-cardiff-provide-catalyst-for-world-no-1",
-          "published": "2026-03-06",
-          "summary": "Luke Littler's emphatic Premier League Darts victory in Cardiff could provide the catalyst the world No&#8239;1 has been searching for.",
-          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-littler-pl-darts_7183712.jpg?20260305235526"
-        },
-        {
-          "title": "Sutton's FA Cup fifth-round predictions v Peaky Blinders creator Steven Knight",
-          "link": "https://www.bbc.com/sport/football/articles/cjrqzw88g1wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "BBC Sport football expert Chris Sutton takes on Peaky Blinders creator Steven Knight plus the BBC readers and AI with his predictions for this weekend's FA Cup fifth-round ties.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40c/live/3ffb7c40-18b1-11f1-9120-a910fc22c6ac.png"
-        },
-        {
-          "title": "Forest tell Edu to stay away from training ground",
-          "link": "https://www.bbc.com/sport/football/articles/cdjm7wn39m7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Nottingham Forest global head of football Edu is asked to stay away from the club's training ground.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b9/live/9c7bca40-18bd-11f1-a7c2-6f222fa5b6f1.jpg"
-        },
-        {
-          "title": "How relegation could cost Spurs more than \u00a3250m",
-          "link": "https://www.bbc.com/sport/football/articles/cvg11ypd7gko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "BBC Sport explores the potential financial impact should Spurs be relegated to the Championship.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec1/live/f3c0af70-188e-11f1-aff7-a32b6621d3cc.jpg"
-        },
-        {
-          "title": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
-          "link": "https://www.bbc.com/sport/football/videos/cz6ee6pj192o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sen...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961d/live/596590e0-18e2-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "Man City close in on Anderson - Friday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cx2dd2p186go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Several Premier League clubs are chasing Fulham's Samuel Amissah, while Elliot Anderson is closing in on a move to Manchester City.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eda/live/25515070-18d6-11f1-9120-a910fc22c6ac.png"
+          "summary": "Former Premier League winger Jordan Ibe is bailed to appear for trial in July.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f2a/live/982d44b0-198e-11f1-ab77-b94c082db274.jpg"
         }
       ],
       "highlights": [
@@ -123,25 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Clubs vote in favour of six-team Championship play-off",
-          "link": "https://www.bbc.com/sport/football/articles/c4g00mr00zdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "EFL clubs approve plans to expand the Championship play-offs from four to six teams for the 2026-27 season onwards.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177a/live/0d297b70-1887-11f1-aff7-a32b6621d3cc.jpg"
-        },
-        {
-          "title": "'I understand why more teams want golden ticket' - Championship reaction to play-offs extension",
-          "link": "https://www.bbc.com/sport/football/articles/czr00r6jmymo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "BBC Sport gets the views of Championship managers as the EFL announces the play-off places will be extended to eighth from next season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d191/live/b3aaf6c0-18b1-11f1-97ba-493bedc7637b.jpg"
-        },
-        {
-          "title": "Messi and Inter Miami meet Trump at White House",
-          "link": "https://www.bbc.com/sport/football/articles/cq6qjr0rle4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Lionel Messi and his Inter Miami team-mates meet US president Donald Trump at the White House to commemorate the club's MLS Cup championship.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e041/live/e385f750-18de-11f1-8e18-c962acd329dd.jpg"
+          "title": "Leeds condemn boos and urge respect for Ramadan break",
+          "link": "https://www.bbc.com/sport/football/articles/c15xd7741zxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Leeds United call on supporters to show respect when players who are observing Ramadan break their fast during Sunday's FA Cup match against Norwich City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b91/live/0a724e00-1974-11f1-a394-29243d7b0fc8.jpg"
         }
       ],
       "highlights": [
@@ -176,7 +162,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "'Stick with the plan' - Patience key for England, says Wiegman",
+          "link": "https://www.bbc.com/sport/football/articles/c93we05q3edo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "England manager Sarina Wiegman says it is \"very important\" her team are patient if goals do not come quickly in their 2027 Women's World Cup qualifier against Iceland on Saturday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ab/live/d88211f0-195a-11f1-9a35-7db562c1d2fd.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -188,16 +182,24 @@
   },
   "standout_moments": [
     {
+      "moment": "The manager who knows how to upset Chelsea in the FA Cup",
+      "link": "https://www.bbc.com/sport/football/articles/c5yq8er7kj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Joao Pedro hat-trick as Chelsea come from behind to beat Villa",
       "link": "https://www.bbc.com/sport/football/videos/c0k1e5jgev6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Sanchez 'disappointed' but Rosenior doesn't have a number one goalkeeper",
+      "link": "https://www.bbc.com/sport/football/articles/cwy9xl5y3q4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "'Bitterly disappointed' - Carrick loses first match as Man Utd manager",
       "link": "https://www.bbc.com/sport/football/videos/cwy8g1j20jvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Injured Kane's ever-present league record to end",
-      "link": "https://www.bbc.com/sport/football/articles/c3wllv8zedwo?at_medium=RSS&at_campaign=rss"
+      "moment": "'We did everything to beat Forest' - Guardiola disappointed by draw",
+      "link": "https://www.bbc.com/sport/football/videos/cvg1jeegkdyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
