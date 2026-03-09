@@ -1,23 +1,79 @@
 {
-  "generated_date": "2026-03-08",
-  "week_ending": "March 08, 2026",
+  "generated_date": "2026-03-09",
+  "week_ending": "March 09, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Dundee 2-1 Motherwell",
-          "link": "https://www.skysports.com/watch/video/13516687/dundee-2-1-motherwell-scottish-premiership-highlights",
-          "published": "2026-03-08",
-          "summary": "Watch highlights from the Scottish Premiership match between Dundee and Motherwell.",
-          "image": "https://e2.365dm.com/26/03/1920x1080/4ac2ada5b587f10e87c37e59693737c674516a48fb6fe43da1e6ce9a49490914_7185491.jpg?20260307194646"
+          "title": "Masked fan unplugs VAR monitor in German second division match",
+          "link": "https://www.bbc.com/sport/football/articles/c0rj2kq978qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-09",
+          "summary": "A masked fan unplugged a VAR monitor in a German second division match as the referee went to the pitchside screen to check a penalty award.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e27/live/5d218110-1b4b-11f1-ab60-2b851a891aab.jpg"
         },
         {
-          "title": "Eze stunner spares Arsenal from Mansfield upset",
-          "link": "https://www.bbc.com/sport/football/videos/cvg3zlp2rlro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-07",
-          "summary": "Arsenal's Eberechi Eze comes off the bench to score the winning goal against League One side Mansfield, sending the Gunners through to the FA Cup quarter-finals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36c1/live/9f740a40-1a3f-11f1-9120-a910fc22c6ac.jpg"
+          "title": "Mourinho sent off after late Benfica equaliser",
+          "link": "https://www.bbc.com/sport/football/videos/c363ye55w92o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-09",
+          "summary": "Benfica manager Jose Mourinho is shown a red card following an altercation between the benches after his side score a late equaliser against his former club FC Porto.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b35/live/2aadf050-1b97-11f1-b048-c9424b2cf5fd.jpg"
+        },
+        {
+          "title": "Huddersfield 6-32 Hull KR",
+          "link": "https://www.skysports.com/watch/video/13517065/huddersfield-giants-6-32-hull-kr-super-league-highlights",
+          "published": "2026-03-09",
+          "summary": "Highlights of the Super League match between Huddersfield Giants and Hull KR.",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-hull-kr-huddersfield_7186408.jpg?20260308204215"
+        },
+        {
+          "title": "Gauff injures left arm as she retires and bows out of Indian Wells Open",
+          "link": "https://www.skysports.com/watch/video/13517142/coco-gauff-vs-alexandra-eala-indian-wells-open-highlights",
+          "published": "2026-03-09",
+          "summary": "Highlights from the Indian Wells Open match between Coco Gauff and Alexandra Eala.",
+          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-gauff-eala_7186586.jpg?20260309064807"
+        },
+        {
+          "title": "'Wrong reason, right decision' - Why referee blew whistle to deny Fulham goal",
+          "link": "https://www.bbc.com/sport/football/videos/c99jlzz11eno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "Match of the Day's Ellen White and Glenn Murray analyse why referee Jarred Gillett blew his whistle to deny Fulham a goal in their 1-0 FA Cup defeat to Southampton.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058c/live/eaa8cb20-1b45-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "League One side Port Vale stun Sunderland in FA Cup upset",
+          "link": "https://www.bbc.com/sport/football/videos/cn9epqgj7z0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "League One side Port Vale knock out Premier League team Sunderland to reach the FA Cup quarter-finals for the first time since 1954.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f18/live/22353aa0-1b0b-11f1-b048-c9424b2cf5fd.jpg"
+        },
+        {
+          "title": "Southampton knock out Fulham with stoppage-time penalty",
+          "link": "https://www.bbc.com/sport/football/videos/cev7pk9zjpdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "Southampton's Ross Stewart scores a penalty in stoppage time against Fulham which sends the Championship side to the FA Cup quarter-finals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7675/live/7778ce90-1afd-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "title": "Teenage Oxford United player dies during academy match",
+          "link": "https://www.bbc.com/news/articles/c1jk22rd653o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "The 15-year-old Oxford United academy player collapsed during a game against Fulham.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e8/live/97d43c00-1afe-11f1-b293-0994cc1b0c5c.jpg"
+        },
+        {
+          "title": "The anatomy of a corner-kick: how set-pieces reshaped the Premier League",
+          "link": "https://www.bbc.com/sport/football/articles/c24d84y67ydo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "As corner kicks continue to cause chaos in the Premier League, BBC Sport take a closer at why they are becoming so hard to defend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ea/live/24ddfd40-1a2b-11f1-982c-cf4b6f34f92f.jpg"
+        },
+        {
+          "title": "St Mirren beat Partick Thistle to reach Scottish Cup semi-finals",
+          "link": "https://www.skysports.com/football/st-mirren-vs-partick-thistle/report/553956",
+          "published": "2026-03-08",
+          "summary": "Goals from Dan Nlundulu and Jake Young helped St Mirren defeat Partick Thistle 2-1 to book their place in the Scottish Cup semi-finals.",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-st-mirren-dan-nlundulu_7186491.jpg?20260308220501"
         },
         {
           "title": "'What happens next, happens' - Lindsay coy on NI future",
@@ -27,18 +83,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/1c2d9080-1a75-11f1-9b71-9df916f48db4.jpg"
         },
         {
-          "title": "VAR breaks Wrexham hearts as lacklustre Chelsea win six-goal thriller",
-          "link": "https://www.skysports.com/football/wrexham-vs-chelsea/report/554800",
-          "published": "2026-03-07",
-          "summary": "Wrexham were denied a dramatic goal in extra-time by VAR with Alejandro Garnacho and Joao Pedro securing an unconvincing 4-2 win to book Chelsea's place in the FA Cup quarter-finals.",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-fa-cup-chelsea-wrexham_7185446.jpg?20260307183311"
-        },
-        {
-          "title": "Motherwell's title race push blown off course with loss at Dundee",
-          "link": "https://www.skysports.com/football/dundee-vs-motherwell/report/531872",
-          "published": "2026-03-07",
-          "summary": "Motherwell&#8217;s hopes of gatecrashing the Scottish Premiership title race suffered a blow when they fell to a 2-1 defeat at Dundee.",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-dundee-finlay-robertson_7185389.jpg?20260307175404"
+          "title": "Bayern hammer Monchengladbach to move 14 points clear",
+          "link": "https://www.bbc.com/sport/football/videos/cly8dp0dve2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-06",
+          "summary": "Bayern Munich win their fifth match in a row with a 4-1 win over Borussia Monchengladbach, to move to 14 points clear at the top of the Bundesliga table.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b9/live/ad13eeb0-19ac-11f1-801d-ed3cff6bf876.jpg"
         },
         {
           "title": "Early goals send Falkirk to Scottish Cup semi-finals",
@@ -48,13 +97,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3384/live/ca84f850-19ab-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "Bayern hammer Monchengladbach to move 14 points clear",
-          "link": "https://www.bbc.com/sport/football/videos/cly8dp0dve2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "Bayern Munich win their fifth match in a row with a 4-1 win over Borussia Monchengladbach, to move to 14 points clear at the top of the Bundesliga table.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b9/live/ad13eeb0-19ac-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
           "title": "'As pure as you can hit it!' Robertson fires Liverpool into lead",
           "link": "https://www.bbc.com/sport/football/videos/cp856pv564no?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-06",
@@ -62,53 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/c04036f0-19a8-11f1-801d-ed3cff6bf876.jpg"
         },
         {
-          "title": "'We don't know what is a foul' - Nuno wants set-piece review",
-          "link": "https://www.bbc.com/sport/football/videos/cdr2mnmll3po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab3/live/e00b6cc0-1971-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "title": "'Slot needs something to keep him in a job' - could the FA Cup be it?",
-          "link": "https://www.bbc.com/sport/football/articles/cp814p8j3kdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "Despite a torrid Premier League campaign, could winning the FA Cup keep Liverpool manager Arne Slot in a job?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee37/live/66652b70-19b4-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "Who is to blame for Spurs' chaotic descent towards relegation?",
-          "link": "https://www.bbc.com/sport/football/articles/cwy9xd2y392o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "BBC Sport's chief football writer Phil McNulty examines who - or what - is to blame for Spurs' crisis as they fight to avoid relegation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/53894230-196d-11f1-a1cd-a71e69f1cf89.jpg"
-        },
-        {
-          "title": "'Howard Webb, where are you?' - How we can stop VAR ruining football",
-          "link": "https://www.bbc.com/sport/football/articles/cp8r730n30po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-06",
-          "summary": "In his BBC Sport column, former Premier League boss Tony Pulis explains how VAR has become a monster, and why people in the game should be asked how to fix it.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
-        },
-        {
           "title": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
           "link": "https://www.bbc.com/sport/football/videos/cz6ee6pj192o?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-05",
           "summary": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sen...",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961d/live/596590e0-18e2-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "'The reaction was great' - Glasner proud as Palace fight back to beat Spurs",
-          "link": "https://www.bbc.com/sport/football/videos/c4g44g7995ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Crystal Palace manager Oliver Glasner praises his team's reaction as they fight back from a goal down to beat Spurs 3-1 at the Tottenham Hotspur Stadium, with all the goals coming in the first half.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b4/live/b1a644f0-18e4-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "title": "'Don't be so ridiculous' - Richards & Murphy debate Haaland penalty decision",
-          "link": "https://www.bbc.com/sport/football/videos/c1l77z57n8lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-05",
-          "summary": "Match of the Day pundits Micah Richards and Danny Murphy debate if Matz Sels' collision with Erling Haaland should have resulted in a penalty for Manchester City.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04fa/live/a79f0500-1821-11f1-9120-a910fc22c6ac.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,39 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Russell wins wild Australia season-opener as Mercedes deny Ferrari",
-          "link": "https://www.skysports.com/f1/news/12040/13516642/australian-grand-prix-george-russell-wins-f1-2026-season-opener-for-mercedes-after-gripping-early-charles-leclerc-fight",
+          "title": "Watch: Saints & Hamilton win on the road as Sons stun Spartans",
+          "link": "https://www.bbc.com/sport/football/videos/ckgz0l00qk1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-09",
+          "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/m002skhk?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-08",
-          "summary": "George Russell won the season-opening Australian Grand Prix to get his world championship bid up and running as Mercedes overcame a gripping early challenge from Ferrari to finish first and second in ...",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-george-russell-charles-leclerc_7185774.jpg?20260308060816"
+          "summary": "Andy Cole and Luke Edwards join Aaron Paul as Port Vale shock Sunderland.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5gqvc.jpg"
+        },
+        {
+          "title": "Leeds ease past Norwich to reach FA Cup quarter-finals",
+          "link": "https://www.bbc.com/sport/football/videos/cm21pgy2zpjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "Leeds reach the FA Cup quarter-finals for the first time in over 20 years, after comfortably beating Championship side Norwich 3-0 at Elland Road.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1337/live/94959350-1b20-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "title": "Sivo hat-trick takes Leeds to Castleford victory as Hull KR bounce back",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13517015/super-league-maika-sivo-hat-trick-takes-leeds-to-win-over-castleford-as-hull-kr-bounce-back-against-huddersfield",
+          "published": "2026-03-08",
+          "summary": "Maika Sivo scored a hat-trick as Leeds claimed a 22-4 Betfred Super League win over Castleford.",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-maika-sivo-leeds_7186283.jpg?20260308181104"
+        },
+        {
+          "title": "Leeds power past Norwich to reach first FA Cup quarter-final since 2003",
+          "link": "https://www.skysports.com/football/leeds-united-vs-norwich-city/report/554794",
+          "published": "2026-03-08",
+          "summary": "Leeds reached their first FA Cup quarter-final since 2003 after easing past Championship side Norwich with a 3-0 victory at Elland Road.",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-premier-league-leeds_7186293.jpg?20260308181914"
         }
       ],
       "highlights": [
@@ -140,7 +168,22 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Bottom of the league, magic in the cup - Port Vale's 'incredible' run",
+          "link": "https://www.bbc.com/sport/football/articles/cy8g22120pdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "Port Vale are bottom of League One, but they have reached the FA Cup quarter-finals for only the second time in their history.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/d73819f0-1b14-11f1-a489-ff7ad54780bc.jpg"
+        },
+        {
+          "title": "Celtic v St Mirren and Falkirk v Dunfermline derby in Scottish Cup semis",
+          "link": "https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-08",
+          "summary": "Falkirk and Dunfermline Athletic will meet in a Scottish Cup semi-final derby at Hampden next month, while Celtic will face St Mirren in a repeat of this season's League Cup final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/cdacec20-1b33-11f1-801d-ed3cff6bf876.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -151,7 +194,15 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [],
+      "articles": [
+        {
+          "title": "St Helens 26-22 Bradford Bulls",
+          "link": "https://www.skysports.com/watch/video/13516837/st-helens-26-22-bradford-bulls-super-league-highlights",
+          "published": "2026-03-08",
+          "summary": "Highlights of the Super League clash between St Helens and Bradford Bulls.",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-st-helens-bradford_7185850.jpg?20260308074225"
+        }
+      ],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -182,28 +233,28 @@
   },
   "standout_moments": [
     {
-      "moment": "Eze stunner spares Arsenal from Mansfield upset",
-      "link": "https://www.bbc.com/sport/football/videos/cvg3zlp2rlro?at_medium=RSS&at_campaign=rss"
+      "moment": "League One side Port Vale stun Sunderland in FA Cup upset",
+      "link": "https://www.bbc.com/sport/football/videos/cn9epqgj7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'What happens next, happens' - Lindsay coy on NI future",
-      "link": "https://www.bbc.com/sport/football/articles/cn4gpjnejzeo?at_medium=RSS&at_campaign=rss"
+      "moment": "Celtic v St Mirren and Falkirk v Dunfermline derby in Scottish Cup semis",
+      "link": "https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Joao Pedro hat-trick as Chelsea come from behind to beat Villa",
       "link": "https://www.bbc.com/sport/football/videos/c0k1e5jgev6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'Bitterly disappointed' - Carrick loses first match as Man Utd manager",
-      "link": "https://www.bbc.com/sport/football/videos/cwy8g1j20jvo?at_medium=RSS&at_campaign=rss"
+      "moment": "Football Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/m002skhk?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "'We did everything to beat Forest' - Guardiola disappointed by draw",
-      "link": "https://www.bbc.com/sport/football/videos/cvg1jeegkdyo?at_medium=RSS&at_campaign=rss"
+      "moment": "'What happens next, happens' - Lindsay coy on NI future",
+      "link": "https://www.bbc.com/sport/football/articles/cn4gpjnejzeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "VAR breaks Wrexham hearts as lacklustre Chelsea win six-goal thriller",
-      "link": "https://www.skysports.com/football/wrexham-vs-chelsea/report/554800"
+      "moment": "Sivo hat-trick takes Leeds to Castleford victory as Hull KR bounce back",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13517015/super-league-maika-sivo-hat-trick-takes-leeds-to-win-over-castleford-as-hull-kr-bounce-back-against-huddersfield"
     }
   ]
 }
