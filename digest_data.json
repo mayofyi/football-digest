@@ -1,44 +1,86 @@
 {
-  "generated_date": "2026-03-10",
-  "week_ending": "March 10, 2026",
+  "generated_date": "2026-03-11",
+  "week_ending": "March 11, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Is Tudor's Spurs reign almost up after only four games?",
+          "link": "https://www.bbc.com/sport/football/articles/cy4w53719k7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-11",
+          "summary": "Igor Tudor's Spurs tenure could already be on the line after a disastrous defeat against Atletico Madrid in the Champions League, says chief football writer Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3e6/live/979bfbf0-1cd5-11f1-85b6-037803e20b70.jpg"
+        },
+        {
+          "title": "How Kinsky's horror night unfolded before 17th-minute substitution",
+          "link": "https://www.bbc.com/sport/football/articles/cly18g0lym4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-11",
+          "summary": "Tottenham replace goalkeeper Antonin Kinsky in the 17th minute after conceding three goals inside the opening quarter of an hour of the Champions League last-16 tie at Atletico Madrid.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3dd/live/cc9ec470-1cc8-11f1-940c-8d69ad1b5c3b.jpg"
+        },
+        {
+          "title": "Chelsea transfer 'like being new kid at school' - Walsh",
+          "link": "https://www.bbc.com/sport/football/articles/crrxxrqpd12o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-11",
+          "summary": "England midfielder Keira Walsh says adjusting to life at Chelsea after arriving in January 2025 was the \"worst feeling\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c058/live/a68c1ab0-18ab-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+          "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-11",
+          "summary": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/273a2e60-1cec-11f1-9b34-c51430981061.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n5tslg?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-11",
+          "summary": "Kelly Cates presents reaction to a busy night in the Champions League.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5vzjy.jpg"
+        },
+        {
+          "title": "No defence for Tudor as inept Tottenham hit new low in Madrid",
+          "link": "https://www.skysports.com/football/news/12040/13518035/tottenham-and-antonin-kinsky-humiliated-in-atletico-madrid-defeat-as-igor-tudor-hits-embarrassing-spurs-low",
+          "published": "2026-03-11",
+          "summary": "Only Tottenham could turn what hapless coach Igor Tudor had agreed was a free hit into one of the more embarrassing nights in the club's history, a first half so inept that it stands out even in a sea...",
+          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-igor-tudor-tottenham_7188592.jpg?20260311065535"
+        },
+        {
+          "title": "Arsenal want Brandt on free - Wednesday's gossip",
+          "link": "https://www.bbc.com/sport/football/articles/c4geyndly41o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Arsenal line up free transfer move for Julian Brandt, Newcastle midfielder Sandro Tonali remains a wanted man despite price tag and Chelsea will stick with striker Liam Delap.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/d403d390-1ccd-11f1-801d-ed3cff6bf876.png"
+        },
+        {
+          "title": "'Incredible situation' - Tudor defends decision to substitute Kinsky",
+          "link": "https://www.bbc.com/sport/football/videos/c89knlke3e0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Tottenham manager Igor Tudor insists his decision to substitute Antonin Kinsky after 17 minutes was taken to \"protect\" the team, with Tottenham already 3-0 down to Atletico Madrid in the Champions Lea...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a0/live/b5e17720-1cd5-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "title": "'Things will be more normal' in Champions League home game - Slot",
+          "link": "https://www.bbc.com/sport/football/videos/c309434q52jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Liverpool manager Arne Slot calls for improvement from both his players and the officials, after the Reds 1-0 first leg defeat to Galatasary in Istanbul.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f30/live/cfbd10e0-1cc7-11f1-b048-c9424b2cf5fd.jpg"
+        },
+        {
+          "title": "Can you name every player with 100 Champions League appearances?",
+          "link": "https://www.bbc.com/sport/football/articles/c5y93ndqj20o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "We want you to name every player with at least 100 Champions League appearances. Good luck!",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0fc/live/84c22b90-10c7-11f1-9120-a910fc22c6ac.jpg"
+        },
         {
           "title": "The 'big brother' helping Arteta's Arsenal 'over the line'",
           "link": "https://www.bbc.com/sport/football/articles/ckgl89p45rgo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-10",
           "summary": "As Arsenal pursue a first Premier League title in 22 years, BBC Sport looks at how the relationship between Mikel Arteta and his assistant, Gabriel Heinze, is helping them.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f3/live/79788400-1b9e-11f1-9f65-e32170917420.jpg"
-        },
-        {
-          "title": "Uefa fears impact of Premier League spending rules",
-          "link": "https://www.bbc.com/sport/football/articles/c8r1m4mr2k8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-10",
-          "summary": "Uefa is seriously concerned that the Premier League's new financial rules could further impact competitive balance.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7294/live/2feceeb0-1708-11f1-bfbe-c7ba448da962.jpg"
-        },
-        {
-          "title": "Is O'Neill's points average enough to win title?",
-          "link": "https://www.bbc.com/sport/football/articles/cdjmmv33e7wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-10",
-          "summary": "What do the points average of those in charge of the top four in the Scottish Premiership tell us about who may win the title?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4718/live/398dbce0-1b06-11f1-a7e2-d5592fefefe2.jpg"
-        },
-        {
-          "title": "How Newcastle United are plotting a course to the WSL",
-          "link": "https://www.bbc.com/sport/football/articles/c62d43z6q5lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-10",
-          "summary": "Newcastle United have risen from the fourth tier to the fringe of the Women's Super League - BBC Sport looks at how they've done it.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30b/live/cec374a0-1a14-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "title": "Regulator proposals 'put diversity on subs bench' - Kick It Out",
-          "link": "https://www.bbc.com/sport/football/articles/cj4zgy21v0jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-10",
-          "summary": "The head of anti-discrimination body Kick It Out says that initial proposals by English football's independent regulator \"put equality, diversity and inclusion  on the subs bench\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6905/live/87479ba0-1c04-11f1-b048-c9424b2cf5fd.jpg"
         },
         {
           "title": "Eze stunner features in best goals of FA Cup fifth round",
@@ -48,6 +90,13 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a0/live/460ffa00-1bec-11f1-801d-ed3cff6bf876.jpg"
         },
         {
+          "title": "Is England on course for fifth Champions League spot?",
+          "link": "https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"
+        },
+        {
           "title": "Quiz: One question for each team in the Champions League last 16",
           "link": "https://www.bbc.com/sport/football/articles/cqxd19zgyq0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-10",
@@ -55,60 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/13b8d710-1bd9-11f1-9120-a910fc22c6ac.jpg"
         },
         {
-          "title": "Five Iranian footballers granted Australian visas after anthem protest",
-          "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+          "title": "Regulator proposals 'put diversity on subs' bench' - Kick It Out",
+          "link": "https://www.bbc.com/sport/football/articles/cj4zgy21v0jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-10",
-          "summary": "Concern has grown for team after one critic called them \"wartime traitors\" for failing to salute during the Iranian anthem.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg"
-        },
-        {
-          "title": "Man City host Liverpool, Port Vale face Chelsea - full FA Cup draw",
-          "link": "https://www.bbc.com/sport/football/articles/cedz4yeppp8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "League One Port Vale's reward for beating Sunderland in the FA Cup is a quarter-final tie away to Chelsea, while Manchester City will host Liverpool in a heavyweight showdown.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f0a/live/478fa570-1c4a-11f1-9120-a910fc22c6ac.jpg"
-        },
-        {
-          "title": "Alisson injury not 'a big thing' despite missing Galatasaray",
-          "link": "https://www.bbc.com/sport/football/articles/cx28jly9zl1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Liverpool goalkeeper Alisson is ruled out of the first leg of their Champions League tie against Galatasaray through injury - but could return to face Tottenham at the weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d37/live/08a3e180-1be3-11f1-9a61-1b759d532334.jpg"
-        },
-        {
-          "title": "Juve want Tottenham's Spence - Tuesday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/c1mjyekr0d8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Tottenham's Djed Spence a target for Juventus, Real Madrid put Mauricio Pochettino on managerial shortlist, Liverpool consider move for French winger Moussa Diaby, plus more.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b6d/live/74807010-1c03-11f1-9120-a910fc22c6ac.png"
-        },
-        {
-          "title": "Mourinho sent off after late Benfica equaliser",
-          "link": "https://www.bbc.com/sport/football/videos/c363ye55w92o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Benfica manager Jose Mourinho is shown a red card following an altercation between the benches after his side score a late equaliser against his former club FC Porto.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b35/live/2aadf050-1b97-11f1-b048-c9424b2cf5fd.jpg"
-        },
-        {
-          "title": "Is time-wasting in the Premier League getting worse?",
-          "link": "https://www.bbc.com/sport/football/articles/clyvermnekvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "With time-wasting seemingly on the rise in the Premier League, how bad is it getting, are fans receiving value for money and what is being done about it?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9c/live/4ab6e340-1be0-11f1-9a61-1b759d532334.jpg"
-        },
-        {
-          "title": "Premier League survival is Spurs' priority - Tudor",
-          "link": "https://www.bbc.com/sport/football/articles/c3dzypy0nglo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Tottenham Hotspur will prioritise earning Premier League survival over Champions League progress, says interim manager Igor Tudor.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d91/live/38256450-1bf8-11f1-971d-91b4c979a29b.jpg"
-        },
-        {
-          "title": "MLS hands life bans to Yeboah & Jones for betting offences",
-          "link": "https://www.bbc.com/sport/football/articles/c0e5y9ynn37o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Major League Soccer gives lifetime bans to midfielder Derrick Jones and winger Yaw Yeboah for betting offences.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337c/live/d3601330-1c01-11f1-b048-c9424b2cf5fd.png"
+          "summary": "The head of anti-discrimination body Kick It Out says that initial proposals by English football's independent regulator \"put equality, diversity and inclusion  on the subs bench\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6905/live/87479ba0-1c04-11f1-b048-c9424b2cf5fd.jpg"
         }
       ],
       "highlights": [
@@ -123,25 +123,25 @@
       "name": "Championship",
       "articles": [
         {
+          "title": "Scheffler dismisses suggestion of form slump: 'I'm my biggest critic'",
+          "link": "https://www.skysports.com/golf/news/12040/13517859/the-players-scottie-scheffler-dismisses-suggestion-of-2026-form-slump-ahead-of-title-bid-at-tpc-sawgrass",
+          "published": "2026-03-11",
+          "summary": "Scottie Scheffler has hit back at suggestions a supposed slump in form to start 2026, as the world No 1 looks to win The Players Championship for a third time in four years.",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-scottie-scheffler_7188356.jpg?20260310220136"
+        },
+        {
+          "title": "Matos focuses on Wrexham amid Swansea play-off talk",
+          "link": "https://www.bbc.com/sport/football/articles/cg7e47ezxgmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Vitor Matos insists his focus will be on recovery rather than the Championship play-off race as Swansea City prepare for Friday's mouthwatering Welsh derby at Wrexham.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5e/live/35869420-1cd5-11f1-85b6-037803e20b70.jpg"
+        },
+        {
           "title": "Watch: Saints & Hamilton win on the road as Sons stun Spartans",
           "link": "https://www.bbc.com/sport/football/videos/ckgz0l00qk1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-09",
           "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
-        },
-        {
-          "title": "Every televised ACE at Players Championship's iconic 17th hole!",
-          "link": "https://www.skysports.com/watch/video/13517460/the-players-every-televised-ace-at-sawgrass-iconic-17th-hole",
-          "published": "2026-03-09",
-          "summary": "Ahead of the 2026 Players Championship at TPC Sawgrass, we take a look at every televised hole-in-one at the iconic 17th hole, one of the most famous holes on the PGA Tour.",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-players-championship_7187266.jpg?20260309184834"
-        },
-        {
-          "title": "'That is UNREAL!' | McIlroy's best shots from his 2025 Players win!",
-          "link": "https://www.skysports.com/watch/video/13517387/that-is-unreal-mcilroys-best-shots-from-his-2025-players-win",
-          "published": "2026-03-09",
-          "summary": "Watch Rory McIlroy's best shots from his 2025 Players Championship win as he looks to defend his title this week at TPC Sawgrass.",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-golf-rory_7187132.jpg?20260309161323"
         },
         {
           "title": "Leeds ease past Norwich to reach FA Cup quarter-finals",
@@ -161,15 +161,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "Nolan sacked as Northampton boss after poor run",
-          "link": "https://www.bbc.com/sport/football/articles/c0lxe5kge6jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-09",
-          "summary": "Northampton Town sack manager Kevin Nolan after a run of one win in 16 games with the club in the League One relegation places.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f996/live/55f1fd70-1be1-11f1-9a61-1b759d532334.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -193,6 +185,13 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "England's Walker retires from international football",
+          "link": "https://www.bbc.com/sport/football/articles/cpv83g4dpgeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-10",
+          "summary": "Experienced England defender Kyle Walker retires from international football with immediate effect.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c71/live/3984c270-1c96-11f1-8f3c-8366692412b1.jpg"
+        },
+        {
           "title": "Scotland fire seven past Luxembourg in World Cup qualifying",
           "link": "https://www.bbc.com/sport/videos/ckg1pdv5drlo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-07",
@@ -211,28 +210,20 @@
   },
   "standout_moments": [
     {
+      "moment": "Matos focuses on Wrexham amid Swansea play-off talk",
+      "link": "https://www.bbc.com/sport/football/articles/cg7e47ezxgmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Eze stunner features in best goals of FA Cup fifth round",
       "link": "https://www.bbc.com/sport/football/videos/cn715z87l01o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Nolan sacked as Northampton boss after poor run",
-      "link": "https://www.bbc.com/sport/football/articles/c0lxe5kge6jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "League One side Port Vale stun Sunderland in FA Cup upset",
-      "link": "https://www.bbc.com/sport/football/videos/cn9epqgj7z0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'Disciplined, brave, relentless' - new NI boss McArdle lays out plans",
-      "link": "https://www.bbc.com/sport/football/articles/cvg8lmpg80no?at_medium=RSS&at_campaign=rss"
+      "moment": "Joao Pedro hat-trick as Chelsea come from behind to beat Villa",
+      "link": "https://www.bbc.com/sport/football/videos/c0k1e5jgev6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Eze stunner spares Arsenal from Mansfield upset",
       "link": "https://www.bbc.com/sport/football/videos/cvg3zlp2rlro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Joao Pedro hat-trick as Chelsea come from behind to beat Villa",
-      "link": "https://www.bbc.com/sport/football/videos/c0k1e5jgev6o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
