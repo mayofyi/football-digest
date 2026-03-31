@@ -1,72 +1,86 @@
 {
-  "generated_date": "2026-03-30",
-  "week_ending": "March 30, 2026",
+  "generated_date": "2026-03-31",
+  "week_ending": "March 31, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
+          "title": "Ranking the 10 most exciting wingers in the world",
+          "link": "https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "Few things in football are more exciting than an in-form wide man, but who are the most exciting in the world right night?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e38/live/430fa280-28f6-11f1-b297-95b0a0a8331e.png"
+        },
+        {
+          "title": "Why innovative Canadian league is trialling daylight offside rule",
+          "link": "https://www.bbc.com/sport/football/articles/cd9vqn81zxjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "BBC Sport looks at why the Canadian Premier League is trialling Arsene Wenger's 'daylight' offside rule in 2026.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c2/live/48474d80-28ff-11f1-934f-036468834728.jpg"
+        },
+        {
+          "title": "Ayr appoint Rankin as interim boss for season end",
+          "link": "https://www.bbc.com/sport/football/articles/cedeydj28eno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "John Rankin is appointed Ayr United interim manager for the rest of the season, following Scott Brown's Monday departure.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfac/live/a75f8750-2ce3-11f1-bdf5-ddbf94ae98c3.jpg"
+        },
+        {
+          "title": "'Postive signs' as Newcastle release financial results",
+          "link": "https://www.skysports.com/watch/video/13526378/newcastle-financial-results-show-positive-signs",
+          "published": "2026-03-31",
+          "summary": "Newcastle announce their latest financial figures with some positive signs and an increase in turnover - so what does it mean for their transfer plans?",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-newcastle-keith-downie_7207557.jpg?20260331101226"
+        },
+        {
+          "title": "'He doesn't score simple goals!' \ud83d\ude80 10 players who only scored BANGERS!",
+          "link": "https://www.skysports.com/watch/video/13525189/10-players-who-only-scored-bangers-in-the-premier-league",
+          "published": "2026-03-31",
+          "summary": "Ten players who only scored bangers in the Premier League. Goal scorers include Tugay, Laurent Robert, Steve Staunton, Tom Huddlestone, Xabi Alonso, Matt Taylor, Thomas Hitzlsperger, Matt Le Tissier, ...",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-premier-league-bangers_7204826.jpg?20260327172508"
+        },
+        {
+          "title": "De Zerbi in advanced talks to become Spurs manager",
+          "link": "https://www.bbc.com/sport/football/articles/cq59wed70v5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "Tottenham Hotspur enter into advanced talks with Roberto de Zerbi, with the former Brighton manager now willing to take charge immediately, according to sources.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb83/live/34091dd0-2c29-11f1-8768-1105331460e6.jpg"
+        },
+        {
+          "title": "How Sky can ignore limit on its TV picks & why fans are fed up",
+          "link": "https://www.bbc.com/sport/football/articles/ce3dq501573o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "Premier League games being moved to Friday or Monday are a headache for the fans of some clubs. Is the system fair, and how does it work for Sky?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6190/live/496f8880-2c2e-11f1-b8c9-f5058c0aec9a.jpg"
+        },
+        {
+          "title": "Tuchel not angry over England withdrawals",
+          "link": "https://www.bbc.com/sport/football/articles/cvg39k8274ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "England manager Thomas Tuchel says he is not disappointed with the players who have pulled out of the squad for Tuesday's friendly against Japan.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5deb/live/f18f4620-2c3a-11f1-a485-4515f7cdb641.jpg"
+        },
+        {
+          "title": "Hodgson happy being retired but Bristol City hard to turn down",
+          "link": "https://www.bbc.com/sport/football/articles/c0le09jx59do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "Roy Hodgson says there is a lot he misses about football after coming out of retirement to become caretaker manager of Bristol City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e1/live/d4496830-2c5c-11f1-862e-73ba828c2693.jpg"
+        },
+        {
           "title": "Celtic legend Brown leaves Ayr by mutual consent",
           "link": "https://www.bbc.com/sport/football/articles/czex1y95dleo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-30",
-          "summary": "Former Celtic and Scotland midfielder Scott Brown stands down as Ayr United manager \"by mutual consent\".",
+          "summary": "Former Celtic and Scotland captain Scott Brown stands down as Ayr United manager \"by mutual consent\".",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50de/live/0a344ff0-2c12-11f1-b297-95b0a0a8331e.jpg"
         },
         {
-          "title": "Premier League quiz: Name every manager departure this season",
-          "link": "https://www.bbc.com/sport/football/articles/cvg5w56pnz9o?at_medium=RSS&at_campaign=rss",
+          "title": "Merson: De Zerbi the best money Spurs will ever spend if he keeps them up",
+          "link": "https://www.skysports.com/football/news/12040/13526182/roberto-de-zerbi-tottenham-must-spend-whatever-it-takes-to-bring-in-ex-brighton-boss-and-avoid-relegation-says-paul-merson",
           "published": "2026-03-30",
-          "summary": "A  Premier League club has parted ways with a permanent head coach on nine occasions this season - can you name them all?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee4/live/d3f5f5d0-2c00-11f1-9a73-71de426ba92f.jpg"
-        },
-        {
-          "title": "How does Tudor's record compare to other Tottenham bosses?",
-          "link": "https://www.bbc.com/sport/football/articles/c5y8dlezgjro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-30",
-          "summary": "Our Ask Me Anything team compare Igor Tudor's managerial record to other Tottenham managers of recent years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e252/live/b3754650-278f-11f1-934f-036468834728.png"
-        },
-        {
-          "title": "Fakhar denies ball-tampering after Lahore penalised in PSL",
-          "link": "https://www.skysports.com/cricket/news/12040/13526036/psl-fakhar-zaman-denies-ball-tampering-after-lahore-qalandars-penalised-in-defeat-to-karachi-kings",
-          "published": "2026-03-30",
-          "summary": "Fakhar Zaman has denied a charge of ball-tampering after his Pakistan Super League side Lahore Qalandars were handed a five-run penalty during a defeat to Karachi Kings.",
-          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-fakhar-zaman-pakistan-super-league-psl_7206693.jpg?20260330100755"
-        },
-        {
-          "title": "Is it time Premier League Darts introduced a reserve player for withdrawals?",
-          "link": "https://www.skysports.com/darts/news/12040/13525186/is-it-time-premier-league-darts-introduced-a-reserve-player-gian-van-veen-missed-dublin-after-needing-surgery-to-remove-kidney-stones",
-          "published": "2026-03-30",
-          "summary": "Is it time Premier League Darts introduced a reserve player? Gian van Veen missed Dublin after needing surgery to remove kidney stones, with the Dutchman then thrashed by Gerwyn Price in Berlin on Thu...",
-          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-william-o-connor_7204866.jpg?20260327185256"
-        },
-        {
-          "title": "Ex-England and Spurs striker Defoe named Woking boss",
-          "link": "https://www.bbc.com/sport/football/articles/cde52ng3r11o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "National League side Woking appoint former Tottenham and England striker Jermain Defoe as their new head coach.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/d1430510-2ba3-11f1-96ef-87fa0aabdd4f.jpg"
-        },
-        {
-          "title": "Bayern wary of Saudi interest in Kane - Monday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Bayern Munich wary of Saudi Pro League clubs targeting Harry Kane, Bernardo Silva set to leave Manchester City, Inter Miami start talks with Manchester United's Casemiro, plus more.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b0/live/bf018ed0-2ba3-11f1-b297-95b0a0a8331e.png"
-        },
-        {
-          "title": "75% of fans oppose VAR in Premier League, says FSA",
-          "link": "https://www.bbc.com/sport/football/articles/ce84xpdedpvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Fans believe VAR is ruining goal celebrations and has not improved football since its introduction, according to a Football Supporters' Association survey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/96c2f460-2aa7-11f1-a0a3-89526fc96a3b.jpg"
-        },
-        {
-          "title": "Caf general secretary resigns amid Afcon final fallout",
-          "link": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b2/live/8fe83090-2b76-11f1-915e-076b1d4be1dd.jpg"
+          "summary": "Paul Merson says Tottenham bringing in Roberto De Zerbi will be the best money the club have ever spent should they remain in the Premier League.",
+          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-roberto-de-zerbi_7206675.jpg?20260330172826"
         },
         {
           "title": "Tudor's five Premier League games as Spurs boss",
@@ -95,20 +109,6 @@
           "published": "2026-03-29",
           "summary": "Oona Siren's stunning volley helps Women's Super League relegation battlers West Ham fight back to earn a point against London City Lionesses.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2a/live/ccf23440-2b71-11f1-934f-036468834728.jpg"
-        },
-        {
-          "title": "Tudor leaves Spurs after just 44 days in charge",
-          "link": "https://www.bbc.com/sport/football/articles/cz0g57p8512o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Igor Tudor leaves his role as Tottenham Hotspur interim head coach after just 44 days and seven matches.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602e/live/51812470-2616-11f1-bb2e-e7449480cfc0.jpg"
-        },
-        {
-          "title": "Can you ever stop supporting your football team?",
-          "link": "https://www.bbc.com/sport/football/articles/cgrlw1y802lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Is it really a lifelong pledge of loyalty? BBC Sport asks whether a fan can really stop supporting their football team.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a1/live/9debec40-2838-11f1-b297-95b0a0a8331e.jpg"
         }
       ],
       "highlights": [
@@ -123,6 +123,27 @@
       "name": "Championship",
       "articles": [
         {
+          "title": "Robinson and Tribe among England Test contenders ahead of county season",
+          "link": "https://www.skysports.com/cricket/news/12040/13526155/england-test-cricket-contenders-ollie-robinson-asa-tribe-sam-cook-calvin-harrison-james-rew-rehan-ahmed",
+          "published": "2026-03-31",
+          "summary": "Ahead of the County Championship season from Good Friday, we look at some of the players looking to press their England Test claims for the series at home to New Zealand from June 4.",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-cricket-county-cricket_7207000.jpg?20260330152134"
+        },
+        {
+          "title": "Former West Brom keeper Godden dies aged 70",
+          "link": "https://www.bbc.com/sport/football/articles/cly9we3ev4vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "Popular former West Bromwich Albion goalkeeper Tony Godden dies at the age of 70.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c13/live/00bd38d0-2c51-11f1-824a-573867676f63.jpg"
+        },
+        {
+          "title": "Two teams, three games, six days - O'Neill's unique predicament",
+          "link": "https://www.bbc.com/sport/football/articles/c393j712p94o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "BBC Sport NI looks at how Northern Ireland and Blackburn Rovers manager Michael O'Neill will navigate a unique six-day stretch that will include games against Wales, Birmingham City and a relegation s...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d2/live/a7007570-2c35-11f1-b8c9-f5058c0aec9a.jpg"
+        },
+        {
           "title": "Watch: Brown's last Ayr game as Championship leaders also stumble",
           "link": "https://www.bbc.com/sport/videos/cq8w07qey11o?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-30",
@@ -130,11 +151,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4140/live/fca1a270-2c16-11f1-b297-95b0a0a8331e.png"
         },
         {
-          "title": "Korda topped by Kim again as South Korean wins for second straight week",
-          "link": "https://www.skysports.com/golf/news/12040/13525983/ford-championship-nelly-korda-outduelled-by-hyo-joo-kim-again-as-south-korean-wins-on-lpga-tour-for-second-straight-week",
+          "title": "Last-leg drama! Nine-darter heartbreak ends in disaster!",
+          "link": "https://www.skysports.com/watch/video/13526122/last-leg-drama-nine-darter-heartbreak-ends-in-disaster",
           "published": "2026-03-30",
-          "summary": "Hyo Joo Kim repelled a challenge from Nelly Korda for the second straight week, pulling away around the turn and closing with a three-under 69 for a two-shot victory in the Ford Championship.",
-          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-hyo-joo-kim-golf_7206565.jpg?20260330064127"
+          "summary": "Niels Zonneveld missed double 12 for a nine-darter and then went on to lose the match against Sebastian Bialecki in the 2026 Players Championship 7. Credit: PDC",
+          "image": "https://e0.365dm.com/26/03/1920x1080/skysports-darts-nine_7206967.jpg?20260330142127"
         }
       ],
       "highlights": [
@@ -147,15 +168,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "Alli earns first Republic of Ireland call-up",
-          "link": "https://www.bbc.com/sport/football/articles/clyxd7889vlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-29",
-          "summary": "Republic of Ireland manager Heimir Hallgr\u00edmsson calls Portsmouth winger Millenic Alli into his squad for Tuesday's friendly against North Macedonia in Dublin [19:45 BST].",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fac/live/82d06720-2b75-11f1-915e-076b1d4be1dd.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -172,7 +185,7 @@
           "link": "https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo?at_medium=RSS&at_campaign=rss",
           "published": "2026-03-30",
           "summary": "Four years ago Elliot Anderson was helping Bristol Rovers to League Two promotion - this summer he could be a key player for England at the World Cup. BBC Sport charts his rise.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3300/live/105d1300-283c-11f1-ac61-c943803d2ed3.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf2/live/2ac9f150-2c41-11f1-88b9-4987f82331d9.jpg"
         }
       ],
       "highlights": [
@@ -187,11 +200,39 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Were England players really 'playing for themselves' - and what next?",
-          "link": "https://www.bbc.com/sport/football/articles/cwyxe764gv0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-28",
-          "summary": "Did England manager Thomas Tuchel judge this international break correctly by naming such a large squad? Or was it a missed opportunity?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfab/live/db770f30-2a96-11f1-a79a-77e93010d956.jpg"
+          "title": "Ghana sack manager Addo, 72 days before World Cup",
+          "link": "https://www.bbc.com/sport/football/articles/crr1zyyr8xvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "Ghana dismiss manager Otto Addo, 72 days before the start of the 2026 World Cup, following a run of defeats.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542b/live/9cbe3060-2cc7-11f1-9585-1177e44a7ea1.jpg"
+        },
+        {
+          "title": "How Scotland found their base camp for 'travelling' World Cup",
+          "link": "https://www.bbc.com/sport/football/articles/cpqw58jrex7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "Gary Dicker and Steven Naismith explain why Scotland picked Charlotte FC as their World Cup base.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/494f/live/d1801f80-2cdf-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "title": "Who are the Japan players England should look out for?",
+          "link": "https://www.bbc.com/sport/football/articles/cgldy0p024ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "England face Japan in their next friendly match as they continue their preparations for the World Cup this summer. BBC Sport takes a look at the Japanese players to look out for.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2855/live/4f4ffd10-2b7b-11f1-a79a-77e93010d956.png"
+        },
+        {
+          "title": "Wales v Northern Ireland - the match nobody wants",
+          "link": "https://www.bbc.com/sport/football/articles/cwyvnrqd3zxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-31",
+          "summary": "Wales host Northern Ireland in a friendly in Cardiff on Tuesday because both teams lost their World Cup play-off semi-finals on Thursday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6e/live/4ff7bb40-2c2a-11f1-8768-1105331460e6.png"
+        },
+        {
+          "title": "'This is bigger than football' - DR Congo bid to end 52-year World Cup wait",
+          "link": "https://www.bbc.com/sport/football/articles/cwyd1zpy81mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-03-30",
+          "summary": "DR Congo face Jamaica in a World Cup play-off, hoping to reach the tournament for the first time since 1974, a campaign memorable for the wrong reasons.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf5/live/a182e0d0-2a08-11f1-b297-95b0a0a8331e.jpg"
         },
         {
           "title": "O'Neill positive about Northern Ireland future despite Italy defeat",
@@ -212,6 +253,14 @@
   },
   "standout_moments": [
     {
+      "moment": "Ayr appoint Rankin as interim boss for season end",
+      "link": "https://www.bbc.com/sport/football/articles/cedeydj28eno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Tuchel not angry over England withdrawals",
+      "link": "https://www.bbc.com/sport/football/articles/cvg39k8274ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Chelsea leave it late to win seven-goal thriller over Villa",
       "link": "https://www.bbc.com/sport/football/videos/cz67pz09y4xo?at_medium=RSS&at_campaign=rss"
     },
@@ -226,18 +275,6 @@
     {
       "moment": "10-player Liverpool survive fightback to win Merseyside derby",
       "link": "https://www.bbc.com/sport/football/videos/cg54y9q6p59o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "How does Tudor's record compare to other Tottenham bosses?",
-      "link": "https://www.bbc.com/sport/football/articles/c5y8dlezgjro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Madrid's Caicedo scores 'wonder strike' against Barcelona",
-      "link": "https://www.bbc.com/sport/football/videos/cp381xw9273o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Chelsea edge seven-goal thriller against Villa to reclaim second place",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-aston-villa-women/report/545713"
     }
   ]
 }
