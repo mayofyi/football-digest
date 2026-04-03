@@ -1,30 +1,79 @@
 {
-  "generated_date": "2026-04-02",
-  "week_ending": "April 02, 2026",
+  "generated_date": "2026-04-03",
+  "week_ending": "April 03, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "What De Zerbi needs to do to turn Tottenham around",
+          "link": "https://www.bbc.com/sport/football/articles/cj402p5ezylo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-03",
+          "summary": "Tony Pulis explores why Tottenham are in such a mess and what their new manager Roberto de Zerbi might do to change things as they seek to stay in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"
+        },
+        {
+          "title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
+          "link": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-03",
+          "summary": "Six thousand Port Vale fans will travel to Chelsea on Saturday to cheer on the struggling League One side in the quarter-finals of the FA Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cff/live/6c4a84b0-2b5a-11f1-8c3a-a5a96d0e4227.jpg"
+        },
+        {
+          "title": "The 'Swiss Leicester' closing on their first title",
+          "link": "https://www.bbc.com/sport/football/articles/c0433176p6zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-03",
+          "summary": "A decade after Leicester unexpectedly won the Premier League, FC Thun of Switzerland are closing on one of football's greatest underdog triumphs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf78/live/b1edfdf0-1fd7-11f1-b210-872dc007b3ae.jpg"
+        },
+        {
+          "title": "Football quiz: Name every club in the Premier League and EFL",
+          "link": "https://www.bbc.com/sport/football/articles/ckge70rellxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-03",
+          "summary": "Can you tackle our mega-quiz and name all 92 teams in England's top four divisions? There is no time limit. Good luck!",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d5/live/1951ba70-2d31-11f1-8c7a-d7713554a96a.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nbd6cw?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-03",
+          "summary": "Alistair Bruce-Ball is joined by Jason McAteer, Steve Howey, Ian Ryan and George Caulkin.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nbd6f1.jpg"
+        },
+        {
+          "title": "Rogers open to leaving Aston Villa - Friday gossip",
+          "link": "https://www.bbc.com/sport/football/articles/cj40e5q488ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Morgan Rogers open to leaving Aston Villa, RB Leipzig put \u00a387m price tag on Yan Diomande and Saudi Pro League stepping up pursuit of Mohamed Salah, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34fb/live/074cb430-2ee2-11f1-9530-059c42714b24.png"
+        },
+        {
+          "title": "Barcelona run riot against Madrid to reach Champions League semis",
+          "link": "https://www.bbc.com/sport/football/videos/czexyr1zkywo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Barcelona cruise into the Women's Champions League semi-finals, beating Real Madrid 6-0 at the Nou Camp and 12-2 on aggregate, setting up a tie against Bayern Munich.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/631e/live/0f4d9bb0-2ec7-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "title": "From shame to pride - inside Europe's most exciting league",
+          "link": "https://www.bbc.com/sport/football/articles/cvglvnvgg22o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Poland's top flight has become Europe's most exciting league. Guillem Balague looks at how they have achieved it.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6d/live/d6fe3660-2db9-11f1-934f-036468834728.png"
+        },
+        {
+          "title": "Is Scottish Premiership title race set for fresh twist?",
+          "link": "https://www.bbc.com/sport/football/articles/c4gx2m9z87jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "After a two-week break from the carnage, what's next in one of the most gripping title fights in Europe?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4067/live/3904d470-2ea7-11f1-a79a-77e93010d956.png"
+        },
         {
           "title": "Officials correct not to give Amad penalty - panel",
           "link": "https://www.bbc.com/sport/football/articles/cwykx5yzr7ko?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-02",
           "summary": "The Premier League's KMI Panel says both referee and VAR were right not to give a penalty to Manchester United's Amad Diallo at Bournemouth.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e129/live/cdd3c2c0-2e73-11f1-934f-036468834728.jpg"
-        },
-        {
-          "title": "Who uses academy players most in Premier League - and does it matter?",
-          "link": "https://www.bbc.com/sport/football/articles/cn081g8x520o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-02",
-          "summary": "As Max Dowman becomes the latest academy product to make an impact in the Premier League, BBC Sport looks at who uses their youngsters most.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c83d/live/6321f620-2c72-11f1-b9ce-87cd7deab432.jpg"
-        },
-        {
-          "title": "Is success crucial? BBC Sport experts pick their player of the season",
-          "link": "https://www.bbc.com/sport/football/articles/cr5139qvl55o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-02",
-          "summary": "With award season just around the corner, BBC Sport experts pick their contenders for Premier League player of the year. Do you agree?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6d/live/a23d5e10-2db4-11f1-934f-036468834728.jpg"
         },
         {
           "title": "The first promotion, Boro-Millwall showdown & Hodgson's back - EFL preview",
@@ -34,81 +83,32 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6e/live/a4068230-2cec-11f1-a79a-77e93010d956.png"
         },
         {
-          "title": "How does Scottish Premiership split work?",
-          "link": "https://www.bbc.com/sport/football/articles/c80mernj7dyo?at_medium=RSS&at_campaign=rss",
+          "title": "Who uses academy players most in Premier League - and does it matter?",
+          "link": "https://www.bbc.com/sport/football/articles/cn081g8x520o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-02",
-          "summary": "The Scottish Premiership title race has been a hot topic all season and it's about to become even more interesting with the league's split.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f6/live/146d0110-2159-11f1-b297-95b0a0a8331e.png"
+          "summary": "As Max Dowman becomes the latest academy product to make an impact in the Premier League, BBC Sport looks at who uses their youngsters most.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c83d/live/6321f620-2c72-11f1-b9ce-87cd7deab432.jpg"
         },
         {
-          "title": "Biggest drop in Premier League history? The scale of a Spurs relegation",
-          "link": "https://www.skysports.com/football/news/12040/13524263/tottenham-premier-league-relegation-to-championship-possibility-put-into-perspective-by-spurs-transfer-spend-stadium-size-and-trophies",
+          "title": "Kerr's uncertain future - should Chelsea keep striker?",
+          "link": "https://www.bbc.com/sport/football/articles/clyxle697vpo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-02",
-          "summary": "If Tottenham are relegated from the Premier League it will be one of the biggest stories in the competition's history.",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-spurs_7208488.jpg?20260401121411"
+          "summary": "The future of Chelsea striker Sam Kerr remains uncertain - but would it be a wise decision to let her leave on a free transfer this summer?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edf/live/153ce210-2e7c-11f1-b354-072591b4ef8e.jpg"
         },
         {
-          "title": "Bompastor angry with VAR after McCabe hair pull",
-          "link": "https://www.bbc.com/sport/football/articles/c4gv71d930yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Chelsea manager Sonia Bompastor criticises VAR as Arsenal's Katie McCabe avoids a red card for pulling Alyssa Thompson's hair.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f221/live/2883f500-2e1a-11f1-871e-e514b3e2c204.jpg"
+          "title": "Is success crucial? BBC Sport experts pick their player of the season",
+          "link": "https://www.bbc.com/sport/football/articles/cr5139qvl55o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "With award season just around the corner, BBC Sport experts pick their contenders for Premier League player of the year. Do you agree?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6d/live/a23d5e10-2db4-11f1-934f-036468834728.jpg"
         },
         {
-          "title": "Chelsea make pre-tax loss of \u00a3262.4m - biggest in Premier League history",
-          "link": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Chelsea announce a Premier League\u2011record pre\u2011tax loss of \u00a3262m for the 2024\u201125 season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/ddee0490-2db5-11f1-b692-3b8b8cac9c96.jpg"
-        },
-        {
-          "title": "Arsenal reach Champions League semis as Chelsea's Bompastor sent off",
-          "link": "https://www.bbc.com/sport/football/videos/c87w80dqznzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Arsenal lose 1-0 in the second leg of their Women's Champions League quarter-final against Chelsea but win 3-2 on aggregate to reach the semi-finals and move a step closer to successfully defending th...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d95/live/16034850-2e19-11f1-a79a-77e93010d956.jpg"
-        },
-        {
-          "title": "McCabe avoids red after hair pull on Thompson",
-          "link": "https://www.bbc.com/sport/football/videos/cwy3j7wr161o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Watch the moment Katie McCabe appears to pull Alyssa Thompson's hair during Chelsea's 1-0 win against Arsenal in the second leg of their Champions League quarter-final.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf0/live/edd59bf0-2e1b-11f1-a79a-77e93010d956.jpg"
-        },
-        {
-          "title": "'My players don't deserve this' - Bompastor furious after hair pull",
-          "link": "https://www.bbc.com/sport/videos/cdrm58d8gmvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Chelsea manager Sonia Bompastor says her players \"deserve better\" after she was sent off during her side's 1-0 win against Arsenal in the second leg of their Champions League quarter-final, in a match...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a020/live/bb6e7270-2e13-11f1-a79a-77e93010d956.jpg"
-        },
-        {
-          "title": "Bayern strike late to knock Manchester United out of Champions League",
-          "link": "https://www.bbc.com/sport/football/videos/cew7dpdvqego?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Manchester United go out of the Women's Champions League as Bayern Munich score two late goals in the second leg of their quarter-final to win 2-1 on the night and 5-3 on aggregate.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/a74b7350-2e05-11f1-934f-036468834728.jpg"
-        },
-        {
-          "title": "Foden not guaranteed World Cup squad spot - Tuchel",
-          "link": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Manchester City midfielder Phil Foden's is not guaranteed a place in England's squad for the 2026 World Cup, says manager Thomas Tuchel.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826d/live/0eb85a40-2dfb-11f1-bcc3-17208151de09.jpg"
-        },
-        {
-          "title": "From YouTube to real life: why Hashtag United want to go down",
-          "link": "https://www.bbc.com/sport/football/articles/ce3594qnvxlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "After a decade of moving up the football pyramid, YouTube team Hashtag United want to be demoted. BBC Sport asks co-founder Spencer Owen: Why?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede0/live/2bc26090-2d3d-11f1-8c7a-d7713554a96a.jpg"
-        },
-        {
-          "title": "Man Utd are closing in on Champions League - how has Carrick done it?",
-          "link": "https://www.bbc.com/sport/football/articles/c0q9n38pqnno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "Manchester United are within touching distance of a return to the Champions League. How has interim boss Michael Carrick done it?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b55/live/99b31c40-2c64-11f1-934f-036468834728.jpg"
+          "title": "Championship predictions: Middlesbrough to take step closer to Premier League",
+          "link": "https://www.skysports.com/football/news/12040/13527390/championship-predictions-and-best-bets-middlesbrough-to-take-a-step-closer-to-premier-league-with-good-friday-win",
+          "published": "2026-04-02",
+          "summary": "Our football betting expert and top tipster Jones Knows offers up his insight on every Sky Bet Championship match on Good Friday and shares his best bets.",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-efl-championship_7206791.jpg?20260330111030"
         }
       ],
       "highlights": [
@@ -123,18 +123,39 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Dubois intends to back up her words vs Harper: 'I'm on a quest for greatness'",
-          "link": "https://www.skysports.com/boxing/news/12040/13527007/caroline-dubois-knows-she-must-back-up-her-words-against-terri-harper-im-on-a-quest-for-greatness-this-is-the-start",
-          "published": "2026-04-02",
-          "summary": "Caroline Dubois makes no secret of her ambition. She is on \"a quest for greatness\" and the next step in her mission is to unify world championships against Terri Harper.",
-          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-caroline-dubois-terri-harper_7208928.jpg?20260401205023"
+          "title": "Kim, Korda one shot off lead after tight Aramco Championship first round",
+          "link": "https://www.skysports.com/golf/news/12040/13527453/aramco-championship-hyo-joo-kim-nelly-korda-one-shot-off-lead-after-first-round-of-lpga-tour-event",
+          "published": "2026-04-03",
+          "summary": "Lauren Coughlin showed her familiarity with Shadow Creek by opening with a five-under 67, putting her in a three-way tie for the lead Thursday with Nasa Hataoka and Women's British Open champion Miyu ...",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hyo-joo-kim-golf_7209935.jpg?20260403072241"
         },
         {
-          "title": "Staying up with the Joneses? Charlton's Nathan and Lloyd on Championship and Wales aims",
-          "link": "https://www.skysports.com/football/news/12040/13526917/charlton-nathan-jones-and-centre-back-lloyd-jones-on-defenders-rise-wales-prospects-and-the-addicks-championship-ambitions",
-          "published": "2026-04-01",
-          "summary": "\"If they ring me up, there is not a single ounce of my being that wouldn't recommend Lloyd Jones to play for my country.\"",
-          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-lloyd-jones-charlton_7208752.jpg?20260401165339"
+          "title": "The Championship run-in: 24 key questions for 24 clubs",
+          "link": "https://www.bbc.com/sport/football/articles/c4gdxndkpr7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "BBC Sport breaks down the main storylines and talking points as the Championship enters the final section of the 2025-26 season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f67/live/c1b59ed0-2db2-11f1-927b-f98ec5617a78.jpg"
+        },
+        {
+          "title": "Game 'killer' or 'fairer' - does the Championship need VAR?",
+          "link": "https://www.bbc.com/sport/football/articles/cx288ypvyq5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "BBC Sport examines the arguments for and against and the thoughts across the Championship over the contentious issues of whether to bring in VAR.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c7/live/80950fc0-26d8-11f1-9c9b-b12a8fefa770.jpg"
+        },
+        {
+          "title": "Stokes urges players to push England case in County Championship",
+          "link": "https://www.skysports.com/cricket/news/12040/13527319/a-great-opportunity-test-skipper-ben-stokes-urges-players-to-push-england-case-in-county-championship",
+          "published": "2026-04-02",
+          "summary": "England Test captain Ben Stokes has urged players to push their case for an International call-up in the County Championship, calling it a \"great opportunity\".",
+          "image": "https://e1.365dm.com/26/03/1920x1080/skysports-ben-stokes-the-ashes-2025-26_7198919.jpg?20260321093215"
+        },
+        {
+          "title": "Haggerty ready for emotions of Bradford vs Leeds derby: 'We want to put on a show!'",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13526020/bradford-bulls-head-coach-kurt-haggerty-ready-for-emotions-surrounding-leeds-rhinos-derby-we-want-to-put-on-a-show",
+          "published": "2026-04-02",
+          "summary": "Bradford Bulls head coach Kurt Haggerty knows that this week has been a little bit different as his side prepare to face Leeds Rhinos in Super League for the first time in 12 years.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-bradford-bulls-kurt-haggerty_7209580.jpg?20260402155957"
         },
         {
           "title": "Watch: Brown's last Ayr game as Championship leaders also stumble",
@@ -178,18 +199,39 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Teenager Davies back for Wales as Clark misses out",
+          "title": "The $11k World Cup final ticket - what we learned from first open sale",
+          "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2345/live/462d3e80-2e8e-11f1-bf7c-65962cff9746.jpg"
+        },
+        {
+          "title": "Italian FA head and Buffon quit over World Cup failure",
+          "link": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Gabriele Gravina resigns as head of Italy's football federation after they fail to qualify for a third World Cup in a row, while ex-goalkeeper Gianluigi Buffon quits his role with the national team.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3da/live/5ac2b1b0-2ea0-11f1-bf13-db49faadbe93.jpg"
+        },
+        {
+          "title": "FA warns player strain could damage England's trophy hopes",
+          "link": "https://www.bbc.com/sport/football/articles/c5ywkqk1pj3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Fixture congestion and its impact on player welfare could hinder England's hopes in future World Cups and devalue competitions like the FA Cup, says the Football Association.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea15/live/de1843d0-2eb0-11f1-b61b-b75b7cb9c2c8.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nbdgtr?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-02",
+          "summary": "Why have Italy failed to qualify for the World Cup again?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nbdgvn.jpg"
+        },
+        {
+          "title": "Davies back in Wales squad but Clark misses out",
           "link": "https://www.bbc.com/sport/football/articles/cx2elk0we3go?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-02",
           "summary": "Mayzee Davies returns to the Wales squad for this month's World Cup qualifiers against Albania but there is no place for injured goalkeeper Olivia Clark.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf6/live/d7d5d4a0-2e5c-11f1-9408-ab8675603e32.jpg"
-        },
-        {
-          "title": "BBC Sport's McNulty picks his England World Cup squad - do you agree?",
-          "link": "https://www.bbc.com/sport/football/articles/c995p9kdm3mo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-01",
-          "summary": "BBC Sport chief football writer Phil McNulty picks his 26-man England World Cup squad - do you agree?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/470b/live/04edb620-2ce0-11f1-b9b6-edf30202fd70.jpg"
         },
         {
           "title": "Highlights: Wales draw 1-1 with Northern Ireland",
@@ -197,13 +239,6 @@
           "published": "2026-03-31",
           "summary": "Watch highlights as Wales draw 1-1 with Northern Ireland in their international friendly match in Cardiff.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5951/live/11495180-2d4f-11f1-b297-95b0a0a8331e.png"
-        },
-        {
-          "title": "Failed experiment as England get grim glimpse of life without Kane",
-          "link": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-31",
-          "summary": "England's World Cup hopes rest on captain Harry Kane after a grim taste of life without him in the defeat against Japan at Wembley, says chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a100/live/e594de70-2d48-11f1-8ac7-a101b1a2933c.jpg"
         },
         {
           "title": "Wiegman on 'speechless' Parkinson's England call-up",
@@ -224,12 +259,8 @@
   },
   "standout_moments": [
     {
-      "moment": "Chelsea make pre-tax loss of \u00a3262.4m - biggest in Premier League history",
-      "link": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Chelsea lead Premier League's record \u00a3460m spend on agent fees",
-      "link": "https://www.bbc.com/sport/football/articles/clyxnpvl7wdo?at_medium=RSS&at_campaign=rss"
+      "moment": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Chelsea leave it late to win seven-goal thriller over Villa",
@@ -244,8 +275,8 @@
       "link": "https://www.bbc.com/sport/football/videos/c6246ezkqleo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Nusken goal not enough as Bompastor sent off in Chelsea's WCL exit to Arsenal",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/551341"
+      "moment": "Haggerty ready for emotions of Bradford vs Leeds derby: 'We want to put on a show!'",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13526020/bradford-bulls-head-coach-kurt-haggerty-ready-for-emotions-surrounding-leeds-rhinos-derby-we-want-to-put-on-a-show"
     }
   ]
 }
