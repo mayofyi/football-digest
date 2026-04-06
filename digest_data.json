@@ -1,23 +1,100 @@
 {
-  "generated_date": "2026-04-05",
-  "week_ending": "April 05, 2026",
+  "generated_date": "2026-04-06",
+  "week_ending": "April 06, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Ranking football's greatest one-club men",
+          "link": "https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-06",
+          "summary": "From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a5/live/2cd28e00-2e6f-11f1-934f-036468834728.png"
+        },
+        {
+          "title": "Papers: Romero's father reveals Spurs release clause details",
+          "link": "https://www.skysports.com/football/news/12040/13528351/liverpool-players-hold-emergency-meeting-after-man-city-thrashing-ramps-up-pressure-on-arne-slot-paper-talk-and-football-transfer-gossip",
+          "published": "2026-04-06",
+          "summary": "The top stories and transfer rumours from Monday's newspapers...",
+          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+        },
+        {
+          "title": "Lijnders hints at Man City departure for  Silva",
+          "link": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff7/live/3ec64020-30e5-11f1-b519-432a7775734e.jpg"
+        },
+        {
+          "title": "'We're still top of the league' - McInnes reminds doubters",
+          "link": "https://www.bbc.com/sport/football/articles/c0krn8ke53ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Hearts head coach Derek McInnes remains defiant despite a title slip up at Livingston.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/b934afd0-3118-11f1-b4eb-f70081c45e1f.jpg"
+        },
+        {
+          "title": "Man Utd look to offload Ugarte - Monday gossip",
+          "link": "https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Manchester United look to sell Uruguayan midfielder, Real Madrid forward sparks Premier League interest, Liverpool eye swap deal, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5d/live/d06fcdf0-3132-11f1-a79a-77e93010d956.png"
+        },
+        {
+          "title": "O'Neill hails Celtic spirit as they stay in title hunt",
+          "link": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nbs1d3?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Are Arsenal bottling it? Is Arne Slot lost? Can Leeds or Saints win it?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+        },
+        {
+          "title": "Leeds never do it the easy way - Farke",
+          "link": "https://www.bbc.com/sport/football/videos/czexwn45p7zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "Leeds United manager Daniel Farke says his side \"never do it the easy way\" after letting go of a two-goal lead against West Ham before beating the London side on penalties to reach their first FA Cup ...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf8/live/44f43ac0-312a-11f1-934f-036468834728.jpg"
+        },
+        {
+          "title": "West Ham 'must react' after 'tough' loss to Leeds - Nuno",
+          "link": "https://www.bbc.com/sport/football/videos/c78l463nw5po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-05",
+          "summary": "West Ham manager Nuno Espirito Santo says his side's FA Cup quarter-final defeat by Leeds on penalties is \"sad\" but his side \"must react\" as they face Wolverhampton Wanderers in a crucial relegation c...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d903/live/46841bd0-3125-11f1-934f-036468834728.jpg"
+        },
+        {
+          "title": "Iheanacho strikes LATE to keep Celtic's title hopes alive!",
+          "link": "https://www.skysports.com/watch/video/13528312/dundee-1-2-celtic-scottish-premiership-highlights",
+          "published": "2026-04-05",
+          "summary": "Highlights from the Scottish Premiership match between Dundee and Celtic.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-celtic-dundee_7211997.jpg?20260406072308"
+        },
+        {
+          "title": "Livingston 2-2 Hearts",
+          "link": "https://www.skysports.com/watch/video/13528306/livingston-2-2-hearts-scottish-premiership-highlights",
+          "published": "2026-04-05",
+          "summary": "Watch highlights from the Scottish Premiership match between Livingston and Hearts.",
+          "image": "https://e1.365dm.com/26/04/1920x1080/b84a99ac571bbbba5b0af18ab4f0610a7d06643f9539de14557bb53b70a941de_7211791.jpg?20260405192525"
+        },
+        {
+          "title": "McInnes and O'Neill bullish as R\u00f6hl rallies 'hunters' in epic Scottish title race",
+          "link": "https://www.skysports.com/football/news/12040/13528318/scottish-title-race-derek-mcinnes-defends-hearts-chances-simple-what-celtic-must-do-says-martin-oneill",
+          "published": "2026-04-05",
+          "summary": "Derek McInnes said league leaders Hearts remain in a \"strong position\" despite missing the opportunity to move three points clear at the top of the table with their 2-2 draw at bottom side Livingston.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-alexander-schwolow_7211861.jpg?20260405212416"
+        },
         {
           "title": "Haaland's 'old-school' lesson for Liverpool as FA Cup record falls",
           "link": "https://www.bbc.com/sport/football/articles/c145g7z4xm0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-04",
           "summary": "Manchester City have beaten Arsenal and taken apart Liverpool in their past two games and Erling Haaland's return to goalscoring form has laid down the gauntlet for the run-in.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6013/live/210c8da0-304a-11f1-bcfc-dda6bbc21b25.jpg"
-        },
-        {
-          "title": "Rohl won't watch title rivals as Rangers enjoy top spot",
-          "link": "https://www.bbc.com/sport/football/articles/cx2e959dqpwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "As Rangers move to the top of the Scottish Premiership for the first time this season, head coach Danny Rohl is \"convinced\" they can finish the job.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce71/live/fbb802d0-3055-11f1-908b-93cc749a44cd.jpg"
         },
         {
           "title": "Southampton shock Arsenal to reach FA Cup semi-finals",
@@ -32,83 +109,6 @@
           "published": "2026-04-04",
           "summary": "John McGlynn is a man with the Midas touch as Falkirk secure a top-six finish on their return to the Scottish Premiership.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc3/live/aa29aeb0-3063-11f1-850b-0d4904bcea56.jpg"
-        },
-        {
-          "title": "Chelsea chase Strasbourg defender - Sunday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cy51p7wwye6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Chelsea seek defender from partner club, Inter target Spurs goalkeeper and Liverpool look to add to defensive ranks, plus more.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd4/live/7a24e060-3075-11f1-934f-036468834728.png"
-        },
-        {
-          "title": "Rashford strikes as Barcelona beat Atletico Madrid",
-          "link": "https://www.bbc.com/sport/football/videos/c4gvmvlg0ldo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "England forward Marcus Rashford scores an impressive goal in Barcelona's 2-1 win against Atletico Madrid.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/a46e51c0-307b-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "'It stays in the dressing room' - Arteta coy after Arsenal loss",
-          "link": "https://www.bbc.com/sport/football/videos/c4g4jedkwn1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Arsenal manager Mikel Arteta reacts to Arsenal's 2-1 loss to Southampton in the FA Cup quarter-finals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be01/live/71cdbe30-3072-11f1-a79a-77e93010d956.jpg"
-        },
-        {
-          "title": "How former Liverpool prospect found love for football again",
-          "link": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "After 18 years at Liverpool, Tyler Morton tells BBC Sport how moving to Lyon in the summer has helped him fall back in love with football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d5e/live/f8cb0ad0-2f3e-11f1-91cb-cd1f5e51ebfd.jpg"
-        },
-        {
-          "title": "After more than 14 years at Atletico Madrid, what next for Simeone?",
-          "link": "https://www.bbc.com/sport/football/articles/cp9v2pz803ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "BBC Sport asks if Atletico Madrid could really part ways with manager Diego Simeone at the end of the season?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/ca6fa910-2dd7-11f1-a186-bdbec3fa8607.jpg"
-        },
-        {
-          "title": "Football rally in Peru leaves one dead and dozens injured",
-          "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "Chelsea thrash Port Vale 7-0 to reach FA Cup semi-final",
-          "link": "https://www.bbc.com/sport/football/videos/c3exzn9321lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Chelsea score seven goals against League One strugglers Port Vale at Stamford Bridge to reach the FA Cup semi-finals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4960/live/d39c9b60-3057-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "White error as Stewart gives Southampton shock lead over Arsenal",
-          "link": "https://www.bbc.com/sport/football/videos/c393dzjl0p8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Ross Stewart capitalises on a \"misjudgement\" by Ben White to give Southampton a shock lead against Premier League leaders Arsenal in the FA Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e55/live/e2488670-3065-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "Bayern Munich's stunning comeback in 99th minute",
-          "link": "https://www.bbc.com/sport/football/videos/cqxlgqg03dro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Bundesliga leaders Bayern Munich came back from two goals down to clinch a victory over Freiburg thanks to Lennart Karl's 99th-minute winner.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2ba/live/f4e07130-3051-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "There is no ceiling for Estevao - Rosenior",
-          "link": "https://www.bbc.com/sport/football/videos/cly7rd8dprlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Manager Liam Rosenior says there is \"no ceiling\" for Estevao after the Brazilian teenager's impressive performance in Chelsea's 7-0 victory against Port Vale.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/da097690-3056-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "title": "McArdle out to end NI's goal drought - could Chambers help?",
-          "link": "https://www.bbc.com/sport/articles/cjw8ngj60j5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-04",
-          "summary": "Northern Ireland boss Michael McArdle talks of his side's goalscoring issues as well as the impact uncapped striker Cora Chambers could make to solving those problems.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/2f900f30-2f52-11f1-b471-73a11a0c1806.jpg"
         }
       ],
       "highlights": [
@@ -123,32 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Korda closes gap to Coughlin at Aramco Championship",
-          "link": "https://www.skysports.com/golf/news/12040/13528130/lpga-tour-nelly-korda-closes-gap-to-lauren-coughlin-at-aramco-championship-after-third-round-at-shallow-creek",
+          "title": "Coughlin closes out Aramco Championship win as Maguire shares second",
+          "link": "https://www.skysports.com/golf/news/12040/13528375/aramco-championship-lauren-coughlin-closes-out-dominant-victory-at-shadow-creek-as-nelly-korda-shares-second-with-leona-maguire",
+          "published": "2026-04-06",
+          "summary": "Lauren Coughlin completed a dominant five-shot victory at the Aramco Championship as Ireland's Leona Maguire shared second with Nelly Korda. &#160;",
+          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-lauren-coughlin-aramco-championship_7211965.jpg?20260406064726"
+        },
+        {
+          "title": "Is the Championship heading for financial 'catastrophe'?",
+          "link": "https://www.bbc.com/sport/football/articles/ce35l43w83lo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-05",
-          "summary": "Lauren Coughlin still leads at the Aramco Championship but Nelly Korda closed the gap on Saturday to just two shots as hilly Shadow Creek lived up to its reputation as a course on which pars are good ...",
-          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-nelly-korda-aramco-championship_7211379.jpg?20260405093648"
+          "summary": "BBC Sport takes a look at if the second tier could be facing a \"doomsday scenario\" as club accounts reveal the significant scale of their losses.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9079/live/3fa6f8e0-2dd4-11f1-a79a-77e93010d956.jpg"
         },
         {
-          "title": "Price wins battle to retain titles and calls out Shields: 'Let's go!'",
-          "link": "https://www.skysports.com/boxing/news/12040/13528045/lauren-price-comes-through-battle-to-retain-welterweight-world-titles-and-calls-out-claressa-shields-lets-go",
-          "published": "2026-04-04",
-          "summary": "Lauren Price defended her unified welterweight world championships against Stephanie Pineiro Aquino in Cardiff.",
-          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-claressa-shields_7211238.jpg?20260404223842"
-        },
-        {
-          "title": "Anderson takes five-wicket haul for Lancashire against Northamptonshire",
-          "link": "https://www.skysports.com/cricket/news/12040/13528036/county-championship-james-anderson-takes-five-wicket-haul-to-put-lancashire-on-top-against-northamptonshire",
-          "published": "2026-04-04",
-          "summary": "James Anderson rolled back the years with a five-wicket haul as Lancashire ended the second day of their opening County Championship match against Northamptonshire in a commanding position.",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-james-anderson-lancashire_7210795.jpg?20260404135848"
-        },
-        {
-          "title": "The Championship run-in: 24 key questions for 24 clubs",
-          "link": "https://www.bbc.com/sport/football/articles/c4gdxndkpr7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-02",
-          "summary": "BBC Sport breaks down the main storylines and talking points as the Championship enters the final section of the 2025-26 season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f67/live/c1b59ed0-2db2-11f1-927b-f98ec5617a78.jpg"
+          "title": "Dubois defeats Harper to win world championship grudge match",
+          "link": "https://www.skysports.com/boxing/news/12040/13528249/caroline-dubois-defeats-terri-harper-to-win-world-championship-grudge-match-and-unify-wbc-and-wbo-lightweight-titles",
+          "published": "2026-04-05",
+          "summary": "Caroline Dubois dropped Terri Harper en route to beating her rival world champion by unanimous decision.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-caroline-dubois-terri-harper_7211909.jpg?20260405225804"
         }
       ],
       "highlights": [
@@ -183,29 +176,7 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [
-        {
-          "title": "Gattuso leaves Italy role - who could replace him?",
-          "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-03",
-          "summary": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a8/live/a3f1bb50-2f55-11f1-b471-73a11a0c1806.jpg"
-        },
-        {
-          "title": "The $11k World Cup final ticket - what we learned from first open sale",
-          "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-02",
-          "summary": "Fifa is charging what is thought to be the most expensive general admission price for a football match.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2345/live/462d3e80-2e8e-11f1-bf7c-65962cff9746.jpg"
-        },
-        {
-          "title": "Wiegman on 'speechless' Parkinson's England call-up",
-          "link": "https://www.bbc.com/sport/football/videos/c98m950d20go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-03-31",
-          "summary": "England manager Sarina Wiegman explains why she has handed a first senior call-up to 17-year-old midfielder Erica Meg Parkinson for World Cup qualifiers with Spain and Iceland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/386c/live/d72e4e80-2cf2-11f1-934f-036468834728.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -223,10 +194,6 @@
     {
       "moment": "Southampton shock Arsenal to reach FA Cup semi-finals",
       "link": "https://www.bbc.com/sport/football/videos/cwyj0ewx348o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "O'Neill wary of dropped points as games run out for Celtic",
-      "link": "https://www.bbc.com/sport/football/articles/c3w34j4z3eno?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "White error as Stewart gives Southampton shock lead over Arsenal",
