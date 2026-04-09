@@ -1,10 +1,87 @@
 {
-  "generated_date": "2026-04-08",
-  "week_ending": "April 08, 2026",
+  "generated_date": "2026-04-09",
+  "week_ending": "April 09, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "How fluid PSG exposed Slot's back-five tweak",
+          "link": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-09",
+          "summary": "Arne Slot changed Liverpool's shape for their Champions League quarter-final first leg - but their tactics were still bested by European champions Paris St-Germain. Umir Irfan explains how.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2491/live/105dd590-33dd-11f1-8606-05fe34b06e1b.jpg"
+        },
+        {
+          "title": "Wilson delighted with Fulham's 'amazing' progress",
+          "link": "https://www.bbc.com/sport/football/videos/cqj87822zndo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-09",
+          "summary": "Fulham forward Harry Wilson talks about his impressive individual performances, his relationship with manager Marco Silva, and Fulham's progress.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c1/live/e9cd5850-3338-11f1-8606-05fe34b06e1b.jpg"
+        },
+        {
+          "title": "What to expect from De Zerbi at Spurs and how he could line up in first game",
+          "link": "https://www.skysports.com/football/news/12040/13529425/roberto-de-zerbi-how-new-tottenham-boss-could-line-up-in-first-game-in-charge-against-sunderland",
+          "published": "2026-04-09",
+          "summary": "If there is any manager who epitomises &#8216;To Dare is To Do&#8217;, then it is Roberto De Zerbi.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-spurs-tottenham-roberto-de-zerbi_7214470.jpg?20260408182631"
+        },
+        {
+          "title": "Liverpool still alive - but their season now hangs by a thread",
+          "link": "https://www.bbc.com/sport/football/articles/c3expgqy2zxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Negative tactics and no shots on target - but somehow Liverpool's Champions League campaign is still just about alive after a 2-0 loss at PSG.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de9/live/fa3e3630-3399-11f1-9d5c-8ba507d7dbde.jpg"
+        },
+        {
+          "title": "Dominant PSG beat Liverpool in quarter-final first leg",
+          "link": "https://www.bbc.com/sport/football/videos/c78l1jdep92o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Goals from Desire Doue and Khvicha Kvaratskhelia give PSG a 2-0 victory over Liverpool in the first-leg of their Champions League quarter-final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094b/live/9fa99d80-338b-11f1-9d5c-8ba507d7dbde.jpg"
+        },
+        {
+          "title": "Alvarez scores superb free-kick as Atletico beat 10-man Barca",
+          "link": "https://www.bbc.com/sport/football/videos/c5ywlr30w1go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Julian Alvarez and Alexander Sorloth give Atletico Madrid a 2-0 victory over 10-man Barcelona in their Champions League quarter-final first leg at the Nou Camp.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37c5/live/51b4d6c0-338c-11f1-9d5c-8ba507d7dbde.jpg"
+        },
+        {
+          "title": "Dortmund weigh up third Sancho move - Thursday's gossip",
+          "link": "https://www.bbc.com/sport/football/articles/c20qeyevzd1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Borussia Dortmund weighing up third move Jadon Sancho, Tottenham pushing to sign goalkeeper James Trafford, Arsenal targeting defenders Victor Valdepena and Jacobo Ramon, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c026/live/6ef8c6a0-336f-11f1-879d-1b2f5c3919b8.png"
+        },
+        {
+          "title": "How 11 Premier League teams could qualify for Europe",
+          "link": "https://www.bbc.com/sport/football/articles/c8r40164ne4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Eleven Premier League teams in Europe? It sounds preposterous, but it is not as far fetched as it seems.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fd/live/0187ba90-333d-11f1-9f60-37eac42daa69.jpg"
+        },
+        {
+          "title": "Raya? Neuer? Maignan? Who are world's best goalkeepers?",
+          "link": "https://www.bbc.com/sport/football/articles/c705jn7jw06o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "David Raya and Manuel Neuer dazzled in the Champions League this week - but are they among the world's best goalkeepers?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6d/live/b2286bb0-335b-11f1-8079-85791470d942.jpg"
+        },
+        {
+          "title": "How are the Scottish Premiership post-split fixtures decided?",
+          "link": "https://www.bbc.com/sport/football/articles/cd0r4mvgglno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "The Scottish Premiership split has again been a controversial talking point, so why does it exist and why is it so complicated?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9efc/live/baf7e5a0-3373-11f1-9d5c-8ba507d7dbde.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ncb1f7?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Liverpool and PSG analysis & how did Diego Simeone make history at Barcelona?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ncb1fy.jpg"
+        },
         {
           "title": "How WSL aims to bridge academy gap - and why it needs to",
           "link": "https://www.bbc.com/sport/football/articles/clyg0d2v5gyo?at_medium=RSS&at_campaign=rss",
@@ -13,102 +90,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921b/live/57298da0-328b-11f1-9fac-89e41bab67f2.jpg"
         },
         {
-          "title": "Why are La Liga teams playing in retro shirts?",
-          "link": "https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&at_campaign=rss",
+          "title": "Late Havertz goal gives Arsenal first-leg win over Sporting",
+          "link": "https://www.bbc.com/sport/football/videos/cx2vdyp5qero?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-08",
-          "summary": "Our Ask Me Anything team explain why many La Liga sides will be playing their next matches wearing retro kits.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e8b/live/e3be6020-332f-11f1-a79a-77e93010d956.jpg"
+          "summary": "Arsenal's Kai Havertz scores in stoppage-time to secure a 1-0 victory for the Gunners against Sporting CP, in their Champions League quarter-final first-leg.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b8/live/caffa450-32ca-11f1-934f-036468834728.jpg"
         },
         {
-          "title": "Neil, Lampard, Jakirovic & Hellberg up for manager award",
-          "link": "https://www.bbc.com/sport/football/articles/cn430g52z9jo?at_medium=RSS&at_campaign=rss",
+          "title": "Kane scores as Bayern beat Real Madrid in quarter-final first leg",
+          "link": "https://www.bbc.com/sport/football/videos/c8r405yg5yno?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-08",
-          "summary": "Frank Lampard, Alex Neil, Sergej Jakirovic and Kim Hellberg are shortlisted for the EFL manager of the season award.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed44/live/5adbf8f0-3328-11f1-b297-95b0a0a8331e.png"
+          "summary": "Goals from Luis Diaz and Harry Kane help Bayern Munich beat Real Madrid 2-1 at the Bernabeu in the first leg of their Champions League quarter-final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfa/live/c3b91cd0-338d-11f1-879d-1b2f5c3919b8.jpg"
         },
         {
-          "title": "Alexander-Arnold fails to ease Tuchel concerns as Kane stars",
-          "link": "https://www.bbc.com/sport/football/articles/cp38dlkl7eko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Thomas Tuchel's doubts about Trent Alexander-Arnold and reliance on Harry Kane are confirmed on the England manager's Madrid mission.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc6/live/ab126fc0-32ce-11f1-8126-b55de2929b39.jpg"
-        },
-        {
-          "title": "Premier League secures fifth Champions League spot",
-          "link": "https://www.bbc.com/sport/football/articles/c9vl1y7g1mjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "The Premier League will have at least five teams in the Champions League next season after securing a European Performance Spot for the second straight year.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e84e/live/df45da50-32c1-11f1-9a58-95213bd54a81.jpg"
-        },
-        {
-          "title": "World's best keeper? Raya helps Arsenal get back on track",
-          "link": "https://www.bbc.com/sport/football/articles/cvgldp4gjqlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "David Raya is the best goalkeeper in the world, according to his Arsenal team-mates - and the Spaniard played a key role in his side's 1-0 win at Sporting.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d46/live/e8f40330-32d3-11f1-8348-5d38a9e4945d.jpg"
-        },
-        {
-          "title": "Legendary manager Lucescu dies fives days after resigning as Romania coach",
-          "link": "https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Legendary manager Mircea Lucescu dies aged 80, five days after stepping down as Romania's head coach.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"
-        },
-        {
-          "title": "Hearts and Celtic given potential final-day title decider",
-          "link": "https://www.bbc.com/sport/football/articles/c9qdn5zyqzgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Celtic to host Heart of Midlothian in potential final-day title decider as the Scottish Premiership's post-split fixtures are revealed.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b0/live/f2f1a6e0-327d-11f1-934f-036468834728.png"
-        },
-        {
-          "title": "Arsenal 'had a point to prove' after 'difficult period' - Arteta",
-          "link": "https://www.bbc.com/sport/football/videos/cvg0w4y9x3do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Arsenal manager Mikel Arteta says his side \"had a point to prove\" following back-to-back defeats and praises his side's reaction, as Kai Havertz's stoppage-time winner secures a first-leg advantage in...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fad/live/f04d5380-32cd-11f1-934f-036468834728.jpg"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nc3hqp?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Arsenal grab a late quarter-final win v Sporting through a Kai Havertz 91st minute goal!",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nc4qkv.jpg"
-        },
-        {
-          "title": "Amad backs Carrick for Manchester United job",
-          "link": "https://www.bbc.com/sport/football/articles/c62je742e0no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Manchester United winger Amad Diallo backs interim boss Michael Carrick to become the club's permanent manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3646/live/805b7250-3282-11f1-a79a-77e93010d956.jpg"
-        },
-        {
-          "title": "54 years, 48 leagues, 2,000 grounds - the ultimate football odyssey",
-          "link": "https://www.bbc.com/sport/football/articles/cqj920d1wndo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "BBC Sport travels with the UK's ultimate groundhopper to the final match of a decades-long, history-making journey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8c/live/03817bb0-3261-11f1-bdf9-bf5479a63eec.jpg"
-        },
-        {
-          "title": "Sacked in the Morning",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nc0n3q?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Neil Warnock's favourite goalkeeper joins Craig and Amy",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nc0n7z.jpg"
-        },
-        {
-          "title": "Pollok United named best grassroots football club in Europe",
-          "link": "https://www.bbc.com/sport/football/articles/c0krp8xkmgvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Glasgow's Pollok United are named the best grassroots football club in Europe for their work providing local communities with opportunities in football and well-being.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11f/live/2d559e90-327e-11f1-b6b5-c5856fa3f77a.jpg"
-        },
-        {
-          "title": "De Minaur defeats Norrie after epic battle in Monte Carlo",
-          "link": "https://www.skysports.com/watch/video/13529019/cameron-norrie-vs-alex-de-minaur-monte-carlo-highlights",
-          "published": "2026-04-07",
-          "summary": "Highlights of the Monte Carlo Masters match between Cameron Norrie and Alex De Minaur.",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-tennis-atp_7213484.jpg?20260407181041"
+          "title": "Why 'outstanding' Raya is key to Arsenal's Champions League hopes",
+          "link": "https://www.bbc.com/sport/football/videos/cp8d58lj6elo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Match of the Day pundit Stephen Warnock looks at the importance of David Raya to Arsenal's hopes of winning the Champions League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/a4ff68c0-339d-11f1-8606-05fe34b06e1b.jpg"
         }
       ],
       "highlights": [
@@ -121,29 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Lampard and Hellberg nominated for Manger of the Season in EFL awards",
-          "link": "https://www.skysports.com/football/news/12040/13529215/efl-latest-frank-lampard-alex-neil-and-kim-hellberg-all-nominated-for-manager-of-the-year-in-end-of-season-awards",
-          "published": "2026-04-08",
-          "summary": "Frank Lampard, Alex Neil, Sergej Jakirovic and Kim Hellberg have been shortlisted for the EFL Championship Manager of the Season Award at the 2026 EFL Awards.",
-          "image": "https://e0.365dm.com/26/02/1920x1080/skysports-efl-championship_7155334.jpg?20260408093919"
-        },
-        {
-          "title": "'Quiet and steady' - how Lincoln's promotion was 20 years in the making",
-          "link": "https://www.bbc.com/sport/football/articles/cp86mde460no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-06",
-          "summary": "John Pakey looks back over the past 20 years from Keith Alexander to the Cowleys to Lincoln City now calling themselves a Championship club.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07bb/live/94e9e940-31e7-11f1-8794-099b3bc3f94e.jpg"
-        },
-        {
-          "title": "Is the Championship heading for financial 'catastrophe'?",
-          "link": "https://www.bbc.com/sport/football/articles/ce35l43w83lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-05",
-          "summary": "BBC Sport takes a look at if the second tier could be facing a \"doomsday scenario\" as club accounts reveal the significant scale of their losses.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9079/live/3fa6f8e0-2dd4-11f1-a79a-77e93010d956.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -178,18 +156,18 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Barry gets first England call-up as Godfrey injured",
-          "link": "https://www.bbc.com/sport/football/articles/cn531wzr2d1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-07",
-          "summary": "Bay FC forward Keira Barry receives her first call-up to the England squad for the upcoming Women's World Cup qualifiers against Spain and Iceland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e4/live/34cc0710-3268-11f1-a291-032c2f0b6204.jpg"
+          "title": "Scotland & England fans in Boston face World Cup train fare hike",
+          "link": "https://www.bbc.com/sport/football/articles/cly797p1399o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Scotland and England fans face a huge price hike to travel by train to World Cup group-stage matches at Boston Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cec/live/4a06a7f0-334b-11f1-9d5c-8ba507d7dbde.jpg"
         },
         {
-          "title": "Seven Eritrean players fail to return home after international match",
-          "link": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-06",
-          "summary": "Several footballers have absconded in the past leaving behind what rights groups call a repressive government.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cecb/live/f948cc10-2d2a-11f1-934f-036468834728.jpg"
+          "title": "'I would be taking him to the World Cup' - Warnock on Alexander-Arnold",
+          "link": "https://www.bbc.com/sport/football/videos/cp86zn1lze5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-08",
+          "summary": "Match of the Day pundits Rory Smith and Stephen Warnock look at the impact Harry Kane and Trent Alexander-Arnold had on the Champions League quarter-final first leg between Real Madrid and Bayern Muni...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5386/live/90104cc0-339f-11f1-879d-1b2f5c3919b8.jpg"
         }
       ],
       "highlights": [
@@ -201,18 +179,5 @@
       ]
     }
   },
-  "standout_moments": [
-    {
-      "moment": "Sacked in the Morning",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nc0n3q?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Southampton shock Arsenal to reach FA Cup semi-finals",
-      "link": "https://www.bbc.com/sport/football/videos/cwyj0ewx348o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Why promoted Falkirk's superb season has created problem for league",
-      "link": "https://www.bbc.com/sport/football/articles/cgk24rd3yezo?at_medium=RSS&at_campaign=rss"
-    }
-  ]
+  "standout_moments": []
 }
