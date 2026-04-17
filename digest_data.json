@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-04-16",
-  "week_ending": "April 16, 2026",
+  "generated_date": "2026-04-17",
+  "week_ending": "April 17, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Arsenal limp to semis but Arteta wanted fire - does style matter?",
-          "link": "https://www.bbc.com/sport/football/articles/cq6jp4qzq1po?at_medium=RSS&at_campaign=rss",
+          "title": "Nobody says who called first, but Arteta and Guardiola speak again - Balague",
+          "link": "https://www.bbc.com/sport/football/articles/cd6lld4q57po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "As Manchester City prepare to host Arsenal in Sunday's crucial Premier League meeting between the top two, European football expert Guillem Balague looks at how the two managers have evolved.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c01e/live/2edb1ec0-3a21-11f1-a008-0b28622386db.png"
+        },
+        {
+          "title": "Quiz: Name every team to have been promoted to the Premier League",
+          "link": "https://www.bbc.com/sport/football/articles/c5ylly8dz9po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "Forty-one teams have been promoted into the Premier League, can you name them all?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6910/live/9d1ee6a0-38ff-11f1-88f0-7d03c2035921.jpg"
+        },
+        {
+          "title": "He was January's surprise deadline-day move - how is Wilson doing?",
+          "link": "https://www.bbc.com/sport/football/articles/ckgezx8ekmvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "The biggest surprise of January's transfer deadline day came when Tottenham signed teenager James Wilson from Hearts. BBC Sport looks at how he is doing.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab23/live/90686e00-3a25-11f1-ae6d-5b9ff237458e.jpg"
+        },
+        {
+          "title": "McGlynn should be 'in the conversation' to be Celtic manager - Lennon",
+          "link": "https://www.bbc.com/sport/football/articles/cj94pzery9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "Neil Lennon reckons John McGlynn should be \"in the conversation\" to become the next Celtic manager as the Dunfermline Athletic boss aims to get the better of his Falkirk counterpart in Saturday's Scot...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/59f85f80-39a6-11f1-8606-05fe34b06e1b.png"
+        },
+        {
+          "title": "FPL talking point: How to navigate a double gameweek",
+          "link": "https://www.bbc.com/sport/football/articles/c3ex27zkjp1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "The Premier League returns this weekend and, with a double gameweek, it is time to talk about chip strategies.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/7b1ec470-39af-11f1-8897-e7b75af1cf66.jpg"
+        },
+        {
+          "title": "What is Scotland's most iconic goal? This week - Gemmill v Dalglish",
+          "link": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-17",
+          "summary": "Vote to find out what goal will be crowned Scotland's greatest.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0745/live/fc694250-23dc-11f1-8afd-2d0cf3dc7503.jpg"
+        },
+        {
+          "title": "Newcastle latest: Howe on future, transfer talk and Bruno fitness",
+          "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+          "published": "2026-04-17",
+          "summary": "",
+          "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522"
+        },
+        {
+          "title": "Arteta's defining test - why Arsenal must win at Man City",
+          "link": "https://www.skysports.com/football/news/12040/13532091/arsenal-vs-man-city-why-mikel-arteta-must-win-at-etihad-to-finally-prove-he-can-deliver-when-it-matters-most",
+          "published": "2026-04-17",
+          "summary": "Arsenal winning at Manchester City on Sunday would mean more than just taking a huge step towards the Premier League title - it would finally be proof that Mikel Arteta can deliver when it matters mos...",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-mikel-arteta-arsenal_7221309.jpg?20260416080846"
+        },
+        {
+          "title": "'I think we're behind Liam': Chelsea co-owner on Rosenior, Maresca and transfers",
+          "link": "https://www.skysports.com/football/news/12040/13532811/behdad-eghbali-chelsea-co-owner-on-liam-rosenior-transfer-policy-and-enzo-maresca-departure-in-rare-interview",
+          "published": "2026-04-17",
+          "summary": "Chelsea co-owner Behdad Eghbali has said the club will start signing \"ready-made\" players and revealed the departure of former head coach Enzo Maresca was \"not a change we wanted to make\".",
+          "image": "https://e1.365dm.com/26/01/1920x1080/skysports-alejandro-garnacho_7151564.jpg?20260131184417"
+        },
+        {
+          "title": "Man City vs Arsenal: Sky Sports Football writers' big-match predictions",
+          "link": "https://www.skysports.com/football/news/12040/13532140/man-city-vs-arsenal-sky-sports-football-writers-have-their-say-on-crucial-premier-league-clash",
+          "published": "2026-04-17",
+          "summary": "Ahead of Sunday's blockbuster Premier League clash between Man City and Arsenal, the Sky Sports Football writers have their say on the match that could decide the outcome of the title...",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-pep-guardiola-mikel_7222397.jpg?20260417091328"
+        },
+        {
+          "title": "Italy made me a manager when England 'discouraged' me - Cole",
+          "link": "https://www.bbc.com/sport/football/articles/c6244xp5lvno?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-16",
-          "summary": "Mikel Arteta wanted \"fire\" from his Arsenal players but instead got a sluggish performance as the Gunners did what was needed to reach the Champions League semi-finals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3507/live/0ad68580-391a-11f1-92e7-05b55f81a343.jpg"
+          "summary": "Ashley Cole won 107 caps for England, seventh on the all\u2011time list, but says he was \"discouraged\" by those in the football pyramid from becoming a head coach.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55b/live/ad212060-39b1-11f1-8606-05fe34b06e1b.jpg"
         },
         {
-          "title": "Play-off pending? How a draw at the Etihad could set up thrilling finale",
-          "link": "https://www.bbc.com/sport/football/articles/c5yjr2ylqqzo?at_medium=RSS&at_campaign=rss",
+          "title": "Champions League in the Championship? Forest's juggling act goes on",
+          "link": "https://www.bbc.com/sport/football/articles/cm25p4ndmdyo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-16",
-          "summary": "Man City's meeting against Arsenal may go a long way to deciding the destination of the Premier League trophy in May, but how close a finish could it be?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c135/live/7cb52b90-37f1-11f1-bf98-335695df34d3.jpg"
+          "summary": "Nottingham Forest continue their remarkable Europa League run - but does it only increase the pressure on staying in the Premier League?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b8/live/94bd4170-39de-11f1-879d-1b2f5c3919b8.jpg"
         },
         {
-          "title": "How qualifying for Champions League could affect Man Utd's loanees",
-          "link": "https://www.bbc.com/sport/football/articles/c5y77vlezgno?at_medium=RSS&at_campaign=rss",
+          "title": "Sutton's predictions v boxer Molly McCann & the Boo Radleys",
+          "link": "https://www.bbc.com/sport/football/articles/c78lxvzl3d4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-16",
-          "summary": "Man Utd want to qualify for the Champions League but if they do it will make Andre Onana and Marcus Rashford harder to sell.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d9d/live/9bb00440-38c6-11f1-8b4a-872685f5caeb.jpg"
+          "summary": "Chris Sutton takes on boxer Molly McCann and The Boo Radley's frontman Sice Rowbottom plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bede/live/469456a0-3803-11f1-879d-1b2f5c3919b8.png"
         },
         {
-          "title": "The 24-year-old manager who has won a top-flight promotion",
-          "link": "https://www.bbc.com/sport/football/articles/c4gl59wkdzpo?at_medium=RSS&at_campaign=rss",
+          "title": "Spectacular European nights the new normal for Villa under Emery",
+          "link": "https://www.bbc.com/sport/football/articles/c3ex2w04kd0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-16",
-          "summary": "Having worked with the Real Madrid Foundation as a teenager, Jordan Hadaway has now led financially-challenged Llandudno to Wales' top-flight.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dba/live/b4b857c0-3921-11f1-8b36-fd098882b135.jpg"
+          "summary": "Ten years ago, Aston Villa were relegated to English football's second tier for the first time since 1987. Now they are in their second European semi-final in three seasons.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/339f/live/238205d0-39df-11f1-8606-05fe34b06e1b.jpg"
         },
         {
-          "title": "How to follow the Premier League on the BBC this weekend",
-          "link": "https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss",
+          "title": "Why 'sensational' Palace & Conference League are good fit",
+          "link": "https://www.bbc.com/sport/football/articles/cvg4z1pn7g4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-16",
-          "summary": "BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this week.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e52a/live/b36e08a0-38cd-11f1-8606-05fe34b06e1b.jpg"
-        },
-        {
-          "title": "Who are the record Champions League goalscorers?",
-          "link": "https://www.bbc.com/sport/football/articles/cgk0yyepkxjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-16",
-          "summary": "Our Ask Me Anything team looks at which players have scored the most goals in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fc/live/d3cf00d0-2384-11f1-b297-95b0a0a8331e.png"
-        },
-        {
-          "title": "Why 'World Football Giving Day' matters",
-          "link": "https://www.skysports.com/football/news/12040/13530567/world-football-giving-day-to-launch-on-may-26-football-can-mirror-the-world-or-shape-it-says-common-goal-ceo",
-          "published": "2026-04-16",
-          "summary": "For the first time, on May 26, the global game will come together in one shared moment to give back with the launch of <a href=\"https://www.worldfootballgivingday.org/\" target=\"_blank\">World Football ...",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-world-football-giving-day_7219915.jpg?20260414145905"
-        },
-        {
-          "title": "Seven goals, fastest strike and two red cards - Bayern-Real delivers drama",
-          "link": "https://www.bbc.com/sport/football/articles/cz0e27043kpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "The quickest strike of this season's Champions League, seven goals, two red cards and the 15-time winners exiting in anger - once again the knockout stages of Europe's elite tournament delivered drama...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/773b/live/e7ec6170-3919-11f1-92e7-05b55f81a343.jpg"
-        },
-        {
-          "title": "Real Madrid set for rare trophyless season - will Arbeloa pay the price?",
-          "link": "https://www.bbc.com/sport/football/articles/c5yve05jrjeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "After losing out to Bayern Munich in a thrilling Champions League quarter-final, Real Madrid face the prospect of a trophyless season that could cost Alvaro Arbeloa his job.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c5c/live/1b044180-391b-11f1-92e7-05b55f81a343.jpg"
-        },
-        {
-          "title": "Maguire gets extra ban and will miss Chelsea trip",
-          "link": "https://www.bbc.com/sport/football/articles/cjr99vpwd2go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Manchester United defender Harry Maguire will miss Saturday's trip to Chelsea after receiving an additional one-match ban.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d8/live/968e1fa0-38c7-11f1-8b4a-872685f5caeb.jpg"
-        },
-        {
-          "title": "Bayern strike late to beat Real Madrid in seven-goal thriller",
-          "link": "https://www.bbc.com/sport/football/videos/cwydd3g4vego?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Bayern Munich leave it late in a back-and-forth classic to beat Real Madrid 4-3 to set up a meeting with Paris St-Germain in the semi-finals of the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/440e/live/3470b700-3913-11f1-9d5c-8ba507d7dbde.jpg"
-        },
-        {
-          "title": "Why both Champions League semi-finals are hard to call",
-          "link": "https://www.bbc.com/sport/football/videos/cwyd2l2xjgdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Champions League analysts Stephen Warnock, Nedum Onouha and Julien Laurens look at why the semi-finals between PSG & Bayern Munich and Atletico Madrid & Arsenal are both really hard to call who will w...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6319/live/f6e93730-391d-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Ekitike to miss rest of season and World Cup - Deschamps",
-          "link": "https://www.bbc.com/sport/football/articles/c4g443g0l76o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "France manager Didier Deschamps confirms striker Hugo Ekitike will miss the rest of the season and World Cup after suffering a suspected Achilles injury during Liverpool's Champions League quarter-fin...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005d/live/f586e7b0-38d3-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "'He's done it!' - Diaz scores stunner to earn Bayern late win",
-          "link": "https://www.bbc.com/sport/football/videos/c78lq50yddpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Luis Diaz scores a powerful strike from the edge of the box to break 10-man Real Madrid's resistance, as Bayern Munich take a late lead in their Champions League quarter-final tie.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6d/live/31e2a400-3911-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Arsenal through to semi-finals with cagey draw against Sporting",
-          "link": "https://www.bbc.com/sport/football/videos/c20qq781l1do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Arsenal play out an unconvincing goalless draw at home with Sporting to qualify for the semi-finals of the Champions League, where they will meet Atletico Madrid.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8f/live/15adcb40-390f-11f1-879d-1b2f5c3919b8.jpg"
+          "summary": "After overcoming Fiorentina over two legs to reach the semi-finals, Crystal Palace will now fancy their chances of going all the way in the Conference League and adding a European trophy to their FA C...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f02/live/2907aac0-39dd-11f1-96fb-fd4c4355fd93.jpg"
         }
       ],
       "highlights": [
@@ -121,29 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Greaves has shifted darts beyond tired 'Battle of the Sexes' narrative",
-          "link": "https://www.skysports.com/darts/news/12040/13530017/beau-greaves-is-a-phenomenon-proof-that-darts-is-about-ability-not-a-battle-of-the-sexes",
-          "published": "2026-04-16",
-          "summary": "When Beau Greaves produced a stunning win over world No 1 Luke Littler at the PDC World Youth Championships last October it should have put her name in lights.",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-beau-greaves-fallon-sherrock_7220752.png?20260415134651"
-        },
-        {
-          "title": "O'Sullivan to face Chinese debutant He at World Snooker Championship",
-          "link": "https://www.skysports.com/snooker/news/12040/13532410/world-snooker-championship-2026-ronnie-osullivan-drawn-against-chinas-he-guoqiang-at-the-crucible",
-          "published": "2026-04-16",
-          "summary": "Ronnie O'Sullivan has been drawn to face Chinese debutant He Guoqiang as he attempts to win a record eighth World Snooker Championship title at The Crucible.&#160;",
-          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-ronnie-osullivan_7172946.jpg?20260305071451"
-        },
-        {
-          "title": "Sheff Wed to start next season with 15-point penalty, bidder told",
-          "link": "https://www.bbc.com/sport/football/articles/cz0eekymmkko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "The EFL has informed the preferred bidder for Sheffield Wednesday that the club will start next season in League One with a 15-point penalty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30cd/live/b57d2550-244f-11f1-867b-39349a954f0b.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -154,7 +132,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Bromley spurn chance for promotion with Cambridge stalemate",
+          "link": "https://www.skysports.com/football/bromley-vs-cambridge-united/report/533732",
+          "published": "2026-04-16",
+          "summary": "Bromley's promotion to League One was delayed once again as Cambridge United held them to a goalless draw at Hayes Lane.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-bromley-cambridge_7222220.jpg?20260416224817"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -178,11 +164,11 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Have Halliday's heroics started a new chapter for NI?",
-          "link": "https://www.bbc.com/sport/football/articles/c9955gzyy1go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-15",
-          "summary": "Northern Ireland aren't known for scoring a flurry of goals in games with just one in their past six matches prior to their World Cup qualifier against Malta.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2563/live/d19c4730-385d-11f1-aacd-d7c164fbb7c3.jpg"
+          "title": "'You don't want an opportunity just because you're female'",
+          "link": "https://www.bbc.com/sport/videos/c0lexknnlxpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-13",
+          "summary": "Alex Scott, Fara Williams, Ellen White and Steph Houghton debate Fifa's new ruling that every team in international women's football tournaments must have at least one female head coach or assistant c...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5893/live/494979a0-3594-11f1-9d5c-8ba507d7dbde.jpg"
         }
       ],
       "highlights": [
@@ -196,24 +182,8 @@
   },
   "standout_moments": [
     {
-      "moment": "Bayern strike late to beat Real Madrid in seven-goal thriller",
-      "link": "https://www.bbc.com/sport/football/videos/cwydd3g4vego?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Who are the record Champions League goalscorers?",
-      "link": "https://www.bbc.com/sport/football/articles/cgk0yyepkxjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Atleti hold off Barca comeback to reach semi-finals",
-      "link": "https://www.bbc.com/sport/football/videos/c93eed0e3y0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Greaves has shifted darts beyond tired 'Battle of the Sexes' narrative",
-      "link": "https://www.skysports.com/darts/news/12040/13530017/beau-greaves-is-a-phenomenon-proof-that-darts-is-about-ability-not-a-battle-of-the-sexes"
-    },
-    {
-      "moment": "O'Sullivan to face Chinese debutant He at World Snooker Championship",
-      "link": "https://www.skysports.com/snooker/news/12040/13532410/world-snooker-championship-2026-ronnie-osullivan-drawn-against-chinas-he-guoqiang-at-the-crucible"
+      "moment": "Palace defy Fiorentina comeback to reach Conference League semi finals",
+      "link": "https://www.skysports.com/football/fiorentina-vs-crystal-palace/report/555159"
     }
   ]
 }
