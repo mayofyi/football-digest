@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-04-20",
-  "week_ending": "April 20, 2026",
+  "generated_date": "2026-04-21",
+  "week_ending": "April 21, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Arsenal fans must be better to help team in title hunt - Rooney",
-          "link": "https://www.bbc.com/sport/football/articles/c5yv3lx1e7ko?at_medium=RSS&at_campaign=rss",
+          "title": "Ranking the most successful world record transfers of the past 50 years",
+          "link": "https://www.bbc.com/sport/football/articles/cje4k4p1z0xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "Stumping up world record sums doesn't always guarantee success, but plenty of football's most expensive players have delivered on their hefty fees -  here are the top 10.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c8/live/e678f700-3355-11f1-8606-05fe34b06e1b.png"
+        },
+        {
+          "title": "Which Premier League players are out of contract this summer?",
+          "link": "https://www.bbc.com/sport/football/articles/c33l0gxm2ndo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "With a World Cup summer fast approaching, BBC Sport looks at which Premier League stars may be looking for new clubs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32e/live/f2c2e4c0-3cfc-11f1-9baa-03aaa0059993.jpg"
+        },
+        {
+          "title": "Brady steps down as West Ham vice-chair",
+          "link": "https://www.bbc.com/sport/football/articles/cly7ejx9nx5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "Baroness Karren Brady steps down as vice-chair of Premier League side West Ham after 16 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e2/live/9d4ffb70-3d62-11f1-a7f7-c90fc0a93ea1.jpg"
+        },
+        {
+          "title": "Why stakes are so high in England's hottest title race",
+          "link": "https://www.bbc.com/sport/football/articles/czxr4446zxdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "BBC Sport explores the hottest title race in English football, and examines why the consequences are so big for the teams involved.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a80f/live/1bb40b10-397f-11f1-9d5c-8ba507d7dbde.png"
+        },
+        {
+          "title": "What is Scotland's most iconic goal? This week - Maloney v McFadden",
+          "link": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "Vote to find out what goal will be crowned Scotland's greatest.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0745/live/fc694250-23dc-11f1-8afd-2d0cf3dc7503.jpg"
+        },
+        {
+          "title": "Quiz: Name every team to have been relegated from the Premier League",
+          "link": "https://www.bbc.com/sport/football/articles/cedej7d494zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "Wolves are one of 43 teams to have been relegated from the Premier League, can you name them all?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/883f3d30-3ce1-11f1-8e9d-8fd3fcd9774d.jpg"
+        },
+        {
+          "title": "How to follow the Premier League on the BBC this midweek",
+          "link": "https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this week.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd2f/live/9f05bb60-3d5a-11f1-8606-05fe34b06e1b.png"
+        },
+        {
+          "title": "Who has qualified for next season's Champions League?",
+          "link": "https://www.bbc.com/sport/football/articles/crl177pxrl4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "BBC Sport's Ask Me Anything team explains which teams have already qualified for the 2026-27 edition of the Champions League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d9/live/8e814950-3d58-11f1-879d-1b2f5c3919b8.jpg"
+        },
+        {
+          "title": "Wolves relegated: The gradual decline at Molineux explained",
+          "link": "https://www.skysports.com/watch/video/13534405/wolves-relegated-the-gradual-decline-at-molineux-but-hope-for-the-future",
+          "published": "2026-04-21",
+          "summary": "Sky Sports reporter Michael Bridge tracks the gradual decline of Wolves following confirmation of their relegation to the Championship, and explains why they have hope of an instant return to the Prem...",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-wolves-premier-league_7225980.jpg?20260421091343"
+        },
+        {
+          "title": "From Premier League glory to edge of League One - Leicester's fall from grace",
+          "link": "https://www.skysports.com/football/news/12040/13534091/leicester-city-from-premier-league-glory-to-the-edge-of-league-one-fall-from-grace-of-the-foxes-examined",
+          "published": "2026-04-21",
+          "summary": "On May 2 2016, Leicester won the Premier League title for the first time, famously beating odds of 5,000/1 to do so.",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-leicester-city_7220587.jpg?20260415104115"
+        },
+        {
+          "title": "Who has made Troy's Premier League team of the week?",
+          "link": "https://www.bbc.com/sport/football/articles/cq5965dgw5no?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-20",
-          "summary": "Ex-England and Manchester United captain Wayne Rooney says Arsenal fans \"need to be better\" in supporting the team in their faltering Premier League title bid.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf0/live/b2d65110-3c31-11f1-bdb5-c9493d15337c.jpg"
+          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9491/live/642a77d0-3d0d-11f1-9d5c-8ba507d7dbde.jpg"
         },
         {
-          "title": "Quiz: Name all the clubs who have won Bundesliga title",
-          "link": "https://www.bbc.com/sport/football/articles/c62l9l16ndno?at_medium=RSS&at_campaign=rss",
+          "title": "Why Wolves' relegation had been coming after slow decline",
+          "link": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-20",
-          "summary": "Thirteen clubs have won a German Bundesliga title since the league began in 1963 - can you name them all?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8b/live/3fb21540-3ca2-11f1-8e26-931170ebc0de.jpg"
+          "summary": "Wolves have been relegated from the Premier League after just three wins in their first 33 games of the season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f593/live/35dee440-3b48-11f1-8394-1d74d10268c4.jpg"
         },
         {
-          "title": "Give our Premier League top assisters quiz a go",
-          "link": "https://www.bbc.com/sport/football/articles/cq8480e0pepo?at_medium=RSS&at_campaign=rss",
+          "title": "Gordon will cost Bayern Munich \u00a375m - Tuesday's gossip",
+          "link": "https://www.bbc.com/sport/football/articles/c3r30095q9qo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-20",
-          "summary": "The list for most assists in a single Premier League season is so full of legends it inspired us to build this quiz.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/d48237f0-038a-11f1-b7e1-afb6d0884c18.jpg"
+          "summary": "Newcastle will sell Anthony Gordon if Bayern Munich match their \u00a375m valuation, Manchester United keeping close eye on Aurelien Tchouameni, Yan Diomande top target to replace Mohamed Salah at Liverpoo...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1106/live/c5afd370-3cf3-11f1-9d5c-8ba507d7dbde.png"
         },
         {
-          "title": "Wigan Warriors 14-24 Castleford Tigers",
-          "link": "https://www.skysports.com/watch/video/13533865/wigan-warriors-14-24-castleford-tigers-super-league-highlights",
+          "title": "West Ham earn valuable point at London rivals Crystal Palace",
+          "link": "https://www.bbc.com/sport/football/videos/cwyw492veqqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-20",
-          "summary": "Highlights of the Super League game between Wigan Warriors and Castleford Tigers.",
-          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-tigers-rugby_7224632.jpg?20260419183238"
+          "summary": "West Ham edge a point clearer of the relegation zone as they share a goalless draw with Crystal Palace at Selhurst Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9978/live/0e909ea0-3cfc-11f1-879d-1b2f5c3919b8.jpg"
         },
         {
-          "title": "'By chance or choice, they have clicked' - why Man City will be champions",
-          "link": "https://www.bbc.com/sport/football/articles/c5y7vwnvegzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Match of the Day pundit Danny Murphy explains why he thinks Manchester City will beat Arsenal to the Premier League title.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e383/live/1455a120-3c37-11f1-8606-05fe34b06e1b.png"
-        },
-        {
-          "title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
-          "link": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Liverpool's 100th-minute winner at Everton moves the Reds closer to a Champions League spot - but issues still remain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f4/live/7bb27390-3c0d-11f1-891c-affae8f95aa5.jpg"
-        },
-        {
-          "title": "Man City beat Arsenal to close gap in title race",
-          "link": "https://www.bbc.com/sport/football/videos/c203ek521wno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Erling Haaland and Rayan Cherki strike as Manchester City beat league leaders Arsenal to close the gap to three points with a game in hand and pile more pressure on Mikel Arteta's side.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/454a0a20-3c26-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Are Man City now title favourites after win over Arsenal?",
-          "link": "https://www.bbc.com/sport/football/articles/c1kr1jk0wnpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Erling Haaland's winning goal, the explosion of noise, the reaction at full-time - are Man City now favourites to win the Premier League title?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1920/live/c069db30-3c27-11f1-8606-05fe34b06e1b.jpg"
-        },
-        {
-          "title": "Champions League almost sewn up but race for Europe tighter than ever",
-          "link": "https://www.bbc.com/sport/football/articles/c8dln4zl1dyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Scrolling down the Premier League table, the Europa League and Europa Conference League spots are still anyone's guess.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df7c/live/e6ff5500-3c1c-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Arteta must prove he won't be remembered as Arsenal's 'nearly man'",
-          "link": "https://www.bbc.com/sport/football/articles/cg40d145zgeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Arsenal and manager Mikel Arteta may still have a season of glory - but must prove they are not 'nearly men' after Manchester City loss, says chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4204/live/cea36950-3c1d-11f1-92cc-f78625208b02.jpg"
-        },
-        {
-          "title": "Will lack of a ruthless match-winner cost Arsenal the title?",
-          "link": "https://www.bbc.com/sport/football/articles/cvg0vpmd1xzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Arsenal's lack of killer instinct is looking like it could damage their chance of a first league title in 22 years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b64f/live/709e6cc0-3c35-11f1-8606-05fe34b06e1b.jpg"
-        },
-        {
-          "title": "Villa score late to beat Sunderland in seven-goal thriller",
-          "link": "https://www.bbc.com/sport/football/videos/cnv8nqy7p94o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Tammy Abraham's late winner helps Aston Villa survive a late Sunderland fightback and give Unai Emery's side a crucial 4-3 victory in their quest for Champions League football next season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c275/live/7c70d800-3c01-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Gibbs-White hat-trick earns Forest win over Burnley",
-          "link": "https://www.bbc.com/sport/football/videos/c4g8jwx5774o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Morgan Gibbs-White's hat-trick helps Nottingham Forest secure a vital 4-1 comeback victory in their bid for Premier League survival, and leaves Burnley on the brink of relegation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad0d/live/e0afc170-3bff-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "How Haaland and Gabriel went head-to-head in 'old school battle'",
-          "link": "https://www.bbc.com/sport/football/videos/cr71k9gpj5lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Match of the Day pundits Wayne Rooney and Danny Murphy discuss how \"two top players\" in Erling Haaland and Gabriel went head-to-head in Manchester City's 2-1 victory against Arsenal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ca/live/ab9b5a00-3c3e-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "Rooney and Murphy predict Premier League title outcome",
-          "link": "https://www.bbc.com/sport/football/videos/c98mvj79d6zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Match of the Day pundits Wayne Rooney and Danny Murphy discuss Arsenal and Manchester City's remaining fixtures in the Premier League title race and have their say on who they think will lift this yea...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4df4/live/dd7ae120-3c3f-11f1-879d-1b2f5c3919b8.jpg"
+          "title": "'It will go all the way' - Nuno on relegation battle after draw at Palace",
+          "link": "https://www.bbc.com/sport/football/videos/cwyxjq2dgxgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-20",
+          "summary": "West Ham manager Nuno Espirito Santo belives the Premier League relegation battle \"will go all the way\" after his side's 0-0 draw with Crystal Palace at Selhurst Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/156d/live/cf0503b0-3d01-11f1-8606-05fe34b06e1b.jpg"
         }
       ],
       "highlights": [
@@ -123,25 +123,32 @@
       "name": "Championship",
       "articles": [
         {
+          "title": "'He has huge ceiling' - Baker bowling 'rockets' to press England claims",
+          "link": "https://www.skysports.com/cricket/news/12040/13534400/sonny-baker-presses-england-test-claims-as-hampshire-captain-ben-brown-praises-fast-bowlers-huge-ceiling",
+          "published": "2026-04-21",
+          "summary": "Hampshire fast bowler Sonny Baker was hailed as having \"a huge ceiling\" as the 23-year-old talent further pressed his England claims by taking a five-for in Hampshire's latest County Championship clas...",
+          "image": "https://e1.365dm.com/25/04/1920x1080/skysports-sonny-baker-hampshire_6889828.jpg?20250418141248"
+        },
+        {
+          "title": "'Worst I've seen' - Leicester face relegation again",
+          "link": "https://www.bbc.com/sport/football/articles/cr519p8r6jdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-20",
+          "summary": "BBC Sport takes a look at what Leicester City need in their seemingly doomed fight for Championship survival.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/382b/live/19b98f00-3cbe-11f1-8307-55aabab9b8cb.jpg"
+        },
+        {
+          "title": "Will St Johnstone secure title in front of BBC cameras?",
+          "link": "https://www.bbc.com/sport/football/articles/cz0e5gnpgp9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-20",
+          "summary": "St Johnstone travel to Dunfermline on Tuesday with a chance to secure the Scottish Championship title and promotion live on the BBC Scotland channel.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be37/live/46a5d3e0-3cc6-11f1-8307-55aabab9b8cb.jpg"
+        },
+        {
           "title": "Coventry's Lampard and Boro's Hackney win at EFL Awards",
           "link": "https://www.bbc.com/sport/football/articles/c3dl3xlkjdzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-20",
           "summary": "Coventry boss Frank Lampard and Middlesbrough midfielder Hayden Hackney are named the EFL Championship manager and player of the season.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f22c/live/ad1c0d90-3bf1-11f1-983e-05cd62d1d57e.jpg"
-        },
-        {
-          "title": "Highlights from crucial weekend games in SPFL",
-          "link": "https://www.bbc.com/sport/videos/cql7xgr2erko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-20",
-          "summary": "Watch highlights as Arbroath secure a promotion play-off spot in the Championship, Inverness Caledonian Thistle move closer to the League 1 title, while Clyde secure a promotion play-off spot in Leagu...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd4/live/f0b29410-3c88-11f1-8606-05fe34b06e1b.png"
-        },
-        {
-          "title": "Ten days to decide second place in the Championship?",
-          "link": "https://www.bbc.com/sport/football/articles/cp3lrw7xz6qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-19",
-          "summary": "Four clubs are locked in a battle to secure the second promotion spot in the Championship.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315c/live/8a5b2920-3c01-11f1-808b-d530aa7a4025.jpg"
         }
       ],
       "highlights": [
@@ -154,7 +161,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Three strikes and not out! Collins on bouncing back as MK promotion nears",
+          "link": "https://www.skysports.com/football/news/12040/13520993/aaron-collins-interview-mk-dons-striker-on-overcoming-three-injuries-to-help-paul-warnes-men-to-promotion-from-league-two",
+          "published": "2026-04-21",
+          "summary": "Aaron Collins dropped down a division to join MK Dons from Bolton last June and was expected to make light work of Sky Bet League Two.",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-efl-league-two-mk-dons_7196583.jpg?20260318153601"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -176,7 +191,22 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Tired England play with fear - ex-manager Capello",
+          "link": "https://www.bbc.com/sport/football/articles/c1krxjww3meo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-21",
+          "summary": "Manager Thomas Tuchel must address England's tendency to \"play with fear\" if they are to win the World Cup this summer, says former boss Fabio Capello.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f89/live/4189df40-3d62-11f1-a7f7-c90fc0a93ea1.jpg"
+        },
+        {
+          "title": "Stream Women's T20 World Cup matches for FREE on Sky Sports App",
+          "link": "https://www.skysports.com/cricket/news/12040/13534132/womens-t20-world-cup-2026-free-live-cricket-stream-of-all-england-scotland-ireland-matches-and-final-on-sky-sports-app",
+          "published": "2026-04-21",
+          "summary": "Sky Sports will make all 12 group matches involving England, Scotland and Ireland, as well as the semi-finals and final of the 2026 ICC Women's T20 World Cup available for FREE via the Sky Sports App.",
+          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-icc-womens-t20-world-cup_7225468.png?20260420174044"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -188,8 +218,12 @@
   },
   "standout_moments": [
     {
-      "moment": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
-      "link": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o?at_medium=RSS&at_campaign=rss"
+      "moment": "Ranking the most successful world record transfers of the past 50 years",
+      "link": "https://www.bbc.com/sport/football/articles/cje4k4p1z0xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "How Liverpool's improved creative play helped them beat Everton",
+      "link": "https://www.bbc.com/sport/football/videos/c2d8kj0jk3do?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Villa score late to beat Sunderland in seven-goal thriller",
@@ -198,10 +232,6 @@
     {
       "moment": "Gibbs-White hat-trick earns Forest win over Burnley",
       "link": "https://www.bbc.com/sport/football/videos/c4g8jwx5774o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "How Liverpool's improved creative play helped them beat Everton",
-      "link": "https://www.bbc.com/sport/football/videos/c2d8kj0jk3do?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Derby win for the fans after tough season - Slot",
