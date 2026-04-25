@@ -1,10 +1,87 @@
 {
-  "generated_date": "2026-04-24",
-  "week_ending": "April 24, 2026",
+  "generated_date": "2026-04-25",
+  "week_ending": "April 25, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "How Guardiola found his best Man City XI",
+          "link": "https://www.bbc.com/sport/football/articles/cy419pnepwpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-25",
+          "summary": "Manchester City are finishing the season strongly - having looked at one stage as if the Premier League title may elude them. Here's how Pep Guardiola went through many systems to find his best team.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd3b/live/02b76b10-3d7c-11f1-bfda-3be022b870c2.jpg"
+        },
+        {
+          "title": "How Newcastle's 'bullies' became too nice",
+          "link": "https://www.bbc.com/sport/football/articles/c4g8j49dgnxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-25",
+          "summary": "How Eddie Howe's Newcastle have gone from regularly ruffling feathers to losing 15 Premier League games this season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4e/live/62fa1b00-4077-11f1-80b8-756a74a8efeb.jpg"
+        },
+        {
+          "title": "Could Spurs fans take solace from a season in the Championship?",
+          "link": "https://www.bbc.com/sport/football/articles/c20377veepro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-25",
+          "summary": "Tottenham Hotspur fans will not want to contemplate relegation - but if the worst should happen, they may take solace from a season in the Championship.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0142/live/52b7ef00-3e39-11f1-929e-dd2b5d4dae7a.jpg"
+        },
+        {
+          "title": "Arteta: Arsenal ready to 'get job done' and win title after post-Man City recharge",
+          "link": "https://www.skysports.com/football/news/12040/13535977/arsenal-manager-mikel-arteta-tells-players-to-take-ownership-of-premier-league-title-race-and-get-the-job-done-after-post-man-city-recharge",
+          "published": "2026-04-25",
+          "summary": "Mikel Arteta has urged his players to \"take ownership\" of the Premier League title race and \"get the job done\" after taking time to recharge and reflect following their loss to Manchester City.",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-arteta-saliba-arsenal_7229886.jpg?20260425091359"
+        },
+        {
+          "title": "All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety",
+          "link": "https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "After Nottingham Forest's stunning win at Sunderland, is the Premier League relegation battle now a two-horse race?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9729/live/99ebb6a0-4027-11f1-ac78-2112837ce2aa.jpg"
+        },
+        {
+          "title": "Rochdale and York set for 'unique' title decider",
+          "link": "https://www.bbc.com/sport/football/articles/c1mk47n2ylro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "York City boss Stuart Maynard calls his side's final day National League title decider at Rochdale \"one of the biggest games in the English football pyramid.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a3/live/acf6e620-3fd2-11f1-ac78-2112837ce2aa.png"
+        },
+        {
+          "title": "Prestianni gets six-match ban for homophobic conduct",
+          "link": "https://www.bbc.com/sport/football/articles/c239jkx0g02o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Gianluca Prestianni is given a six-game ban by Uefa for homophobic conduct during Benfica's Champions League knockout play-off match with Real Madrid in February.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a32/live/550f50c0-3fdf-11f1-ba72-3dd058cb149f.jpg"
+        },
+        {
+          "title": "Why Wembley is special, for FA Cup semi-finals too",
+          "link": "https://www.bbc.com/sport/football/articles/cyv1rdz32ego?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Tony Pulis explains why getting to Wembley is not just special for any manager, it is still hugely important for players, fans and all the staff at any club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/8d30efd0-3fae-11f1-ac78-2112837ce2aa.jpg"
+        },
+        {
+          "title": "Forest stun Sunderland to boost survival hopes",
+          "link": "https://www.bbc.com/sport/football/videos/c77m2nge048o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Nottingham Forest take a huge step towards Premier League survival, beating Sunderland 5-0 to go eight points clear of the bottom three.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d16a/live/9bcb0550-4024-11f1-b55d-0f258dce1735.jpg"
+        },
+        {
+          "title": "Dominant RB Leipzig see off Union Berlin",
+          "link": "https://www.bbc.com/sport/football/videos/cx2vr5wey07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Goals from Max Finkgrafe, Romulo and Ridle Baku seal a comfortable win for RB Leipzig over Union Berlin, as they take three more points on their path to secure Champions League football next season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0995/live/0cd12730-4024-11f1-bd52-e755d604ece4.jpg"
+        },
+        {
+          "title": "Hearts, Rangers, Celtic - who will lead Premiership by end of Sunday?",
+          "link": "https://www.bbc.com/sport/football/articles/cn783mg6mj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Three teams separated by three points with just five games to go. After an epic season, the Scottish Premiership split is finally here.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6e/live/f9b1fc40-3e90-11f1-bd52-e755d604ece4.png"
+        },
         {
           "title": "Who will win the title? Reporters, fans and pundits make their predictions",
           "link": "https://www.bbc.com/sport/football/articles/cn0w49y475wo?at_medium=RSS&at_campaign=rss",
@@ -13,11 +90,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4387/live/249d4e80-3f3d-11f1-b23e-977dc8cd7ec8.jpg"
         },
         {
-          "title": "Season has been big learning experience - Trafford",
-          "link": "https://www.bbc.com/sport/football/articles/cje4j4e8dz7o?at_medium=RSS&at_campaign=rss",
+          "title": "Brobbey should have been sent off against Spurs - panel",
+          "link": "https://www.bbc.com/sport/football/articles/cqj85lrgv70o?at_medium=RSS&at_campaign=rss",
           "published": "2026-04-24",
-          "summary": "Goalkeeper James Trafford says this season has been a \"big learning experience\" and his move to Manchester City \"hasn't been the best possible outcome\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ec/live/3a36b740-3ca9-11f1-8e26-931170ebc0de.jpg"
+          "summary": "Sunderland's Brian Brobbey should have been sent off for two yellow-card offences against Tottenham, a Premier League panel has ruled.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331c/live/cac385a0-3fc3-11f1-b61b-1d0ccf7b6022.jpg"
+        },
+        {
+          "title": "Ex-Brighton boss Hughton reveals cancer diagnosis",
+          "link": "https://www.bbc.com/sport/football/articles/c9370qyd5pno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Former Brighton and Newcastle manager Chris Hughton reveals he was treated for prostate cancer last year.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e09/live/568b13f0-3fe2-11f1-ba10-1ba751bf6e79.jpg"
         },
         {
           "title": "'I try to stay happy' - Trafford on tricky start to life at Man City",
@@ -25,90 +109,6 @@
           "published": "2026-04-24",
           "summary": "Manchester City goalkeeper James Trafford says he has not had \"the best possible outcome\" since joining the club.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4a0/live/3a4a0460-38c8-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "title": "FPL talking point: Six key players for blank gameweek 34",
-          "link": "https://www.bbc.com/sport/football/articles/cx24z2927p1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-24",
-          "summary": "With six clubs falling victim to a blank Fantasy Premier League gameweek, here are some players to consider turning to.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcca/live/577863d0-3e66-11f1-98c6-738b5ff2738a.jpg"
-        },
-        {
-          "title": "'Time running out for Humphries' - Premier League Darts permutations",
-          "link": "https://www.skysports.com/darts/news/12040/13535556/premier-league-darts-permutations-luke-humphries-chasing-down-michael-van-gerwen-or-gerwyn-price-for-play-off-spot",
-          "published": "2026-04-24",
-          "summary": "\"Time is running out\" for Luke Humphries, according to <em>Sky Sports'</em> Wayne Mardle, as the defending Premier League Darts champion sits outside of the top-four play-off spots with just four regu...",
-          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-luke-humphries-premier-league-darts_7228877.jpg?20260424003020"
-        },
-        {
-          "title": "Big clubs and big names - a summer of managerial upheaval awaits",
-          "link": "https://www.bbc.com/sport/football/articles/cp8dgjyy714o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "BBC Sport senior football correspondent Sami Mokbel analyses a summer that promises plenty of change in the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df8/live/bf2128f0-3f24-11f1-80a9-03674e4a073c.jpg"
-        },
-        {
-          "title": "Football Focus to end after 52 years",
-          "link": "https://www.bbc.com/sport/football/articles/c98kz9pe01po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Football Focus is to end after 52 years, BBC Sport announces.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f1e/live/dc9810e0-3f21-11f1-80a9-03674e4a073c.jpg"
-        },
-        {
-          "title": "Man City not distracted as WSL title nears - Jeglertz",
-          "link": "https://www.bbc.com/sport/football/articles/cd9v3zg278no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Manchester City manager Andree Jeglertz says they are \"aware\" they can win the Women's Super League title next week - but \"it does not affect\" their preparation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa69/live/17b13580-3f27-11f1-b9c3-8be9c0df6b27.jpg"
-        },
-        {
-          "title": "'Arsenal have been trying to nick 1-0 wins' - do they need mindset change?",
-          "link": "https://www.bbc.com/sport/football/articles/cwyw9q4vz5vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Arsenal and Manchester City are locked on points and goal difference heading into the final five games of the Premier League season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd9/live/756b17c0-3eed-11f1-a821-9161fbfb806d.jpg"
-        },
-        {
-          "title": "Is this English football's greatest ever escape?",
-          "link": "https://www.bbc.com/sport/football/articles/ce84e3nv3geo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "After 13 straight league losses and with the club 11 points from safety, Gateshead produced a miraculous run to stay in the National League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3601/live/fa62f3f0-3f18-11f1-80a9-03674e4a073c.png"
-        },
-        {
-          "title": "'Doesn't bother me if he likes Mourinho or Julia Roberts' - Arbeloa on Mbappe",
-          "link": "https://www.bbc.com/sport/football/articles/c9wqzd5j050o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Kylian Mbappe's social media activity adds to the debate surrounding who could be Real Madrid's next manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee3/live/45c32e20-3f0d-11f1-9aab-c976736c58b1.jpg"
-        },
-        {
-          "title": "Celtic still have title edge, says captain McGregor",
-          "link": "https://www.bbc.com/sport/football/articles/cx2d95gxk3do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Captain Callum McGregor believes Celtic still have \"the edge\" in the Scottish Premiership title race despite being three points behind leaders Hearts.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9001/live/7641eac0-3f24-11f1-80a9-03674e4a073c.jpg"
-        },
-        {
-          "title": "BBC Women's Football Weekly",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ng4x8z?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Guillem meets Arsenal's Spanish maestro, a serial winner chasing another European crown.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ng4xj0.jpg"
-        },
-        {
-          "title": "How do Premier League managerial changes compare to other seasons?",
-          "link": "https://www.bbc.com/sport/football/articles/c5yvn8zn4dpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "There have been 10 managerial changes in the Premier League in 2025-26 - but how does that compare to previous years",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182b/live/a7ad0400-3f0b-11f1-bd52-e755d604ece4.jpg"
-        },
-        {
-          "title": "Late Reds boss Beard inducted into WSL Hall of Fame",
-          "link": "https://www.bbc.com/sport/football/articles/c0q9klxe28ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Former Liverpool manager Matt Beard is posthumously inducted into the Women's Super League Hall of Fame, along with Casey Stoney and Kerys Harrop.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8e/live/25226630-3eff-11f1-af30-35b7ea1ea972.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,46 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "From Vasco da Gama to Dortmund: The young English coach travelling the world",
-          "link": "https://www.skysports.com/football/news/12040/13524722/alex-clapham-interview-borussia-dortmunds-former-set-piece-coach-on-lessons-at-bvb-vasco-da-gama-and-more",
-          "published": "2026-04-24",
-          "summary": "Alex Clapham was set for a job as an assistant manager at a Championship club when Borussia Dortmund came calling. He knew he had to drop everything. &#8220;The first call was to my missus to tell her...",
-          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-alex-clapham-borussia-dortmund_7225277.jpg?20260420145231"
+          "title": "Korda sets 36-hole scoring record to increase Chevron lead",
+          "link": "https://www.skysports.com/golf/news/12040/13536137/chevron-championship-nelly-korda-sets-36-hole-scoring-to-race-six-strokes-clear-in-first-womens-major-of-2026",
+          "published": "2026-04-25",
+          "summary": "Nelly Korda moved closer to a third major title as the world No 2 set the new 36-hole scoring record at the Chevron Championship to stretch her lead to six strokes heading into the weekend.",
+          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-nelly-korda-chevron-championship_7229803.jpg?20260424231720"
         },
         {
-          "title": "Leicester 'face \u00a370m black hole' after disastrous football-on-credit-card gamble",
-          "link": "https://www.bbc.com/sport/football/articles/cx29zwlnkpko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-04-23",
-          "summary": "Leicester City have enjoyed the good times, now they are going to have to endure the bad - and there are signs they have not hit rock bottom.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79d/live/841d6780-3e63-11f1-8887-e93160959470.jpg"
+          "title": "West Brom docked two points for financial breaches",
+          "link": "https://www.bbc.com/sport/football/articles/c70528784kjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "West Bromwich Albion are given a two-point penalty by the English Football League for breaching profit and sustainability rules.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ba/live/bac52720-3ffb-11f1-a269-2b0eab1d0b0e.jpg"
+        },
+        {
+          "title": "Leeds Rhinos thrash Catalans to remain top as Hull FC score 50 at Castleford",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13535988/super-league-leeds-rhinos-thrash-catalans-dragons-to-remain-top-as-hull-fc-score-50-points-at-castleford-tigers",
+          "published": "2026-04-24",
+          "summary": "Leeds Rhinos ran in eight tries to demolish Catalans Dragons 46-4 at Headingley and remain top of Betfred Super League, while Hull FC won big at Castleford.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-brodie-croft-leeds_7229790.jpg?20260424225409"
+        },
+        {
+          "title": "Millwall snatch equaliser but automatic promotion hopes hit by draw at Leicester",
+          "link": "https://www.skysports.com/football/leicester-city-vs-millwall/report/534850",
+          "published": "2026-04-24",
+          "summary": "Millwall moved back into the Championship's automatic promotion places but could only snatch a late 1-1 draw at already-relegated Leicester.",
+          "image": "https://e2.365dm.com/26/04/1920x1080/skysports-millwall-macaulay-langstaff_7229762.jpg?20260424222048"
+        },
+        {
+          "title": "Tongue takes five-for while Crawley's struggles continue for Kent",
+          "link": "https://www.skysports.com/cricket/news/12040/13536045/county-championship-josh-tongue-takes-five-for-as-zak-crawleys-struggles-continue-for-kent",
+          "published": "2026-04-24",
+          "summary": "England fast bowler Josh Tongue claimed a five-for on the opening day of Nottinghamshire's County Championship clash with Warwickshire at Edgbaston.",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-josh-tongue-nottinghamshire_7229682.jpg?20260424210906"
+        },
+        {
+          "title": "Korda sets 36-hole scoring record for Chevron Championship at -14",
+          "link": "https://www.skysports.com/watch/video/13536054/golf-nelly-korda-sets-36-hole-scoring-record-for-chevron-championship-at-14",
+          "published": "2026-04-24",
+          "summary": "Nelly Korda talks through her second round after breaking the 36-hole scoring record for Chevron Championship at -14.",
+          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-korda-golf_7229618.jpg?20260424200151"
         },
         {
           "title": "Watch the goals and celebrations as St Johnstone clinch title",
@@ -154,7 +182,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Rangers fans face ban for derby amid dispute with Celtic",
+          "link": "https://www.bbc.com/sport/football/articles/cde519lgd2no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-04-24",
+          "summary": "Rangers ask the Scottish Professional Football League to step in after Celtic refused to give away fans any tickets to the final Old Firm derby of the season unless the Ibrox club's Union Bears ultras...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/461a/live/69edd280-3fff-11f1-b11d-6552be9f85b2.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -188,8 +224,28 @@
   },
   "standout_moments": [
     {
+      "moment": "All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety",
+      "link": "https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Leeds score late to earn draw at Bournemouth",
       "link": "https://www.bbc.com/sport/football/videos/c248jz5mm2po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Rangers fans face ban for derby amid dispute with Celtic",
+      "link": "https://www.bbc.com/sport/football/articles/cde519lgd2no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Korda sets 36-hole scoring record to increase Chevron lead",
+      "link": "https://www.skysports.com/golf/news/12040/13536137/chevron-championship-nelly-korda-sets-36-hole-scoring-to-race-six-strokes-clear-in-first-womens-major-of-2026"
+    },
+    {
+      "moment": "'Shockwaves' - Forest's first-half frenzy at Sunderland eases relegation worries",
+      "link": "https://www.skysports.com/football/sunderland-vs-nottingham-forest/report/531466"
+    },
+    {
+      "moment": "Korda sets 36-hole scoring record for Chevron Championship at -14",
+      "link": "https://www.skysports.com/watch/video/13536054/golf-nelly-korda-sets-36-hole-scoring-record-for-chevron-championship-at-14"
     }
   ]
 }
