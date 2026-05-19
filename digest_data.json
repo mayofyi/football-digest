@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-05-18",
-  "week_ending": "May 18, 2026",
+  "generated_date": "2026-05-19",
+  "week_ending": "May 19, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "West Ham relegation may cost London taxpayers \u00a32.5m",
-          "link": "https://www.bbc.com/sport/football/articles/cr7pm71rvkvo?at_medium=RSS&at_campaign=rss",
+          "title": "Man City set to replace Guardiola with Maresca",
+          "link": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ee/live/d93f1fa0-535e-11f1-9088-a9f123f6c6d1.jpg"
+        },
+        {
+          "title": "Could history be rewritten? Guardiola, Man City and the 115 charges",
+          "link": "https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "With Pep Guardiola expected to leave Manchester City at the end of this season, how do the club's 115 Premier League charges for alleged financial rule breaches potentially affect his legacy at Etihad...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7860/live/37dd48c0-5364-11f1-9088-a9f123f6c6d1.jpg"
+        },
+        {
+          "title": "Five reasons why Best was a genius",
+          "link": "https://www.bbc.com/sport/football/articles/cy92nl2q4qyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "George Best would have been 80 on 22 May. Take a look back on an unforgettable career and enjoy five of his most memorable goals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df1/live/010b64d0-52dd-11f1-a650-a94a8fc7de38.jpg"
+        },
+        {
+          "title": "Focus on errors can 'tarnish' goalkeepers - Hampton",
+          "link": "https://www.bbc.com/sport/football/articles/c87ql42ee3do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "England's Hannah Hampton says media can \"tarnish the reputation\" of female goalkeepers by focusing on mistakes and not their positive displays.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/160d/live/349bd830-534a-11f1-b9af-e33eb39631b3.jpg"
+        },
+        {
+          "title": "Did England 'fake relationships' cost team 2006 World Cup glory?",
+          "link": "https://www.bbc.com/sport/football/videos/ce8pvlez93po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "Former England players and coaching staff reflect on whether intense Premier League rivalries may have undermined the so-called Golden Generation at the 2006 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9803/live/7cbfb760-4a0f-11f1-bd52-e755d604ece4.jpg"
+        },
+        {
+          "title": "Raducanu suffers defeat on clay in first match since March",
+          "link": "https://www.skysports.com/tennis/news/12040/13545777/emma-raducanu-british-no-1-beaten-by-frenchwoman-diane-parry-in-first-round-of-internationaux-de-strasbourg",
+          "published": "2026-05-19",
+          "summary": "Emma Raducanu suffered a 6-4 7-6 (7-4) defeat to Diane Parry of France in her first clay tournament of 2026 at the Internationaux de Strasbourg on Tuesday.",
+          "image": "https://e2.365dm.com/26/05/1920x1080/skysports-emma-raducanu-tennis_7252948.jpg?20260519104609"
+        },
+        {
+          "title": "How PL title, relegation and Liverpool's CL place can be decided tonight",
+          "link": "https://www.skysports.com/football/news/12040/13545823/premier-league-permutations-how-arsenal-can-win-title-tottenham-relegate-west-ham-and-liverpool-secure-champions-league-on-tuesday-night",
+          "published": "2026-05-19",
+          "summary": "The Premier League title race, relegation battle and Liverpool's Champions League place can be decided tonight, live on <em>Sky Sports. </em>",
+          "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-permutations_7252978.jpg?20260519110945"
+        },
+        {
+          "title": "Neville: I don't see how Arsenal waste this opportunity",
+          "link": "https://www.skysports.com/football/news/12040/13545773/premier-league-title-race-i-dont-see-how-arsenal-waste-this-opportunity-says-gary-neville-as-man-city-face-tough-bournemouth-test",
+          "published": "2026-05-19",
+          "summary": "Sky Sports pundit Gary Neville says he does not see how Arsenal \"waste this opportunity\" to win their first Premier League title in 22 years, as Manchester City face a tough trip to Bournemouth on Tue...",
+          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-david-raya-gabriel_7252881.jpg?20260519091838"
+        },
+        {
+          "title": "How Guardiola transformed English football",
+          "link": "https://www.skysports.com/football/news/12040/13503172/pep-guardiola-will-leave-man-city-having-transformed-english-football-from-the-top-down-between-the-lines",
+          "published": "2026-05-19",
+          "summary": "Pep Guardiola is expected to leave Manchester City at the end of the season, calling time on a decade-long stay during which he made a transformative impact on English football.",
+          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-between-the-lines_7249237.jpg?20260515081945"
+        },
+        {
+          "title": "Benfica goalkeeper talks Mourinho, De Zerbi and THAT Champions League goal",
+          "link": "https://www.skysports.com/football/news/12040/13541534/anatoliy-trubin-interview-benfica-goalkeeper-on-jose-mourinho-roberto-de-zerbi-and-that-champions-league-goal",
+          "published": "2026-05-19",
+          "summary": "Anatoliy Trubin&#8217;s mother does not watch football but she checks the results. Some time after Benfica&#8217;s win over Real Madrid, there it was. Trubin 90+8. &#8220;She was thinking maybe she wa...",
+          "image": "https://e1.365dm.com/26/05/1920x1080/skysports-anatoliy-trubin-benfica_7242623.jpg?20260508140915"
+        },
+        {
+          "title": "Tense, tetchy but triumphant - all Arsenal eyes now on Bournemouth",
+          "link": "https://www.bbc.com/sport/football/articles/ckgpdxvx2xvo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
-          "summary": "London taxpayers may have to pay an extra \u00a32.5m if West Ham are relegated from the Premier League, because of the club's lease agreement for London Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fd/live/2980a780-5298-11f1-b09b-0946f3973995.jpg"
+          "summary": "All Arsenal eyes will be on Bournemouth v Man City on Tuesday with the Gunners agonisingly close to ending their 22-year wait for a Premier League title.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbae/live/e91350f0-5312-11f1-8f59-594739e1c3a1.jpg"
         },
         {
-          "title": "No Celtic future talks before cup final for O'Neill",
-          "link": "https://www.bbc.com/sport/football/articles/cqxpwg8dv5zo?at_medium=RSS&at_campaign=rss",
+          "title": "'Miles away' - Havertz 'lucky' to avoid red card",
+          "link": "https://www.bbc.com/sport/football/articles/c8d8yge72qyo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
-          "summary": "Martin O'Neill does not expect there to be discussion about the Celtic manager's position before Saturday's Scottish Cup final, and doubts he would \"have the energy\" to continue.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/513f/live/393d8d60-52a6-11f1-9ab8-af14435162fc.jpg"
+          "summary": "Kai Havertz takes Arsenal closer to winning their first Premier League title in 22 years, but nearly goes from hero to villain as he escapes a red card.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e947/live/43299f70-5301-11f1-b682-cf91850925ea.png"
         },
         {
-          "title": "How overperforming Villa returned to Champions League",
-          "link": "https://www.bbc.com/sport/football/articles/cn0wl2d2pppo?at_medium=RSS&at_campaign=rss",
+          "title": "Arsenal one step closer to title after hard-fought win over Burnley",
+          "link": "https://www.bbc.com/sport/football/videos/cwy2p7xyr2lo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
-          "summary": "Eight places better off than their expected position, Aston Villa are the highest overperforming team in the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6182/live/018778a0-529b-11f1-b14c-031b0f963228.jpg"
+          "summary": "Arsenal take a huge step towards becoming Premier League champions as Kai Havertz's goal is enough to beat relegated Burnley at Emirates Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3065/live/accd06b0-52fc-11f1-89a3-d1f559421220.jpg"
         },
         {
-          "title": "Stories, scheduling & spectacle - five takeaways from 2025-26 WSL",
-          "link": "https://www.bbc.com/sport/football/articles/c07284m2eypo?at_medium=RSS&at_campaign=rss",
+          "title": "Havertz should have been sent off - Jackson",
+          "link": "https://www.bbc.com/sport/football/videos/c142gx8m8gmo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
-          "summary": "With the 2025-26 season in the books, BBC Sport answers five pertinent questions from the Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/7c802d60-5212-11f1-89a3-d1f559421220.png"
+          "summary": "Burnley interim manager Mike Jackson is pleased with the way his side kept themselves in the game in their 1-0 defeat at Arsenal and is unhappy Kai Havertz was not sent off in the second half.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b4/live/6b4f6a50-5303-11f1-b682-cf91850925ea.jpg"
         },
         {
-          "title": "Can you name every permanent Chelsea manager since Mourinho?",
-          "link": "https://www.bbc.com/sport/football/articles/c77k4venkx6o?at_medium=RSS&at_campaign=rss",
+          "title": "We played some of our best football of season in first half - Arteta",
+          "link": "https://www.bbc.com/sport/football/videos/c99lmpv4l8ro?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
-          "summary": "Chelsea have appointed former Liverpool midfielder Xabi Alonso as their manager on a four\u2011year contract.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19a/live/57931d50-5226-11f1-8b8c-6d33e1d5abb6.png"
-        },
-        {
-          "title": "Who has qualified for next season's Champions League?",
-          "link": "https://www.bbc.com/sport/football/articles/crl177pxrl4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18",
-          "summary": "BBC Sport's Ask Me Anything team explains which teams have already qualified for the 2026-27 edition of the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f3e/live/f0d0a850-509d-11f1-b682-cf91850925ea.jpg"
-        },
-        {
-          "title": "Who has the most Premier League assists in a season?",
-          "link": "https://www.bbc.com/sport/articles/cd031ddxgdzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18",
-          "summary": "Our Ask Me Anything team look at who has provided the most assists in the history of the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2305/live/e62a76d0-2157-11f1-b297-95b0a0a8331e.png"
-        },
-        {
-          "title": "The stat awards: Who were the WSL's top performers this season?",
-          "link": "https://www.skysports.com/football/news/12040/13545421/the-best-of-womens-super-league-2025-26-bunny-shaw-alex-greenwood-fuka-nagano-mariona-caldentey-jess-park-and-more",
-          "published": "2026-05-18",
-          "summary": "Sky Sports columnist Laura Hunter analyses the best of the best from across the Women's Super League season, with high praise for those who have stood out in the most obvious ways - ahem, Bunny Shaw -...",
-          "image": "https://e1.365dm.com/26/05/1920x1080/skysports-wsl-awards-shaw-greenwood_7252139.jpg?20260518104402"
-        },
-        {
-          "title": "Ref Watch: Why Man Utd goal should have been disallowed",
-          "link": "https://www.skysports.com/football/news/12040/13545417/ref-watch-why-manchester-united-goal-vs-nottingham-forest-should-have-been-disallowed-after-bryan-mbeumo-handball",
-          "published": "2026-05-18",
-          "summary": "Ex-Premier League referee Dermot Gallagher says Manchester United's second goal during their 3-2 win over Nottingham Forest should have been disallowed after a Bryan Mbeumo handball.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ref-watch-man-utd_7252195.jpg?20260518120033"
-        },
-        {
-          "title": "'I was screaming' - footballer stabbed seven times recalls mass knife attack",
-          "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "Footballer Jonathan Gjoshe was among the 11 passengers seriously injured in a knife attack on a train as it travelled through Cambridgeshire last November.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8649/live/7628a460-5212-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Osula stars as Newcastle increase West Ham's relegation worries",
-          "link": "https://www.bbc.com/sport/football/videos/cd6pnj01y04o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "William Osula scores twice as Newcastle soundly defeat West Ham United 3-1, to leave Nuno Espirito Santo's side on the brink of relegation from the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b7/live/73faf120-5221-11f1-b682-cf91850925ea.jpg"
-        },
-        {
-          "title": "Fernandes equals assist record as Man Utd beat Forest",
-          "link": "https://www.bbc.com/sport/football/videos/cn8p59e3dz4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "Bruno Fernandes earns his 20th Premier League assist of the season, equalling the record set by Kevin De Bruyne and Thierry Henry, as Manchester United defeat Nottingham Forest 3-2 in their final home...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9c833610-521d-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Sunderland keep Europe hopes alive with win at Everton",
-          "link": "https://www.bbc.com/sport/football/videos/c072pz447geo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "Sunderland come from behind to defeat Everton 3-1 at the Hill Dickinson Stadium, moving up to ninth in the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe9/live/16b1c620-521b-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Should Cunha's goal have been disallowed?",
-          "link": "https://www.bbc.com/sport/football/videos/cx21d135v7ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "BBC Sport pundits Mark Schwarzer and Dion Dublin believe Bryan Mbeumo using his arm to trap the ball to his side to help better control Diego Dalot's cross in the build-up to Matheus Cunha's goal, gav...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4676/live/9a7d9480-523d-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Outtara double rescues home draw for Brentford against Palace",
-          "link": "https://www.bbc.com/sport/football/videos/c0r27zk8x2eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "Dango Outtara scores twice to earn Brentford a 2-2 draw at home to Crystal Palace in the Premier League, as Keith Andrews' side stay in the hunt for European football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96a/live/406ce4c0-5222-11f1-8b8c-6d33e1d5abb6.jpg"
+          "summary": "Arsenal boss Mikel Arteta feels his side played some of their \"best football\" of the season in their hard-fought 1-0  win over Burnley which edges them closer to their first Premier League title for 2...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fdc/live/0a2ba390-5305-11f1-89a3-d1f559421220.jpg"
         }
       ],
       "highlights": [
@@ -121,29 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Northampton Town appoint Hogg as manager",
-          "link": "https://www.bbc.com/sport/football/articles/c5y6z4050xzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18",
-          "summary": "Northampton Town appoint former Norwich City assistant head coach Chris Hogg as their manager on a two-year contract.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427f/live/fa7c9dd0-529d-11f1-b14c-031b0f963228.jpg"
-        },
-        {
-          "title": "Van Rensburg named in England training camp ahead of Nations Championship",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13545457/england-rugby-benhard-janse-van-rensburg-charlie-bracken-archie-mcparland-called-up-as-george-martin-returns-in-nations-championship-training-squad",
-          "published": "2026-05-18",
-          "summary": "Benhard Janse van Rensburg, Charlie Bracken and Archie McParland have all been named in England's training camp ahead of the inaugural Nations Championship.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-janse-van-rensburg_7252142.jpg?20260518105003"
-        },
-        {
-          "title": "Tipped for relegation to title winners - AGF's 'King Arthur' moment",
-          "link": "https://www.bbc.com/sport/football/articles/c794ly3lzjeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-17",
-          "summary": "Aarhus GF were tipped for relegation from the Danish Superliga this season. Instead, they will lift the championship trophy for the first time in 40 years this Sunday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f0b/live/df7dc530-51b8-11f1-8c93-f19d98c4eee9.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -178,6 +156,13 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "World Cup quiz: Name every player in Scotland's squad",
+          "link": "https://www.bbc.com/sport/football/articles/c0r29j5gke2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19",
+          "summary": "Scotland face Haiti on 14 June in their first World Cup match since 1998 - but can you name all 26 players in Steve Clarke's squad?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d29/live/de86cc00-536e-11f1-8b8c-6d33e1d5abb6.png"
+        },
+        {
           "title": "Giroud, Azpilicueta and McCarthy join BBC World Cup team",
           "link": "https://www.bbc.com/sport/football/articles/cx21p8lgde8o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18",
@@ -198,26 +183,6 @@
     {
       "moment": "Fernandes equals assist record as Man Utd beat Forest",
       "link": "https://www.bbc.com/sport/football/videos/cn8p59e3dz4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Can you name every permanent Chelsea manager since Mourinho?",
-      "link": "https://www.bbc.com/sport/football/articles/c77k4venkx6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Is Fernandes most creative Premier League player ever?",
-      "link": "https://www.bbc.com/sport/football/articles/c78rlgvl9lno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "'We share same ambition' - Alonso named Chelsea's third boss in year",
-      "link": "https://www.bbc.com/sport/football/articles/ckgpklg078go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "What does Premiership climax mean for European places?",
-      "link": "https://www.bbc.com/sport/football/articles/c3w25wzjxxyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Castleford edge York in Super League thriller",
-      "link": "https://www.skysports.com/watch/video/13544824/york-knights-18-24-castleford-tigers-betfred-super-league-highlights"
     }
   ]
 }
