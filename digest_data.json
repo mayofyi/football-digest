@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-05-24",
-  "week_ending": "May 24, 2026",
+  "generated_date": "2026-05-25",
+  "week_ending": "May 25, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "How well do you remember this season's Premier League?",
-          "link": "https://www.bbc.com/sport/football/articles/c3w2zy547jgo?at_medium=RSS&at_campaign=rss",
+          "title": "Which side were remarkable? Who were a shambles? Phil McNulty's season review",
+          "link": "https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "BBC Sport chief football writer Phil McNulty reviews every team's Premier League - and looks back at his pre-season predictions.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f26/live/647abae0-580d-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "Who made Opta's team of the season?",
+          "link": "https://www.bbc.com/sport/football/articles/c20227e73k0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "Data analyst Opta looks at the numbers to provide its own Premier League team of the season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad93/live/afcae520-5825-11f1-8df1-478734c7d1a9.jpg"
+        },
+        {
+          "title": "Premier League predictions - how accurate were BBC Sport pundits?",
+          "link": "https://www.bbc.com/sport/football/articles/c1j27y7leelo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "Last summer, 33 BBC pundits - plus AI and Opta's 'supercomputer' were asked to pick which teams would finish in the Premier League's top four, and in which order. How did they get on?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76c6/live/df791b80-57b1-11f1-89a3-d1f559421220.jpg"
+        },
+        {
+          "title": "McTominay overhead kick featured on new Scottish \u00a320 banknote",
+          "link": "https://www.bbc.com/news/articles/cjrpp3jgl8ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "The design combines traditional banknote elements with imagery of McTominay's goal for Scotland against Denmark.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042d/live/4ddd19a0-5811-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "How did each WSL club do in 2025-26 season?",
+          "link": "https://www.bbc.com/sport/football/articles/c4g44l2g8pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "Who were the surprise package in the Women's Super League this season? And who failed to meet expectations?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b042/live/7b1a64b0-5819-11f1-ab54-8b21c7b2a5d0.jpg"
+        },
+        {
+          "title": "European absence can make Chelsea a threat - Rooney",
+          "link": "https://www.bbc.com/sport/football/articles/cr7p1xl2npno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "Chelsea will be \"a real threat\" in the Premier League next season after failing to qualify for Europe, says former Manchester United striker Wayne Rooney.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d2/live/1c306b50-57ad-11f1-ad5f-5f751da52883.jpg"
+        },
+        {
+          "title": "St Mirren and Partick Thistle playing off for high stakes",
+          "link": "https://www.bbc.com/sport/football/articles/c9weer4prk1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-25",
+          "summary": "St Mirren defender Alex Gogic and Partick Thistle counterpart Cammy Logan explain how much it means to them to win the second leg of Monday's Scottish Premiership Play-off final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/457a/live/9295dda0-5827-11f1-b682-cf91850925ea.png"
+        },
+        {
+          "title": "Nuno in talks with West Ham hierarchy with future in doubt",
+          "link": "https://www.skysports.com/football/news/12040/13547824/nuno-espirito-santo-in-talks-with-west-ham-hierarchy-over-future-after-relegation-from-premier-league-on-final-day-of-season",
+          "published": "2026-05-25",
+          "summary": "Nuno Espirito Santo and West Ham's hierarchy are in talks regarding his future at the club following relegation from the Premier League.",
+          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-nuno-espirito-santo_7180086.jpg?20260302163120"
+        },
+        {
+          "title": "Watson on Hull KR move, moving back into head coaching",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13546954/ian-watson-on-hull-kr-move-moving-back-into-head-coaching-and-working-with-willie-peters",
+          "published": "2026-05-25",
+          "summary": "After leaving the top job at Huddersfield Giants back in 2024, Ian Watson has found his way back into coaching in Super League as assistant at champions Hull KR.",
+          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ian-watson-rugby-league_7255615.jpg?20260522113618"
+        },
+        {
+          "title": "Who has made Troy's Premier League team of the season?",
+          "link": "https://www.bbc.com/sport/football/articles/c8r842g0pkzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-24",
-          "summary": "Test your knowledge of the 2025-26 Premier League season before the final round of fixtures.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/e616b860-54f7-11f1-b682-cf91850925ea.png"
+          "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. This time, it's team of the season. Do you agree with his choices?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93aa/live/fd129c10-57ad-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
-          "title": "An architect who redefined football - why Guardiola stands apart",
-          "link": "https://www.bbc.com/sport/football/articles/cvgz5v15w4xo?at_medium=RSS&at_campaign=rss",
+          "title": "Spurs secure Premier League survival with win over Everton",
+          "link": "https://www.bbc.com/sport/football/videos/cqjp24l5w89o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-24",
-          "summary": "Pep Guardiola undoubtedly belongs among football's greatest managers, but Spanish football expert Guillem Balague explores why he stands apart.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36cf/live/6a05e4f0-5464-11f1-90bc-1d92dab59cbe.jpg"
+          "summary": "Joao Palhinha's goal just before half time helps Tottenham overcome Everton to secure the result they needed to ensure Premier League survival on a day of nerve-shredding tension.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2534/live/13049d60-5791-11f1-89a3-d1f559421220.jpg"
         },
         {
-          "title": "FPL talking point - players to make a final-week impact",
-          "link": "https://www.bbc.com/sport/football/articles/c759x2ypv7xo?at_medium=RSS&at_campaign=rss",
+          "title": "West Ham relegated despite win over Leeds",
+          "link": "https://www.bbc.com/sport/football/videos/c9v3xenk7plo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-24",
-          "summary": "With only one round of Premier League fixtures remaining, selecting players with low ownership could be crucial to jumping above a rival in your mini-league - so here are three options.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d74/live/75222b00-55ae-11f1-9f36-1dfd3d7f0f3a.jpg"
+          "summary": "West Ham's 14-year stay in the Premier League comes to an end after they were relegated to the Championship on the final day of the season despite beating Leeds at London Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/78b28350-5793-11f1-89a3-d1f559421220.jpg"
         },
         {
-          "title": "Kabayel? Verhoeven rematch? What next for Usyk?",
-          "link": "https://www.skysports.com/boxing/news/12040/13547472/oleksandr-usyks-options-assessed-after-dramatic-11th-round-rico-verhoeven-victory-in-giza",
+          "title": "Arsenal beat Palace before lifting Premier League trophy",
+          "link": "https://www.bbc.com/sport/football/videos/c5y0x9eq47qo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-24",
-          "summary": "A mandatory against Agit Kabayel? A rematch with Rico Verhoeven? What next for Oleksandr Usyk after his dramatic victory in front of the pyramids.",
-          "image": "https://e1.365dm.com/26/05/1920x1080/skysports-usyk-kabayel_7256899.jpg?20260524013226"
+          "summary": "Arsenal start their reign as Premier League champions with a routine win over Crystal Palace in a party atmosphere at Selhurst Park.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a3b/live/bf6ae9e0-5793-11f1-b682-cf91850925ea.jpg"
         },
         {
-          "title": "Transfer Centre LIVE! Rangers in advanced talks to sign Hearts captain Shankland",
-          "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+          "title": "Sunderland beat Chelsea to qualify for Europa League",
+          "link": "https://www.bbc.com/sport/football/videos/cx21y82dwwgo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-24",
-          "summary": "",
-          "image": "https://e2.365dm.com/26/05/1920x1080/skysports-lawrence-shankland_7250171.jpg?20260516133502"
+          "summary": "Sunderland beat Chelsea to qualify for European competition for the first time in 53 years, securing a place in the Europa League at the visitors' expense.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe0/live/910e3600-5794-11f1-b682-cf91850925ea.jpg"
         },
         {
-          "title": "Wembley, Vegas, Premier League - jubilant Hull back in the big time",
-          "link": "https://www.bbc.com/sport/football/articles/ckgpe8krnkro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Even the most dedicated Hull City fan could not have envisaged their season ending like this, with Wembley glory and a return to the top flight.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee3a/live/7b22bae0-56e1-11f1-ac8a-55a283d57d05.jpg"
-        },
-        {
-          "title": "Girona relegated a year after Champions League campaign",
-          "link": "https://www.bbc.com/sport/football/articles/czj2we7zpllo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Girona have been relegated from La Liga just a season after playing in the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc17/live/f0124390-56ee-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Starmer urges TNT to make Champions League final free-to-air",
-          "link": "https://www.bbc.com/sport/football/articles/clypgywjwywo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "UK Prime Minister Sir Keir Starmer calls on TNT Sports to make next Saturday's Champions League final between Arsenal and Paris St-Germain free-to-air.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64c4/live/02ae6f80-5698-11f1-9615-e14e530a4b81.jpg"
-        },
-        {
-          "title": "Barcelona thrash Lyon to win Champions League",
-          "link": "https://www.bbc.com/sport/football/videos/c33287lrdv8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Barcelona secure their fourth Champions League title in six seasons as Ewa Pajor and Salma Paralluelo each score twice to thrash Lyon in the final in Oslo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846f/live/7bb9fa30-56d3-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Heartbreak for Boro after missing three chances to go up",
-          "link": "https://www.bbc.com/sport/football/articles/c9v3l8dyzzpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Middlesbrough make unwanted history by becoming the first club to miss three chances at Premier League promotion in the same season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd51/live/32c3ae60-56cf-11f1-8061-9f414900f587.jpg"
-        },
-        {
-          "title": "Was cup final fond farewell for Larssonesque Maeda?",
-          "link": "https://www.bbc.com/sport/football/articles/cr7p1ney5j7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "All the indications are that Daizen Maeda will leave Celtic this summer, and if that is to be the case, signing off with a goal in a winning cause in the Scottish Cup final was no bad was to say goodb...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3928/live/ae644830-56d0-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Fernandes named Premier League player of season",
-          "link": "https://www.bbc.com/sport/football/articles/c9wen9znndeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Midfielder Bruno Fernandes becomes the first Manchester United player to win the award since Nemanja Vidic in 2011.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c4/live/73afac30-5693-11f1-9615-e14e530a4b81.jpg"
-        },
-        {
-          "title": "'I trust them' - departing Guardiola on Man City's financial charges",
-          "link": "https://www.bbc.com/sport/football/articles/cq6pq5zypdgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Departing manager Pep Guardiola says he trusts how Manchester City behaved as the club continue to await rulings on 115 charges for allegedly breaching Premier League financial rules.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/37b508d0-55ec-11f1-b851-ed1f362c74c1.jpg"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nmzxj3?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Championship play-off final reaction as Hull City are promoted to the Premier League.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nm8l87.jpg"
-        },
-        {
-          "title": "North Korea's Naegohyang win final in South Korea to become Asian champions",
-          "link": "https://www.bbc.com/sport/football/articles/cdxpz1p8nw4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "North Korean team Naegohyang, who made history by crossing the border into South Korea, win the Asian Women's Champions League final.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c3e/live/db111d40-568f-11f1-9615-e14e530a4b81.jpg"
+          "title": "Fernandes breaks Premier League record as Man Utd beat Brighton",
+          "link": "https://www.bbc.com/sport/football/videos/c0q2419q483o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-24",
+          "summary": "Manchester United beat Brighton on the final day of the season, with captain Bruno Fernandes breaking the Premier League record for most assists in a single campaign.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b99/live/461159e0-5792-11f1-89a3-d1f559421220.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,18 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Hull's Wembley hero McBurnie - a striker Scotland can do without?",
-          "link": "https://www.bbc.com/sport/football/articles/c78ql9vp00no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Hull City striker Oli McBurnie sends a message to Scotland boss Steve Clarke with his Championship play-off final winner after being omitted from the World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff3/live/7cf883c0-56ca-11f1-8061-9f414900f587.jpg"
+          "title": "Championship, L1 & L2 26/27 season - key dates and fixtures day",
+          "link": "https://www.skysports.com/football/news/12040/13547881/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+          "published": "2026-05-25",
+          "summary": "Already thinking about the next Sky Bet EFL season? There's a <a href=\"https://www.skysports.com/fifa-world-cup\">World Cup</a> to fit in first - but the key dates are out for the 2026/27 campaign.",
+          "image": "https://e2.365dm.com/26/05/1920x1080/skysports-bolton-league-one_7258112.jpg?20260525125152"
         },
         {
-          "title": "Charlton earn WSL promotion after Whitehouse penalty heroics",
-          "link": "https://www.bbc.com/sport/football/videos/cm2p948lq4ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Charlton Athletic beat Leicester City to earn their first promotion to the WSL courtesy of goalkeeper Sophie Whitehouse's penalty shootout heroics, relegating the Foxes to WSL2.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029a/live/a5725550-56bc-11f1-b682-cf91850925ea.jpg"
+          "title": "League One to Europa League in four years - Sunderland defy odds",
+          "link": "https://www.bbc.com/sport/football/articles/c202q217z58o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-24",
+          "summary": "When Trai Hume signed for Sunderland for just \u00a3200,000 when they were in League One, he would not have in his wildest dreams thought he would be scoring to send the club into Europe.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0d/live/cc5fa7b0-57a4-11f1-b682-cf91850925ea.jpg"
         }
       ],
       "highlights": [
@@ -147,22 +147,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "Stockport and Bolton aim to end second-tier exiles",
-          "link": "https://www.bbc.com/sport/football/articles/c5yx4zle5xlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Bolton Wanderers and Stockport County aim to end their second-tier exile when they contest Sunday's League One play-off final at Wembley.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e1b/live/fee32d60-55ec-11f1-89a3-d1f559421220.png"
-        },
-        {
-          "title": "'Star of the show' - Whitehouse saves four penalties as Charlton reach WSL",
-          "link": "https://www.bbc.com/sport/football/articles/cy521yppr4ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-23",
-          "summary": "Sophie Whitehouse is the \u2018star of the show\u2019 as Charlton Athletic reach the Women\u2019s Super League for the first time.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75f3/live/65f3c1d0-5706-11f1-89a3-d1f559421220.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -196,12 +181,8 @@
   },
   "standout_moments": [
     {
-      "moment": "Maguire's England posts 'not necessary' - Tuchel",
-      "link": "https://www.bbc.com/sport/football/videos/c2e24m1124do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Kabayel? Verhoeven rematch? What next for Usyk?",
-      "link": "https://www.skysports.com/boxing/news/12040/13547472/oleksandr-usyks-options-assessed-after-dramatic-11th-round-rico-verhoeven-victory-in-giza"
+      "moment": "Fernandes breaks Premier League record as Man Utd beat Brighton",
+      "link": "https://www.bbc.com/sport/football/videos/c0q2419q483o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
