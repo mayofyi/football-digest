@@ -1,23 +1,93 @@
 {
-  "generated_date": "2026-05-29",
-  "week_ending": "May 29, 2026",
+  "generated_date": "2026-05-30",
+  "week_ending": "May 30, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "From non-league to Champions League - Raya's fairytale rise",
+          "title": "The tactics that could win Arsenal the Champions League",
+          "link": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-30",
+          "summary": "BBC Sport's tactics correspondent Umir Irfan looks at how Arsenal can defeat Paris St-Germain in Saturday's Champions League final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63d3/live/d6c79510-5b63-11f1-b988-6f2916478bf9.jpg"
+        },
+        {
+          "title": "Budapest police investigating fan brawl before Champions League final",
+          "link": "https://www.bbc.com/sport/football/articles/c7v94570nz2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-30",
+          "summary": "Police in Budapest have made arrests and are studying CCTV footage to identify supporters fighting before Saturday's Champions League final between Arsenal and Paris St-Germain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/109c/live/1e3f2120-5c0d-11f1-a104-f375fca6a93e.jpg"
+        },
+        {
+          "title": "I feared people would leak my addiction - Shilton",
+          "link": "https://www.bbc.com/news/articles/c242yjy8zm5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-30",
+          "summary": "England's most-capped footballer says being well-known made it harder to seek help about gambling.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ba1/live/760cfad0-5a7d-11f1-8954-638c887fc9b3.jpg"
+        },
+        {
+          "title": "From 'bling-bling' & disputes to unity: The transformation of PSG",
+          "link": "https://www.bbc.com/sport/football/articles/cn7pn2xx8reo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "As Luis Enrique's PSG bid to defend their Champions League crown, European football expert Guillem Balague explores the club's transformation.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d8/live/a439c690-5ba4-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "From non-league to Champions League final - Raya's fairytale rise",
           "link": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-29",
           "summary": "Twelve years ago Arsenal keeper David Raya made his debut for non-league Southport; on Saturday he plays in the Champions League final - this is how he got there.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82f3/live/90debaf0-5a9c-11f1-b682-cf91850925ea.png"
         },
         {
+          "title": "Bristol City appoint Lincoln boss Skubala",
+          "link": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Bristol City appoint Lincoln boss Michael Skubala as their new manager on a three-year deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9953/live/45d196d0-5b79-11f1-b93a-99fdf449fe40.jpg"
+        },
+        {
+          "title": "Arsenal's Timber fit to start Champions League final",
+          "link": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Mikel Arteta says that  Dutch defender Jurrien Timber is fit to start the Champions League final after more than two months out with a groin injury.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb33/live/04de8a60-5b84-11f1-bcbb-431c39a62187.jpg"
+        },
+        {
           "title": "Konate set to leave Liverpool on a free transfer",
           "link": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-29",
-          "summary": "Ibrahima Konate is set to leave Liverpool for free when his current contract expires in June.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bf/live/a5497cc0-5b3f-11f1-89a3-d1f559421220.jpg"
+          "summary": "France defender Ibrahima Konate is set to leave Liverpool for free when his contract expires in June.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4d/live/b0654190-5b60-11f1-b988-6f2916478bf9.jpg"
+        },
+        {
+          "title": "Champions League final still not free to air despite pressure",
+          "link": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Fans will need a subscription to watch the Champions League final between Arsenal and PSG after TNT Sports decides against making the match free to air.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55e/live/7f6a9ca0-dbf1-11f0-9215-a1336f9b1117.jpg"
+        },
+        {
+          "title": "What is Mourinho's managerial record?",
+          "link": "https://www.bbc.com/sport/articles/cdxpyv28rj8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Our Ask Me Anything team look at the managerial record of new Real Madrid manager Jose Mourinho.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb9/live/ce00e8a0-4eb1-11f1-bd52-e755d604ece4.png"
+        },
+        {
+          "title": "Real Madrid named football's most valuable club",
+          "link": "https://www.bbc.com/sport/football/articles/c362dzkl0w2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Real Madrid are named as the most valuable club in world football, with Barcelona overtaking Manchester United to go second.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee7/live/728aadd0-5b6d-11f1-a914-b7de1b16af02.jpg"
+        },
+        {
+          "title": "'An exciting young talent' - Meet NI's new recruit",
+          "link": "https://www.bbc.com/sport/football/articles/ckgp3zp1jm8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-29",
+          "summary": "Northern Ireland manager Michael McArdle says that teenager Emily Cassap is an \"exciting young talent\" as she is called into the senior squad for the first time.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8da/live/43434570-5b66-11f1-8ea9-9775e47f19f8.jpg"
         },
         {
           "title": "Torreense to play European football while in second division",
@@ -27,46 +97,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342e/live/db028070-5b33-11f1-adc4-274fecea7050.jpg"
         },
         {
-          "title": "How a pair of former Man Utd team-mates became firefighters",
-          "link": "https://www.bbc.com/sport/football/articles/c5yxxeee4x5o?at_medium=RSS&at_campaign=rss",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-29",
-          "summary": "BBC Sport meets former professional footballers Abbie McManus and Jess Sigsworth to learn about their transition to becoming firefighters.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f74/live/63f8abf0-59b5-11f1-8ac0-d5b819ddbb8d.jpg"
-        },
-        {
-          "title": "Bristol City edging towards Skubala appointment",
-          "link": "https://www.bbc.com/sport/football/articles/c5yrv03l7wxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-29",
-          "summary": "Bristol City are close to appointing Lincoln boss Michael Skubala as their new manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e6f/live/385b6410-5b54-11f1-a62b-2f41c7c3a318.jpg"
-        },
-        {
-          "title": "'We're just humans' - how Littler's tears revealed impact of untold struggle",
-          "link": "https://www.skysports.com/darts/news/12040/13548922/premier-league-darts-luke-littler-not-a-robot-as-teary-winners-interview-highlights-untold-emotions-faced-by-world-no-1",
-          "published": "2026-05-29",
-          "summary": "Luke Littler&#8217;s teary on-stage interview after Premier League Darts glory provided a public reminder of the untold struggles sports&#8217; biggest stars often face away from their arenas.",
-          "image": "https://e1.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260760.jpg?20260529020446"
-        },
-        {
-          "title": "Outrage at French Open after claims a match needed to be 'umpired by a man'",
-          "link": "https://www.skysports.com/tennis/news/12040/13548996/french-open-adolfo-daniel-vallejo-sparks-controversy-with-claims-that-moise-kouame-clash-needs-to-be-umpired-by-a-man",
-          "published": "2026-05-29",
-          "summary": "Adolfo Daniel Vallejo has provoked outrage by claiming his French Open match \"needed to be umpired by a man\" with sufficient \"strength\" to go against the Roland Garros crowd.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-vallejo-french-open_7260925.jpg?20260529103202"
-        },
-        {
-          "title": "Hodgkinson targets 800m world record on home soil",
-          "link": "https://www.skysports.com/athletics/news/12040/13548953/keely-hodgkinson-olympic-champion-targets-800m-outdoor-world-record-at-london-diamond-league",
-          "published": "2026-05-29",
-          "summary": "Olympic 800m champion Keely Hodgkinson has not ruled out the possibility of breaking athletics' longest-standing world record at the London Diamond League meeting in July.",
-          "image": "https://e1.365dm.com/26/05/1920x1080/skysports-keely-hodgkinson_7260825.jpg?20260529073856"
-        },
-        {
-          "title": "'Step forward' for Littler as Premier League champion reveals doubts",
-          "link": "https://www.skysports.com/darts/news/12040/13548918/luke-littler-wayne-mardle-hails-premier-league-champion-for-opening-up-about-struggles-says-he-has-no-weaknesses",
-          "published": "2026-05-29",
-          "summary": "Sky Sports Darts pundit Wayne Mardle hailed Luke Littler's honesty and talent after his thrilling 11-10 victory over Luke Humphries in the Premier League final.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-premier-league-darts-2026_7260747.jpg?20260528232824"
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball look ahead to the UEFA Champions League Final.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
         },
         {
           "title": "Hussain questions England 'changing winning formula' in India loss",
@@ -74,41 +109,6 @@
           "published": "2026-05-29",
           "summary": "Nasser Hussain questioned England's selection after Charlotte Edwards' side suffered a disappointing 38-run defeat to India in the opening match of their T20 series on Thursday night.",
           "image": "https://e1.365dm.com/26/05/1920x1080/skysports-charlie-dean_7260748.jpg?20260528234200"
-        },
-        {
-          "title": "Eze shrugs off Arsenal critics as he targets 'special' Champions League victory",
-          "link": "https://www.skysports.com/football/news/12040/13548504/eberechi-eze-arsenal-forward-dismisses-critics-as-gunners-target-special-champions-league-final-victory",
-          "published": "2026-05-29",
-          "summary": "\"We are just another group of people that have the opportunity to win the Champions League and I pray that we take it. <em>When </em>we do, it will be a special moment for sure.\"",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eze-arsenal_7260512.jpg?20260528190510"
-        },
-        {
-          "title": "Rice, Shaw and McInnes among BBC Football Awards winners",
-          "link": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "For the first time, BBC Sport is handing out end-of-season football awards to the cream of the crop in English and Scottish football - and here are the winners.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0c/live/11509de0-59d8-11f1-b682-cf91850925ea.jpg"
-        },
-        {
-          "title": "Covid era gave Arteta space to revive Arsenal, says Kroenke",
-          "link": "https://www.bbc.com/sport/football/articles/c62e157w9kro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "Arsenal co-chair Josh Kroenke says behind-closed-doors football during the Covid-19 pandemic allowed manager Mikel Arteta \"space\" that helped to revive the \"sleeping giant\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa47/live/6783b480-5ad3-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Palace wait on Iraola with Lampard among plan Bs",
-          "link": "https://www.bbc.com/sport/football/articles/crlpw74l138o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "Crystal Palace are waiting on an answer from Andoni Iraola but Coventry boss Frank Lampard could be a plan B for the Conference League winners.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c772/live/c7355e00-5a6b-11f1-b296-afc06a328c73.jpg"
-        },
-        {
-          "title": "How nine teams in Europe affects Premier League - and maybe Rochdale",
-          "link": "https://www.bbc.com/sport/football/articles/cd6ped58nv4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "For the second season in a row, the Premier League will have nine teams in Europe - and that will have knock-on effects domestically.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbec/live/db3bd5a0-5a93-11f1-b5ae-83d5964726ad.jpg"
         }
       ],
       "highlights": [
@@ -162,22 +162,7 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [
-        {
-          "title": "Why Gordon for Barcelona & what does it mean for Rashford?",
-          "link": "https://www.bbc.com/sport/football/articles/cn8pqnq3w7no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "Anthony Gordon's goal return in Europe coupled with his speed, aggression and work ethic suggests there is a lot more to come from the England international.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5164/live/d04df010-5a9d-11f1-9626-f75d5d5577d2.jpg"
-        },
-        {
-          "title": "Injured Neymar could miss Brazil's World Cup opener",
-          "link": "https://www.bbc.com/sport/football/articles/cdrp41erye0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28",
-          "summary": "Brazil forward Neymar is set to be out for \"two to three weeks\" and means he will miss friendly matches against Panama and Egypt.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f539/live/734efb30-5a9c-11f1-9626-f75d5d5577d2.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -193,16 +178,12 @@
       "link": "https://www.bbc.com/sport/football/videos/ce9pplx5l99o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "moment": "What is Mourinho's managerial record?",
+      "link": "https://www.bbc.com/sport/articles/cdxpyv28rj8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Fernandes breaks Premier League record as Man Utd beat Brighton",
       "link": "https://www.bbc.com/sport/football/videos/c0q2419q483o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Hodgkinson targets 800m world record on home soil",
-      "link": "https://www.skysports.com/athletics/news/12040/13548953/keely-hodgkinson-olympic-champion-targets-800m-outdoor-world-record-at-london-diamond-league"
-    },
-    {
-      "moment": "Littler crowned Premier League champion after dramatic win over Humphries",
-      "link": "https://www.skysports.com/darts/news/12040/13548717/premier-league-darts-luke-littler-crowned-champion-after-dramatic-11-10-victory-over-luke-humphries-in-final"
     }
   ]
 }
