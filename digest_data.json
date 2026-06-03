@@ -1,16 +1,65 @@
 {
-  "generated_date": "2026-06-02",
-  "week_ending": "June 02, 2026",
+  "generated_date": "2026-06-03",
+  "week_ending": "June 03, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "The Isak saga which damaged two seasons",
-          "link": "https://www.bbc.com/sport/football/articles/c5yxzey1wp7o?at_medium=RSS&at_campaign=rss",
+          "title": "Aston Villa top scorer Hanson set to join Spurs",
+          "link": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-03",
+          "summary": "Aston Villa forward Kirsty Hanson is set to join Tottenham following an impressive season in the Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/993f/live/6529fc00-5ec3-11f1-b588-45cc931ea6f1.jpg"
+        },
+        {
+          "title": "Mohamed Salah - Egyptian king",
+          "link": "https://www.bbc.com/sport/football/articles/cx2xlk74llno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-03",
+          "summary": "BBC Sport visits Egypt to discover what Mohamed Salah means to the people of the football-mad country, and how a small boy from humble beginnings became a national icon.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa1c/live/3d9dc170-7824-11f0-a20f-3b86f375586a.jpg"
+        },
+        {
+          "title": "Rivals: Messi v Ronaldo - watch the trailer",
+          "link": "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-03",
+          "summary": "The story of how Lionel Messi v Cristiano Ronaldo became the rivalry that transformed football and defined a generation.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d7/live/7ad18170-5e93-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "VOTE for best-ever French Super League player as Catalans face Wigan in Paris",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13550308/catalans-dragons-take-on-wigan-warriors-in-paris-vote-for-the-best-ever-french-super-league-player",
+          "published": "2026-06-03",
+          "summary": "Super League has another landmark moment this weekend when Catalans Dragons take on Wigan Warriors in Paris in what marks a celebration of the French outfit's 20 years in the competition.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-league-super-league_7264373.jpg?20260603112703"
+        },
+        {
+          "title": "Keane v O'Neill: Celtic's big decision?",
+          "link": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-02",
-          "summary": "Alexander Isak's move from Newcastle United to Liverpool was the transfer saga of last summer. BBC Sport looks at how it ended up affecting both clubs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b3/live/a0cbc550-5c1a-11f1-92d1-ab2daf594570.jpg"
+          "summary": "Martin O'Neill and Robbie Keane are reportedly the main contenders to become Celtic manager next season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11bb/live/37627550-5e9a-11f1-89a3-d1f559421220.png"
+        },
+        {
+          "title": "Silva to leave Fulham as he closes in on Benfica move",
+          "link": "https://www.bbc.com/sport/football/articles/c5y00540l4ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-02",
+          "summary": "Fulham manager Marco Silva confirms he will leave the Cottagers after five years in charge, with the 48-year-old close to agreeing a deal to take over at Benfica.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/f99b3c60-591d-11f1-8d34-d7341b720fc6.jpg"
+        },
+        {
+          "title": "Unbreakable: The Making of James Milner",
+          "link": "https://www.bbc.co.uk/iplayer/episode/m002xt86?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-02",
+          "summary": "A look back at James Milner's 24-year Premier League career",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nphk69.jpg"
+        },
+        {
+          "title": "Konate close to joining Real Madrid after Liverpool exit",
+          "link": "https://www.bbc.com/sport/football/articles/cx218elj1v0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-02",
+          "summary": "France defender Ibrahima Konate is in advanced talks with Real Madrid about joining the La Liga club on a free transfer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2043/live/3a226dc0-5e9c-11f1-be30-5d712cf191bd.jpg"
         },
         {
           "title": "From non-league to Premier League... Coventry's 'unreal' pair",
@@ -20,39 +69,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c79/live/f5d68030-4248-11f1-85a4-6fbea57c2af5.jpg"
         },
         {
-          "title": "Shankland contract gamble paid off for Hearts - Jones",
-          "link": "https://www.bbc.com/sport/football/articles/c4g41ygl93lo?at_medium=RSS&at_campaign=rss",
+          "title": "The Isak saga which damaged two seasons",
+          "link": "https://www.bbc.com/sport/football/articles/c5yxzey1wp7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-02",
-          "summary": "Lawrence Shankland left Hearts to join Rangers within days of their runners-up finish in the Scottish Premiership.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b51/live/29aa4d00-5e74-11f1-9bb7-93b44936b5cf.jpg"
-        },
-        {
-          "title": "How do Aston Villa improve after making history?",
-          "link": "https://www.bbc.com/sport/football/articles/ce3peqq41z1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-02",
-          "summary": "After Europa League success capped their best season for decades, how will Aston Villa move to the next level?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047b/live/34711fa0-5b56-11f1-a62b-2f41c7c3a318.jpg"
-        },
-        {
-          "title": "Sabalenka calls for more women's matches in French Open night sessions",
-          "link": "https://www.skysports.com/tennis/news/12040/13550007/aryna-sabalenka-world-no-1-hopes-for-more-womens-matches-in-french-open-night-session-after-beating-naomi-osaka",
-          "published": "2026-06-02",
-          "summary": "Aryna Sabalenka hopes French Open organisers have been persuaded to put more women&#8217;s matches on in the night session after her high-class performance against Naomi Osaka on Monday.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-aryna-sabalenka-tennis_7263449.jpg?20260602091419"
-        },
-        {
-          "title": "Pink balls to be trialled in day Tests to maximise playing time",
-          "link": "https://www.skysports.com/cricket/news/12040/13549992/pink-balls-will-be-used-in-day-tests-to-maximise-playing-time-in-trial-introduced-by-international-cricket-council",
-          "published": "2026-06-02",
-          "summary": "Test-playing nations will be able to &#8204;use pink balls instead of red ones in traditional daytime matches &#8204;as part of a trial to prevent play being &#8203;lost due to bad light.",
-          "image": "https://e2.365dm.com/25/12/1920x1080/skysports-ben-stokes-the-ashes_7103355.jpg?20251207043232"
-        },
-        {
-          "title": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
-          "link": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "After their long-awaited Premier League title triumph, senior football correspondent Sami Mokbel assesses Arsenal's to-do list for this summer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/371d/live/25833d30-5df3-11f1-b682-cf91850925ea.png"
+          "summary": "Alexander Isak's move from Newcastle United to Liverpool was the transfer saga of last summer. BBC Sport looks at how it ended up affecting both clubs.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b3/live/a0cbc550-5c1a-11f1-92d1-ab2daf594570.jpg"
         },
         {
           "title": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
@@ -69,39 +90,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/7f6ce520-5ddb-11f1-a574-05510226f57f.jpg"
         },
         {
-          "title": "Fenerbahce presidential rivals both want Greenwood",
-          "link": "https://www.bbc.com/sport/football/articles/cqlpne0d2v7o?at_medium=RSS&at_campaign=rss",
+          "title": "All done deals since February, including deadline day",
+          "link": "https://www.bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-01",
-          "summary": "Former England and Manchester United striker Mason Greenwood is a key transfer target for both Fenerbahce's presidential candidates",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d21/live/277eae20-5dea-11f1-b682-cf91850925ea.jpg"
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "title": "Keegan reveals stage four cancer diagnosis",
-          "link": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
+          "title": "Celtic hold constructive talks with Keane -  with O'Neill discussions planned",
+          "link": "https://www.skysports.com/football/news/12040/13550439/celtic-manager-latest-talks-held-with-robbie-keane-with-martin-oneill-to-be-spoken-to-in-next-24-hours",
           "published": "2026-06-01",
-          "summary": "Former England captain and manager Kevin Keegan reveals he has stage four cancer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d4a/live/08046f70-5d19-11f1-b92d-7b8c872d5807.jpg"
-        },
-        {
-          "title": "Record-holder Milner retires after 24-year career",
-          "link": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "Former England international James Milner announces his retirement after a 24-year Premier League career.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/e6e9be50-5d93-11f1-b199-9da46582c1b0.jpg"
-        },
-        {
-          "title": "The football fans who went to a World Cup and loved it so much, they stayed",
-          "link": "https://www.bbc.com/news/articles/ce8pex81mmpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "A new documentary follows a group of Wolves fans who moved to the US after the Mexico World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31c/live/aceea760-5cdf-11f1-81d4-4b01427112e9.jpg"
-        },
-        {
-          "title": "Wolves rejection to double Champions League winner: Vitinha's rise to top",
-          "link": "https://www.bbc.com/sport/football/articles/cwy9lnn19neo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "BBC Sport NI charts Vitinha's rise from an unsuccessful loan spell at Wolves to helping PSG win the Champions League twice in a row.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be62/live/eb79ac10-5da6-11f1-baa9-1f66f2ed2a5f.jpg"
+          "summary": "Celtic have held constructive talks with Robbie Keane over their managerial vacancy.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-keane-oneill_7264529.jpg?20260603134949"
         },
         {
           "title": "How Slot went from champion to sack in a year",
@@ -123,25 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Southampton owner will not sack Eckert over Spygate",
-          "link": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
+          "title": "Does Southampton Spygate boss Eckert deserve a second chance?",
+          "link": "https://www.bbc.com/sport/football/articles/c8jvzvdpw3go?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-02",
-          "summary": "Southampton owner Dragan Solak tells BBC Sport he will not sack Tonda Eckert, despite the \"mistake\" the head coach made when authorising a spying campaign against rival Championship clubs.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/5b7826b0-5e0e-11f1-aa91-39dc088af21e.jpg"
-        },
-        {
-          "title": "'You legend. Manager loved it' - Southampton's Spygate WhatsApps revealed",
-          "link": "https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "New WhatsApp messages have revealed how Southampton orchestrated a spying campaign against their Championship rivals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adaf/live/4092e8f0-5dcb-11f1-8f26-6789fbd8337d.jpg"
-        },
-        {
-          "title": "The Sunderland footballer setting record straight after 46 years",
-          "link": "https://www.bbc.com/sport/football/videos/ce9pplx5l99o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-27",
-          "summary": "When Roly Gregoire quit football in 1980 after suffering a knee injury, he had faced so much racism that he could not bear to watch football for many years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ac/live/29364960-592d-11f1-8b8c-6d33e1d5abb6.jpg"
+          "summary": "BBC Sport explores the future of Southampton manager Tonda Eckert after he admitted his role in the Spygate scandal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b5b/live/bf8792b0-5e6f-11f1-9bb7-93b44936b5cf.jpg"
         }
       ],
       "highlights": [
@@ -165,7 +151,15 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Salford sack Robinson after play-off final loss",
+          "link": "https://www.bbc.com/sport/football/articles/c7v9p272v3no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-02",
+          "summary": "Salford City manager Karl Robinson is sacked by the League Two club nine days after their play-off final defeat.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aae/live/8e406fa0-5e9d-11f1-b682-cf91850925ea.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -178,18 +172,18 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "Gordon to be oldest player at World Cup but Gunn handed No 1",
+          "link": "https://www.bbc.com/sport/football/articles/cy02ex2pq2po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-02",
+          "summary": "Scotland goalkeeper Craig Gordon will be the oldest player at the World Cup this summer, but the 43-year-old has not been handed the number one shirt.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd1/live/60828510-5ea4-11f1-9c69-5be5e9be5821.jpg"
+        },
+        {
           "title": "How Cornish miners brought football to Mexico",
           "link": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-02",
           "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg"
-        },
-        {
-          "title": "Quiz: Name every city hosting a World Cup 2026 match",
-          "link": "https://www.bbc.com/sport/football/articles/cd7pylr09x8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-02",
-          "summary": "Sixteen cities were chosen to host World Cup matches this summer, can you name them all?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a9/live/e5107d50-4fa4-11f1-b682-cf91850925ea.png"
         }
       ],
       "highlights": [
@@ -203,20 +197,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Introducing Shorts on the BBC Sport app",
-      "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss"
+      "moment": "Salford sack Robinson after play-off final loss",
+      "link": "https://www.bbc.com/sport/football/articles/c7v9p272v3no?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "How Slot went from champion to sack in a year",
       "link": "https://www.bbc.com/sport/football/videos/c0j231l5858o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "The Sunderland footballer setting record straight after 46 years",
-      "link": "https://www.bbc.com/sport/football/videos/ce9pplx5l99o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Record-holder Milner retires after 24-year career",
-      "link": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss"
+      "moment": "Introducing Shorts on the BBC Sport app",
+      "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
