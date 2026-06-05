@@ -1,10 +1,94 @@
 {
-  "generated_date": "2026-06-04",
-  "week_ending": "June 04, 2026",
+  "generated_date": "2026-06-05",
+  "week_ending": "June 05, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+          "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/843f0e90-60b8-11f1-9b5a-5531746793c9.jpg"
+        },
+        {
+          "title": "Messi v Ronaldo: A rivalry that's dominated for two decades",
+          "link": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea4/live/df3f4350-569f-11f1-82a8-f7509e7dd289.jpg"
+        },
+        {
+          "title": "Shaw and Hasegawa on PFA women's award shortlist",
+          "link": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Manchester City duo Khadija 'Bunny' Shaw and Yui Hasegawa are shortlisted for the Professional Footballers Association's Women's Player of the Year award.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/2e9be490-60bd-11f1-89a3-d1f559421220.png"
+        },
+        {
+          "title": "St Mirren appoint McLeish on three-year deal",
+          "link": "https://www.bbc.com/sport/football/articles/cjrpejq5d5po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Craig McLeish believes his background with St Mirren's academy makes him the best choice as manager after agreeing a three-year deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb74/live/fe4054f0-5f74-11f1-bb1e-872b6e9ba8be.jpg"
+        },
+        {
+          "title": "We need to teach boys differently to girls - Southgate",
+          "link": "https://www.bbc.com/news/articles/ckgp5g34kzpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "The former England manager has made a documentary looking at the issues affecting boys and young men.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1759/live/5358c010-60ad-11f1-b682-cf91850925ea.jpg"
+        },
+        {
+          "title": "McLeish appointed permanent St Mirren boss",
+          "link": "https://www.skysports.com/football/news/12040/13551032/craig-mcleish-appointed-st-mirrens-permanent-boss-after-guiding-club-to-scottish-premiership-survival",
+          "published": "2026-06-05",
+          "summary": "St Mirren have appointed Craig McLeish as permanent boss after he led them to Scottish Premiership survival.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-mcleish-st-mirren_7265942.jpg?20260605101807"
+        },
+        {
+          "title": "Potter finding joy with Sweden after Chelsea and West Ham woe",
+          "link": "https://www.skysports.com/football/news/12040/13550178/graham-potter-interview-finding-joy-with-sweden-after-chelsea-west-ham-woe-and-unlocking-viktor-gyokeres-and-alexander-isak-at-world-cup",
+          "published": "2026-06-05",
+          "summary": "It is more than two months since Viktor Gyokeres's 89th-minute goal sealed Sweden's extraordinary World Cup play-off victory over Poland at a delirious Strawberry Arena in Stockholm, but Graham Potter...",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-graham-potter-sweden_7264420.jpg?20260603121701"
+        },
+        {
+          "title": "From a tiny changing room to Nou Camp - 'Catalans driving RL revival in France'",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13550950/jerome-guisset-from-a-tiny-changing-room-to-nou-camp-and-onto-super-league-in-paris-catalans-dragons-driving-rugby-league-revival-in-france",
+          "published": "2026-06-05",
+          "summary": "On Saturday, Catalans Dragons will face Wigan Warriors at the Stade Jean Bouin in Paris for a Super League contest, 20 years on from their arrival into the competition.&#160;",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-catalans-dragons_7265769.jpg?20260604233033"
+        },
+        {
+          "title": "Celtic fan groups state opposition to Keane",
+          "link": "https://www.bbc.com/sport/football/articles/c33234zxvl8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-04",
+          "summary": "Several Celtic supporters clubs put their names to a statement opposing the potential appointment of Robbie Keane as manager because of the Irishman's previous role as Maccabi Tel Aviv head coach.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec06/live/d5067460-6056-11f1-a57f-011648fb5f37.jpg"
+        },
+        {
+          "title": "Man Utd will not be swayed on transfer plan - Berrada",
+          "link": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-04",
+          "summary": "Manchester United chief executive Omar Berrada says the club will not bow to pressure and overpay in the summer transfer window.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/7cdba300-6038-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "Why has Iraola only signed a two-year contract at Liverpool?",
+          "link": "https://www.bbc.com/sport/football/articles/cdxp15z708ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-04",
+          "summary": "Our Ask Me Anything team looks into why Andoni Iraola has signed a contract for just two years as Liverpool manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6876/live/05183de0-5f3b-11f1-89a3-d1f559421220.png"
+        },
+        {
+          "title": "WSL has 'the edge' to attract Europe's best players",
+          "link": "https://www.bbc.com/sport/football/articles/ckgpvgjpywlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-04",
+          "summary": "England defender Lucy Bronze says the Women's Super League has \"the edge\" of improving each year so is able to attract Europe's best players.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09df/live/9c0c8810-6016-11f1-8599-9bb939e0da6c.jpg"
+        },
         {
           "title": "Two goals in 41 games - what next for Delap at Chelsea?",
           "link": "https://www.bbc.com/sport/football/articles/c87q2jel22vo?at_medium=RSS&at_campaign=rss",
@@ -13,102 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540f/live/6a3d8ac0-59ca-11f1-94f3-bd26b0dff349.jpg"
         },
         {
-          "title": "Chelsea legend Tambling dies aged 84",
-          "link": "https://www.bbc.com/sport/football/articles/c8r876y1n0lo?at_medium=RSS&at_campaign=rss",
+          "title": "Hodgkinson sets 400m personal best at Diamond League in Rome",
+          "link": "https://www.skysports.com/athletics/news/12040/13550961/keely-hodgkinson-sets-400m-personal-best-at-diamond-league-in-rome-as-molly-caudery-wins-pole-vault-title",
           "published": "2026-06-04",
-          "summary": "Chelsea's former record goalscorer Bobby Tambling - who netted 202 goals for the club - dies at the age of 84.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b8/live/ec7e9790-5fd8-11f1-a3c9-0904bbb18eb1.jpg"
-        },
-        {
-          "title": "Liverpool's Koumas to prove worth after Wales goal",
-          "link": "https://www.bbc.com/sport/football/articles/c4g817e9pe4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-04",
-          "summary": "Liverpool forward Lewis Koumas is determined to prove his worth in a Wales shirt having helped Hull City gain promotion into the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f2/live/ec189540-5dd4-11f1-a574-05510226f57f.jpg"
-        },
-        {
-          "title": "Littler set to make first appearance since winning Premier League title",
-          "link": "https://www.skysports.com/darts/news/12040/13550718/luke-littler-world-no-1-will-make-his-first-appearance-since-picking-up-his-second-premier-league-title-at-the-nordic-darts-masters",
-          "published": "2026-06-04",
-          "summary": "Luke Littler will make his first appearance since picking up his second Premier League title at the Nordic Darts Masters in Denmark.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260608.jpg?20260528200225"
-        },
-        {
-          "title": "Man City have opening Anderson bid rejected by Forest",
-          "link": "https://www.bbc.com/sport/football/articles/c042w3w601yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-03",
-          "summary": "Manchester City have an opening transfer bid for midfielder Elliot Anderson rejected by Nottingham Forest.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ee/live/e4b46300-5f9c-11f1-b6fe-b5a1635bcbcc.jpg"
-        },
-        {
-          "title": "AC Milan chase Summerville - Thursday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cvgz2wvw3ydo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-03",
-          "summary": "AC Milan rival Premier League sides for West Ham's Crysencio Summerville, Real Madrid to sign Inter's Denzel Dumfries and Newcastle target Nigerian teenager Zadok Yohanna.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fcb/live/ad8ceac0-5f72-11f1-b682-cf91850925ea.png"
+          "summary": "Keely Hodgkinson claimed a personal best as she finished seventh on her women's 400m Diamond League debut in Rome.",
+          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-hodgkinson-athletics_7169839.jpg?20260219230118"
         },
         {
           "title": "Rivals: Messi v Ronaldo - watch the trailer",
           "link": "https://www.bbc.com/sport/videos/cvgz0x19n9ro?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-03",
           "summary": "The story of how Lionel Messi v Cristiano Ronaldo became the rivalry that transformed football and defined a generation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d7/live/7ad18170-5e93-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Aston Villa top scorer Hanson set to join Spurs",
-          "link": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-03",
-          "summary": "Aston Villa forward Kirsty Hanson is set to join Tottenham following an impressive season in the Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/993f/live/6529fc00-5ec3-11f1-b588-45cc931ea6f1.jpg"
-        },
-        {
-          "title": "Why do managers struggle after stepping up to 'big-six' clubs?",
-          "link": "https://www.bbc.com/sport/football/articles/cwy20xpr0pvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-03",
-          "summary": "Will Liverpool-bound Andoni Iraola buck the trend of Premier League managers struggling after moving to a so-called 'big-six' club?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd0/live/83a507e0-5f4c-11f1-ae51-c396b5163a64.jpg"
-        },
-        {
-          "title": "Netball Super League semi-final preview: 'Thunder have everything to lose'",
-          "link": "https://www.skysports.com/netball/news/12040/13550563/netball-super-league-2026-semi-final-preview-manchester-thunder-have-everything-to-lose-as-they-target-home-final-at-co-op-live",
-          "published": "2026-06-03",
-          "summary": "As we get set for the major and minor semi-finals in the Netball Super League, Tamsin Greenway and Tracy Neville from the Off the Court Podcast have given their thoughts on the two matchups as the 202...",
-          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-emma-rayner-manchester-thunder_7171283.jpg?20260221184328"
-        },
-        {
-          "title": "Unbreakable: The Making of James Milner",
-          "link": "https://www.bbc.co.uk/iplayer/episode/m002xt86?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-02",
-          "summary": "A look back at James Milner's 24 year Premier League career.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nphk69.jpg"
-        },
-        {
-          "title": "Keane v O'Neill: Celtic's big decision?",
-          "link": "https://www.bbc.com/sport/football/articles/c1w2vxrqjz1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-02",
-          "summary": "Martin O'Neill and Robbie Keane are reportedly the main contenders to become Celtic manager next season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11bb/live/37627550-5e9a-11f1-89a3-d1f559421220.png"
-        },
-        {
-          "title": "Watch as Celtic beat Rangers in Women's Scottish Cup final",
-          "link": "https://www.bbc.com/sport/football/videos/cy9234r07pjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "Watch as a Morgan Cross goal is enough to give Celtic victory over Rangers in the Women's Scottish Cup final despite a red card for Emma Lawton.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d02f/live/e3a5d230-5d78-11f1-b682-cf91850925ea.jpg"
-        },
-        {
-          "title": "Introducing Shorts on the BBC Sport app",
-          "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-01",
-          "summary": "From stunning goals and shocking interviews to unforgettable celebrations, some sporting moments are made to be watched, not just read about - and that's why BBC Sport are launching Shorts.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/7f6ce520-5ddb-11f1-a574-05510226f57f.jpg"
-        },
-        {
-          "title": "How Slot went from champion to sack in a year",
-          "link": "https://www.bbc.com/sport/football/videos/c0j231l5858o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-30",
-          "summary": "Just one year after lifting Liverpool's 20th league title in his debut season, Arne Slot has been sacked. BBC Sport looks back on how a dream start unravelled on Merseyside.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f0/live/168cf3e0-5c3e-11f1-89a3-d1f559421220.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb5/live/f3c31490-60c8-11f1-8b8c-6d33e1d5abb6.jpg"
         }
       ],
       "highlights": [
@@ -123,25 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Video vault and Leeds litter picking - inside the mind of Bielsa",
-          "link": "https://www.bbc.com/sport/football/articles/c5ye2m00y5ro?at_medium=RSS&at_campaign=rss",
+          "title": "Leeds see off Saints in Headingley thriller",
+          "link": "https://www.skysports.com/watch/video/13550938/leeds-rhinos-vs-st-helens-highlights-rhinos-beat-saints-24-16-in-super-league-thriller",
           "published": "2026-06-04",
-          "summary": "It is possible that nobody alive today has watched more football than Marcelo Bielsa, the former Leeds United boss who will lead Uruguay at the World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae83/live/b4aeb7d0-58ff-11f1-a656-5bf9ca1d9342.jpg"
-        },
-        {
-          "title": "Leeds chairman Marathe: I hope Farke stays long beyond next season",
-          "link": "https://www.skysports.com/football/news/12040/13550727/daniel-farke-leeds-chairman-paraag-marathe-says-he-hopes-the-german-manager-stays-at-elland-road-much-beyond-this-year",
-          "published": "2026-06-04",
-          "summary": "Leeds chairman Paraag Marathe says he wants manager Daniel Farke to remain at Elland Road \"much beyond this year\".",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-daniel-farke-leeds_7265235.jpg?20260604122028"
-        },
-        {
-          "title": "Smith secures 10th career title with Players Championship win over O'Connor",
-          "link": "https://www.skysports.com/darts/news/12040/13550536/players-championship-20-ross-smith-beats-william-oconnor-in-milton-keynes-final-to-claim-10th-career-title",
-          "published": "2026-06-03",
-          "summary": "Ross Smith secured his 10th PDC ranking title with victory in Players Championship 20 in Milton Keynes on Wednesday.",
-          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ross-smith-darts_7257615.jpg?20260524211231"
+          "summary": "Highlights of the Super League clash between Leeds Rhinos and St Helens.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-leeds-saints_7265718.jpg?20260604221157"
         }
       ],
       "highlights": [
@@ -154,7 +140,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Football regulator faces 'defining test' over potential Derby investment",
+          "link": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "English football's independent regulator faces a \"defining test\" as Saudi Arabian government official Turki Al-Sheikh attempts to invest in Derby County, says Amnesty International.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6bf/live/97cddff0-5f45-11f1-ae51-c396b5163a64.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -165,15 +159,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Wembley defeat, another manager sacked - what's going on at Salford City?",
-          "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-04",
-          "summary": "Famous owners but stuck in League Two with another manager sacked - what's happening at Salford City?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8910/live/795ad190-5ff4-11f1-b682-cf91850925ea.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -186,18 +172,18 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Most experience? Youngest? Best leagues? World Cup squads in numbers",
-          "link": "https://www.bbc.com/sport/football/articles/c89348x0x14o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-03",
-          "summary": "BBC Sport look at all of the World Cup 2026 squads and answer some of the key questions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be4/live/e6317170-5f6d-11f1-bb1e-872b6e9ba8be.jpg"
+          "title": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+          "link": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Fifa says fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg"
         },
         {
-          "title": "How Cornish miners brought football to Mexico",
-          "link": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-02",
-          "summary": "As Mexico prepares to become the first country to host or co-host the World Cup three times, BBC Sport looks at its Cornish footballing roots.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg"
+          "title": "Huge flags and pyrotechnics with World Cup anthems",
+          "link": "https://www.bbc.com/sport/football/articles/cjdpd094lzmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-05",
+          "summary": "Fifa has unveiled what it describes as a new \"unique, immersive experience\" pre-match ceremony for all matches at the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd32/live/dfdf6ec0-60c2-11f1-ba0c-494087e54831.jpg"
         }
       ],
       "highlights": [
@@ -211,20 +197,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Wembley defeat, another manager sacked - what's going on at Salford City?",
-      "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Chelsea legend Tambling dies aged 84",
-      "link": "https://www.bbc.com/sport/football/articles/c8r876y1n0lo?at_medium=RSS&at_campaign=rss"
+      "moment": "Football regulator faces 'defining test' over potential Derby investment",
+      "link": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "How Slot went from champion to sack in a year",
       "link": "https://www.bbc.com/sport/football/videos/c0j231l5858o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Introducing Shorts on the BBC Sport app",
-      "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss"
+      "moment": "McLeish appointed permanent St Mirren boss",
+      "link": "https://www.skysports.com/football/news/12040/13551032/craig-mcleish-appointed-st-mirrens-permanent-boss-after-guiding-club-to-scottish-premiership-survival"
+    },
+    {
+      "moment": "Leeds see off Saints in Headingley thriller",
+      "link": "https://www.skysports.com/watch/video/13550938/leeds-rhinos-vs-st-helens-highlights-rhinos-beat-saints-24-16-in-super-league-thriller"
     }
   ]
 }
