@@ -1,10 +1,45 @@
 {
-  "generated_date": "2026-06-07",
-  "week_ending": "June 07, 2026",
+  "generated_date": "2026-06-08",
+  "week_ending": "June 08, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Inside the fairytale journey of Scotland captain Robertson",
+          "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-08",
+          "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c940/live/6d186680-61d5-11f1-afd7-51f766d91768.jpg"
+        },
+        {
+          "title": "Emotion and celebration for Deschamps' home farewell",
+          "link": "https://www.bbc.com/sport/football/articles/cdr4l7gy57lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-08",
+          "summary": "There will be \"emotion and celebration\" in Lille on Monday as  manager Didier Deschamps prepares for his last match as France manager on home soil.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5082/live/87efac00-6290-11f1-b682-cf91850925ea.jpg"
+        },
+        {
+          "title": "Sinfield to visit 12 Super League grounds in final MND challenge",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13551902/kevin-sinfield-to-visit-all-english-super-league-grounds-in-final-mnd-challenge",
+          "published": "2026-06-08",
+          "summary": "Kevin Sinfield will visit all 12 English Betfred Super League grounds in September during his seventh and final running challenge to raise money for motor neurone disease charities.",
+          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-kevin-sinfield-rob-burrow_7104139.jpg?20251208044543"
+        },
+        {
+          "title": "Reset or repeat? Have England really changed after Ashes thrashing?",
+          "link": "https://www.skysports.com/cricket/news/12040/13551733/england-vs-new-zealand-ben-stokes-and-brendon-mccullums-side-hint-at-signs-of-development-despite-frantic-nature-of-lords-test",
+          "published": "2026-06-08",
+          "summary": "Following all the pre-match talk about whether England's style would change in the wake of the Ashes debacle, a quick scour of the Lord's scorecard post their rout of New Zealand would suggest more of...",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-stokes-brendon-mccullum_7267703.jpg?20260607180228"
+        },
+        {
+          "title": "Van Persie sacked by Feyenoord after 16 months",
+          "link": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-07",
+          "summary": "Feyenoord sack manager Robin van Persie after just one full season in charge of the Eredivisie club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deab/live/49f7a330-62b3-11f1-8a13-59dc424d6dbf.jpg"
+        },
         {
           "title": "Belief but work to do - Wales' two years under Bellamy",
           "link": "https://www.bbc.com/sport/football/articles/c62r235ygg1o?at_medium=RSS&at_campaign=rss",
@@ -13,32 +48,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc9/live/4d6c6c20-6246-11f1-9088-3da3a0e1bdf9.jpg"
         },
         {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0npnn49?at_medium=RSS&at_campaign=rss",
+          "title": "O'Neill a 'no-brainer' for Celtic \u2013 now major rebuild awaits",
+          "link": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-07",
-          "summary": "Three fans reflect on being at USA '94 and the limited fanfare it received.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nnlqt1.jpg"
+          "summary": "With Martin O'Neill poised to be confirmed as Celtic manager after two interim spells last season, how big is the summer rebuild he is tasked with?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a73/live/4a76af50-6294-11f1-91b1-bf49f3552795.jpg"
         },
         {
-          "title": "Wakefield snatch last-gasp victory over Hull KR",
-          "link": "https://www.skysports.com/watch/video/13551490/wakefield-trinity-26-24-hull-kr-super-league-highlights",
+          "title": "Hodgkinson runs her fastest-ever 800m - but still finishes second",
+          "link": "https://www.skysports.com/athletics/news/12040/13551763/keely-hodgkinson-olympic-800m-champion-sets-new-personal-best-and-british-record-but-finishes-second-to-audrey-werro",
           "published": "2026-06-07",
-          "summary": "Highlights of the Super League match between Wakefield Trinity and Hull KR.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-wakefield_7267079.jpg?20260606204414"
-        },
-        {
-          "title": "Solid win for Toulouse over struggling Giants",
-          "link": "https://www.skysports.com/watch/video/13551459/huddersfield-giants-16-36-toulouse-olympique-super-league-highlights",
-          "published": "2026-06-07",
-          "summary": "Highlights of the Super League match between Huddersfield Giants and Toulouse Olympique.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-tou_7267059.jpg?20260606200250"
-        },
-        {
-          "title": "Arsenal approach PSG defender Mbemba",
-          "link": "https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-06",
-          "summary": "Arsenal make an approach to sign teenage Paris St-Germain defender Emmanuel Mbemba on a free transfer this summer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4236/live/dd8fb4b0-61ba-11f1-bd2b-bf85d34aede9.jpg"
+          "summary": "Keely Hodgkinson ran her fastest-ever 800m time on Sunday - but astonishingly still finished second at the Diamond League in Stockholm.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-keely-hodgkinson_7267791.jpg?20260607200541"
         },
         {
           "title": "'The things that forge them are similar' - the origins of Messi & Ronaldo",
@@ -46,20 +67,6 @@
           "published": "2026-06-06",
           "summary": "Both from humble beginnings, BBC Sport looks at how Lionel Messi and Cristiano Ronaldo became two of the greatest footballers of all time.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e24/live/2d9437d0-6029-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Papers: Gibbs-White on Arsenal shortlist as Rogers alternative",
-          "link": "https://www.skysports.com/football/news/12040/13551535/morgan-gibbs-white-nottingham-forest-forward-on-arsenal-shortlist-as-alternative-to-morgan-rogers-paper-talk",
-          "published": "2026-06-06",
-          "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-        },
-        {
-          "title": "O'Neill set to stay on as Celtic manager",
-          "link": "https://www.bbc.com/sport/football/articles/c62d557dez9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-05",
-          "summary": "Martin O'Neill will continue as Celtic manager after leading the side to a Premiership and Scottish Cup double.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/d96b5e70-6101-11f1-ae0d-afcc10479766.jpg"
         },
         {
           "title": "Rivals: Messi v Ronaldo - watch the trailer",
@@ -114,18 +121,25 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "Bellingham has fight to start for England - Tuchel",
+          "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-08",
+          "summary": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f01/live/451ede70-6315-11f1-aecd-df176a37a192.jpg"
+        },
+        {
+          "title": "Iran's World Cup team lands in Mexico amid US visa row",
+          "link": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-07",
+          "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa37/live/dfbd7070-6286-11f1-a012-97de4dc8804e.jpg"
+        },
+        {
           "title": "World Cup quiz: Can you name every host?",
           "link": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-07",
           "summary": "Countries far and wide have hosted the festival of football since the first tournament in 1930. How many countries can you name?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49b/live/6498c1c0-5dc1-11f1-89a3-d1f559421220.png"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nqkdcl?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-06",
-          "summary": "England and Scotland acclimatise to conditions in the US ahead of the World Cup.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nqkddh.jpg"
         },
         {
           "title": "Scotland score four in first half to beat Bolivia",
@@ -135,39 +149,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f96/live/c1178b60-61fa-11f1-8b8c-6d33e1d5abb6.jpg"
         },
         {
-          "title": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
-          "link": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-06",
-          "summary": "The votes are in and the contest is now over - you have decided that Archie Gemmill's solo effort against the Netherlands at the 1978 World Cup is Scotland's Most Iconic Goal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5c/live/a801a050-61c0-11f1-9127-3f1b1c5e19b3.jpg"
-        },
-        {
-          "title": "Clarke hails 'fantastic problems' with starting choices",
-          "link": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
-          "published": "2026-06-06",
-          "summary": "Steve Clarke says he has \"fantastic problems\" in terms of selection after Scotland concluded their World Cup warm-up matches with an emphatic win over Bolivia.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-scotland-friendly_7267249.jpg?20260607072102"
-        },
-        {
-          "title": "Will transfers be a distraction for England at World Cup?",
-          "link": "https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-05",
-          "summary": "England's World Cup campaign is also in the middle of a busy summer transfer window, but how much of a distraction is it?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "title": "Advantage Scotland as they await Cuthbert injury news",
-          "link": "https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-05",
-          "summary": "Scotland stay top of their World Cup qualifying group on goal difference from Belgium amid fears of a serious injury to key midfielder Erin Cuthbert.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/eba26d40-6129-11f1-8626-2999b75ce973.jpg"
-        },
-        {
-          "title": "Huge flags and pyrotechnics with World Cup anthems",
-          "link": "https://www.bbc.com/sport/football/articles/cjdpd094lzmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-05",
-          "summary": "Fifa has unveiled what it describes as a new \"unique, immersive experience\" pre-match ceremony for all matches at the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd32/live/dfdf6ec0-60c2-11f1-ba0c-494087e54831.jpg"
+          "title": "Why are American investors taking over English football?",
+          "link": "https://www.skysports.com/football/news/12040/13526825/why-american-investors-are-flocking-to-english-football-8211-the-key-reasons-behind-the-takeover-trend",
+          "published": "2026-06-04",
+          "summary": "The World Cup is taking over the United States this summer. But the not-so-secret American takeover of football has been building its foundations for some time now.",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-united-states-ownership_7232329.jpg?20260427165209"
         }
       ],
       "highlights": [
@@ -179,5 +165,10 @@
       ]
     }
   },
-  "standout_moments": []
+  "standout_moments": [
+    {
+      "moment": "Van Persie sacked by Feyenoord after 16 months",
+      "link": "https://www.bbc.com/sport/football/articles/cn8kl8ydzy0o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
 }
