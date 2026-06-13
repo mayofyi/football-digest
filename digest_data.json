@@ -1,65 +1,44 @@
 {
-  "generated_date": "2026-06-12",
-  "week_ending": "June 12, 2026",
+  "generated_date": "2026-06-13",
+  "week_ending": "June 13, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Man City sign Mead on free transfer",
+          "title": "'I am living the American dream!' | Beckham added to Hollywood Walk of Fame",
+          "link": "https://www.skysports.com/watch/video/13553597/i-am-living-the-american-dream-sir-david-beckham-added-to-hollywood-walk-of-fame",
+          "published": "2026-06-13",
+          "summary": "Sir David Beckham was honoured with a star on the Hollywood Walk of Fame, making him the first footballer to receive a star.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-f-a_7272193.jpg?20260613083124"
+        },
+        {
+          "title": "Crystal Palace close to appointing Sage as manager",
+          "link": "https://www.bbc.com/sport/football/articles/cjdgnmvgv8po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-12",
+          "summary": "Crystal Palace close to finalising a deal for Lens manager Pierre Sage to become their new head coach.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f61b/live/cca8c030-66ae-11f1-92d3-3dbc864c104b.jpg"
+        },
+        {
+          "title": "Beckham receives star on Hollywood Walk of Fame",
+          "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-12",
+          "summary": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d71/live/4e56d1c0-669c-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Premier League target hair pulling and set-piece grappling in rules review",
+          "link": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-12",
+          "summary": "Premier League referees have been told to change the way they judge hair pulling after three players were sent off last season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cf/live/4de944b0-37fe-11f1-9200-b31cdeb07b99.jpg"
+        },
+        {
+          "title": "Man City sign England's Mead on free transfer",
           "link": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-12",
           "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/245c/live/cf3c3690-6651-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Republic of Ireland v Israel to be played at neutral venue",
-          "link": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "The Football Association of Ireland confirms the Republic of Ireland's home Nations League fixture with Israel later this year will be held at a neutral venue.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5842/live/3b4e5bb0-635f-11f1-8b15-6100cfbc3083.jpg"
-        },
-        {
-          "title": "Mead signs for Man City",
-          "link": "https://www.skysports.com/football/news/12040/13553326/beth-mead-england-winger-signs-three-year-deal-with-manchester-city-after-arsenal-exit",
-          "published": "2026-06-12",
-          "summary": "Beth Mead has signed for Manchester City, joining on a free transfer following her departure from Arsenal this summer.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-beth-mead-man-city_7271542.jpg?20260612121635"
-        },
-        {
-          "title": "Neville reveals Lightning's X-factor ahead of NSL preliminary final",
-          "link": "https://www.skysports.com/netball/news/12040/13553173/netball-super-league-tracey-neville-reveals-loughborough-lightning-x-factor-ahead-of-preliminary-final-against-london-pulse",
-          "published": "2026-06-12",
-          "summary": "The Loughborough Lightning face the reigning champion London Pulse in the Netball Super League preliminary final on Saturday, live on Sky Sports - and former England head coach Tracey Neville has reve...",
-          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-loughborough-lightning_7200898.jpg?20260323103901"
-        },
-        {
-          "title": "'We're excited to move forward' - Edwards' last interview at Wolves",
-          "link": "https://www.bbc.com/sport/football/videos/ckg412e9dgro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "In his last interview as Wolves head coach, Rob Edwards told BBC Sport he's looking forward to a \"fresh start\" with the club over the summer, following their relegation from the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde2/live/fb8b6940-6576-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Artan to referee Uefa Super Cup after losing World Cup role",
-          "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot at the World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f8/live/3d73ca00-659f-11f1-82c7-170f21ab8bf1.jpg"
-        },
-        {
-          "title": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
-          "link": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when dropping deep so often? Thomas Tuchel knows - and England might now feel the benefit.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/967b/live/3bb1d740-65b6-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Highlights: St Helens 6-18 Warrington Wolves",
-          "link": "https://www.skysports.com/watch/video/13553194/st-helens-6-18-warrington-wolves-super-league-highlights",
-          "published": "2026-06-11",
-          "summary": "Highlights of the Betfred Super League match between St Helens and Warrington Wolves.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-st-helens-warrington-wolves_7271223.jpg?20260611220340"
         }
       ],
       "highlights": [
@@ -72,7 +51,15 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Boulter records biggest win of career over world No 2 Rybakina at Queen's",
+          "link": "https://www.skysports.com/tennis/news/12040/13553523/katie-boulter-british-wildcard-records-biggest-win-of-her-career-over-world-no-2-elena-rybakina-at-queens-club",
+          "published": "2026-06-12",
+          "summary": "British wildcard Katie Boulter recorded the biggest win of her career with an epic victory against world No 2 Elena Rybakina to reach the HSBC Championships semi-finals at the Queen's Club.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-katie-boulter-tennis_7272030.jpg?20260612205853"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -107,11 +94,39 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "'Best Canada team ever' bid to shine at home World Cup",
-          "link": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "Amid political turbulence in the US and talk of moving matches out of Mexico, it can be forgotten that there is a third co-host of the 2026 World Cup. Canada hope it will be their time to shine.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f66/live/1baa6380-52ac-11f1-9ab8-af14435162fc.jpg"
+          "title": "Scotland return to centre stage at last in must-win World Cup opener",
+          "link": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "BBC Scotland's chief sportswriter Tom English sets the scene from Boston as Scotland prepare for their first World Cup match in 28 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/8b1109f0-66a6-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Injured referee Oliver to miss World Cup match",
+          "link": "https://www.bbc.com/sport/football/articles/cx265n1dy58o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "English referee Michael Oliver is ruled out of the group match between Ivory Coast and Ecuador.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b23b/live/9ddd2f30-6702-11f1-b73f-f9c113d06588.jpg"
+        },
+        {
+          "title": "The costs and challenges facing the 2026 World Cup",
+          "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a7/live/bc4f1b90-6694-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nrt0bb?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "Rick and Lloyd experience their first World Cup matchday in the USA.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nrkrh6.jpg"
+        },
+        {
+          "title": "Balogun scores stunner as USA run riot",
+          "link": "https://www.bbc.com/sport/football/videos/cvgje542y30o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "Folarin Balogun scores his second and USA's third goal before half-time in their opening game of the 2026 World Cup against Paraguay.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f3/live/9db607b0-66cc-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
           "title": "A new way to experience the World Cup - only on BBC Sport",
@@ -121,18 +136,32 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/ea30b730-663f-11f1-b1db-af71d47507d6.jpg"
         },
         {
-          "title": "Haaland goes to ice hockey before World Cup debut",
-          "link": "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
+          "title": "Rooney and Cann strongly disagree on Bosnia goalkeeper incident",
+          "link": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-12",
-          "summary": "Erling Haaland swaps the football pitch for the ice rink as he and his Norway team-mates watch the Stanley Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179b/live/779f53b0-663b-11f1-b1db-af71d47507d6.png"
+          "summary": "Former World Cup final assistant referee Darren Cann and Wayne Rooney disagree over an incident involving Bosnia-Herzegovina goalkeeper Nikola Vasilj, with Rooney arguing the goalkeeper should have be...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb6/live/fd58eae0-66b6-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "How the USA fell in love with football",
-          "link": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
+          "title": "Fans on concourses instead of in seats, claims Fifa",
+          "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-12",
-          "summary": "Alan Rothenberg had a vision: A World Cup so enticing it could convince the USA - and the world - that the country could fall in love with football.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-usa_7270862.jpg?20260611152709"
+          "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141f/live/52c65db0-6698-11f1-ba1a-d91f8cef28c9.jpg"
+        },
+        {
+          "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
+          "link": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-12",
+          "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f1/live/4ec06a00-6691-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "link": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-11",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783d/live/bd597470-6317-11f1-89a3-d1f559421220.jpg"
         },
         {
           "title": "Three red cards shown as Mexico beat South Africa in World Cup opener",
@@ -149,34 +178,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25cc/live/7cbe9eb0-65d6-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "Three red cards shown in opening game of World Cup",
-          "link": "https://www.bbc.com/sport/football/videos/cpv3nk20e9xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "Referee Wilton Pereira Sampaio shows red cards to South Africa's Yaya Sithole and Themba Zwane as well as Mexico's Cesar Montes during the opening match of the 2026 World Cup at the Mexico City Stadiu...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/af48e7f0-65db-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "link": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d184/live/ba7ce3f0-65e1-11f1-94fa-99c9438be586.jpg"
-        },
-        {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "link": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783d/live/bd597470-6317-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "What history tells us about Scotland's World Cup openers",
-          "link": "https://www.bbc.com/sport/football/articles/cp8ln13xmkzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "With Sunday's (02:00 BST) encounter with Haiti ending a 28-year absence from football's grandest stage, BBC Scotland has been digging through the archives.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e588/live/f75da8d0-659c-11f1-82c7-170f21ab8bf1.jpg"
-        },
-        {
           "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
           "link": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-10",
@@ -184,25 +185,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "Follow the World Cup with live lock screen updates on the BBC Sport app",
-          "link": "https://www.bbc.com/sport/football/articles/cvgz23p2q2jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-09",
-          "summary": "BBC Sport has launched live match updates - bringing you your team's score directly to your phone lock screen.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b58f/live/65aa5050-5f57-11f1-b682-cf91850925ea.jpg"
-        },
-        {
           "title": "Play BBC Sport's new World Cup predictor game",
           "link": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-09",
           "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1890/live/daffe870-5f51-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Watch: Weir scores four as Scotland beat Israel to win group",
-          "link": "https://www.bbc.com/sport/videos/c0ky8873nr5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-09",
-          "summary": "Watch the highlights as Scotland beat Israel 5-1, with Caroline Weir scoring four goals in Hungary to top their Women's World Cup qualifying group ahead of Belgium and win promotion to League A for th...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3710/live/f754ed30-6452-11f1-b1db-af71d47507d6.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa09/live/f9eaa780-66a8-11f1-b1db-af71d47507d6.jpg"
         }
       ],
       "highlights": [
@@ -224,8 +211,8 @@
       "link": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Artan to referee Uefa Super Cup after losing World Cup role",
-      "link": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss"
+      "moment": "Boulter records biggest win of career over world No 2 Rybakina at Queen's",
+      "link": "https://www.skysports.com/tennis/news/12040/13553523/katie-boulter-british-wildcard-records-biggest-win-of-her-career-over-world-no-2-elena-rybakina-at-queens-club"
     }
   ]
 }
