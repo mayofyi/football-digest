@@ -1,30 +1,72 @@
 {
-  "generated_date": "2026-06-13",
-  "week_ending": "June 13, 2026",
+  "generated_date": "2026-06-14",
+  "week_ending": "June 14, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "'I am living the American dream!' | Beckham added to Hollywood Walk of Fame",
-          "link": "https://www.skysports.com/watch/video/13553597/i-am-living-the-american-dream-sir-david-beckham-added-to-hollywood-walk-of-fame",
+          "title": "Why Haiti v Scotland was antidote to the ills of world football",
+          "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e63/live/af1c92f0-67ab-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
+          "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad9/live/cba907c0-6790-11f1-b55c-7599ca5b0a48.jpg"
+        },
+        {
+          "title": "Leicester close in on Martin appointment",
+          "link": "https://www.bbc.com/sport/football/articles/c621e1jnp73o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Russell Martin, who led Southampton into the Premier League in 2024, has been out of work since being sacked by Rangers in October.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c82/live/6b772600-67dd-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Spectacular Vinicius Jr goal earns Brazil draw against Morocco",
+          "link": "https://www.bbc.com/sport/football/videos/c3wy87ly2w3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Vinicius Jr scores a spectacular solo goal to earn a draw for five-time winners Brazil against Morocco at MetLife Stadium in New Jersey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/6cbea220-6785-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "'A must win game and we won' - Clarke",
+          "link": "https://www.bbc.com/sport/football/videos/cwyljn95e4jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Scotland manager Steve Clarke reacts to his side's 1-0 victory over Haiti in their Group C opener at the Boston Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e37/live/3747c070-67a5-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Catalans sizzle in six-try Castleford win",
+          "link": "https://www.skysports.com/watch/video/13553784/catalans-dragons-34-12-castleford-tigers-makinson-and-faataape-doubles-help-dragons-win-in-testing-heat",
+          "published": "2026-06-14",
+          "summary": "Highlights of Catalans Dragons&#8217; 34-28 win over Castleford Tigers in the Betfred Super League as Tom Makinson and Robert Faataape both scored twice in hot conditions.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dragons-cas_7272706.jpg?20260613201606"
+        },
+        {
+          "title": "Hull FC end losing run with dominant Giants win",
+          "link": "https://www.skysports.com/watch/video/13553743/hull-fc-36-6-huddersfield-giants-oneill-double-helps-hull-return-to-winning-ways-in-super-league",
+          "published": "2026-06-14",
+          "summary": "Highlights of Hull FC&#8217;s 36-12 win over Huddersfield Giants in the Betfred Super League as the hosts ran in six tries to end their losing run.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/sky-sports-hull-fc-gianst_7272593.jpg?20260613171218"
+        },
+        {
+          "title": "Fulham in advanced talks to appoint Arbeloa as Silva's replacement",
+          "link": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-13",
-          "summary": "Sir David Beckham was honoured with a star on the Hollywood Walk of Fame, making him the first footballer to receive a star.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-f-a_7272193.jpg?20260613083124"
+          "summary": "Fulham are in advanced talks to appoint Alvaro Arbeloa as a replacement for outgoing manager Marco Silva.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/223d9ca0-674a-11f1-b4c1-47ccd10ce929.jpg"
         },
         {
-          "title": "Crystal Palace close to appointing Sage as manager",
-          "link": "https://www.bbc.com/sport/football/articles/cjdgnmvgv8po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "Crystal Palace close to finalising a deal for Lens manager Pierre Sage to become their new head coach.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f61b/live/cca8c030-66ae-11f1-92d3-3dbc864c104b.jpg"
-        },
-        {
-          "title": "Beckham receives star on Hollywood Walk of Fame",
-          "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d71/live/4e56d1c0-669c-11f1-b1db-af71d47507d6.jpg"
+          "title": "Was there an offside in build up to Switzerland penalty?",
+          "link": "https://www.bbc.com/sport/football/videos/cm207deyvl2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "Breel Embolo puts Switzerland 1-0 up against Qatar from the penalty spot, after the Swiss were awarded a penalty with Remo Freuler appearing to be offside before he was fouled by Qatar goalkeeper Mahm...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/739f/live/42d67ee0-6764-11f1-b1db-af71d47507d6.jpg"
         },
         {
           "title": "Premier League target hair pulling and set-piece grappling in rules review",
@@ -32,13 +74,6 @@
           "published": "2026-06-12",
           "summary": "Premier League referees have been told to change the way they judge hair pulling after three players were sent off last season.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cf/live/4de944b0-37fe-11f1-9200-b31cdeb07b99.jpg"
-        },
-        {
-          "title": "Man City sign England's Mead on free transfer",
-          "link": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/245c/live/cf3c3690-6651-11f1-8546-8f19e4fe30f4.jpg"
         }
       ],
       "highlights": [
@@ -51,15 +86,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Boulter records biggest win of career over world No 2 Rybakina at Queen's",
-          "link": "https://www.skysports.com/tennis/news/12040/13553523/katie-boulter-british-wildcard-records-biggest-win-of-her-career-over-world-no-2-elena-rybakina-at-queens-club",
-          "published": "2026-06-12",
-          "summary": "British wildcard Katie Boulter recorded the biggest win of her career with an epic victory against world No 2 Elena Rybakina to reach the HSBC Championships semi-finals at the Queen's Club.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-katie-boulter-tennis_7272030.jpg?20260612205853"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -94,39 +121,81 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Scotland return to centre stage at last in must-win World Cup opener",
-          "link": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-13",
-          "summary": "BBC Scotland's chief sportswriter Tom English sets the scene from Boston as Scotland prepare for their first World Cup match in 28 years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/8b1109f0-66a6-11f1-b1db-af71d47507d6.jpg"
+          "title": "Refugee who quit Bayern to create Aussie World Cup dream",
+          "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b919/live/59c7e700-67c4-11f1-8ca6-eb07b94f604c.jpg"
         },
         {
-          "title": "Injured referee Oliver to miss World Cup match",
-          "link": "https://www.bbc.com/sport/football/articles/cx265n1dy58o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-13",
-          "summary": "English referee Michael Oliver is ruled out of the group match between Ivory Coast and Ecuador.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b23b/live/9ddd2f30-6702-11f1-b73f-f9c113d06588.jpg"
+          "title": "McGinn fires Scotland to first World Cup win for 36 years",
+          "link": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "John McGinn's goal was enough as Scotland beat Haiti 1-0 at the Boston Stadium to record their first win at a World Cup for 36 years.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6641/live/b3f832b0-679d-11f1-b1db-af71d47507d6.jpg"
         },
         {
-          "title": "The costs and challenges facing the 2026 World Cup",
-          "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-13",
-          "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a7/live/bc4f1b90-6694-11f1-b1db-af71d47507d6.jpg"
+          "title": "Clinical Australia upset Turkey in World Cup opener",
+          "link": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Watch highlights as Australia beat Turkey in their opening match, with 20-year-old Nestory Irankunda becoming the Socceroos's youngest ever World Cup goalscorer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a760/live/aea29840-67bc-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "McGinn 'beaming with pride' - and hopes kids around Scotland are too",
+          "link": "https://www.bbc.com/sport/football/articles/cy06p3xke5lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Scotland's John McGinn says his \"scuffed\" goal which downed Haiti in their World Cup opener leaves him \"beaming with pride\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2bd/live/9f36ee60-67a8-11f1-881b-3b97a2dda258.jpg"
+        },
+        {
+          "title": "'Just listen to this!' - Scotland are back at the World Cup after 28 years",
+          "link": "https://www.bbc.com/sport/football/videos/crlwker0gn5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Scotland's players and fans sing Flower of Scotland at a World Cup for the first time in 28 years before their match against Haiti at the Boston Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc7/live/40f48660-678e-11f1-b1db-af71d47507d6.jpg"
         },
         {
           "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nrt0bb?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-13",
-          "summary": "Rick and Lloyd experience their first World Cup matchday in the USA.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nrxnkz?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14",
+          "summary": "Scotland are back and they've started their World Cup with a win.",
           "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nrkrh6.jpg"
         },
         {
-          "title": "Balogun scores stunner as USA run riot",
-          "link": "https://www.bbc.com/sport/football/videos/cvgje542y30o?at_medium=RSS&at_campaign=rss",
+          "title": "Australia shock Turkey to make winning start to World Cup campaign",
+          "link": "https://www.skysports.com/football/australia-vs-turkey/report/549773",
+          "published": "2026-06-14",
+          "summary": "Goals in each half from Nestory Irankunda and Connor Metcalfe saw Australia shock Turkey 2-0 in their opening World Cup Group D clash in Vancouver.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-irankunda-australia_7272868.jpg?20260614054438"
+        },
+        {
+          "title": "McGinn strike beats Haiti as Scotland secure first WC win in 36 years",
+          "link": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+          "published": "2026-06-14",
+          "summary": "Scotland claimed their first World Cup win since 1990 as they beat Haiti 1-0 in their Group C opener thanks to John McGinn's first-half goal.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-john-mcginn-scotland_7272841.jpg?20260614030453"
+        },
+        {
+          "title": "Why European champions Spain could be even better at this World Cup",
+          "link": "https://www.skysports.com/football/news/12040/13549733/are-spain-deserved-world-cup-favourites-mikel-oyarzabal-and-fabian-ruiz-among-unsung-heroes-supporting-lamine-yamal",
+          "published": "2026-06-14",
+          "summary": "When Mikel Oyarzabal came off the bench to sweep home the winning goal for Spain against England in the final of Euro 2024, it was the ending. But maybe it was also the beginning for a new-look team t...",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-spain-lamine-yamal_7265157.jpg?20260604111001"
+        },
+        {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "link": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-13",
-          "summary": "Folarin Balogun scores his second and USA's third goal before half-time in their opening game of the 2026 World Cup against Paraguay.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f3/live/9db607b0-66cc-11f1-8e1d-bbbb1017d210.jpg"
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac2/live/fdcfda70-6778-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "link": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-13",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/0ef5d920-677a-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
           "title": "A new way to experience the World Cup - only on BBC Sport",
@@ -143,46 +212,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb6/live/fd58eae0-66b6-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "Fans on concourses instead of in seats, claims Fifa",
-          "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141f/live/52c65db0-6698-11f1-ba1a-d91f8cef28c9.jpg"
-        },
-        {
-          "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
-          "link": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-12",
-          "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f1/live/4ec06a00-6691-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
           "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
           "link": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-11",
           "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783d/live/bd597470-6317-11f1-89a3-d1f559421220.jpg"
-        },
-        {
-          "title": "Three red cards shown as Mexico beat South Africa in World Cup opener",
-          "link": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "Three players are sent off as World Cup co-hosts Mexico defeat South Africa in a dramatic opening match at a packed Azteca Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab4/live/43c0e230-65e0-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Quinones scores opening goal of 2026 World Cup",
-          "link": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-11",
-          "summary": "Mexico's Julian Quinones scores the opening goal of the 2026 World Cup against South Africa at Mexico City Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25cc/live/7cbe9eb0-65d6-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-          "link": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-10",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "Play BBC Sport's new World Cup predictor game",
@@ -203,16 +237,24 @@
   },
   "standout_moments": [
     {
-      "moment": "Three red cards shown as Mexico beat South Africa in World Cup opener",
-      "link": "https://www.bbc.com/sport/football/videos/cx2dyr3e1zro?at_medium=RSS&at_campaign=rss"
+      "moment": "Refugee who quit Bayern to create Aussie World Cup dream",
+      "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-      "link": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss"
+      "moment": "McGinn fires Scotland to first World Cup win for 36 years",
+      "link": "https://www.bbc.com/sport/football/videos/cvgq4j59rw1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Boulter records biggest win of career over world No 2 Rybakina at Queen's",
-      "link": "https://www.skysports.com/tennis/news/12040/13553523/katie-boulter-british-wildcard-records-biggest-win-of-her-career-over-world-no-2-elena-rybakina-at-queens-club"
+      "moment": "Clinical Australia upset Turkey in World Cup opener",
+      "link": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Leicester close in on Martin appointment",
+      "link": "https://www.bbc.com/sport/football/articles/c621e1jnp73o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Australia shock Turkey to make winning start to World Cup campaign",
+      "link": "https://www.skysports.com/football/australia-vs-turkey/report/549773"
     }
   ]
 }
