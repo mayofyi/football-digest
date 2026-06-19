@@ -1,100 +1,114 @@
 {
-  "generated_date": "2026-06-18",
-  "week_ending": "June 18, 2026",
+  "generated_date": "2026-06-19",
+  "week_ending": "June 19, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Tactical analysis: England look exciting but how can they tighten up?",
-          "link": "https://www.bbc.com/sport/articles/c98256ypwy0o?at_medium=RSS&at_campaign=rss",
+          "title": "Coventry play champions Arsenal in Premier League opener",
+          "link": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Newly promoted Coventry City will travel to champions Arsenal in the first match of the 2026-27 Premier League season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ff/live/6d305520-6bb6-11f1-8e5f-879143928516.jpg"
+        },
+        {
+          "title": "Scotland's totems must turn up to thwart dynamic Morocco",
+          "link": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Scotland will need their best display since Steve Clarke took over to achieve the result against Morocco that will secure knockout tournament football for the first time, writes Tom English.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b162/live/2e641330-6b67-11f1-b1db-af71d47507d6.png"
+        },
+        {
+          "title": "The heavily jeered $250m goldmine - are hydration break ads here to stay?",
+          "link": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "BBC Sport explores how hydration break ads work in other countries and how they could impact the future of football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7838/live/58a01de0-6afb-11f1-80a3-b70219ebe550.jpg"
+        },
+        {
+          "title": "Premier League fixtures - find out your club's schedule",
+          "link": "https://www.bbc.com/sport/football/articles/cvg5d793d1no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "The Premier League fixtures are out - find out your club's schedule.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f3/live/d0b44020-6afd-11f1-80a3-b70219ebe550.jpg"
+        },
+        {
+          "title": "London City Lionesses sign ex-England keeper Earps",
+          "link": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Former England goalkeeper Mary Earps joins London City Lionesses on a two-year deal after leaving Paris St-Germain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57fb/live/a4ef0980-6bce-11f1-a94c-73f00a91c697.jpg"
+        },
+        {
+          "title": "More than the Score",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nsyqhb?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Discover why the history between Haitian and Brazilian football runs deep",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nsyqtd.jpg"
+        },
+        {
+          "title": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
+          "link": "https://www.bbc.com/sport/articles/cp8rde9q76do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Will Canada hat-trick hero Jonathan David and Swiss goal-scoring midfielder Johan Manzambi be playing in the Premier League next season?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027e/live/dd031500-6b92-11f1-955b-d393d55ed370.png"
+        },
+        {
+          "title": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
+          "link": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
+          "published": "2026-06-19",
+          "summary": "Defending champions Arsenal will kick off the 2026/27 Premier League season at home to Coventry on Friday August 21, live on Sky Sports.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640"
+        },
+        {
+          "title": "Premier League 2026/27 fixtures: Your club's fixtures revealed LIVE!",
+          "link": "https://www.skysports.com/football/live-blog/12040/13555689/premier-league-2026-27-fixtures-release-day-live-every-clubs-opening-weekend-final-weekend-boxing-day-games-and-more",
+          "published": "2026-06-19",
+          "summary": "",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432"
+        },
+        {
+          "title": "Earps makes WSL return with London City Lionesses",
+          "link": "https://www.skysports.com/football/news/12040/13555695/mary-earps-joins-london-city-lionesses-former-england-goalkeeper-returns-to-the-wsl-after-psg-exit",
+          "published": "2026-06-19",
+          "summary": "London City Lionesses have announced the signing of former England goalkeeper Mary Earps.&#160;",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mary-earps-london-city_7277626.png?20260619113733"
+        },
+        {
+          "title": "Arsenal fixtures: Gunners begin title defence live on Sky against Coventry",
+          "link": "https://www.skysports.com/football/news/12040/13555674/arsenal-premier-league-2026-27-fixtures-and-schedule",
+          "published": "2026-06-19",
+          "summary": "Premier League champions Arsenal will begin their title defence against newly-promoted Coventry live on <em>Sky Sports</em> on Friday August 21.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-premier-league-premier-league-fixtures_7269146.jpg?20260609143440"
+        },
+        {
+          "title": "Man Utd fixtures: Red Devils handed easiest first six games",
+          "link": "https://www.skysports.com/football/news/12040/13555679/man-utd-premier-league-2026-27-fixtures-and-schedule",
+          "published": "2026-06-19",
+          "summary": "Manchester United will begin their first full Premier League campaign under Michael Carrick away at Hull City on the opening weekend of the season.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-premier-league-fixtures_7269115.jpg?20260609142710"
+        },
+        {
+          "title": "Spurs complete \u00a352m Van Hecke signing from Brighton",
+          "link": "https://www.bbc.com/sport/football/articles/cgqj33gq21jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-18",
-          "summary": "England produced some exciting attacking football while beating Croatia 4-2 but why did they look so shaky defensively?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ba/live/4d7a6b00-6afb-11f1-80a3-b70219ebe550.jpg"
+          "summary": "Brighton's Dutch defender Jan Paul van Hecke joins Premier League rivals Tottenham for \u00a352m.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c8/live/244c02c0-6b46-11f1-bc34-19faf070d2ff.jpg"
         },
         {
-          "title": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
-          "link": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss",
+          "title": "Crisis club or chance to reinvent - where does McInnes exit leave Hearts?",
+          "link": "https://www.bbc.com/sport/football/articles/cjwg45vql8qo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-18",
-          "summary": "Celtic open the 2026-27 Scottish Premiership season at home to Dundee on 3 August, with the champions saying they are disappointed to be starting on a Monday evening.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f7/live/114547f0-6a5a-11f1-8115-ed1047107edc.jpg"
+          "summary": "Derek McInnes has left Heart of Midlothian for Rangers, so how will the Scottish Premiership runners-up react to losing their head coach?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa0/live/eb969390-6812-11f1-a177-65e13786d3a5.jpg"
         },
         {
-          "title": "Man Utd & Spurs move for Summerville - Thursday's gossip",
-          "link": "https://www.bbc.com/sport/football/articles/cwyknx34n7ko?at_medium=RSS&at_campaign=rss",
+          "title": "Leeds snatch statement win against Warrington",
+          "link": "https://www.skysports.com/watch/video/13555533/warrington-wolves-6-34-leeds-rhinos-super-league-highlights",
           "published": "2026-06-18",
-          "summary": "Manchester United and Tottenham move for Crysencio Summerville, Chelsea monitor goalkeeper Diogo Costa and target Andrea Cambiaso.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e34b/live/ba649ea0-6a8f-11f1-8546-8f19e4fe30f4.png"
-        },
-        {
-          "title": "Drone brought down near South Korea training base",
-          "link": "https://www.bbc.com/sport/football/articles/c872pv2r5y4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-18",
-          "summary": "The Mexican military reportedly intercepts and brings down an unregistered drone seen flying over South Korea's training base before their Group A match with co-hosts Mexico on Friday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fd1/live/3cd300e0-6aa7-11f1-8c31-f3f0b4597979.jpg"
-        },
-        {
-          "title": "Scottish Premiership: Every match across opening weekend live on Sky Sports",
-          "link": "https://www.skysports.com/football/news/12040/13551122/scottish-premiership-2026-27-fixtures-dates-schedule-every-match-across-opening-weekend-live-on-sky-sports",
-          "published": "2026-06-18",
-          "summary": "Every match across the opening weekend of the 2026/27 Scottish Premiership season will be shown live on Sky Sports.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scottish-premiership_7269078.jpg?20260609134509"
-        },
-        {
-          "title": "'They need to start well' | Boyd assesses Rangers and McInnes' opening fixtures",
-          "link": "https://www.skysports.com/watch/video/13555301/kris-boyd-assesses-rangers-and-derek-mcinnes-opening-fixtures-they-need-to-start-well",
-          "published": "2026-06-18",
-          "summary": "Kris Boyd gives his thoughts on Rangers' opening six fixtures to the Scottish Premiership season, stressing the importance of Derek McInnes getting off to a good start.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-rangers-mcinnes-boyd_7276638.jpg?20260618130338"
-        },
-        {
-          "title": "'The first Old Firm is always key!' | Boyd weighs in on Celtic's Scottish Premiership fixtures",
-          "link": "https://www.skysports.com/watch/video/13555304/kris-boyd-weighs-in-on-celtics-scottish-premiership-fixtures",
-          "published": "2026-06-18",
-          "summary": "Kris Boyd weighs in on Celtic's Scottish Premiership fixtures and highlights the importance of the first Old Firm game.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-celtics-kris-boyd_7276620.jpg?20260618125200"
-        },
-        {
-          "title": "Kilmarnock fixtures: St Johnstone first up followed by Celtic - both live on Sky",
-          "link": "https://www.skysports.com/football/news/12040/13551097/kilmarnock-scottish-premiership-2026-27-fixtures-and-schedule",
-          "published": "2026-06-18",
-          "summary": "Kilmarnock will kick off their 2026/27 Scottish Premiership season at newly-promoted St Johnstone on August 2, live on Sky Sports.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scottish-premiership_7269762.jpg?20260610085705"
-        },
-        {
-          "title": "Kane heads England into 2-1 lead against Croatia",
-          "link": "https://www.bbc.com/sport/football/videos/c74yngzx4yqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/981d/live/bbb95930-6a8f-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Real Madrid sign Silva on free after Man City exit",
-          "link": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Bernado Silva, who left Manchester City at the end of the season, links up with new Real Madrid manager Jose Mourinho.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6362/live/a47fb9f0-6a2e-11f1-8799-efa8649f87e4.jpg"
-        },
-        {
-          "title": "Scottish Premiership fixture release - all you need to know",
-          "link": "https://www.bbc.com/sport/football/articles/cq810gqe708o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "The fixtures for the 2026-27 Scottish Premiership season are released on Thursday at 12:00 BST - and you can see them on the BBC Sport website and app as soon as they are announced.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f7/live/114547f0-6a5a-11f1-8115-ed1047107edc.jpg"
-        },
-        {
-          "title": "Cape Verde goalkeeper set to be reunited with his mum",
-          "link": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Vozinha's mum has been granted a visa to travel to the US ahead of Cape Verde's next game against Uruguay.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a1/live/622e0c70-6a7c-11f1-8e56-530bbb41ec43.jpg"
-        },
-        {
-          "title": "Fulham 'really like' two candidates to replace Silva",
-          "link": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Fulham have two leading candidates in mind to take over from former manager Marco Silva, says the club's vice-chairman and director of football operations Tony Khan.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4993/live/fb7c70f0-6a5f-11f1-b7aa-49f3a4d630f8.jpg"
+          "summary": "Highlights of the Super League match between Warrington Wolves and Leeds Rhinos.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/sky-sports-super-league-warrington-wolves_7277164.jpg?20260618220245"
         }
       ],
       "highlights": [
@@ -107,7 +121,15 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Burnley target Bellamy in managerial hunt",
+          "link": "https://www.bbc.com/sport/football/articles/c33yz0nxj8do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Craig Bellamy is wanted by former club Burnley to become their new manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6c/live/b3b93880-6bbc-11f1-8e5f-879143928516.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -118,15 +140,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "Dundee fixtures: Celtic opener with first Dundee derby in August",
-          "link": "https://www.skysports.com/football/news/12040/13551059/dundee-scottish-premiership-2026-27-fixtures-and-schedule",
-          "published": "2026-06-18",
-          "summary": "Dundee will kick off their 2026/27 Scottish Premiership season at champions Celtic on August 3, live on Sky Sports.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-scottish-premiership_7269751.jpg?20260610085436"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -137,15 +151,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Working with Postecoglou and following the data - Salford's new boss Cklamovski",
-          "link": "https://www.bbc.com/sport/football/articles/c3dykykz0eno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-18",
-          "summary": "Salford City have appointed Peter Cklamovski, someone with no experience of coaching in English football to try and lead them to promotion out of League Two",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/647e/live/008edeb0-6a7f-11f1-8546-8f19e4fe30f4.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -158,11 +164,67 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Ivory Coast's Wahi denied entry to Canada",
-          "link": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
+          "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+          "link": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd89/live/e3dbaa50-6b91-11f1-a44f-b19d3c8d49f0.jpg"
+        },
+        {
+          "title": "The US World Cup star who couldn't be an American under Trump's plan",
+          "link": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac7/live/d1b70010-674d-11f1-b4c1-47ccd10ce929.jpg"
+        },
+        {
+          "title": "Canada score six but historic win marred by Kone injury",
+          "link": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Ismael Kone's serious-looking injury left Canada manager Jesse Marsch in tears and overshadowed their first-ever World Cup finals win as they thrashed nine-man Qatar 6-0.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9885/live/5462e5c0-6b71-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Fifa bans football club's submarine badge on flag",
+          "link": "https://www.bbc.com/news/articles/cpwe7p7z0p1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "The Barrow flag is banned from World Cup stadiums as it includes a depiction of military equipment.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f96/live/8de02980-6bca-11f1-9e68-a372ce4118b0.jpg"
+        },
+        {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "link": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdf1/live/5683f1b0-6a58-11f1-8115-ed1047107edc.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ns7wjx?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-19",
+          "summary": "Charlie Adam joins Rick & Lloyd to preview Scotland's huge World Cup clash with Morocco.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ns7wky.jpg"
+        },
+        {
+          "title": "Mexico beat South Korea to earn first World Cup knockout spot",
+          "link": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
+          "published": "2026-06-19",
+          "summary": "Mexico became the first nation to secure a spot in the World Cup round of 32  and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-romo-south-korea_7277344.jpg?20260619095612"
+        },
+        {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "link": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-18",
-          "summary": "The Ivory Coast football federation have announced their forward Elye Wahi has been denied entry to Canada for their next World Cup game.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba2/live/94400940-6b01-11f1-8317-e1f912f75a64.jpg"
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56dc/live/9b7d8800-6b5a-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "link": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-18",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "Messi, Mbappe & Vinicius Jr - best World Cup goals from round one",
@@ -186,25 +248,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ee/live/2c94aaa0-6ac8-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
-          "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&at_campaign=rss",
+          "title": "Rice expected to be fit to face Ghana despite back pain",
+          "link": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-18",
-          "summary": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c25e/live/68ca4a50-6aa2-11f1-8a84-9dc78e6db533.jpg"
+          "summary": "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during the win over Croatia.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de8a/live/6afa8ad0-6b31-11f1-858e-3f275ac14006.jpg"
         },
         {
-          "title": "Beaumont in squad for historic Lord's Test but no place for Dean",
-          "link": "https://www.skysports.com/cricket/news/12040/13555288/england-womens-test-squad-to-face-india-tammy-beaumont-returns-for-inaugural-lords-test-match-but-no-white-ball-vice-captain-charlie-dean",
+          "title": "West Indies edge out Scotland for seven-run win",
+          "link": "https://www.skysports.com/cricket/news/12040/13555547/t20-world-cup-west-indies-claim-seven-run-victory-over-scotland-in-thrilling-contest-at-headingley",
           "published": "2026-06-18",
-          "summary": "Tammy Beaumont returns for England's inaugural Lord's Test match against India this July after being left out of the T20 World Cup squad, but there is no place white-ball vice-captain Charlie Dean.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-tammy-beaumont-cricket_7276556.jpg?20260618115546"
-        },
-        {
-          "title": "World Cup can still make a mockery of predictions",
-          "link": "https://www.skysports.com/football/news/12040/13555283/lionel-messi-to-star-cristiano-ronaldo-to-bomb-world-cup-can-still-make-a-mockery-of-predictions-with-so-long-to-go",
-          "published": "2026-06-18",
-          "summary": "Convinced football is coming home? Lumping on Germany after scoring seven? Tipping Lionel Messi to retain it? Telling yourself that Sweden are dark horses? Writing off Spain, Brazil and Cristiano Rona...",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276559.jpg?20260618120103"
+          "summary": "The West Indies overcame Scotland by seven runs and stayed unbeaten at the Women's T20 World Cup after a madcap match at Headingley.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ailsa-lister-scotland_7277209.jpg?20260618224819"
         },
         {
           "title": "England hit four in World Cup opener against Croatia",
@@ -212,27 +267,6 @@
           "published": "2026-06-17",
           "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a810/live/faac3bf0-6a9c-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "link": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf79/live/92b015b0-6a99-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Musa strikes for Croatia to make it 2-2 against England",
-          "link": "https://www.bbc.com/sport/football/videos/cq51w6q1zg9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "Petar Musa scores for Croatia to make it 2-2 against England in their World Cup match in Dallas.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f9/live/4b1d31d0-6a92-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "DR Congo earn World Cup point against Portugal",
-          "link": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-17",
-          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91f/live/f18f7740-6a82-11f1-b1db-af71d47507d6.jpg"
         }
       ],
       "highlights": [
@@ -246,20 +280,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Calvin Harris & Commonwealths force Monday start to Celtic's title defence",
-      "link": "https://www.bbc.com/sport/football/articles/c1kyv7yjmdlo?at_medium=RSS&at_campaign=rss"
+      "moment": "Canada score six but historic win marred by Kone injury",
+      "link": "https://www.bbc.com/sport/football/videos/ckg7nx6kg51o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Working with Postecoglou and following the data - Salford's new boss Cklamovski",
-      "link": "https://www.bbc.com/sport/football/articles/c3dykykz0eno?at_medium=RSS&at_campaign=rss"
+      "moment": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
+      "link": "https://www.bbc.com/sport/articles/cp8rde9q76do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Beaumont in squad for historic Lord's Test but no place for Dean",
-      "link": "https://www.skysports.com/cricket/news/12040/13555288/england-womens-test-squad-to-face-india-tammy-beaumont-returns-for-inaugural-lords-test-match-but-no-white-ball-vice-captain-charlie-dean"
-    },
-    {
-      "moment": "Dundee fixtures: Celtic opener with first Dundee derby in August",
-      "link": "https://www.skysports.com/football/news/12040/13551059/dundee-scottish-premiership-2026-27-fixtures-and-schedule"
+      "moment": "Can Renard revive Tunisia's World Cup campaign?",
+      "link": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
