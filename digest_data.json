@@ -1,16 +1,72 @@
 {
-  "generated_date": "2026-06-24",
-  "week_ending": "June 24, 2026",
+  "generated_date": "2026-06-25",
+  "week_ending": "June 25, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Tuchel's England is opposite to Southgate's - and is built to beat top teams",
+          "title": "Burnley and West Ham to meet on first Championship weekend",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Relegated Burnley and West Ham will meet on the opening weekend of the Championship season on Sunday, 16 August.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/b67c0830-7081-11f1-a866-abbad6b6b076.jpg"
+        },
+        {
+          "title": "French footballer Kies, 21, dies from drowning",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8x21j42n5yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "French footballer Kenzo Kies has died at the age of 21 after drowning in the Rhone river.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66cb/live/c9e4b3a0-7071-11f1-9af3-ff9a7832a0f3.jpg"
+        },
+        {
+          "title": "Hearts closing in on Vrancken as new boss",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2lyp0ynvyeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Hearts are moving closer to appointing Belgian football's manager of the year, Wouter Vrancken, as the club's new head coach.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366f/live/732cb2b0-7080-11f1-a866-abbad6b6b076.jpg"
+        },
+        {
+          "title": "West Ham latest: Hammers start Championship campaign with trip to Burnley",
+          "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+          "published": "2026-06-25",
+          "summary": "",
+          "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+        },
+        {
+          "title": "West Ham visit Burnley on opening Championship weekend - every game live on Sky",
+          "link": "https://www.skysports.com/football/news/12040/13552248/championship-2026-27-season-fixtures-dates-schedule-and-how-to-watch",
+          "published": "2026-06-25",
+          "summary": "West Ham and Burnley will go head to head on the opening weekend of the new Championship season after Wolves kick off the new campaign at home to Blackburn - live on <em>Sky Sports+</em>.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-efl-fixtures-championship_7277462.jpg?20260619080034"
+        },
+        {
+          "title": "David scores with first touch for Canada",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c0qy7kg7927o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "Canada forward Promise David scores with his first touch to give his side hope in their Group B match against Switzerland in Vancouver.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc2/live/5e5e1340-700f-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "Scotland goalkeeper Angus Gunn could be a target for Manchester United, while Arsenal continue to pursue Aston Villa midfielder Morgan Rogers and Everton make a move for West Ham captain Jarrod Bowen,...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d2/live/aebd18b0-700d-11f1-8e1d-bbbb1017d210.png"
+        },
+        {
+          "title": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
           "link": "https://www.bbc.co.uk/sport/football/articles/ckg7655mvxeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-24",
           "summary": "BBC Sport's football tactics writer Umir Irfan explains why Thomas Tuchel's England system is built to prosper against the world's top nations.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1820/live/61238330-6fbf-11f1-8b2e-bdb65bec8399.jpg"
+        },
+        {
+          "title": "Madibo given five-game ban for causing Kone leg break",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0lykrnw64xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "Qatar midfielder Assim Madibo is given a five-match ban for the challenge which resulted in a broken leg for Canada's Ismael Kone.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6115/live/d31f6b90-7012-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "Leeds agree contract with Fulham forward Wilson",
@@ -20,67 +76,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b548/live/cfc476d0-6fbc-11f1-8dfa-636ee713b41c.jpg"
         },
         {
-          "title": "No need to panic for England - but this was a reality check",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
+          "title": "Spurs sign Dubravka on free transfer amid doubts over Vicario future",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9w2de7gnj9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-24",
-          "summary": "England's drab goalless draw with Ghana is no cause to panic - but it does serve as a reality check, writes Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fa3/live/3690e000-6f5a-11f1-8546-8f19e4fe30f4.jpg"
+          "summary": "Tottenham have agreed a deal to sign goalkeeper Martin Dubravka on a free transfer when his contract with Burnley expires on 1 July.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c2f/live/a8686190-6fdb-11f1-b763-7be8e457290d.jpg"
         },
         {
-          "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
+          "title": "What we learned from McInnes' Rangers unveiling",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly79pv5d6do?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-24",
-          "summary": "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a746/live/13354990-6f67-11f1-acb7-6536c443af2f.jpg"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ns7z78?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-24",
-          "summary": "England are held by Ghana, Ronaldo serves up humble pie, and Scotland gear up for Brazil.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntknb4.jpg"
-        },
-        {
-          "title": "World's oldest football in Miami for Scotland's game against Brazil",
-          "link": "https://www.bbc.co.uk/news/articles/c1eydpx6020o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-24",
-          "summary": "The ball, which is believed to date from between 1540 and 1570, was discovered in Stirling in the 1970s.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef2/live/41787e40-6ef3-11f1-b3b4-39330bfcd14d.jpg"
-        },
-        {
-          "title": "Papers: Chelsea could sell Gusto to pave way for Palestra deal",
-          "link": "https://www.skysports.com/football/news/12040/13557278/paper-talk-x",
-          "published": "2026-06-24",
-          "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-        },
-        {
-          "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/598a/live/5d063790-6f63-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "O'Neil signs three-year deal as new Ipswich boss",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvg41ewngvwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Ipswich appoint former Wolves and Bournemouth boss Gary O'Neil as their manager on a three-year deal after Kieran McKenna's departure.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/580d/live/f4738800-6c7d-11f1-aba9-25dbeb2e383a.jpg"
-        },
-        {
-          "title": "First pictures since suspension as Stokes trains ahead of third Test vs New Zealand",
-          "link": "https://www.skysports.com/watch/video/13557074/cricket-first-pictures-of-ben-stokes-since-suspension-training-ahead-of-third-test-vs-new-zealand",
-          "published": "2026-06-23",
-          "summary": "James Cole reports on England training ahead of the third Test against New Zealand, where we see Ben Stokes for the first time since his one-match suspension after a team curfew breach.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cricket-stokes-england_7280971.jpg?20260623145001"
-        },
-        {
-          "title": "All the angles of Messi's record-breaking goal",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c17ynvkjkjwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-22",
-          "summary": "Watch all the angles of Lionel Messi's record-breaking opening goal against Austria in Argentina's 2-0 victory.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca4/live/e9d38380-6e78-11f1-8e1d-bbbb1017d210.jpg"
+          "summary": "BBC Sport Scotland lays out what we learned from Derek McInnes' first press conference as Rangers manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/599b/live/7797f820-6fe8-11f1-a9c4-37da5d161ee0.jpg"
         }
       ],
       "highlights": [
@@ -95,32 +102,32 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "What to look out for on EFL fixture release day",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c77y6dgez7do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-24",
-          "summary": "All the information you need before the Championship, League One and League Two fixtures are announced on 25 June.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b750/live/b2c8c590-6e4f-11f1-b648-1b56797cb133.jpg"
+          "title": "Championship fixtures: Your club-by-club guide",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz0j8jlvz2zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "See your Championship club's full fixture list for the forthcoming 2026-27 season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb2/live/24230050-526a-11f0-a2ff-17a82c2e8bc4.jpg"
         },
         {
-          "title": "Leeds reach agreement to sign Wilson on a free",
-          "link": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
-          "published": "2026-06-24",
-          "summary": "Leeds United have agreed a deal to sign Harry Wilson on a free transfer.&#160;",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945"
+          "title": "Leicester start League One season at Notts County",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4er291jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Leicester City will start their League One season at promoted Notts County, while Bromley's first-ever match in the division will be at Barnsley.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e1/live/c57fcff0-6fce-11f1-9d5b-f12ed2846ed9.jpg"
         },
         {
-          "title": "PGA Tour's radical new changes explained",
-          "link": "https://www.skysports.com/watch/video/13557146/explained-pga-tour-introduces-promotion-and-relegation-in-big-shake-up",
-          "published": "2026-06-23",
-          "summary": "Jamie Weir explains the PGA shake-up, which sees a Championship Series and Challenger Series created.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jamie-weir-golf_7281134.jpg?20260623175543"
+          "title": "L1 fixtures: Leicester start at Notts County with every opening game live on Sky",
+          "link": "https://www.skysports.com/football/news/12040/13552244/league-one-2026-27-season-fixtures-dates-schedule-how-to-watch",
+          "published": "2026-06-25",
+          "summary": "Leicester City will start their first season in Sky Bet League One since 2008/09 with a trip to Notts County, live on <em>Sky Sports.</em>",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-efl-league-one-fixtures_7277459.jpg?20260619075851"
         },
         {
-          "title": "O'Neil appointed new Ipswich manager",
-          "link": "https://www.skysports.com/football/news/12040/13556081/ipswich-town-gary-oneil-appointed-new-tractor-boys-manager-ahead-of-premier-league-return",
-          "published": "2026-06-23",
-          "summary": "Gary O'Neil has been appointed as Ipswich's new manager.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-gary-oneil-ipswich_7281048.jpg?20260623162731"
+          "title": "EVERY EFL game LIVE on Sky Sports on opening weekend",
+          "link": "https://www.skysports.com/football/news/12040/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times",
+          "published": "2026-06-25",
+          "summary": "All the live EFL matches from the Championship, League One and League Two on Sky Sports this season...",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-efl-efl-fixtures_7277457.jpg?20260619075719"
         }
       ],
       "highlights": [
@@ -133,7 +140,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "League One fixtures: Your club-by-club guide",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c24yry9n5gjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "The League One fixtures for the 2026-27 season have been released - find your club's full list here.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee6/live/74f272b0-51d7-11f0-b4be-8f7caf53b80c.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -144,7 +159,29 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [],
+      "articles": [
+        {
+          "title": "York host Bristol Rovers and Rochdale visit Newport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzp94jxxjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Promoted York City host Bristol Rovers in their first League Two game of the season after a decade away from the EFL.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c842/live/91e07ab0-706d-11f1-9af3-ff9a7832a0f3.jpg"
+        },
+        {
+          "title": "League Two fixtures: Your club-by-club guide",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj6gxgy15z3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "The League Two fixtures for the 2026-27 season have been released and here is where you can find links to your team's full fixture list.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c7c/live/98e51800-51d5-11f0-b4be-8f7caf53b80c.jpg"
+        },
+        {
+          "title": "L2 fixtures: York, Rochdale return to EFL with every opening game live on Sky",
+          "link": "https://www.skysports.com/football/news/12040/13552231/league-two-2026-27-season-fixtures-dates-schedule-how-to-watch",
+          "published": "2026-06-25",
+          "summary": "Newly-promoted Rochdale's game at Newport will kick off the new 2026/27 Sky Bet League Two season on Saturday August 15, live on <em>Sky Sports</em>.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-efl-league-two-fixtures_7277458.jpg?20260619075812"
+        }
+      ],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -157,6 +194,83 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "Morocco progress after victory over Haiti",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cjeg37w3x5eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Soufiane Rahimi and Gessime Yassine score late goals for Morocco to deny Haiti their first-ever World Cup point in Atlanta.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4a/live/b6b4b6f0-702a-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "South Africa into round of 32 after win over South Korea",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cy7385e0jxzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Thapelo Maseko's second-half goal gives South Africa a 1-0 win over South Korea in Monterrey, and sends them into the World Cup knockout phase.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a8/live/20e44080-7045-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Mexico beat Czech Republic to maintain 100% winning record",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Mexico score three second-half goals to eliminate the Czech Republic from the World Cup and end the group phase with maximum points.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb82/live/6f24dd50-7044-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "'Mixed emotions' as Canada qualify but lose home advantage",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c621e3v1zxzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Losing their final group game to Switzerland means co-hosts Canada will play no further matches in their home country at this year's World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ae/live/500ba520-7049-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "'Typical Scotland': Tartan Army give their verdict on Miami match against Brazil",
+          "link": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25",
+          "summary": "Scotland's hopes of reaching the knockout stages of the World Cup are in peril after Brazil won 3-0 in Miami.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c601/live/882ab0b0-705b-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "The Verdict: Scotland 'harm' knockout chances after costly Brazil defeat",
+          "link": "https://www.skysports.com/watch/video/13557580/the-verdict-scotland-harm-knockout-chances-after-costly-brazil-defeat",
+          "published": "2026-06-25",
+          "summary": "Sky Sports' Luke Shanley gives the latest after Scotland's hopes for knockout football at the World Cup took a huge dent, following defeat to Brazil.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-football-scotland_7282316.jpg?20260625073307"
+        },
+        {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "Vinicius Jr pounces on Scotland mistake to give Brazil early lead",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c77yd2r6pj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "Brazil forward Vinicius Junior pounces on a mistake by the Scotland defence to give his side an early lead in their World Cup Group C match in Miami.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f124/live/a9d9e260-701c-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "'A phenomenal goal!' Isidor hits incredible strike for Haiti",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cj6gxly40l6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "Wilson Isidor gives Haiti a lead against Morocco with an \"extraordinary\" World Cup goal at the Atlanta Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba43/live/a119c100-7020-11f1-b1db-af71d47507d6.jpg"
+        },
+        {
+          "title": "Who is the African World Cup goalscorer older than Ronaldo and Messi?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpwe19xldqqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "While Cristiano Ronaldo and Lionel Messi appear to be in a personal battle to rewrite the World Cup record books, there is one landmark that appears beyond them.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e49/live/b1cd4210-7011-11f1-b1db-af71d47507d6.png"
+        },
+        {
+          "title": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "18-year-old winger Kerim Alajbegovic scores a superb opening goal for Bosnia in their World Cup Group B match against Qatar in Seattle.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/80463c30-7005-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
           "title": "World Cup's best matches, moments, goals & players so far - ranked",
           "link": "https://www.bbc.co.uk/sport/football/articles/cg4wxvk4kyxo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-24",
@@ -164,95 +278,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/5953b2f0-6ecb-11f1-8bcc-0dcbc11a720b.jpg"
         },
         {
-          "title": "Messi turns 39: Is Argentina great somehow better than ever?",
-          "link": "https://www.skysports.com/football/news/12040/13557011/lionel-messi-better-than-ever-at-39-argentina-great-still-thriving-and-setting-world-cup-records-between-the-lines",
-          "published": "2026-06-24",
-          "summary": "Lionel Messi celebrates his 39th birthday on Wednesday having made an astonishing start to the World Cup. After the hat-trick against Algeria that took him level with Miroslav Klose's goal record, he ...",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-messi-lionel-world-cup_7281047.jpg?20260623162546"
-        },
-        {
           "title": "England held to goalless draw by Ghana",
           "link": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-23",
           "summary": "England fail to repeat their performance that overpowered Croatia in their first World Cup game as they are held to a draw by a resolute Ghana at Boston Stadium.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9819/live/f9ee9540-6f52-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "'Anxious moment for England' - should this have been Ghana penalty?",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e65d/live/9dc6b290-6f69-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Tuchel credits 'committed' Ghana defending after England draw",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f9/live/be65c870-6f59-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Spence appears not to shake hands with Partey",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Footage circulating on social media appears to show England's Djed Spence not shaking hands with Ghana's Thomas Partey before their World Cup group match in Boston.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a9a/live/9c37a360-6f43-11f1-baf2-37f03751e13b.jpg"
-        },
-        {
-          "title": "Mendes scores 'brilliant' second goal for Portugal",
-          "link": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cf/live/2cd6cbe0-6f2a-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Rice remains positive after England draw with Ghana",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf9/live/f28850d0-6f51-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Norway win five-goal thriller against Senegal to make last 32",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Erling Haaland scores twice as Norway book their place in the last 32 of the World Cup with a 3-2 victory over Senegal in New Jersey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea32/live/4c124f00-6eaa-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "France weather storm to beat Iraq and sail into knockouts",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cdr4jg87z71o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Kylian Mbappe marks his 100th international cap for France with two goals in a 3-0 win over Iraq which seals' Les Bleus place in the last 32, after a two-hour storm delay.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b357/live/0c4100e0-6ea2-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Deschamps returns to France after death of his mother",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "France head coach Didier Deschamps will miss his side's final World Cup group game following the death of his mother, the French Football Federation confirms.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a0/live/390720e0-6f3e-11f1-a91d-9509c96f4739.jpg"
-        },
-        {
-          "title": "Iran's US entry terms changed for final group game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4y0kz56o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Iran's football team is being given extra time in the United States to prepare for their final World Cup group game, the US Department of Homeland Security says.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c6/live/27725bd0-6f32-11f1-b420-af213beec177.jpg"
-        },
-        {
-          "title": "Commentator stripped of Fifa credentials over Almiron rant",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8e2xdn58ryo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23",
-          "summary": "Fifa strip a commentator of his World Cup credentials after an on-air, expletive-laden \u200brant against the organisation and match officials during Paraguay's victory over Turkey.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d007/live/6bb5cef0-6f2b-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Messi makes World Cup history as Argentina reach last 32",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-22",
-          "summary": "Lionel Messi becomes the World Cup's all-time leading goalscorer as his double against Austria sends holders Argentina into the last 32.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d4/live/4d87e460-6e70-11f1-b1db-af71d47507d6.jpg"
         }
       ],
       "highlights": [
@@ -266,20 +296,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Norway win five-goal thriller against Senegal to make last 32",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cze9g17p6rlo?at_medium=RSS&at_campaign=rss"
+      "moment": "Mexico beat Czech Republic to maintain 100% winning record",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "All the angles of Messi's record-breaking goal",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c17ynvkjkjwo?at_medium=RSS&at_campaign=rss"
+      "moment": "Who is the African World Cup goalscorer older than Ronaldo and Messi?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpwe19xldqqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "O'Neil appointed new Ipswich manager",
-      "link": "https://www.skysports.com/football/news/12040/13556081/ipswich-town-gary-oneil-appointed-new-tractor-boys-manager-ahead-of-premier-league-return"
-    },
-    {
-      "moment": "Messi turns 39: Is Argentina great somehow better than ever?",
-      "link": "https://www.skysports.com/football/news/12040/13557011/lionel-messi-better-than-ever-at-39-argentina-great-still-thriving-and-setting-world-cup-records-between-the-lines"
+      "moment": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
