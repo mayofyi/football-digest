@@ -1,72 +1,58 @@
 {
-  "generated_date": "2026-06-26",
-  "week_ending": "June 26, 2026",
+  "generated_date": "2026-06-27",
+  "week_ending": "June 27, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Mbappe v Haaland: Who is more important for their country?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c77yz87xdpno?at_medium=RSS&at_campaign=rss",
+          "title": "VAR rules out late winner to deny Iran guaranteed last-32 spot",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c2lyvj54k7ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Shoja Khalilzadeh's goal is ruled out by VAR in injury-time denying Iran automatic qualification into the round of 32, meaning they will have to wait on other results to see if they go through as one ...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebe/live/6d8e3170-71e9-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "Tuchel defends full-back selection after James injury",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa9/live/1cb87300-71b7-11f1-90a3-353a1a876450.jpg"
+        },
+        {
+          "title": "Chelsea close in on Lacroix - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6210jyj0n6o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Two of the greatest forwards in world football will go head-to-head at Boston Stadium on Friday, as France and Kylian Mbappe take on Norway and Erling Haaland.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7113/live/0ccc7300-714a-11f1-93ee-112d8afd7f99.png"
+          "summary": "Chelsea close in on Crystal Palace centre-back Maxence Lacroix, Newcastle United add Borussia Dortmund midfielder Felix Nmecha to their shortlist, while three Premier League clubs are chasing Uruguay ...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6d/live/3090e750-7193-11f1-8546-8f19e4fe30f4.png"
         },
         {
-          "title": "Is Serena brave to make Wimbledon singles bid at the age of 44?",
-          "link": "https://www.skysports.com/tennis/news/12040/13557597/is-serena-williams-brave-to-make-a-wimbledon-singles-comeback-can-23-time-grand-slam-champion-compete-at-the-age-of-44",
+          "title": "Is a former England striker right about reasons for Scottish football's ills?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Gamechanger, trailblazer, history-maker: Is Serena brave to make a singles comeback at Wimbledon after only playing two doubles matches?",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-serena-williams-tennis_7282559.jpg?20260625115303"
+          "summary": "From undervalued broadcasting deals to unfulfilled potential, Ian Wright says he feels sorry for Scottish football fans - but is the former England striker right?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/b25f0c60-7172-11f1-8e1d-bbbb1017d210.png"
         },
         {
-          "title": "SWPL: Champions Hearts face Aberdeen, Celtic and Rangers have away tests",
-          "link": "https://www.skysports.com/football/news/12040/13557950/swpl-2026-27-fixtures-dates-schedule-champions-hearts-host-aberdeen-celtic-and-rangers-start-away-on-opening-day",
+          "title": "Gueye scores 'venomous' double off the Senegal bench",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cp8lx7rx8mmo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Scottish Women's Premier League champions Hearts will kick off the defence of their title at home to Aberdeen on Sunday August 16.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-swpl-fixtures-rangers_7283372.jpg?20260626105016"
+          "summary": "Senegal midfielder Pape Gueye produced two moments of quality in front of goal soon after coming off the bench, scoring an impressive double against Iraq in their Group I battle to help fire his side ...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41a/live/f4447830-71a0-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "Wolves edge past Dragons to close in on top spot",
-          "link": "https://www.skysports.com/watch/video/13557939/warrington-wolves-18-16-catalan-dragons-super-league-highlights",
+          "title": "Brentford in talks to hold Shakhtar's Champions League matches",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Highlights of the Super League match between Warrington Wolves and Catalans Dragons.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/warrington-dragons-super-league_7283310.jpg?20260626092629"
+          "summary": "Brentford could play host to Champions League matches next season, despite not qualifying for the competition",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7d/live/488fcf70-7151-11f1-93ee-112d8afd7f99.jpg"
         },
         {
-          "title": "'Brilliant finish' - Pepe gets his second as Ivory Coast double their lead",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cy73eeknnppo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Nicolas Pepe gets on the end of Ibrahima Sangare's \"incisive pass\" to score his second of the game, as Ivory Coast take a 2-0 lead against Curacao in their Group E match at Philadelphia Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee0/live/de4042c0-70de-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Man Utd's Onana set for Trabzonspor loan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Manchester United goalkeeper Andre Onana is close to securing a second loan spell at Turkish club Trabzonspor.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc5/live/bd8a3cc0-70de-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Burnley and West Ham to meet on first Championship weekend",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Relegated Burnley and West Ham will meet on the opening weekend of the Championship season on Sunday, 16 August.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/b67c0830-7081-11f1-a866-abbad6b6b076.jpg"
-        },
-        {
-          "title": "French footballer Kies, 21, dies from drowning",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8x21j42n5yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "French footballer Kenzo Kies has died at the age of 21 after drowning in the Rhone river.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66cb/live/c9e4b3a0-7071-11f1-9af3-ff9a7832a0f3.jpg"
-        },
-        {
-          "title": "Is five-match ban for Qatar's Madibo excessive?",
-          "link": "https://www.bbc.co.uk/sport/articles/c6210561g95o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Our Ask Me Anything team look at whether Madibo's punishment for his challenge on Kone was proportionate.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793c/live/5fc5d1a0-70b4-11f1-b1db-af71d47507d6.png"
+          "title": "Ferdinand takes first coaching role at Hornchurch",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ceqd15ry00go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-26",
+          "summary": "Former West Ham defender Anton Ferdinand joins Robert Lee as National League side Hornchurch's latest high-profile appointment.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b63/live/f44dc0a0-7198-11f1-8268-a773f3902180.jpg"
         },
         {
           "title": "Tuchel's England are opposite to Southgate's - and built to beat top teams",
@@ -88,18 +74,39 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Yoon opens Women's PGA Championship with record 63 as Hull, Woad sit well back",
-          "link": "https://www.skysports.com/golf/news/12040/13557904/kpmg-womens-pga-championship-ina-yoon-opens-at-hazeltine-with-record-equalling-round-of-63-as-charley-hull-lottie-woad-sit-well-back",
-          "published": "2026-06-26",
-          "summary": "Ina Yoon matched the best score in the history of the Women's PGA Championship with a nine-under 63 to take a two-stroke lead over Karis Davidson on Thursday in the third major of the season.&#160;",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ina-yoon-golf_7283225.jpg?20260626070731"
+          "title": "Korda chases Women's PGA Championship leader Yoon as Hull and Woad miss cut",
+          "link": "https://www.skysports.com/golf/news/12040/13558210/kpmg-womens-pga-championship-ina-yoon-widens-lead-to-five-strokes-with-nelly-korda-in-chase-charley-hull-and-lottie-woad-miss-cut",
+          "published": "2026-06-27",
+          "summary": "Ina Yoon stretched her lead at the Women's PGA Championship with a three-under 69 that put her five strokes up on the second-place pack after another strong showing from the South Korean.",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-us-womens-open-first-round_7265486.jpg?20260604174423"
         },
         {
-          "title": "Championship fixtures: Your club-by-club guide",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cz0j8jlvz2zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "See your Championship club's full fixture list for the forthcoming 2026-27 season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb2/live/24230050-526a-11f0-a2ff-17a82c2e8bc4.jpg"
+          "title": "Raducanu first up on No 1 Court on Wimbledon opening day",
+          "link": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+          "published": "2026-06-26",
+          "summary": "Take a look at Monday's singles Order of Play in the Wimbledon Championships at the All England Club.",
+          "image": "https://e0.365dm.com/25/07/1920x1080/skysports-emma-raducanu-tennis_6957411.jpg?20250704214330"
+        },
+        {
+          "title": "Leeds thrash Hull KR in statement win",
+          "link": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
+          "published": "2026-06-26",
+          "summary": "Highlights of the Super League match between Leeds Rhinos and Hull KR.",
+          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-leeds-hullkr_7283976.jpg?20260626234017"
+        },
+        {
+          "title": "Connor shines as leaders Leeds produce 'brave' win for Burrow and family",
+          "link": "https://www.skysports.com/rugby-league/leeds-vs-hull-k-r/report/63262",
+          "published": "2026-06-26",
+          "summary": "Leeds strengthened their position at the Betfred Super League summit after delivering another crushing win over defending champions Hull KR at Headingley.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jake-connor-leeds_7283943.jpg?20260627083712"
+        },
+        {
+          "title": "Scheffler misses out on another sub-60 round for early Travelers target",
+          "link": "https://www.skysports.com/golf/news/12040/13558162/travelers-championship-scottie-scheffler-misses-out-on-chance-to-join-jim-furyk-as-only-players-in-pga-tour-history-with-two-sub-60-rounds",
+          "published": "2026-06-26",
+          "summary": "Scottie Scheffler failed to convert a 25-foot birdie putt on the 18th hole at the Travelers Championship, narrowly missing out on a chance to join Jim Furyk as the only players in PGA Tour history wit...",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-scottie-scheffler_7283933.jpg?20260626220627"
         }
       ],
       "highlights": [
@@ -136,39 +143,60 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-26",
-          "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef0/live/ea2a83e0-713b-11f1-be59-4b2938e11145.jpg"
+          "title": "Belgium thrash New Zealand to win Group G",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c6215810pw7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Belgium defeat New Zealand 5-1 to qualify for the World Cup round of 32 as winners of Group G on goal difference.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ef/live/df8434c0-71ec-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "Beccacece goes from brink to World Cup history with Ecuador",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-26",
-          "summary": "Sebastian Beccacece was on the verge of losing his job as Ecuador head coach as the clock ticked down against Germany - now he has a last-32 match to look forward to.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0a/live/e2708ee0-70f2-11f1-b811-7dff86ad99ea.jpg"
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cx2vlxjnxrro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup kno...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/13cf6f40-71ef-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "Turkey end World Cup on high with last-gasp win over USA",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-26",
-          "summary": "Turkey come out on top in the last minute of an end-to-end 3-2 win over a second string USA side, in their final Group D match at SoFi Stadium in Los Angeles.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7182/live/cc314930-7115-11f1-b1db-af71d47507d6.jpg"
+          "title": "Muslera mistake gifts Spain win as 10-man Uruguay crash out 'in disgrace'",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c621d617nyeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Goalkeeper Fernando Muslera's mistake gifts Alex Baena the only goal of the game, as Spain defeat Uruguay to send Marcelo Bielsa's side out of the World Cup in the group stage.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3555/live/65cb73f0-71ce-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "Japan and Sweden draw takes both into last 32",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cwy0lvr0wego?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-26",
-          "summary": "Daizen Maeda's smart finish to Japan's team goal is cancelled out by Anthony Elanga's long-range strike as Sweden fight back in a 1-1 draw that takes both sides through to the World Cup knockout stage...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f86/live/4e42f0d0-70fe-11f1-8e1d-bbbb1017d210.jpg"
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c9v2jyl8ry1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba3/live/4cf8a890-71e5-11f1-b1db-af71d47507d6.jpg"
         },
         {
-          "title": "Brobbey on target again as Netherlands beat Tunisia to win group",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cql1v24e4q1o?at_medium=RSS&at_campaign=rss",
+          "title": "Messi to start final Argentina group match on bench",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd95zlv7jz7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-27",
+          "summary": "World Cup top scorer Lionel Messi will start Argentina's final group match against Jordan on the bench, manager Lionel Scaloni confirms.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec1/live/3efbf500-71f2-11f1-9e90-3ff6dfd27be0.jpg"
+        },
+        {
+          "title": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
+          "link": "https://www.skysports.com/football/egypt-vs-iran/report/549826",
+          "published": "2026-06-27",
+          "summary": "Iran had a last-gasp goal overturned as they just missed out on grabbing second spot in Group G - but a first progression to the World Cup knockouts could still be achieved after their dramatic 1-1 dr...",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-egypt-world-cup-iran_7284030.jpg?20260627063725"
+        },
+        {
+          "title": "Senegal thrash 10-man Iraq to boost hopes of reaching last 32",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crel3jzn5j0o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Brian Brobbey scores for the second game in a row as Netherlands defeat Tunisia 3-1 to top Group F, setting up a match against Morocco in the last 32 at the World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/396c/live/a562e810-70ff-11f1-8e1d-bbbb1017d210.jpg"
+          "summary": "Iliman Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle 10-man Iraq 5-0 at Toronto Stadium, boosting hopes of a World Cup last-32 spot.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f8/live/35db8bd0-71a1-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-26",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d9/live/64d6d660-71b0-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "Hart explains how goalkeepers are struggling with World Cup ball",
@@ -178,60 +206,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81dc/live/1f914d40-714e-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c7vy8mg3mr0o?at_medium=RSS&at_campaign=rss",
+          "title": "Turkey end World Cup on high with last-gasp win over USA",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-26",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f63/live/ac45e1d0-70f7-11f1-8e1d-bbbb1017d210.jpg"
+          "summary": "Turkey come out on top in the last minute of an end-to-end 3-2 win over a second string USA side, in their final Group D match at SoFi Stadium in Los Angeles.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7182/live/cc314930-7115-11f1-b1db-af71d47507d6.jpg"
         },
         {
-          "title": "The World Cup 'Pride Match' - concern, complaints and the hope of 'unity'",
-          "link": "https://www.skysports.com/football/news/12040/13556674/the-world-cup-2026-pride-match-between-egypt-and-iran-that-seattle-hopes-can-unite-football-community",
-          "published": "2026-06-26",
-          "summary": "When Seattle announced it would host a Pride Match during the 2026 World Cup, it was long before the draw had even been made.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-rainbow-flag-lgbtq_7279956.jpg?20260622120328"
-        },
-        {
-          "title": "Ecuador fight back to upset Germany",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Goals from Nilson Angulo and Gonzalo Plata help Ecuador come from behind to beat Germany 2-1 to qualify for the knockout stages of the World Cup, as one of the top eight third-placed teams.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ecd/live/9bdb8fd0-70e7-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a42/live/9c4606e0-70e6-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Germany goal should have been ruled out for 'endangering opponent'",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cqx1wqx9n27o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "BBC Sport World Cup pundits Joe Hart, Ellen White and Lucas Leiva explain why Alexander Pavlovic's high boot in the build-up to Leroy Sane's goal was an example of \"endangering the opponent\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ec/live/74e0bbf0-70db-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Sane fires Germany ahead as Ecuador calls for foul waived away",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c1dypzd45dvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "Leroy Sane gives Germany a 1-0 lead against Ecuador in the second minute of the World Cup Group E match at the New York New Jersey Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01fc/live/73e76170-70d3-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Is the World Cup ball making it hard for goalkeepers?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c1jy8pr6k37o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-25",
-          "summary": "While some goalkeepers have produced heroic performances in the World Cup, others have struggled with shots from outside the area, so is there a problem with the ball?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaf0/live/e9feb1d0-709f-11f1-86cf-0fd142c2b6fb.jpg"
-        },
-        {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
           "link": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-24",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
+        },
+        {
+          "title": "World Cup's best matches, moments, goals & players so far - ranked",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cg4wxvk4kyxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24",
+          "summary": "After two rounds of fixtures, BBC Sport ranks the best matches, moments, players and goals of the World Cup so far.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/5953b2f0-6ecb-11f1-8bcc-0dcbc11a720b.jpg"
         }
       ],
       "highlights": [
@@ -245,16 +238,12 @@
   },
   "standout_moments": [
     {
-      "moment": "Ecuador fight back to upset Germany",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c0qyzg4zje4o?at_medium=RSS&at_campaign=rss"
+      "moment": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Is Serena brave to make Wimbledon singles bid at the age of 44?",
-      "link": "https://www.skysports.com/tennis/news/12040/13557597/is-serena-williams-brave-to-make-a-wimbledon-singles-comeback-can-23-time-grand-slam-champion-compete-at-the-age-of-44"
-    },
-    {
-      "moment": "Yoon opens Women's PGA Championship with record 63 as Hull, Woad sit well back",
-      "link": "https://www.skysports.com/golf/news/12040/13557904/kpmg-womens-pga-championship-ina-yoon-opens-at-hazeltine-with-record-equalling-round-of-63-as-charley-hull-lottie-woad-sit-well-back"
+      "moment": "Iran inches away from famous win but still have World Cup hope after Egypt draw",
+      "link": "https://www.skysports.com/football/egypt-vs-iran/report/549826"
     }
   ]
 }
