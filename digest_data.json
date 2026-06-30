@@ -1,23 +1,65 @@
 {
-  "generated_date": "2026-06-29",
-  "week_ending": "June 29, 2026",
+  "generated_date": "2026-06-30",
+  "week_ending": "June 30, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Man City appoint Maresca as new manager",
-          "link": "https://www.skysports.com/football/news/12040/13548773/enzo-maresca-man-city-appoint-former-chelsea-head-coach-as-pep-guardiolas-successor-at-etihad-stadium",
-          "published": "2026-06-29",
-          "summary": "Manchester City have appointed Enzo Maresca as their new manager.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285698.jpg?20260629135607"
+          "title": "'A joke' - how a 'terrible' VAR disallowed goal cost Germany",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2dy359e8yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Alan Shearer, Jurgen Klopp, Pat Nevin and Darren Cann feel Germany were hard done by as a VAR call rules out a potential winning goal before they lose on penalties to Paraguay.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c4/live/488e3970-741d-11f1-be1e-b3f1b22422b5.jpg"
         },
         {
-          "title": "Wakefield Trinity 29-23 Huddersfield Giants",
-          "link": "https://www.skysports.com/watch/video/13558695/wakefield-trinity-29-23-huddersfield-giants-super-league-highlights",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ns820n?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Germany and the Netherlands crash out as Humphrey Ker joins the pod.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntl44k.jpg"
+        },
+        {
+          "title": "Spurs sign Norway keeper Panengstuen from SK Brann",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c17y8ll8148o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Norwegian international goalkeeper Selma Panengstuen says it is a \"dream\" move to join Women's Super League side Tottenham.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da67/live/9269c970-7453-11f1-be8f-21fb848bc449.jpg"
+        },
+        {
+          "title": "Leeds quell Connor concerns ahead of Magic Weekend clash with Bradford",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13559139/leeds-rhinos-quell-jake-connor-concerns-ahead-of-magic-weekend-clash-with-rivals-bradford-bulls",
+          "published": "2026-06-30",
+          "summary": "Bradford will have to contend with reigning Betfred Super League Man of Steel Jake Connor if they are to mark their return to Magic Weekend with a long-awaited top-flight away win in Liverpool next Su...",
+          "image": "https://e0.365dm.com/26/04/1920x1080/skysports-jake-connor-leeds-rhinos_7233868.jpg?20260429073001"
+        },
+        {
+          "title": "'Terrible decision' - Germany have goal controversially disallowed by VAR",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cn8kjmnpepro?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-29",
-          "summary": "Highlights of the Super League match between Wakefield Trinity and Huddersfield Giants.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-rugby-league_7285281.jpg?20260628212633"
+          "summary": "Germany's Jonathan Tah has an extra-time goal controversially disallowed by VAR for a foul by Waldemar Anton on Paraguay goalkeeper Orlando Gill.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ced/live/e25c1e70-7411-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
+          "title": "Lewandowski joins MLS side Chicago Fire until 2028",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-29",
+          "summary": "Former Barcelona striker Robert Lewandowski joins Major League Soccer side Chicago Fire on a two-year deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/758d/live/b833c3b0-7389-11f1-9e21-8bd55db03589.jpg"
+        },
+        {
+          "title": "Welsh football bosses reveal \u00a3150m cost to improve facilities",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-29",
+          "summary": "Football officials say it will cost \u00a3150m to deliver the facilities the game needs across Wales amid a surge in participation figures across the country.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cadb/live/d5f2cbd0-73c0-11f1-aaa1-3f07d3ad2c35.jpg"
+        },
+        {
+          "title": "Madueke's wholesome reaction to Arsenal teammate Martinelli's winner!",
+          "link": "https://www.skysports.com/watch/video/13559028/brazil-vs-japan-noni-madueke-reacts-to-arsenal-teammate-gabriel-martinellis-winning-goal",
+          "published": "2026-06-29",
+          "summary": "Noni Madueke responds to Arsenal teammate Gabriel Martinelli's winning goal for Brazil vs Japan in the round of 32 at the World Cup.",
+          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-world-cup_7286051.jpg?20260629203926"
         },
         {
           "title": "How Bellingham became Tuchel's most important player",
@@ -25,27 +67,6 @@
           "published": "2026-06-28",
           "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1f/live/d3232560-72e1-11f1-b28d-37d67ec29837.jpg"
-        },
-        {
-          "title": "Ugarte has 'most serious injury footballer can face'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "Manchester United have confirmed that midfielder Manuel Ugarte suffered knee ligament damage during Uruguay's World Cup defeat by Spain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d61/live/d7fa4f20-7311-11f1-9169-4725bbe8797c.jpg"
-        },
-        {
-          "title": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "Crystal Palace and Sunderland lead the Premier League\u2019s World Cup scoring charts after the 2026 group stage, ahead of Arsenal, Liverpool and Manchester City.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6740/live/ee8ca130-72ca-11f1-8d28-af7129502366.jpg"
-        },
-        {
-          "title": "Toulouse Olympique 16-40 Leigh Leopards",
-          "link": "https://www.skysports.com/watch/video/13558686/toulouse-olympique-16-40-leigh-leopards-super-league-highlights",
-          "published": "2026-06-28",
-          "summary": "Highlights of the Super League clash between Toulouse Olympique and Leigh Leopards.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/sky-sports-rugby-league-rugby_7285266.jpg?20260628204121"
         }
       ],
       "highlights": [
@@ -60,32 +81,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Hovland and Scheffler set for play off after thrilling final round",
-          "link": "https://www.skysports.com/watch/video/13558739/travelers-championship-day-four-highlights",
-          "published": "2026-06-29",
-          "summary": "Highlights from day four of the Travelers Championship at TPC River Highlands.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-golf-hovland-scheffler_7285381.jpg?20260629063944"
-        },
-        {
-          "title": "SEPTUPLE-BOGEY?! JT Poston loses it on disastrous 13th",
-          "link": "https://www.skysports.com/watch/video/13558747/jt-poston-loses-his-cool-on-the-13th-after-septuble-bogey",
-          "published": "2026-06-29",
-          "summary": "A moment JT Poston will hope to forget as soon as possible on the 13th at the Travelers Championship after recording a septuple bogey!",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-golf-jt-poston_7285408.jpg?20260629072538"
-        },
-        {
-          "title": "Nations Championship: Pressure on England as depleted Ireland seek history",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
-          "published": "2026-06-29",
-          "summary": "We look at some of the major talking points ahead of the summer's inaugural Nations Championship Tests...",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-russell-pollock-sheehan_7284106.jpg?20260627102112"
-        },
-        {
-          "title": "Scheffler's clutch putt sets up Monday play-off vs Hovland at Travelers Championship",
-          "link": "https://www.skysports.com/golf/news/12040/13558715/travelers-championship-scottie-scheffler-makes-clutch-putt-to-set-up-monday-play-off-vs-viktor-hovland-at-travelers-championship",
-          "published": "2026-06-28",
-          "summary": "Scottie Scheffler showcased why he is the world No 1 on Sunday evening at a rain-soaked Travellers Championship, as the American drained a clutch eight-foot par putt to force a Monday play-off against...",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-scottie-scheffler_7285326.jpg?20260629120216"
+          "title": "Burnley fail with Edwards approach",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2jx1wlyj2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Rob Edwards turns down an approach from Burnley, leaving the Clarets still looking for a new manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/dd5e1f80-73a4-11f1-a8fc-c51d60fec73b.jpg"
         }
       ],
       "highlights": [
@@ -122,25 +122,32 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Why Netherlands v Morocco is more than just a match",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-29",
-          "summary": "Morocco\u2019s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd35/live/eb4d3330-7302-11f1-8b3a-1977d6dee6ef.jpg"
+          "title": "The Paraguay hero who sold his kit when his son was born",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d132/live/e0569df0-7473-11f1-b8da-6d87dfdc4508.jpg"
         },
         {
-          "title": "Could a heatwave make World Cup matches 'unsafe' this week?",
-          "link": "https://www.bbc.co.uk/weather/articles/c1lyz4jy425o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-29",
-          "summary": "Temperatures are expected to soar across parts of the US and Canada this week which could bring significant health impacts to some World Cup matches.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f22/live/887bd5c0-72ff-11f1-8546-8f19e4fe30f4.jpg"
+          "title": "Paraguay's tears of joy over World Cup shock",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/546d36f0-742d-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
-          "title": "Sackings, death threats and fury \u2013 World Cup exit leaves South Korean football in crisis",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy049pen9q5o?at_medium=RSS&at_campaign=rss",
+          "title": "'Indescribably hurt' Son apologises for South Korea World Cup exit",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c20ylry6py1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30",
+          "summary": "Son Heung-min apologises for South Korea's early World Cup exit and says he will \"run to death\" for the nation's football fans.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dbe/live/bdd44e20-744c-11f1-ad92-6340016f0592.jpg"
+        },
+        {
+          "title": "Africa's World Cup success leaves Asia looking for answers",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-29",
-          "summary": "After crashing out of the World Cup, BBC Sport investigates the rise and fall of South Korean football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb67/live/64eb3a70-73ad-11f1-9da1-db101e3ae6ed.jpg"
+          "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f15/live/23e6f750-73b5-11f1-a8ee-df4f88a2912f.jpg"
         },
         {
           "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
@@ -150,18 +157,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/b6f81890-734b-11f1-8e1d-bbbb1017d210.jpg"
         },
         {
-          "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-          "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+          "title": "World Cup exit leaves South Korean football in crisis",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy049pen9q5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-29",
-          "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f003/live/9eb32360-7364-11f1-ad8b-652433387d33.jpg"
-        },
-        {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
+          "summary": "After crashing out of the World Cup, BBC Sport investigates the rise and fall of South Korean football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb67/live/64eb3a70-73ad-11f1-9da1-db101e3ae6ed.jpg"
         },
         {
           "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
@@ -171,11 +171,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f64/live/c3ccd8d0-733c-11f1-b1db-af71d47507d6.jpg"
         },
         {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-06-28",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c718/live/07a04e80-72a6-11f1-b1db-af71d47507d6.jpg"
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
@@ -183,48 +183,6 @@
           "published": "2026-06-28",
           "summary": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5814/live/45ed53e0-732d-11f1-995c-69ac9e3e1536.jpg"
-        },
-        {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "link": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c72e/live/9053f5d0-72b3-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "'Get rid of VAR!' Rooney unhappy Sanchez goal ruled out",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c20ygyddl5no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "BBC Sport World Cup pundit Wayne Rooney cannot believe Davinson Sanchez's goal for Colombia against Portugal was ruled out because the defender was offside by a toe.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deac/live/ed33d020-7297-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "'He's that guy!' Pundits praise 'brilliant' Bellingham",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c2dyz205r49o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hunger\" to perform on the biggest stage, after the England midfielder produces a goal and an assist in ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b740/live/9d326b20-7285-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "Best team, moments, matches and players of World Cup group stage",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc9/live/e6810200-723a-11f1-930d-75324f3b4c6e.jpg"
-        },
-        {
-          "title": "Kane becomes England's top World Cup scorer - and now chases other greats",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "Harry Kane became England's all-time leading World Cup scorer with his 12th goal in the win against Panama on Saturday, but how does he compare to other country's greats?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/1ca94e60-7294-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "England labour past Panama to qualify for last 32 as group winners",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-27",
-          "summary": "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851c/live/a0517480-727c-11f1-8546-8f19e4fe30f4.jpg"
         }
       ],
       "highlights": [
@@ -238,24 +196,8 @@
   },
   "standout_moments": [
     {
-      "moment": "Maestro Messi scores again and breaks another record in the process",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Kane breaks England World Cup goals record to double lead against Panama",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Man City appoint Maresca as new manager",
-      "link": "https://www.skysports.com/football/news/12040/13548773/enzo-maresca-man-city-appoint-former-chelsea-head-coach-as-pep-guardiolas-successor-at-etihad-stadium"
-    },
-    {
-      "moment": "SEPTUPLE-BOGEY?! JT Poston loses it on disastrous 13th",
-      "link": "https://www.skysports.com/watch/video/13558747/jt-poston-loses-his-cool-on-the-13th-after-septuble-bogey"
+      "moment": "Paraguay's tears of joy over World Cup shock",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
