@@ -1,10 +1,87 @@
 {
-  "generated_date": "2026-07-01",
-  "week_ending": "July 01, 2026",
+  "generated_date": "2026-07-02",
+  "week_ending": "July 02, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "'You can't catch your breath' - how will Azteca altitude impact England?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02",
+          "summary": "BBC Sport explores how playing football at high altitude affects the body and mind as England prepare to visit Mexico and their fortress Azteca Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/08736230-73f4-11f1-bb7f-e5226e63ffb3.jpg"
+        },
+        {
+          "title": "Balogun gives USA deserved lead over Bosnia",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c77ymxvm8kdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02",
+          "summary": "Folarin Balogun gives the USA the lead against Bosnia-Herzegovina in their round of 32 match at the San Francisco Bay Area Stadium.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28d/live/da5830f0-75b1-11f1-9510-1546718f668b.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ns844v?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02",
+          "summary": "England are through... now the Azteca awaits.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntl4qr.jpg"
+        },
+        {
+          "title": "All the angles of Kane's brilliant winner",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game in Atlanta.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e24/live/4be946d0-7587-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "title": "Tielemans & Trossard go from heated row to rescuing Belgium",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cvg512g38g4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "Belgium's Leandro Trossard and Youri Tielemans go from arguing with each other during the hydration break to combining to get a crucial equalising goal against Senegal in Seattle.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99bc/live/9ed21350-75a4-11f1-9510-1546718f668b.jpg"
+        },
+        {
+          "title": "Tielemans scores late extra-time penalty to send Belgium into last 16",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cvg7kdx1vpno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "Belgium score two late goals to force extra time against Senegal where Youri Tielemans scores a late penalty following a VAR review as Belgium win 3-2 to reach the last 16.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0b0/live/c8ebea30-759f-11f1-9510-1546718f668b.jpg"
+        },
+        {
+          "title": "Tielemans scores late extra-time penalty in dramatic end to match",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c1wy5wwpxw7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "Youri Tielemans scores a dramatic late penalty in extra time to see Belgium advance to the last 16 after a 3-2 victory over Senegal in Seattle.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bd8/live/ccacc5f0-75a3-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "title": "Energy and team spirit at highest level - Tuchel",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cg53njjvnljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65de/live/36d422b0-757d-11f1-9510-1546718f668b.jpg"
+        },
+        {
+          "title": "Relief for England as Kane heads in equalising goal against DR Congo",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d4/live/bcb01af0-7574-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "title": "Chelsea sign Italy defender Palestra for \u00a347m",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "Right-back Marco Palestra, 21, becomes Xabi Alonso's first signing as Chelsea manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/2e843280-7203-11f1-a031-6f45322bb16f.jpg"
+        },
+        {
+          "title": "The small Basque club that produced Arteta, Alonso and Iraola",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr5j40gr44mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01",
+          "summary": "The Arsenal, Chelsea and Liverpool managers all began their football journeys in the Basque region",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c7/live/89d11a70-6436-11f1-a936-d75187a800c2.jpg"
+        },
         {
           "title": "Hull avoid points deduction by selling  players",
           "link": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
@@ -13,88 +90,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22aa/live/15ccd0a0-7486-11f1-a63e-8369d3f8e6b7.jpg"
         },
         {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ns8312?at_medium=RSS&at_campaign=rss",
+          "title": "Harry Kane: England's greatest and Ballon d'Or contender",
+          "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
           "published": "2026-07-01",
-          "summary": "Tim Ream on leading the USA, legacy and his famous blonde hair.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntl4dr.jpg"
-        },
-        {
-          "title": "What's next for unpredictable Serena?",
-          "link": "https://www.skysports.com/tennis/news/12040/13559478/serena-williams-comeback-whats-next-for-23-time-grand-slam-champion-after-wimbledon-singles-defeat-will-she-play-us-open",
-          "published": "2026-07-01",
-          "summary": "Serena Williams rolled back the years as she treated the lucky ticket holders on Centre Court and the millions more watching on TV  to a night of pure drama at Wimbledon in her comeback match on Tuesd...",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-serena-williams-tennis_7286979.jpg?20260701122323"
-        },
-        {
-          "title": "What's top of Alonso's agenda? Could Palmer & Enzo both stay?",
-          "link": "https://www.skysports.com/watch/video/13559489/chelsea-plans-for-enzo-fernandez-cole-palmer-whats-top-of-xabi-alonsos-agenda",
-          "published": "2026-07-01",
-          "summary": "A look at Chelsea manager Xabi Alonso's plans with both Cole Palmer and Enzo Fernandez plus who will they target in the transfer window?",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-xabi-alonso-cole_7287231.jpg?20260701122518"
-        },
-        {
-          "title": "Transfers, Palmer and Fernandez: The big Chelsea problems Alonso must solve",
-          "link": "https://www.skysports.com/football/news/12040/13559199/chelsea-transfers-cole-palmer-and-enzo-fernandez-the-big-problems-xabi-alonso-must-solve-at-stamford-bridge",
-          "published": "2026-07-01",
-          "summary": "Xabi Alonso has officially started work as Chelsea manager, inheriting one of the biggest jobs in football.",
-          "image": "https://e0.365dm.com/26/06/1920x1080/skysports-premier-league-chelsea_7286571.jpg?20260630134709"
-        },
-        {
-          "title": "Time for Super League to put on an extraordinary Magic Weekend show",
-          "link": "https://www.skysports.com/rugby-league/news/12040/13558481/magic-weekend-2026-time-for-super-league-to-take-over-everton-and-put-on-extraordinary-show",
-          "published": "2026-07-01",
-          "summary": "To have the essence of 'magic', something must have the ability to transport someone out of their everyday life, out of the ordinary, and into the extraordinary.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-league-super-league_7284794.jpg?20260628105818"
-        },
-        {
-          "title": "'Goal of the tournament' - Amad's brilliant equaliser for Ivory Coast",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c621g6lg4plo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Amad Diallo scores a \"goal of the tournament\" contender to equalise for Ivory Coast against Norway in their last-32 match.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/703d/live/87243b70-74b4-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "Coventry boss Lampard signs new contract to 2029",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c1wy5dlq051o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Coventry City manager Frank Lampard signs a new contract until 2029 before the club's first Premier League campaign in 25 years.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b50/live/8c1c1d20-74a3-11f1-9c5b-41132a229f02.jpg"
-        },
-        {
-          "title": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Aston Villa have been fined 22.5m euros (\u00a319.4m) by Uefa for a \"significant breach\" of its squad-cost rule for 2025.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ce/live/e002c5e0-74a5-11f1-9c5b-41132a229f02.jpg"
-        },
-        {
-          "title": "Rosenior nears management return at Paris FC",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2x0pd01dno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Former Chelsea manager Liam Rosenior is set to return to football at French club Paris FC on a two-year contract, with the option of a further season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757d/live/747765b0-7081-11f1-a866-abbad6b6b076.jpg"
-        },
-        {
-          "title": "AC Milan sign PSG's Portugal striker Ramos for \u00a360m",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cn4r8y819z1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "AC Milan sign Paris St-Germain striker Goncalo Ramos for a reported club record transfer fee of about \u00a360m.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ce/live/6f63c810-7497-11f1-b1a9-bd204fe03b95.jpg"
-        },
-        {
-          "title": "Tottenham goalkeeper Kinsky signs new deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8r21kp8xvdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Tottenham Hotspur goalkeeper Antonin Kinsky signs a new, improved contract with the Premier League club.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/f8edfe70-7492-11f1-bf96-430b4d750133.jpg"
-        },
-        {
-          "title": "It's matchday! England vs DR Congo build-up and have your say LIVE!",
-          "link": "https://www.skysports.com/football/england-vs-dr-congo/live/549847",
-          "published": "2026-06-29",
-          "summary": "",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284858.jpg?20260628125247"
+          "summary": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kane-harry-england_7287772.jpg?20260702071825"
         }
       ],
       "highlights": [
@@ -107,7 +107,15 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Sunderland and Palace hunting Real and PSG in WC goal charts!",
+          "link": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
+          "published": "2026-06-30",
+          "summary": "Which teams' players have scored the most goals at the World Cup so far?",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-graphic-world-cup_7287057.jpg?20260701072559"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -142,109 +150,60 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Time for Tuchel to show hand as England enter World Cup danger zone",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
+          "title": "Goalscorer Balogun sent off for USA",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cpv3xzyr73po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02",
+          "summary": "USA forward Folarin Balogun is shown a straight red card for a challenge on Bosnia-Herzegovina's Tarik Muharemovic during their World Cup match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a7/live/01b21190-75ba-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "title": "Lopes will relish Messi duel, says Cape Verde defender's mother",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c07yjj5j299o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02",
+          "summary": "The prospect of facing World Cup record goalscorer Lionel Messi in a knockout game would strike fear into most defenders, but not Roberto Lopes, according to the Cape Verde defender's mother.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc48/live/d3d67f60-751c-11f1-adcf-e1eef1a1ef9c.jpg"
+        },
+        {
+          "title": "Merse: Mexico is heads-or-tails match - they could run England off their feet",
+          "link": "https://www.skysports.com/football/news/12040/13559758/mexico-vs-england-world-cup-last-16-tie-is-heads-or-tails-match-they-could-run-us-off-our-feet-says-paul-merson",
+          "published": "2026-07-02",
+          "summary": "Sky Sports' Paul Merson looks ahead to England's last-16 World Cup encounter with co-hosts Mexico on Monday, a game he thinks is too close to call.",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-merson-says_7287983.jpg?20260702115239"
+        },
+        {
+          "title": "Tuchel urges parents to let kids stay up for England game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-01",
-          "summary": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e5/live/2df5cf30-74b6-11f1-9c5b-41132a229f02.jpg"
+          "summary": "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2496/live/92ee8fb0-7599-11f1-a627-714adb4eed6e.jpg"
         },
         {
-          "title": "Mexico rampant at fortress Azteca - and England could be next",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+          "title": "Genuine superstar Kane produces his biggest England moment",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-01",
-          "summary": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b5/live/db53d370-750b-11f1-b1db-af71d47507d6.jpg"
+          "summary": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ec/live/5b4fe1a0-75dd-11f1-b2ef-f150187f763a.jpg"
         },
         {
-          "title": "'The Azteca erupts!' Quinones fires Mexico into lead",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8j2xwlgxzeo?at_medium=RSS&at_campaign=rss",
+          "title": "'He is ridiculous' - Rice praise for match-winner Kane",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-01",
-          "summary": "Julian Quinones times his run to perfection before rifling home a fierce shot to give Mexico the lead against Ecuador in their round of 32 World Cup match.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ae/live/d92b7730-74f5-11f1-8546-8f19e4fe30f4.jpg"
+          "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19df/live/8a18c9a0-7580-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
-          "title": "Tuchel will stick to Southgate's penalty plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
+          "title": "Has football fever taken hold in the US?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-01",
-          "summary": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbd/live/c4762920-74a5-11f1-9c5b-41132a229f02.jpg"
+          "summary": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84db/live/2ba6f6d0-74ae-11f1-9c5b-41132a229f02.jpg"
         },
         {
-          "title": "England right-backs Quansah and James out of DR Congo game",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
+          "title": "'A huge advantage for Mexico' - England face an Azteca altitude problem",
+          "link": "https://www.skysports.com/football/news/12040/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7000-feet",
           "published": "2026-07-01",
-          "summary": "Right-backs Jarell Quansah and Reece James will miss England's World Cup last-32 match against DR Congo because of injury.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ea5/live/b7af52f0-74b1-11f1-9c5b-41132a229f02.png"
-        },
-        {
-          "title": "Beccacece reign as Ecuador manager  over after exit",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c932jj0d25no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-01",
-          "summary": "Ecuador manager Sebastian Beccacece says he is leaving his role following his side's World Cup exit against Mexico.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8b/live/26b3ee20-7522-11f1-adcf-e1eef1a1ef9c.jpg"
-        },
-        {
-          "title": "Fifa explains decision to rule out Germany goal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c862yvvd2qdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-01",
-          "summary": "Fifa says coaches and players were told before the World Cup referees will punish the type of foul that saw Germany's extra-time goal against Paraguay ruled out.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd2/live/405c9100-7514-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "'I remember like it was yesterday' - Euro 2016 hero Robson-Kanu",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8j2x0mrreko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-01",
-          "summary": "Hal Robson-Kanu reflects on scoring his iconic goal for Wales against Belgium at Euro 2016, 10 years to the day from the quarter-final in Lille.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d95/live/fd699420-7495-11f1-8e1d-bbbb1017d210.jpg"
-        },
-        {
-          "title": "France breeze past Sweden as Mbappe matches Messi",
-          "link": "https://www.skysports.com/football/france-vs-sweden/report/549844",
-          "published": "2026-07-01",
-          "summary": "Kylian Mbappe helped book France's place in the World Cup round of 16 by taking his tournament total to six goals in a slick 3-0 victory over Sweden.",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7286994.jpg?20260630234812"
-        },
-        {
-          "title": "Mbappe scores twice as France dominate Sweden",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Kylian Mbappe becomes the all-time leading goalscorer in World Cup knockout matches with after scoring twice as France crusie past Sweden 3-0 to set up a last-16 tie with Paraguay.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f3/live/1dc23c70-74d9-11f1-b1db-af71d47507d6.jpg"
-        },
-        {
-          "title": "Defying logic - how Haaland could end up with 260 international goals",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5089/live/7f3e5d60-74cc-11f1-a83d-c354d9be0694.jpg"
-        },
-        {
-          "title": "Koeman resigns, while Netherlands report racist abuse",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d3/live/6fd8e880-74cd-11f1-a83d-c354d9be0694.jpg"
-        },
-        {
-          "title": "Barcola 'emphatically' doubles France's lead over Sweden",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8e2g18l4k9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Bradley Barcola \"empahatically\" fires home France's second goal in their World Cup round of 32 match against Sweden at the New York New Jersey Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3de/live/a1c1e8b0-74d2-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "The Paraguay hero who sold his kit when his son was born",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-30",
-          "summary": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d132/live/e0569df0-7473-11f1-b8da-6d87dfdc4508.jpg"
-        },
-        {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-28",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
+          "summary": "\"It is one of the most beautiful fixtures you can have playing Mexico in the Azteca,\" said Thomas Tuchel after England booked their World Cup last 16 spot. But it is also one of the hardest fixtures i...",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-mexico-azteca-stadium_7288006.jpg?20260702120417"
         }
       ],
       "highlights": [
@@ -258,16 +217,12 @@
   },
   "standout_moments": [
     {
-      "moment": "Time for Tuchel to show hand as England enter World Cup danger zone",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss"
+      "moment": "Tielemans scores late extra-time penalty in dramatic end to match",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c1wy5wwpxw7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "AC Milan sign PSG's Portugal striker Ramos for \u00a360m",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn4r8y819z1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "What's next for unpredictable Serena?",
-      "link": "https://www.skysports.com/tennis/news/12040/13559478/serena-williams-comeback-whats-next-for-23-time-grand-slam-champion-after-wimbledon-singles-defeat-will-she-play-us-open"
+      "moment": "Lopes will relish Messi duel, says Cape Verde defender's mother",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c07yjj5j299o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
