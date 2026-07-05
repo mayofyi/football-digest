@@ -1,10 +1,24 @@
 {
-  "generated_date": "2026-07-04",
-  "week_ending": "July 04, 2026",
+  "generated_date": "2026-07-05",
+  "week_ending": "July 05, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Stay humble - the Premier League feud about to hit world stage",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-05",
+          "summary": "The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7962/live/81b353d0-7723-11f1-aaf8-ff8f387d83a0.jpg"
+        },
+        {
+          "title": "Premier League quartet want Scott - Sunday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04",
+          "summary": "Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, Manchester United's Kobbie Mainoo on Real Madrid's radar, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7909/live/484d8370-77ed-11f1-8282-997ea275553c.png"
+        },
         {
           "title": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time",
           "link": "https://www.bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss",
@@ -20,18 +34,39 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8baa/live/04bac620-7759-11f1-9510-1546718f668b.jpg"
         },
         {
-          "title": "Explained: Why weather could STILL affect kick-off for Mexico and England",
-          "link": "https://www.skysports.com/watch/video/13560309/explained-how-the-weather-could-still-affect-kick-off-between-mexico-and-england",
+          "title": "Williamson eyes Scotland job with McCoist on staff",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvg7zj78eklo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-04",
-          "summary": "Sky Sports' Dave Reed explains the confusion behind the scheduled kick-off time for England's last 16 match against Mexico and why it could still change.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-england_7289297.jpg?20260704073049"
+          "summary": "Former Hibernian and Kilmarnock manager Bobby Williamson puts himself forward for the job as Scotland head coach leading a dream team of Ally McCoist, Scott Brown and Kevin Thomson.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e437/live/4f6dc960-779a-11f1-a02d-cbd2f4813818.jpg"
         },
         {
-          "title": "Germany want Klopp talks as Nagelsmann resigns",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a2/live/b242fca0-76c7-11f1-a627-714adb4eed6e.png"
+          "title": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle",
+          "link": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
+          "published": "2026-07-04",
+          "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+        },
+        {
+          "title": "'Greatest night ever in Super League' | Toulouse romp to record-breaking victory!",
+          "link": "https://www.skysports.com/watch/video/13560518/toulouse-romp-to-record-breaking-victory",
+          "published": "2026-07-04",
+          "summary": "Toulouse romped to a 10-try mauling over Catalan Dragons as they had their best ever night in the Super League.",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-toulouse-catalans_7289916.jpg?20260704231730"
+        },
+        {
+          "title": "Leopards leave Wolves licking their wounds",
+          "link": "https://www.skysports.com/watch/video/13560491/leopards-leave-wolves-licking-their-wounds-leigh-v-warrington-highlights",
+          "published": "2026-07-04",
+          "summary": "Super League highlights from Hill Dickinson Stadium as Leigh Leopards took on Warrington Wolves.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leight-warrington_7289865.jpg?20260704205621"
+        },
+        {
+          "title": "Leigh enhance play-offs bid with thumping victory over Warrington",
+          "link": "https://www.skysports.com/rugby-league/leigh-vs-warrington/report/63271",
+          "published": "2026-07-04",
+          "summary": "Leigh Leopards bolstered their hopes of making the Betfred Super League play-offs after David Armstrong led them to a dominant 24-6 victory against Warrington Wolves during Magic Weekend.",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leigh-leopards_7289779.jpg?20260704185417"
         },
         {
           "title": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
@@ -41,39 +76,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7178/live/040fe180-7527-11f1-b8b8-e187759eae96.png"
         },
         {
-          "title": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
+          "title": "Germany want Klopp talks as Nagelsmann resigns",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-03",
-          "summary": "Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c0a/live/54c78d80-7702-11f1-9e14-057377bcce93.jpg"
-        },
-        {
-          "title": "Man Utd's Onana rejoins Trabzonspor on loan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy73eekmejzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Manchester United goalkeeper Andre Onana rejoins Turkish side Trabzonspor on loan for the 2026-27 season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc5/live/bd8a3cc0-70de-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "title": "'You can't breathe' - what is it like playing at altitude?",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits 2,240 metres above sea level.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a72/live/fc71b3f0-7674-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "title": "Portugal through to last 16 after dramatic victory over Croatia",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678f/live/d9af8c70-7683-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "title": "Papers: Fulham join Chelsea, Man Utd in race for Summerville",
-          "link": "https://www.skysports.com/football/news/12040/13560285/fulham-join-chelsea-and-man-utd-in-race-for-west-ham-winger-crysencio-summerville-paper-talk",
-          "published": "2026-07-03",
-          "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+          "summary": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a2/live/b242fca0-76c7-11f1-a627-714adb4eed6e.png"
         }
       ],
       "highlights": [
@@ -88,25 +95,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "New Zealand edge France in thrilling Nations Championship opener",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13560343/nations-championship-rugby-new-zealand-edge-france-34-32-in-thrilling-tournament-opener-as-will-jordan-closes-in-on-all-blacks-try-record",
+          "title": "Scotland make impressive start in statement away win over Argentina",
+          "link": "https://www.skysports.com/rugby-union/news/12040/13560416/nations-championship-rugby-scotland-score-seven-tries-in-47-38-away-victory-over-argentina-to-make-winning-start",
           "published": "2026-07-04",
-          "summary": "New Zealand kicked off the inaugural Nations Championship with a gripping 34-32 win over France in Christchurch as wing Will Jordan's two tries proved crucial.",
-          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-will-jordan-all-blacks_7289380.jpg?20260704105459"
-        },
-        {
-          "title": "Nations Championship LIVE! Prendergast error sees Ireland well behind vs Australia",
-          "link": "https://www.skysports.com/rugby-union/live-blog/12040/13560197/nations-championship-live-australia-vs-ireland-south-africa-vs-england-updates-latest-score-team-news-commentary",
-          "published": "2026-07-04",
-          "summary": "",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-australia-ireland_7289396.jpg?20260704113202"
-        },
-        {
-          "title": "Furbank out of England's game vs South Africa",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13560345/george-furbank-england-full-back-out-of-nations-championship-opener-vs-south-africa-with-appendicitis",
-          "published": "2026-07-04",
-          "summary": "George Furbank is out of England's Nations Championship opener against South Africa in Johannesburg on Saturday due to appendicitis and could miss the entire summer tour.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-george-furbank-northampton-saints_7289387.jpg?20260704111828"
+          "summary": "Scotland banished any lingering demons from November as they kicked off their Nations Championship with an impressive 47-38 away win over Argentina.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rory-hutchinson-scotland_7289893.jpg?20260704221623"
         }
       ],
       "highlights": [
@@ -143,6 +136,27 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "England enter the Azteca - where football kings are crowned",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-05",
+          "summary": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb6/live/70f0d6f0-7627-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04",
+          "summary": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9140/live/2df0c2e0-77e7-11f1-b24a-2dac1f24311d.jpg"
+        },
+        {
+          "title": "Mbappe coolly fires France into lead from penalty spot",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04",
+          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c742/live/f7e25d20-77fb-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
           "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
           "link": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-04",
@@ -150,18 +164,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
+          "title": "In spotlight but shunning limelight - Olise's unique rise to top",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04",
+          "summary": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec37/live/30515480-77ad-11f1-b21a-9d51504ec77b.jpg"
+        },
+        {
           "title": "Five and a half hours that left England's World Cup tie in chaos",
           "link": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-04",
-          "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusion and anger - culminating in a ...",
+          "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating in...",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a110/live/5dd8ea40-774d-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-04",
-          "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f5/live/caa8a4b0-7768-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
           "title": "Eight of the 10 most populous countries are not in the World Cup",
@@ -185,32 +199,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6198/live/93a162d0-7737-11f1-a627-714adb4eed6e.jpg"
         },
         {
-          "title": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
-          "link": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
+          "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-04",
-          "summary": "Argentina avoided the biggest upset in World Cup history after Diney Borges' own-goal in extra-time rescued a 3-2 win over Cape Verde to book their place in the last 16 of the tournament.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7289258.jpg?20260704020701"
-        },
-        {
-          "title": "'History for the Pharaohs' - Egypt celebrate after winning shootout",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c621r4e4xpjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Egypt celebrate as they win a World Cup knockout match for the first time after beating Australia 4-2 on penalties in Dallas to reach the last 16.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4316/live/15f71eb0-7728-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "Ashour heads Egypt into lead against Australia",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6869/live/7ce54870-770c-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "The friends who drove from Ghana to the World Cup",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cvgmz5jnr37o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Six fans of the Black Stars are living proof of how football can drive supporters to extreme lengths to follow their team.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4136/live/f0cf6350-76fe-11f1-b976-0b9c15b0ccfc.jpg"
+          "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00f5/live/caa8a4b0-7768-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
           "title": "How to turn BBC Sport alerts on or off for England v Mexico",
@@ -220,18 +213,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a1/live/c91b1890-76f4-11f1-ab95-f1a10991b6dc.jpg"
         },
         {
-          "title": "Mahrez retires from Algeria duty after World Cup exit",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cn0vwn78n8do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-03",
-          "summary": "Algeria captain Riyad Mahrez announces his retirement from international football after the Desert Foxes\u2019 2-0 defeat by Switzerland in the World Cup round of 32.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf7/live/060d9e70-76b5-11f1-925a-557464d48d36.jpg"
-        },
-        {
-          "title": "England, France & Spain v Portugal on BBC in last 16",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
+          "title": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-02",
-          "summary": "England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c6d/live/daceb080-7661-11f1-81dc-457c16554056.jpg"
+          "summary": "Senegal's nightmarish year continues, with a heart-breaking collapse against Belgium featuring late penalty drama which was remarkably similar to events in this year's chaotic Afcon final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3813/live/877fdb90-760a-11f1-b976-0b9c15b0ccfc.jpg"
         }
       ],
       "highlights": [
@@ -245,16 +231,8 @@
   },
   "standout_moments": [
     {
-      "moment": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Portugal through to last 16 after dramatic victory over Croatia",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
-      "link": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852"
+      "moment": "'Greatest night ever in Super League' | Toulouse romp to record-breaking victory!",
+      "link": "https://www.skysports.com/watch/video/13560518/toulouse-romp-to-record-breaking-victory"
     }
   ]
 }
