@@ -1,51 +1,79 @@
 {
-  "generated_date": "2026-07-09",
-  "week_ending": "July 09, 2026",
+  "generated_date": "2026-07-10",
+  "week_ending": "July 10, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Idolises Ronaldo, plays like Saka - meet  \u00a340m Chelsea winger Quenda",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00e/live/3dd9a510-7b06-11f1-9742-ddd4bea925d0.jpg"
+          "title": "Arsenal sign Spain defender Batlle on free transfer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6496/live/f8579a20-7c4e-11f1-912a-c3e242c0bef0.jpg"
+        },
+        {
+          "title": "Loyal and royal: How the future King became a football superfan",
+          "link": "https://www.bbc.co.uk/news/articles/cly9r8j7vrwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "A love of football connects William to the country he will one day reign over in a way polo would not.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb8/live/c7f92f70-7b76-11f1-bee8-53ce494e1abc.png"
+        },
+        {
+          "title": "How football has helped immigrants make a home in the US",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8e2n00gge6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "Football is the common bond for the immigrants and refugees who play matches in a Maine park, and has helped them develop a sense of community in a foreign land.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af35/live/4a629ad0-7aed-11f1-94d8-c95634a95d3e.jpg"
         },
         {
           "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ns8d0z?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ny0bzw?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "England Assistant Manager Anthony Barry speaks with Ian Dennis ahead of Norway match.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nw38qn.jpg"
+        },
+        {
+          "title": "York Knights secure third consecutive Super League victory for first time in history",
+          "link": "https://www.skysports.com/watch/video/13562160/york-knights-20-16-hull-fc-super-league-highlights",
+          "published": "2026-07-10",
+          "summary": "Highlights of the Super League match between York Knights and Hull FC.",
+          "image": "https://e0.365dm.com/26/07/1920x1080/super-league-york-knights-hull-fc_7294242.jpg?20260710063433"
+        },
+        {
+          "title": "Quansah banned for two games after Mexico red card",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-09",
-          "summary": "Rick & Lloyd get a taste of Norway before England's quarter-final.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ntlbl9.jpg"
+          "summary": "England defender Jarell Quansah receives a two-match ban for his red card against Mexico.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876a/live/f06d7130-7bb4-11f1-8b3b-4de03d5aab17.jpg"
         },
         {
-          "title": "Scotland goalkeeper Gunn signs for San Jose Earthquakes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c982080yd7ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-08",
-          "summary": "Scotland goalkeeper Angus Gunn signs for San Jose Earthquakes after being released by Nottingham Forest.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d12/live/2e278d40-7afb-11f1-a13d-51cbdbc312b1.jpg"
+          "title": "Palace sign Spain defender Mingueza on free transfer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdxd5rd7kqwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-09",
+          "summary": "Crystal Palace sign Celta Vigo defender Oscar Mingueza on a free transfer, subject to international clearance.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a37/live/cf897a30-7bb0-11f1-9b70-93a7d5047ee3.jpg"
         },
         {
-          "title": "Portugal confirm departure of coach Martinez",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c78ygpede52o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-08",
-          "summary": "The Portuguese football federation confirm the departure of national team coach Roberto Martinez, while Rafael Marquez replaces Javier Aguirre as Mexico coach.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c3/live/4dced040-7ad8-11f1-81e2-67653cf46e84.jpg"
+          "title": "Ex-Leeds keeper Darlow set for Man Utd move",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj0g61gedz7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-09",
+          "summary": "Manchester United are close to signing Wales and former Leeds goalkeeper Karl Darlow on a free transfer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb5/live/747bbb10-7bbc-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
-          "title": "England players granted day off after Mexico win",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-08",
-          "summary": "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee55/live/89c3dc50-7ae5-11f1-aedf-4d9ee0413739.jpg"
+          "title": "Meslier joins Arsenal on free transfer after Leeds exit",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq51xj4pjwwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-09",
+          "summary": "Arsenal seal the signing of former Leeds United goalkeeper Illan Meslier on a free transfer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b76f/live/029fdd00-7b99-11f1-88df-c98554e5b30c.jpg"
         },
         {
-          "title": "Leeds sign free agent Wilson after Fulham exit",
-          "link": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
-          "published": "2026-07-08",
-          "summary": "Leeds have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.&#160;",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945"
+          "title": "Papers: EU lawmakers call for investigation into Balogun 'scandal'",
+          "link": "https://www.skysports.com/football/news/12040/13562130/x-paper-talk",
+          "published": "2026-07-09",
+          "summary": "The top stories and transfer rumours from Friday's newspapers...",
+          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
         },
         {
           "title": "Messi rescues Argentina with equaliser against Egypt",
@@ -67,13 +95,6 @@
           "published": "2026-07-07",
           "summary": "USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all aro...",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd29/live/6418aee0-79a5-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "title": "Bellingham scores two in 98 seconds to silence the Azteca",
-          "link": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-06",
-          "summary": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc9/live/7f282fa0-78e5-11f1-9510-1546718f668b.jpg"
         }
       ],
       "highlights": [
@@ -88,18 +109,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Jansen set for debut as Ireland make nine changes for Japan clash",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13561840/japan-vs-ireland-sean-jansen-to-make-international-debut-as-andy-farrell-makes-nine-changes-for-newcastle-contest",
-          "published": "2026-07-09",
-          "summary": "Sean Jansen will win his first cap in a much-changed Ireland side for Saturday's Nations Championship clash with Japan in Australia.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sean-jansen-ireland_7293402.jpg?20260709070326"
-        },
-        {
-          "title": "Leeds confirm Wilson arrival on free transfer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0rydrz49e0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-08",
-          "summary": "Leeds confirm the signing attacking midfielder Harry Wilson on a four-year deal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/fc0a8190-7af1-11f1-94d8-c95634a95d3e.jpg"
+          "title": "Hull moves within two of Evian Championship lead",
+          "link": "https://www.skysports.com/golf/news/12040/13562237/evian-championship-charley-hull-cards-second-round-70-to-remain-in-contention-alongside-aki-iwai-and-lottie-woad",
+          "published": "2026-07-10",
+          "summary": "Charley Hull trimmed Aki Iwai's lead to two shots with an encouraging second round at the Amundi Evian Championship.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-charley-hull-evian_7294483.jpg?20260710115240"
         }
       ],
       "highlights": [
@@ -136,21 +150,28 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "What a World Cup it has been with great goals, thrilling comebacks, late drama, shock results. But how will this tournament be remembered?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/becd/live/c9bf1210-7b18-11f1-b976-0b9c15b0ccfc.png"
+          "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5f/live/d8cfcd00-7c24-11f1-a4f7-e1c223785e11.jpg"
         },
         {
-          "title": "Papers: England set to get bank holiday IF Three Lions win World Cup",
-          "link": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
-          "published": "2026-07-09",
-          "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+          "title": "More than the Score",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ny0prm?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "How does a breakout performance at the World Cup affect a player\u2019s transfer value?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ny0pwt.jpg"
         },
         {
-          "title": "Chris Sutton's World Cup quarter-final predictions",
+          "title": "France into semi-finals after comfortable win over Morocco",
+          "link": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-09",
+          "summary": "Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f8/live/f7c5b270-7be2-11f1-9510-1546718f668b.jpg"
+        },
+        {
+          "title": "BBC expert Sutton's World Cup quarter-final predictions",
           "link": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-08",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
@@ -169,13 +190,6 @@
           "published": "2026-07-07",
           "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d645/live/525c2c60-7a2f-11f1-bee8-53ce494e1abc.jpg"
-        },
-        {
-          "title": "Super-sub Merino delivers 'killer goal' for Spain",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-06",
-          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1505/live/4880bcc0-797f-11f1-b976-0b9c15b0ccfc.jpg"
         }
       ],
       "highlights": [
@@ -188,10 +202,6 @@
     }
   },
   "standout_moments": [
-    {
-      "moment": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&at_campaign=rss"
-    },
     {
       "moment": "Fernandez header seals dramatic Argentina comeback",
       "link": "https://www.bbc.co.uk/sport/football/videos/cdjk02y8133o?at_medium=RSS&at_campaign=rss"
