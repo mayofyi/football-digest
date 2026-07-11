@@ -1,16 +1,44 @@
 {
-  "generated_date": "2026-07-10",
-  "week_ending": "July 10, 2026",
+  "generated_date": "2026-07-11",
+  "week_ending": "July 11, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Arsenal sign Spain defender Batlle on free transfer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+          "title": "Haaland has advantage over Man City team-mates",
+          "link": "https://www.bbc.co.uk/sport/videos/cy06rd1z816o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "BBC Sport World Cup pundits Micah Richards, Wayne Rooney and Cesar Azpilicueta look ahead to England's match against Norway and feel that Erling Haaland will have an advantage over his Manchester City...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d422/live/71298950-7cad-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ny6vsk?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "England manager Thomas Tuchel & captain Harry Kane speak to John Murray ahead of Norway.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nw38qn.jpg"
+        },
+        {
+          "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+          "link": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-10",
-          "summary": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6496/live/f8579a20-7c4e-11f1-912a-c3e242c0bef0.jpg"
+          "summary": "The two players have won an army of admirers from social media clips and their honesty in interviews.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9a/live/329b22d0-7ca2-11f1-bc75-67a16fbc54d2.jpg"
+        },
+        {
+          "title": "Edwards leaves football chief role with Liverpool owners FSG",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpd3gqz6qleo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "Liverpool owners Fenway Sports Group announce the departure of Michael Edwards, the company's chief executive of football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e52/live/718ca8d0-7c69-11f1-ab77-73970114f4de.jpg"
+        },
+        {
+          "title": "England defender Charles joins Man City from Chelsea",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "Manchester City have signed England international Niamh Charles for \u00a3500,000 from Women's Super League rivals Chelsea.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d93/live/2505f430-7c6e-11f1-98fd-6b03daaf8a77.png"
         },
         {
           "title": "Loyal and royal: How the future King became a football superfan",
@@ -20,60 +48,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb8/live/c7f92f70-7b76-11f1-bee8-53ce494e1abc.png"
         },
         {
-          "title": "How football has helped immigrants make a home in the US",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8e2n00gge6o?at_medium=RSS&at_campaign=rss",
+          "title": "Arsenal sign Spain defender Batlle on free transfer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-10",
-          "summary": "Football is the common bond for the immigrants and refugees who play matches in a Maine park, and has helped them develop a sense of community in a foreign land.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af35/live/4a629ad0-7aed-11f1-94d8-c95634a95d3e.jpg"
+          "summary": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6496/live/f8579a20-7c4e-11f1-912a-c3e242c0bef0.jpg"
         },
         {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ny0bzw?at_medium=RSS&at_campaign=rss",
+          "title": "Can King Arthur conquer America? Fery eyes US Open after Wimbledon heroics",
+          "link": "https://www.skysports.com/tennis/news/12040/13562218/wimbledon-fairytale-of-new-york-can-arthur-fery-continue-his-remarkable-rise-at-the-us-open",
           "published": "2026-07-10",
-          "summary": "England Assistant Manager Anthony Barry speaks with Ian Dennis ahead of Norway match.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nw38qn.jpg"
-        },
-        {
-          "title": "York Knights secure third consecutive Super League victory for first time in history",
-          "link": "https://www.skysports.com/watch/video/13562160/york-knights-20-16-hull-fc-super-league-highlights",
-          "published": "2026-07-10",
-          "summary": "Highlights of the Super League match between York Knights and Hull FC.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/super-league-york-knights-hull-fc_7294242.jpg?20260710063433"
-        },
-        {
-          "title": "Quansah banned for two games after Mexico red card",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "England defender Jarell Quansah receives a two-match ban for his red card against Mexico.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876a/live/f06d7130-7bb4-11f1-8b3b-4de03d5aab17.jpg"
-        },
-        {
-          "title": "Palace sign Spain defender Mingueza on free transfer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cdxd5rd7kqwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "Crystal Palace sign Celta Vigo defender Oscar Mingueza on a free transfer, subject to international clearance.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a37/live/cf897a30-7bb0-11f1-9b70-93a7d5047ee3.jpg"
-        },
-        {
-          "title": "Ex-Leeds keeper Darlow set for Man Utd move",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cj0g61gedz7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "Manchester United are close to signing Wales and former Leeds goalkeeper Karl Darlow on a free transfer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb5/live/747bbb10-7bbc-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "Meslier joins Arsenal on free transfer after Leeds exit",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq51xj4pjwwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-09",
-          "summary": "Arsenal seal the signing of former Leeds United goalkeeper Illan Meslier on a free transfer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b76f/live/029fdd00-7b99-11f1-88df-c98554e5b30c.jpg"
-        },
-        {
-          "title": "Papers: EU lawmakers call for investigation into Balogun 'scandal'",
-          "link": "https://www.skysports.com/football/news/12040/13562130/x-paper-talk",
-          "published": "2026-07-09",
-          "summary": "The top stories and transfer rumours from Friday's newspapers...",
-          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+          "summary": "Will we see a Fairytale of New York as new British No 1 Arthur Fery heads to the US Open? Watch every match live from Flushing Meadows on <em>Sky Sports </em>from August 30 to September 13.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-arthur-fery-tennis_7294743.jpg?20260710163427"
         },
         {
           "title": "Messi rescues Argentina with equaliser against Egypt",
@@ -81,20 +67,6 @@
           "published": "2026-07-07",
           "summary": "Lionel Messi scores a late equaliser for Argentina against Egypt to level the game at 2-2 during their match in Atlanta.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ad/live/cd50fd30-7a2d-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "Belgium make light work of US to set up quarter-final tie with Spain",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-07",
-          "summary": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e154/live/4bb84470-79a8-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "title": "'Total calamity!' US gift Belgium a third goal",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-07",
-          "summary": "USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all aro...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd29/live/6418aee0-79a5-11f1-9510-1546718f668b.jpg"
         }
       ],
       "highlights": [
@@ -109,11 +81,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Hull moves within two of Evian Championship lead",
-          "link": "https://www.skysports.com/golf/news/12040/13562237/evian-championship-charley-hull-cards-second-round-70-to-remain-in-contention-alongside-aki-iwai-and-lottie-woad",
+          "title": "Wigan youngsters beat Warrington to keep pressure on Leeds at top",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13562383/wigan-warriors-30-18-warrington-wolves-hosts-keep-pressure-on-leeds-rhinos-as-youngsters-shine-in-win",
           "published": "2026-07-10",
-          "summary": "Charley Hull trimmed Aki Iwai's lead to two shots with an encouraging second round at the Amundi Evian Championship.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-charley-hull-evian_7294483.jpg?20260710115240"
+          "summary": "Wigan's young stars rose to the occasion to clinch a Betfred Super League slugfest against Warrington on a memorable night for Matt Peet's next generation at the Brick Community Stadium.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-super-league-rugby-league_7294965.jpg?20260710223627"
         }
       ],
       "highlights": [
@@ -150,6 +122,41 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9325/live/9e569ad0-7c80-11f1-a046-0508c8c5d104.jpg"
+        },
+        {
+          "title": "Hey Jude: Bellingham's return to England indispensability",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable  resurgence with England at the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d5/live/fd1276c0-7cd5-11f1-96b0-c159ef728dbe.jpg"
+        },
+        {
+          "title": "When the World Cup finishes, the football continues on BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2d/live/7bc0e940-7c89-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4542/live/e3e331f0-7c88-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "title": "Hacking worry for Argentine FA over World Cup emails",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10",
+          "summary": "Argentina's football association signals it may have suffered a cyber attack after emails from its accounts reportedly criticised refereeing in the dramatic win against Egypt at the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd9/live/4aa98760-7c78-11f1-917a-91e958a7e786.jpg"
+        },
+        {
           "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
           "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-10",
@@ -157,11 +164,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5f/live/d8cfcd00-7c24-11f1-a4f7-e1c223785e11.jpg"
         },
         {
-          "title": "More than the Score",
-          "link": "https://www.bbc.co.uk/sounds/play/p0ny0prm?at_medium=RSS&at_campaign=rss",
+          "title": "New species named after Cape Verde keeper Vozinha",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-10",
-          "summary": "How does a breakout performance at the World Cup affect a player\u2019s transfer value?",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ny0pwt.jpg"
+          "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0c/live/adb97d00-7c92-11f1-b9b6-03aa1610fbc2.jpg"
+        },
+        {
+          "title": "Merino: From mobility scooter to World Cup hero in six months",
+          "link": "https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter",
+          "published": "2026-07-10",
+          "summary": "Mikel Merino might have hoped to appear earlier than the 85th minute against Belgium following his match-winning impact from the bench against Portugal. Instead, he had to wait until the 86th. No matt...",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-merino-rodri-spain_7294975.jpg?20260710230900"
         },
         {
           "title": "France into semi-finals after comfortable win over Morocco",
@@ -169,13 +183,6 @@
           "published": "2026-07-09",
           "summary": "Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f8/live/f7c5b270-7be2-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "title": "BBC expert Sutton's World Cup quarter-final predictions",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-08",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"
         },
         {
           "title": "VAR controversially rules out Egypt goal",
@@ -202,6 +209,14 @@
     }
   },
   "standout_moments": [
+    {
+      "moment": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Hacking worry for Argentine FA over World Cup emails",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "moment": "Fernandez header seals dramatic Argentina comeback",
       "link": "https://www.bbc.co.uk/sport/football/videos/cdjk02y8133o?at_medium=RSS&at_campaign=rss"
