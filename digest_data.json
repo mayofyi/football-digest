@@ -1,37 +1,93 @@
 {
-  "generated_date": "2026-07-21",
-  "week_ending": "July 21, 2026",
+  "generated_date": "2026-07-22",
+  "week_ending": "July 22, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Bournemouth midfielder Scott rejects new contract",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-21",
-          "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d9/live/41d52260-84da-11f1-8a1f-271692b35cb6.jpg"
+          "title": "Financial exceptions could be made for Guardiola - Italian FA",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czxqdv4818yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "Pep Guardiola has held talks about becoming Italy head coach, Italian Football Federation president Giovanni Malago has confirmed.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/e475ae30-85ad-11f1-9454-77c2271a5b4a.jpg"
         },
         {
-          "title": "Who am I? Guess Premier League star No 1",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyjly9484go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-21",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb97/live/f0a16790-8309-11f1-926f-c90d1bcfbc84.jpg"
+          "title": "Who am I? Guess Premier League star No 2",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1j1dj9544zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "Will you get today's player in as few attempts as possible?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc2/live/24c4b6a0-859c-11f1-bee8-53ce494e1abc.png"
         },
         {
-          "title": "Japan goalkeeper Okuma signs for Aston Villa",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-21",
-          "summary": "Aston Villa announce the signing of 21-year-old Japan goalkeeper Akane Okuma.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed47/live/9fe418f0-84e1-11f1-8a1f-271692b35cb6.jpg"
+          "title": "Arsenal make sixth summer signing as Spain keeper Rodriguez joins",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d09/live/57f5cb00-8550-11f1-82c8-79209299e29b.jpg"
         },
         {
           "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nzxcxt?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sounds/play/p0nzvk56?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "Fergie, chocolate and Beckham... which one is true?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p00tw7.jpg"
+        },
+        {
+          "title": "Arsenal sign Real Madrid goalkeeper Rodriguez",
+          "link": "https://www.skysports.com/football/news/12040/13565873/misa-rodriguez-arsenal-sign-real-madrid-goalkeeper-on-a-free-transfer",
+          "published": "2026-07-22",
+          "summary": "Arsenal have completed the free signing of former Real Madrid captain and goalkeeper Misa Rodriguez.",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-misa-rodriguez_7303986.jpg?20260722100510"
+        },
+        {
+          "title": "Bournemouth reject \u00a364m bid from Chelsea for Scott",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-21",
-          "summary": "Spain succeed, Argentina played the villains and is the pressure off Thomas Tuchel?",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nzxczc.jpg"
+          "summary": "Bournemouth reject a \u00a364m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d9/live/41d52260-84da-11f1-8a1f-271692b35cb6.jpg"
+        },
+        {
+          "title": "Iraola wants Mac Allister and Alisson to stay with Reds",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7311/live/7e2dda30-8553-11f1-b0be-9b91bb07082f.png"
+        },
+        {
+          "title": "Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c70g8j875klo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Villa's Ezri Konsa, and Nottingham Forest look set to sign a new defender.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ec/live/893a2df0-852d-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "title": "Chelsea interested in former Man City defender Stones",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8f/live/a9cab850-8532-11f1-98e7-15233583140d.jpg"
+        },
+        {
+          "title": "Chelsea sign \u00a3117m Rogers - what will he bring?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "Chelsea's \u00a3117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c155/live/3935ccd0-8549-11f1-95a9-e19e9bf09e34.jpg"
+        },
+        {
+          "title": "Ferguson says Keegan built Newcastle's greatest team",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nzxzdjqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "Former Manchester United manager Sir Alex Ferguson says Kevin Keegan \"carried the love of the game on his sleeve\" as he paid tribute to his former rival.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4114/live/b5e3fb20-84ff-11f1-8b9b-a724b687bb3b.jpg"
+        },
+        {
+          "title": "What could Burnham as PM mean for football?",
+          "link": "https://www.bbc.co.uk/sport/olympics/articles/c80nvp5d1mno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "Andy Burnham is only into his second day as the UK's Prime Minister, but already people are wondering what this could mean for sport.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/864b/live/6eaf4430-84f5-11f1-ae95-69a18db8092b.jpg"
         },
         {
           "title": "All you need to know about Wafcon 2026",
@@ -41,74 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"
         },
         {
-          "title": "Charges and challenges - the scale of the task facing Maresca at Man City",
-          "link": "https://www.skysports.com/football/news/12040/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way",
+          "title": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
+          "link": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
           "published": "2026-07-21",
-          "summary": "Plenty of the Premier League's top clubs have rolled the managerial dice ahead of next season. Manchester City are one of those starting a new era, turning to Enzo Maresca in the wake of Pep Guardiola...",
-          "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014"
+          "summary": "New Hearts head coach Wouter Vrancken endured a nightmare debut as his side's Champions League hopes all but vanished with a 4-0 defeat against Sturm Graz.",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-hearts-wouter-vrancken_7303972.jpg?20260722095223"
         },
         {
-          "title": "Why Arsenal, Villa and Man Utd are most impacted by World Cup",
-          "link": "https://www.skysports.com/watch/video/13565483/what-effect-will-the-world-cup-have-on-injuries-in-the-premier-league",
+          "title": "MVG sends crowd wild with triple bullseye finish!",
+          "link": "https://www.skysports.com/watch/video/13565791/michael-van-gerwen-sends-crowd-wild-with-triple-bullseye-finish",
           "published": "2026-07-21",
-          "summary": "Our data team has compiled an index showing which Premier League teams may be most impacted by the World Cup.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-world-cup_7303195.jpg?20260721114431"
-        },
-        {
-          "title": "Man Utd and Arsenal fight over Kone - Tuesday's gossip",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c934q4722zyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Manchester United and Arsenal fight over France's Manu Kone, Nico Williams could be heading to the Premier League champions, and West Ham reject latest Crysencio Summerville offer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa1b/live/136c2600-8479-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "title": "Guardiola in reported talks with Italy - would England come calling?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ca1/live/25912780-8461-11f1-8cf4-43aed99842b4.jpg"
-        },
-        {
-          "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f09/live/43659cb0-feaf-11f0-8431-c5caf4139334.jpg"
-        },
-        {
-          "title": "'I'm proud of it' - Keegan looks back on career highlights and legacy",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cgmkv3j3yv0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Kevin Keegan talks to Football Focus' Dan Walker in 2018 about some of the standout moments from his career - from winning World Player of the Year twice, to managing England and the iconic \"I would l...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d9/live/7f5a5150-8458-11f1-bee8-53ce494e1abc.jpg"
-        },
-        {
-          "title": "Newcastle, Liverpool and England legend Keegan dies",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ac0/live/1e731800-8452-11f1-8cf4-43aed99842b4.jpg"
-        },
-        {
-          "title": "What will Rogers bring to Alonso's Chelsea?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Chelsea's \u00a3117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7687/live/db736060-8414-11f1-b3ec-1d7f0502d196.jpg"
-        },
-        {
-          "title": "Why are Premier League transfer fees soaring?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4g37y2nyp3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "With Morgan Rogers set to become the third \u00a3100m-plus Premier League transfer of the summer, BBC Sport looks at how the market keeps growing.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/2e7a81c0-841b-11f1-b3ec-1d7f0502d196.jpg"
-        },
-        {
-          "title": "'I turned on Ceefax, saw we'd drawn Red Star Belgrade, and almost fainted'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvg8wrnjlz7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "As Irish Premiership champions Larne prepare to face Red Star Belgrade in Champions League qualifying on Tuesday, ex-Portadown defender Alfie Stewart reflects on facing the then European Cup holders 3...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c928/live/471d0a60-820c-11f1-a389-0bd432a143c3.jpg"
+          "summary": "Michael Van Gerwen sends the Blackpool crowd crazy with a triple bullseye checkout against Dirk Van Duijvenbode in the World Matchplay.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-van-gerwen-triple-bullseye_7303739.jpg?20260721211638"
         }
       ],
       "highlights": [
@@ -123,11 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Earl slams 'brutal' Nations Championship schedule",
-          "link": "https://www.skysports.com/rugby-union/news/12040/13565469/nations-championship-england-forward-slams-brutal-nations-championship-schedule-after-travelling-25000-miles-in-july",
-          "published": "2026-07-21",
-          "summary": "Ben Earl has called for a rethink of the Nations Championship format following England&#8217;s \"brutal\" itinerary that featured three Tests in three continents on successive weekends.",
-          "image": "https://e2.365dm.com/26/03/1920x1080/skysports-ben-earl-rugby-england_7180263.jpg?20260302200819"
+          "title": "Southampton boss Eckert charged by FA over Spygate",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "Southampton head coach Tonda Eckert is charged by the Football Association for his role in the Spygate scandal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b8/live/8f7cb5a0-85ac-11f1-a300-4537eea2be58.jpg"
         }
       ],
       "highlights": [
@@ -164,18 +164,32 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "The country that doesn't play football ... yet",
+          "title": "Why will the September international break last three weeks?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22",
+          "summary": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a689/live/b3edb6e0-85a3-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "title": "Infantino's 'time is up' with Fifa - La Liga boss",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqjxzy44l0vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21",
+          "summary": "La Liga president Javier Tebas calls for Fifa president Gianni Infantino to quit, and claims the governing body is \"destroying the football industry\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00ac/live/8f7915c0-84f4-11f1-ae95-69a18db8092b.jpg"
+        },
+        {
+          "title": "The country that doesn't play football... yet",
           "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-21",
           "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9599/live/2a716010-84e0-11f1-8a1f-271692b35cb6.jpg"
         },
         {
-          "title": "Fake kits worth \u00a318m seized by police during World Cup",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0rdgrkx552o?at_medium=RSS&at_campaign=rss",
+          "title": "Keeper Martinez may 'step aside' from Argentina",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c62xzle86n4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-21",
-          "summary": "Counterfeit football shirts worth over \u00a318m were seized in the UK during the course of the World Cup because of safety concerns, with the Fire Service warning the outfits can be a danger to those who ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e173/live/3b71c0b0-8465-11f1-926f-c90d1bcfbc84.jpg"
+          "summary": "Argentina goalkeeper Emi Martinez says he is considering whether it is \"time to step aside\" from international football after his side's 1-0 defeat to Spain in the World Cup final.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f9d/live/f3bd3c10-8502-11f1-8b9b-a724b687bb3b.jpg"
         },
         {
           "title": "Why World Cup can be game-changer for ambitious MLS",
@@ -183,13 +197,6 @@
           "published": "2026-07-21",
           "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f23/live/82543ab0-8287-11f1-a23b-f5a17a30f7d0.jpg"
-        },
-        {
-          "title": "The 58 transfers to watch now the World Cup is over",
-          "link": "https://www.skysports.com/football/news/12040/13565342/transfer-news-the-players-who-could-move-before-deadline-day-now-the-world-cup-is-over",
-          "published": "2026-07-21",
-          "summary": "The World Cup is over but there are still more than six weeks to go in the transfer window. Here are 58 players to keep an eye on for the rest of the summer.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-transfer_7302450.jpg?20260720135105"
         },
         {
           "title": "Argentina boss Scaloni leaves press conference in tears",
@@ -211,20 +218,6 @@
           "published": "2026-07-20",
           "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/057a/live/7d0127e0-83d0-11f1-926f-c90d1bcfbc84.jpg"
-        },
-        {
-          "title": "Best goal, best player, best fans - BBC reporters' World Cup awards",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cdxd1pq4nrko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "BBC Sport reporters pick their best moments of the tournament - and you can vote for yours.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d7/live/cae2fd50-7eb5-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-20",
-          "summary": "Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af6/live/b9aa30c0-83d4-11f1-ad7d-c7f9656ee7bb.jpg"
         },
         {
           "title": "Dominant Spain beat Argentina to win World Cup after extra time",
@@ -266,20 +259,12 @@
   },
   "standout_moments": [
     {
-      "moment": "What will Rogers bring to Alonso's Chelsea?",
+      "moment": "Chelsea sign \u00a3117m Rogers - what will he bring?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "England beat France in 10-goal thriller to win third-place play-off",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Menzies shocks world No 2 Humphries in World Matchplay thriller",
-      "link": "https://www.skysports.com/darts/news/12040/13565323/world-matchplay-darts-luke-humphries-shocked-by-cameron-menzies-in-first-round-at-the-winter-gardens-in-blackpool"
-    },
-    {
-      "moment": "HUGE SHOCK! Humphries OUT after Big Fish finish from Menzies!",
-      "link": "https://www.skysports.com/watch/video/13565444/luke-humphries-vs-cameron-menzies-world-matchplay-highlights"
     }
   ]
 }
