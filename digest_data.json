@@ -1,10 +1,52 @@
 {
-  "generated_date": "2026-07-25",
-  "week_ending": "July 25, 2026",
+  "generated_date": "2026-07-26",
+  "week_ending": "July 26, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Gomez injury overshadows winning start for Iraola",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26",
+          "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92cc/live/489dc9f0-888e-11f1-890a-814beb5628ee.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 6",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czekgekw0elo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26",
+          "summary": "Will you get today's player in as few attempts as possible?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/55cf7c10-85b2-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "title": "Impressive Liverpool beat Sunderland in Iraola's first game in charge",
+          "link": "https://www.skysports.com/football/liverpool-vs-sunderland/report/554985",
+          "published": "2026-07-26",
+          "summary": "Andoni Iraola won his first match in charge of Liverpool as his new side produced an impressive display to beat Sunderland 4-2 in their opening game of their summer tour of the US.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kieran-morrison_7306845.jpg?20260726010648"
+        },
+        {
+          "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-25",
+          "summary": "Bodo/Glimt striker Kasper Hogh is due to have a medical with Celtic in the next 24 hours, the Scottish champions' manager, Martin O'Neill, reveals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6298/live/926c24e0-8853-11f1-b5ed-29e4004ddba0.jpg"
+        },
+        {
+          "title": "Unhappy Tottenham players should leave - De Zerbi",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-25",
+          "summary": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/371f/live/ec62a970-880c-11f1-afbe-b9a38c21b1d6.jpg"
+        },
+        {
+          "title": "Growing concerns before Defoe exit - Woking director",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-25",
+          "summary": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5336/live/3b8eefb0-8815-11f1-afbe-b9a38c21b1d6.jpg"
+        },
         {
           "title": "On the move - football's youngest journeymen",
           "link": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
@@ -13,11 +55,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2415/live/043bf610-87a8-11f1-b4f4-2f10373ed74c.jpg"
         },
         {
-          "title": "Who am I? Guess Premier League star No 5",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3v0kv2ggq3o?at_medium=RSS&at_campaign=rss",
+          "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-25",
-          "summary": "Will you get today's player in as few attempts as possible?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f47e/live/2e0294b0-85b2-11f1-bee8-53ce494e1abc.png"
+          "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6e/live/0e8a01d0-8851-11f1-b8ee-9b3c26ad07bb.jpg"
         },
         {
           "title": "Chelsea in talks for Villa set-piece guru MacPhee",
@@ -27,18 +69,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4c/live/d2ff5fe0-880d-11f1-afbe-b9a38c21b1d6.jpg"
         },
         {
-          "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
-          "link": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
+          "title": "All done deals in July 2026",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-25",
-          "summary": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training before he left his role as head coach after just four months in charge.",
-          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jermain-defoe-woking_7213037.jpg?20260407101959"
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "title": "Price: People make it too easy for Littler",
-          "link": "https://www.skysports.com/darts/news/12040/13566703/world-matchplay-darts-gerwyn-price-issues-title-warning-to-ruthless-luke-littler-after-reaching-blackpool-semi-finals",
+          "title": "In-form Leigh close in on top four of Super League",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13566959/super-league-in-form-leigh-close-in-on-top-four-with-victory-against-warrington-as-huddersfield-end-12-game-wait-for-win",
           "published": "2026-07-25",
-          "summary": "Gerwyn Price insists he can thwart Luke Littler's bid for back-to-back World Matchplay titles and believes some players &#8216;make it too easy&#8217; for the defending champion.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luke-littler-gerwyn-price_7306274.jpg?20260725003043"
+          "summary": "In-form Leigh saw off Warrington 28-12 to close in on the top four in the Betfred Super League.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-super-league-leigh-leopards_7306819.jpg?20260725224256"
+        },
+        {
+          "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
+          "link": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
+          "published": "2026-07-25",
+          "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+          "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
         },
         {
           "title": "Guardiola turns down Italy manager job",
@@ -48,13 +97,6 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f9/live/81e5a190-8741-11f1-bee8-53ce494e1abc.jpg"
         },
         {
-          "title": "Scottish sides in Europe postpone league matches",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy4kvvx28d1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "All five Scottish teams in European competitions have opted to postpone their Premiership matches scheduled for Saturday, 22 August.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc96/live/e67b2e50-8772-11f1-b430-afa19a42b819.jpg"
-        },
-        {
           "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
           "link": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-24",
@@ -62,53 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e4/live/c1e5d8d0-8752-11f1-b8ee-9b3c26ad07bb.jpg"
         },
         {
-          "title": "Senegal appeal date set after Afcon win overturned",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce9788dmyndo?at_medium=RSS&at_campaign=rss",
+          "title": "Scottish sides in Europe postpone league matches",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy4kvvx28d1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-24",
-          "summary": "The Court of Arbitration for Sport sets a date for a hearing over Senegal's appeal against being stripped of the 2025 Africa Cup of Nations title.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d6/live/1779b300-876e-11f1-b430-afa19a42b819.jpg"
-        },
-        {
-          "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "World Cup winner Rodri is to have back surgery, says new Manchester City boss Enzo Maresca.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ca/live/b2714390-8765-11f1-84de-b90328819e7a.jpg"
-        },
-        {
-          "title": "What's working - and what's not - for WSL fans?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cj0plpe7eq6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "BBC Sport spoke to fans of the Women's Super League and England Lionesses to learn about their experiences in the game and discuss what could be improved.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fd2/live/9e4eb740-8723-11f1-bee8-53ce494e1abc.jpg"
-        },
-        {
-          "title": "Seven stars to watch at Wafcon 2026 and why",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crk8jvpdnvno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "As the biggest ever Women's Africa Cup of Nations gets ready for kick-off, BBC Sport Africa picks seven players to keep an eye on in Morocco.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/35d38df0-8136-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "title": "Hearts sign Mendy for potential Forest Green record fee",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy8m33l3kk3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "Forest Green Rovers sell midfielder Laurent Mendy to Heart of Midlothian for what the National League outfit say could be a club record fee of nearly \u00a31m \"if all targets are met\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c8/live/d26f14c0-8773-11f1-b430-afa19a42b819.jpg"
-        },
-        {
-          "title": "Former Brighton keeper Baggaley joins Birmingham",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ceqej9rnngro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "Newly-promoted Birmingham City sign goalkeeper Sophie Baggaley as a free agent after she leaves Brighton.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a72/live/1deb7560-875b-11f1-95ec-a30de4e448c4.jpg"
-        },
-        {
-          "title": "French stars as Wigan add to Saints' disarray | 12-player Wakefield rout Tigers",
-          "link": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63290",
-          "published": "2026-07-24",
-          "summary": "Bevan French proved the star of the show on his return as Wigan Warriors eventually ripped St Helens apart 38-16 in Friday's Super League, compounding Saints' woes.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-french-wigan-eckersley_7306218.jpg?20260724220723"
+          "summary": "All five Scottish teams in European competitions have opted to postpone their Premiership matches scheduled for Saturday, 22 August.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc96/live/e67b2e50-8772-11f1-b430-afa19a42b819.jpg"
         }
       ],
       "highlights": [
@@ -121,22 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed'",
-          "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary",
-          "published": "2026-07-24",
-          "summary": "Live scores, team news, text commentary, analysis from Friday's Super League derby clash between Wigan Warriors and St Helens, live on Sky Sports+ from 7.30pm; Wigan second in the table, two points of...",
-          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-keighran-wigan-warriors_7306207.jpg?20260724214625"
-        },
-        {
-          "title": "Russell: Mercedes' fears over Ferrari pace have materialised",
-          "link": "https://www.skysports.com/f1/news/12040/13566541/hungarian-gp-mercedes-fears-about-ferrari-pace-realised-says-george-russell-after-lewis-hamilton-charles-leclerc-top-practice",
-          "published": "2026-07-24",
-          "summary": "George Russell admitted Mercedes' fears about Ferrari's likely strong pace at the Hungarian Grand Prix materialised in a Friday practice dominated by their world championship rivals.",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-charles-leclerc-george-russell_7306232.jpg?20260724222258"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -147,7 +132,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Catalans secure slim French derby triumph",
+          "link": "https://www.skysports.com/watch/video/13567038/toulouse-16-18-catalans-dragons-super-league-highlights",
+          "published": "2026-07-26",
+          "summary": "Highlights of the Super League match between Toulouse Olympique and Catalans Dragons.",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-toulouse-catalans_7306820.jpg?20260725224724"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -170,20 +163,6 @@
     "world_cup": {
       "name": "World Cup",
       "articles": [
-        {
-          "title": "England amputee team's World Cup dream on hold",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54df/live/7a9117c0-873d-11f1-a10e-a5d4f08bc20c.jpg"
-        },
-        {
-          "title": "Scotland's Gunn concedes four in San Jose debut defeat",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqlxyvq7n93o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-24",
-          "summary": "Scotland goalkeeper Angus Gunn suffers a nightmare debut for San Jose Earthquakes as they slump to a 4-0 defeat at home to Orlando City in their first match following Major League Soccer's break for t...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e4c/live/0a316150-8739-11f1-a10e-a5d4f08bc20c.jpg"
-        },
         {
           "title": "The country that doesn't play football... yet",
           "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
@@ -225,20 +204,6 @@
           "published": "2026-07-19",
           "summary": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd2/live/82b38750-83bc-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "title": "England beat France in 10-goal thriller to win third-place play-off",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-19",
-          "summary": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a259/live/f5a9d0c0-8308-11f1-bee8-53ce494e1abc.jpg"
-        },
-        {
-          "title": "Brilliant first half, turbulent second - Tuchel",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-19",
-          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4434/live/91bbb8b0-8305-11f1-926f-c90d1bcfbc84.jpg"
         }
       ],
       "highlights": [
@@ -252,16 +217,12 @@
   },
   "standout_moments": [
     {
-      "moment": "England beat France in 10-goal thriller to win third-place play-off",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
+      "moment": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Hearts sign Mendy for potential Forest Green record fee",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy8m33l3kk3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed'",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary"
+      "moment": "Catalans secure slim French derby triumph",
+      "link": "https://www.skysports.com/watch/video/13567038/toulouse-16-18-catalans-dragons-super-league-highlights"
     }
   ]
 }
