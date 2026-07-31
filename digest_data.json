@@ -1,16 +1,100 @@
 {
-  "generated_date": "2026-07-30",
-  "week_ending": "July 30, 2026",
+  "generated_date": "2026-07-31",
+  "week_ending": "July 31, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Howe to leave Newcastle with Jaissle expected to replace him",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss",
+          "title": "Will Scottish Premiership return to two-team title tussle?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gjkne39l3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "A new Scottish Premiership season begins on Friday, but will anyone match Heart of Midlothian from last term and challenge Celtic and Rangers for the title?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3702/live/0192c7e0-8cb2-11f1-b8ee-9b3c26ad07bb.png"
+        },
+        {
+          "title": "The Premier League clubs fighting a World Cup hangover",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "Which Premier League clubs have carried the biggest World Cup workload?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/8be9f630-8c34-11f1-89bb-9b3e3c6f25f4.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 11",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy745804r8yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bd9/live/088569b0-85b2-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "title": "Mullins named manager at League Two Newport County",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwyqe38wx3no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "Hayden Mullins leaves his role as Fulham Under-21 boss to become the new head coach of League Two side Newport County.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83c/live/5a4a8a40-8cc0-11f1-a84f-affcf171240b.jpg"
+        },
+        {
+          "title": "Are Bournemouth set to strike defender gold again with Silva?",
+          "link": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
+          "published": "2026-07-31",
+          "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He play...",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-antonio-silva-benfica_7303681.jpg?20260721192012"
+        },
+        {
+          "title": "Huddersfield Giants 22-16 Hull FC",
+          "link": "https://www.skysports.com/watch/video/13568637/huddersfield-giants-22-16-hull-fc-super-league-highlights",
+          "published": "2026-07-31",
+          "summary": "Highlights of Huddersfield Giants against Hull FC from the Super League.",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-huddersfield-hull-fc_7310828.jpg?20260730231820"
+        },
+        {
+          "title": "Challenging times ahead for Newcastle - Shearer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-30",
-          "summary": "Newcastle manager Eddie Howe is set to leave the club with immediate effect, sources tell BBC Sport.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945a/live/6cb01ca0-8bf7-11f1-9127-6b0fc0b6fa67.jpg"
+          "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg"
+        },
+        {
+          "title": "Defender Stones joins Inter Milan on free transfer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da88/live/dbebb4b0-8c17-11f1-94b2-05bc97107049.jpg"
+        },
+        {
+          "title": "Three clubs monitoring Delap - Friday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdx857g7rx8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "Three Premier League clubs are watching Chelsea's Liam Delap, Manchester City are closing in on rising star Ayyoub Bouaddi, plus more.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aca/live/949e2eb0-8c46-11f1-b2ab-0dd01740f9f6.png"
+        },
+        {
+          "title": "Scottish Premiership is back on Friday - here's why you shouldn't miss it",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cx2vljlg5llo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "BBC Scotland takes a look at the top talking points going into the new Scottish Premiership season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/566c/live/415f6810-8c2b-11f1-9fe2-97492b603d93.jpg"
+        },
+        {
+          "title": "Staveley in talks to buy 25% stake in West Ham",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b965/live/dbf92160-8c47-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "Elliott ready to take 'second chance' at Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp30lp0z4qpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "Harvey Elliott discusses his \"tough\" loan spell at Aston Villa and why he's determined to enjoy his football again at Liverpool.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d740/live/775b6b60-8c23-11f1-b947-9b4cd2356dd8.jpg"
+        },
+        {
+          "title": "Tonali 'took 10 minutes' to decide to join Spurs",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-30",
+          "summary": "Club-record \u00a3100m signing Sandro Tonali took \"10 minutes\" to decide to join Tottenham after meeting manager Roberto de Zerbi.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08f/live/5120aca0-8bea-11f1-861c-757141bb522d.jpg"
         },
         {
           "title": "The winner who played for Tuchel - potential Newcastle boss Jaissle",
@@ -25,90 +109,6 @@
           "published": "2026-07-30",
           "summary": "Three of the Premier League's \"big six\" have new managers, the champions have a key injury issue and Tottenham and Chelsea are breaking transfer records - and that might mean a very open title race.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/63ec62c0-8b40-11f1-b8ee-9b3c26ad07bb.png"
-        },
-        {
-          "title": "De Zerbi wants to convince Spence to stay at Spurs",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0jl4e40vwdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "Tottenham manager Roberto de Zerbi says he wants to convince England defender Djed Spence to stay at the club.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/9f83f830-8bdf-11f1-9d57-5bf4695bf6fa.jpg"
-        },
-        {
-          "title": "How Tottenham's transfer window shows big WSL ambitions",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c98vj54z450o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "It is clear from Tottenham's summer transfer business that they have big ambitions in the Women's Super League next season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f709/live/d62dfb80-8be7-11f1-861c-757141bb522d.jpg"
-        },
-        {
-          "title": "Who am I? Guess Premier League star No 10",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyv35265n3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572f/live/e6ff1b60-85b1-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "title": "All done deals in July 2026",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-        },
-        {
-          "title": "Women's Super League fixtures announced for 2026/27 season",
-          "link": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round",
-          "published": "2026-07-30",
-          "summary": "Manchester City will begin their Women's Super League title defence against newly-promoted Birmingham City after London City Lionesses have opened the 2026/27 season against Manchester United, live on...",
-          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wsl-womens-super-league_7306579.jpg?20260725163241"
-        },
-        {
-          "title": "What is the magic number to win Scottish Premiership?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3wy7ww85j1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29",
-          "summary": "Would 31 wins do it? BBC Scotland looks at the trends of Scottish top-flight champions in the 2000s.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d982/live/b22f7950-8b7b-11f1-843a-4d201c635cc1.jpg"
-        },
-        {
-          "title": "McGregor wants Celtic to win league 'in more style'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0km740dngdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29",
-          "summary": "Celtic captain Callum McGregor insists he sees his future at the club and wants to win the league \"in a bit more style\" this term.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c68/live/5be91070-8b3e-11f1-b2d7-b96c6bc9d7f5.jpg"
-        },
-        {
-          "title": "Savinho open to leaving Man City amid Spurs interest",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29",
-          "summary": "Manchester City winger Savinho is open to leaving the club and is keen to join Premier League rivals Tottenham.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc2/live/6cf4a030-8ab9-11f1-9997-a1a12b7801e6.jpg"
-        },
-        {
-          "title": "Wrexham complete signing of Palace defender Imray",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crl7d6n6kp5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29",
-          "summary": "Wrexham have completed the signing of Crystal Palace full-back Danny Imray, their first incoming of the summer transfer window.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768d/live/bfabc000-8b73-11f1-9c48-75e854e5573d.jpg"
-        },
-        {
-          "title": "Is Littler most dominant sportsperson in the world?",
-          "link": "https://www.skysports.com/darts/news/12040/13568177/luke-littler-edges-scottie-scheffler-and-jannik-sinner-as-the-most-dominant-sportsperson-love-the-darts-podcast",
-          "published": "2026-07-29",
-          "summary": "Teenage dart sensation Luke Littler has left the darts world questioning if anyone will ever get near him again after winning the World Matchplay Darts on Sunday.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7307398.jpg?20260726215327"
-        },
-        {
-          "title": "Are there already worrying signs for Vrancken's Hearts?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-28",
-          "summary": "Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3094/live/92dd7f20-8ad6-11f1-b1e6-67a795388f41.jpg"
-        },
-        {
-          "title": "After 16 days of chaos, can Italian football reset for new era?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cddj2m5m0p0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-28",
-          "summary": "Chaos consumed Italian football as Paolo Maldini and Leonardo resigned during the search for a manager \u2013 can Roberto Mancini now bring calm on being given the role?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b98/live/4ec17980-8a82-11f1-83c5-cf36fe4b083e.jpg"
         }
       ],
       "highlights": [
@@ -121,29 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "US tour highlights Wrexham's stock higher than ever",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9d8gylgg0vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "Wrexham's tour of the USA is demonstrating that the Championship club's already-high stock is continuing to rise.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa6/live/241045c0-8b65-11f1-89d1-e5f39fef6e97.jpg"
-        },
-        {
-          "title": "Birmingham & Preston - Barcelona's unlikely UK camp",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y3k55m172o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-29",
-          "summary": "Barcelona will be training at St George's Park this week and taking on Championship sides Birmingham City and Preston.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34e7/live/e9801e80-8b23-11f1-b8ee-9b3c26ad07bb.jpg"
-        },
-        {
-          "title": "Bialecki clinches Players Championship 26 title",
-          "link": "https://www.skysports.com/darts/news/12040/13568167/players-championship-26-sebastian-bialecki-claims-second-pdc-ranking-title-as-henry-coates-and-beau-greaves-shine",
-          "published": "2026-07-29",
-          "summary": "Sebastian Bialecki secured his second PDC ranking title with a hard-fought 8-6 victory against Mario Vandenbogaerde in Wednesday's Players Championship 26 final.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-darts-sebastian-bialecki_7309753.jpg?20260729202643"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -178,11 +156,32 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Fifa could receive first money from Infantino plan in October",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "Fifa could bank first lot of private World Cup cash by end of October as European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a65/live/45f51740-8bf3-11f1-b2ab-0dd01740f9f6.jpg"
+          "title": "Senior Infantino adviser quits after Asian federation opposes plans",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754b/live/c6697f30-8cc3-11f1-8f2c-4d6f62a39ad4.jpg"
+        },
+        {
+          "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/7421ae40-123f-11f1-87d9-cda4cc68a607.jpg"
+        },
+        {
+          "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad54/live/495f4a10-8c50-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "title": "FIFA denies 'selling football' as AFC joins opposition and senior advisor quits",
+          "link": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
+          "published": "2026-07-31",
+          "summary": "Carlos Cordeiro - a senior advisor to FIFA president Gianni Infantino - has resigned in protest at plans to launch a consultation on selling stakes in a World Cup commercial entity to private investor...",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
         }
       ],
       "highlights": [
@@ -195,6 +194,10 @@
     }
   },
   "standout_moments": [
+    {
+      "moment": "Tonali 'took 10 minutes' to decide to join Spurs",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "moment": "Four pointers to most open Premier League title race in years",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss"
