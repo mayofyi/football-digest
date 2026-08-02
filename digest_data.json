@@ -1,23 +1,86 @@
 {
-  "generated_date": "2026-08-01",
-  "week_ending": "August 01, 2026",
+  "generated_date": "2026-08-02",
+  "week_ending": "August 02, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "What happened to star signings your club never made?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02",
+          "summary": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e7a/live/ccbf0990-8d09-11f1-bbc4-4d8950e3863d.jpg"
+        },
+        {
+          "title": "New boss Maresca is perfect for Man City - Gvardiol",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02",
+          "summary": "New manager Enzo Maresca is a \"perfect one\" for Manchester City, says defender Josko Gvardiol.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf69/live/404ba410-8d5d-11f1-912a-1da982bf0b15.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 13",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqx7er2vlzyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/55cf7c10-85b2-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "title": "York Knights claim first win over St Helens in 80 years",
+          "link": "https://www.skysports.com/watch/video/13569096/york-knights-34-32-st-helens-rugby-super-league-highlights",
+          "published": "2026-08-02",
+          "summary": "Highlights of York Knights against St Helens in the Betfred Super League.",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-super-league_7312004.jpg?20260801202819"
+        },
+        {
+          "title": "Wolves move into fourth with dominant display over Tigers",
+          "link": "https://www.skysports.com/watch/video/13569073/castleford-tigers-18-48-warrington-wolves-rugby-super-league-highlights",
+          "published": "2026-08-02",
+          "summary": "Highlights of Castleford Tigers against Warrington Wolves in Super League.",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-super-league_7311942.jpg?20260801181047"
+        },
+        {
+          "title": "Wakefield see off Dragons to climb back to second",
+          "link": "https://www.skysports.com/watch/video/13569121/catalans-dragons-12-32-wakefield-trinity-super-league-highlights",
+          "published": "2026-08-02",
+          "summary": "Highlights from Catalans Dragons against Wakefield Trinity in Super League.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-catalan-wakefield_7312079.jpg?20260802003610"
+        },
+        {
+          "title": "England defeated by Australia in netball bronze-medal match",
+          "link": "https://www.skysports.com/netball/news/12040/13569143/commonwealth-games-australia-68-50-england-roses-suffer-comprehensive-defeat-to-diamonds-in-netball-bronze-medal-match",
+          "published": "2026-08-02",
+          "summary": "England will leave the Commonwealth Games without a medal in netball after suffering a comprehensive 68-50 defeat to Australia at the Hydro in Glasgow.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-australia-netball_7312137.jpg?20260802105227"
+        },
+        {
+          "title": "Watch Chelsea newcomer Welbeck's PL goals from last season",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cn9nyqxw52go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01",
+          "summary": "Watch all 13 Premier League goals scored by new Chelsea signing Danny Welbeck last season, including three against his new club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb4/live/6820c0c0-8c08-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "title": "Maresca loses first match as Inter beat Man City on penalties",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c4gx0gq0e0zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01",
+          "summary": "Watch highlights as Enzo Maresca loses his first match in charge of Manchester City following a defeat on penalties to Inter Milan after a 1-1 friendly draw in Hong Kong.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d69/live/4dd7e980-8dc7-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "McAidoo 'the kind of winger I love' -  Maresca",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c75g4gg02dko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01",
+          "summary": "Despite Manchester City's penalty-shootout defeat by Inter Milan, teenager Ryan McAidoo grabs the opportunity to show manager Enzo Maresca what he can do.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/79e268a0-8dc9-11f1-a7ab-8b30adf0800a.jpg"
+        },
         {
           "title": "Is building a new stadium a way around spending rules?",
           "link": "https://www.bbc.co.uk/sport/football/articles/crl70reg06no?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-01",
           "summary": "Spurs only just avoided Premier League relegation last season, but off the pitch they are thriving. So is building a new stadium a good way around spending rules?",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa0/live/b23d8b50-8cf5-11f1-a573-93159e2b55da.jpg"
-        },
-        {
-          "title": "Who am I? Guess Premier League star No 12",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckg34n43dl4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-01",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f47e/live/2e0294b0-85b2-11f1-bee8-53ce494e1abc.png"
         },
         {
           "title": "All done deals in August 2026",
@@ -27,88 +90,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "title": "\"Offensive to call it a free shot!\" Dubois-Wardley rematch row erupts",
-          "link": "https://www.skysports.com/boxing/news/12040/13568968/daniel-dubois-advisor-sam-jones-and-fabio-wardleys-manager-mike-ofo-clash-again-ahead-of-heavyweight-rematch",
+          "title": "Warrington go fourth as Wakefield move second, Saints beaten by York",
+          "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
           "published": "2026-08-01",
-          "summary": "Fabio Wardley's manager Mike Ofo has launched a scathing response after Daniel Dubois' advisor Sam Jones raised doubts about the heavyweight rematch.",
-          "image": "https://e2.365dm.com/26/02/1920x1080/skysports-fabio-wardley-daniel-dubois_7157357.jpg?20260206124511"
+          "summary": "Warrington Wolves moved up to fourth in the Betfred Super League table after recovering from a lacklustre start to claim a comprehensive 48-18 win at Castleford Tigers .",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329"
         },
         {
-          "title": "Same start but different outlook at Rangers as McInnes era begins",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944f/live/79a8cd30-8d28-11f1-aae3-4d73737a2782.jpg"
+          "title": "Highlights: Aberdeen score twice after ninety minutes to beat Hearts",
+          "link": "https://www.skysports.com/watch/video/13569093/aberdeen-2-1-hearts-scottish-premiership-highlights",
+          "published": "2026-08-01",
+          "summary": "Highlights from the Scottish Premiership match between Aberdeen and Hearts.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aberdeen-hearts-spfl_7311989.jpg?20260801195431"
         },
         {
-          "title": "Highlights: Dundee Utd 1-1 Rangers",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Derek McInnes' era as Rangers manager got off to an underwhelming start as Dundee United hold them to an opening Scottish Premiership draw.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg"
-        },
-        {
-          "title": "Chelsea fined \u00a310m but avoid suspended points deduction",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Chelsea are fined \u00a310m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa1/live/663f9e70-8ce9-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4677/live/dd247a60-8ce9-11f1-b1ae-d9d901a2754c.jpg"
-        },
-        {
-          "title": "The Premier League clubs fighting a World Cup hangover",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Which Premier League clubs have carried the biggest World Cup workload?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/8be9f630-8c34-11f1-89bb-9b3e3c6f25f4.jpg"
-        },
-        {
-          "title": "Mullins named manager at League Two Newport County",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwyqe38wx3no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Hayden Mullins leaves his role as Fulham Under-21 boss to become the new head coach of League Two side Newport County.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e83c/live/5a4a8a40-8cc0-11f1-a84f-affcf171240b.jpg"
-        },
-        {
-          "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
-          "link": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
-          "published": "2026-07-31",
-          "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+          "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
+          "link": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+          "published": "2026-08-01",
+          "summary": "The top stories and transfer rumours from Sunday's newspapers...",
           "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-        },
-        {
-          "title": "Chelsea handed \u00a310m fine and suspended transfer ban",
-          "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-          "published": "2026-07-31",
-          "summary": "Chelsea have been fined &#163;10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules, the FA has announced.",
-          "image": "https://e1.365dm.com/26/04/1920x1080/skysports-chelsea-football_7208646.jpg?20260401150446"
-        },
-        {
-          "title": "Challenging times ahead for Newcastle - Shearer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg"
-        },
-        {
-          "title": "Staveley in talks to buy 25% stake in West Ham",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b965/live/dbf92160-8c47-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Defender Stones joins Inter Milan on free transfer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-30",
-          "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da88/live/dbebb4b0-8c17-11f1-94b2-05bc97107049.jpg"
         }
       ],
       "highlights": [
@@ -121,22 +121,7 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [
-        {
-          "title": "Head coach Matos agrees new Swansea contract",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqjx755vp0xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Swansea City head coach Vitor Matos agrees a new contract that ties him to the Championship club until 2030.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207c/live/85822f90-8cef-11f1-a573-93159e2b55da.jpg"
-        },
-        {
-          "title": "Leeds thrash Toulouse as Wigan beat Leigh",
-          "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls",
-          "published": "2026-07-31",
-          "summary": "Jake Connor starred as Super League leaders Leeds ran in eight tries in a 46-0 rout of Toulouse while Wigan Warriors remain just two points behind after their 20-8 win over Leigh Leopards.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leeds-rhinos-rugby-league_7311539.jpg?20260731220344"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -158,15 +143,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Burgess hits 200th try landmark to help Hull KR to victory over Bradford",
-          "link": "https://www.skysports.com/watch/video/13568921/hull-kr-40-16-bradford-bulls-super-league-highlights",
-          "published": "2026-08-01",
-          "summary": "Highlights of Hull KR against Bradford Bulls in the Super League.",
-          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-burgess-hull-kr-bradford-bulls_7311604.jpg?20260731232426"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -179,11 +156,18 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Fifa scraps controversial World Cup investment plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-01",
-          "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg"
+          "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "The five dramatic days that shook Infantino and world football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01",
+          "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb4/live/7545ce50-8d82-11f1-b2ab-0dd01740f9f6.jpg"
         },
         {
           "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
@@ -193,11 +177,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696c/live/7421ae40-123f-11f1-87d9-cda4cc68a607.jpg"
         },
         {
-          "title": "Infantino ends plan to sell off World Cup stake | UEFA declares no confidence in him",
-          "link": "https://www.skysports.com/football/news/12040/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
+          "title": "Oshoala revives Nigeria's Wafcon and World Cup bid",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czxe062y199o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-01",
-          "summary": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition from football's governing bodies.",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
+          "summary": "Asisat Oshoala scores the only goal as Nigeria beat Zambia at Wafcon 2026 to revive the West Africans' hopes of reaching the 2027 Women's World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9a/live/278389d0-8df2-11f1-a5ca-0f3fc518aa7d.jpg"
+        },
+        {
+          "title": "Why women's football is first casualty of Fifa plans",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp8xzl54wyzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31",
+          "summary": "Fifa's president Gianni Infantino's plans will make women's football \"the first casualties\" according to former England defender Anita Asante.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/e1043780-8ce7-11f1-a65d-4f54e31f4a67.jpg"
         }
       ],
       "highlights": [
@@ -211,8 +202,20 @@
   },
   "standout_moments": [
     {
+      "moment": "The five dramatic days that shook Infantino and world football",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "moment": "Four pointers to most open Premier League title race in years",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Bellingham watches Phoenix seal first Hundred win as Brave stay perfect",
+      "link": "https://www.skysports.com/cricket/news/12040/13569021/the-hundred-birmingham-phoenix-seal-first-win-in-womens-competition-by-beating-welsh-fire-in-front-of-jude-bellingham"
+    },
+    {
+      "moment": "Dowman dazzles and debutant Tzolis scores as Arsenal dominate Girona",
+      "link": "https://www.skysports.com/football/girona-vs-arsenal/report/562155"
     }
   ]
 }
