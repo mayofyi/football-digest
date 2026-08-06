@@ -1,16 +1,93 @@
 {
-  "generated_date": "2026-08-05",
-  "week_ending": "August 05, 2026",
+  "generated_date": "2026-08-06",
+  "week_ending": "August 06, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "'Shark' De Zerbi hopes to drag Spurs up from the depths",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crrv2dvgppjo?at_medium=RSS&at_campaign=rss",
+          "title": "Friendship with Mourinho & search for new club - what next for Smalling?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b3/live/34518eb0-90d5-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "title": "Defender George joins Brighton from Man Utd",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdewgg2xe7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Defender Gabby George has completed a move to Brighton from Manchester United before the start of the Women's Super League season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4173/live/2a8c7d00-9174-11f1-b2ab-0dd01740f9f6.png"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 17",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c77g61zp83ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572f/live/e6ff1b60-85b1-11f1-bee8-53ce494e1abc.png"
+        },
+        {
+          "title": "National League suspends Ebbsfleet over unpaid debt",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgr71pgxey7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Ebbsfleet United's first three National League South games of the season are suspended because of the club's financial problems.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a21/live/875a5620-917d-11f1-b59e-3d7a9337129d.jpg"
+        },
+        {
+          "title": "Bangor's Arthurs served anti-doping ban last season",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c07r52ynmr4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Bangor striker Ben Arthurs is free to play in his club's first game of the 2026-27 Irish Premiership season having completed a three-month ban anti-doping ban.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db5/live/de8b0450-9180-11f1-b59e-3d7a9337129d.jpg"
+        },
+        {
+          "title": "All done deals in August 2026",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+        },
+        {
+          "title": "'Relieved, excited, and energised!' - Parker's plans revealed after drug ban lifted",
+          "link": "https://www.skysports.com/boxing/news/12040/13570222/joseph-parker-relieved-after-drugs-ban-was-lifted-and-could-target-winner-of-daniel-dubois-vs-fabio-wardley-rematch",
+          "published": "2026-08-06",
+          "summary": "Joseph Parker is 'relieved' after a ban was lifted for a failed drug test and he will return to the ring this year, says manager David Higgins.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-joseph-parker-boxing_7314988.jpg?20260805232326"
+        },
+        {
+          "title": "Chelsea lose friendly as Juventus score stunning winner",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c62qvzn4zx1o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-05",
-          "summary": "Through his self-confessed love of the transfer window, Tottenham boss Roberto de Zerbi hopes he can guide his club back up the Premier League table.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e32/live/1d423110-8f32-11f1-ac89-5b80aa0a0820.jpg"
+          "summary": "Watch highlights as Chelsea suffer a narrow defeat in a friendly match by Juventus in Hong Kong thanks to a wonderful goal by Edon Zhegrova.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/443a/live/ba594120-90e8-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "No WSL experience but who is new Man Utd boss Olid?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4g4k0ep23vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf1/live/9cee6af0-909a-11f1-b45c-fde20a4c7ffe.jpg"
+        },
+        {
+          "title": "Why Arsenal are signing Newcastle captain Guimaraes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyl2e351vlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebae/live/740028c0-9010-11f1-9b87-418a05eb4792.jpg"
+        },
+        {
+          "title": "Celtic boss O'Neill in hospital after 'small procedure'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccf/live/bcc7bf30-90df-11f1-bad1-37f8e0c246e3.jpg"
+        },
+        {
+          "title": "Palace set to sign Tomiyasu and consider March deal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c629njd9npxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "Crystal Palace are set to sign Takehiro Tomiyasu on a free transfer following a successful trial and are considering a move for winger Solly March.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2105/live/3f6b35d0-90e4-11f1-bad1-37f8e0c246e3.jpg"
         },
         {
           "title": "Hull sign goalkeeper Tzolakis for club record fee",
@@ -20,46 +97,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b932/live/7e150e00-90b7-11f1-b8f3-bf6a2c059a9b.jpg"
         },
         {
-          "title": "Vozinha granted shirt name exemption by Chile FA",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9d89177xg4o?at_medium=RSS&at_campaign=rss",
+          "title": "Pakistan end eight-match away Test losing streak ahead of England clash",
+          "link": "https://www.skysports.com/cricket/news/12040/13570191/pakistan-end-eight-match-overseas-test-drought-with-west-indies-victory",
           "published": "2026-08-05",
-          "summary": "The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ce/live/844737b0-9096-11f1-b45c-fde20a4c7ffe.jpg"
-        },
-        {
-          "title": "Who am I? Guess Premier League star No 16",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cd7l8wd3748o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d7c/live/c4d89570-85b1-11f1-b976-0b9c15b0ccfc.png"
-        },
-        {
-          "title": "The latest transfer news on Guimaraes, Diomande,  Vinicius Jr and more...",
-          "link": "https://www.skysports.com/watch/video/13569966/transfer-update-the-latest-on-gumaraes-diomande-vinicius-jr-and-more",
-          "published": "2026-08-05",
-          "summary": "Catch up with the latest transfer stories from Sky Sports News including the news that Arsenal have a greed a fee with Newcastle for Bruno Guimaraes.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/sky-sports-transfers-diomande_7314339.jpg?20260805102149"
-        },
-        {
-          "title": "Salah set to join Turkish side Trabzonspor",
-          "link": "https://www.skysports.com/football/news/12040/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield",
-          "published": "2026-08-05",
-          "summary": "Mohamed Salah is set to join Turkish side Trabzonspor on a free transfer after mutually agreeing to terminate his Liverpool contract a year early.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125"
-        },
-        {
-          "title": "Ait-Nouri gives Man City early lead against K-League All Stars LIVE!",
-          "link": "https://www.skysports.com/football/live-blog/12040/13569973/k-league-all-stars-vs-man-city-live-match-updates-team-news-score-from-pre-season-friendly",
-          "published": "2026-08-05",
-          "summary": "",
-          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-phil-foden-man-city_7304127.jpg?20260722124521"
-        },
-        {
-          "title": "Man Utd set to appoint ex-Hearts boss Olid as women's manager",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c86n72316g1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Manchester United are set to appoint former Hearts boss Eva Olid as their women's manager to replace Marc Skinner.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f66/live/3a0f8c80-9035-11f1-a691-e5bd21941ac1.jpg"
+          "summary": "Pakistan ended their eight-match away Test losing streak in emphatic fashion on Wednesday, securing an eight-wicket victory over the West Indies.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mohammad-abbas-babar-azam_7314918.jpg?20260805204657"
         },
         {
           "title": "Nygren header earns Celtic opening victory against Dundee",
@@ -67,48 +109,6 @@
           "published": "2026-08-04",
           "summary": "Watch highlights as Celtic begin their Scottish Premiership title defence with a narrow home victory as Benjamin Nygren's header downs Dundee.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb9/live/abd95c10-8ffe-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "What did Premiership start tell us about Scottish sides' Euro hopes?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce8kz2prrplo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "With Rangers, Hearts, Hibernian and Motherwell in action on Thursday, BBC Scotland has been attempting to analyse the chances of the nation's European hopefuls.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c296/live/7cb6f720-9013-11f1-b2ab-0dd01740f9f6.png"
-        },
-        {
-          "title": "A youngster to watch at each Premier League club this season",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "The Premier League returns later this month and we have picked out 20 prospects - one from each club - who will be looking to make their mark and enjoy a breakthrough season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f42/live/57221490-8f46-11f1-a7ab-8b30adf0800a.png"
-        },
-        {
-          "title": "Meet the \u00a31m-rated non-league star Abdulmalik",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Boreham Wood reject a \u00a31m bid for one of their forwards - but who is he?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9680/live/ac9b54e0-8ff0-11f1-a10e-47119dd4425c.jpg"
-        },
-        {
-          "title": "Israel fans can attend Republic of Ireland fixture",
-          "link": "https://www.bbc.co.uk/sport/articles/cy5dq12dll4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Israel supporters will be in attendance when their side face the Republic of Ireland in the Nations League next month but no away fans will be facilitated.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eeb/live/36d957d0-9021-11f1-b783-f784376ffc11.jpg"
-        },
-        {
-          "title": "Man City lose forward Kerolin to Barcelona",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c36de65dg2po?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Barcelona sign Brazil forward Kerolin from Women's Super League champions Manchester City.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21bd/live/3f181470-85ba-11f1-a407-4750df4c0797.jpg"
-        },
-        {
-          "title": "Toone grateful to Skinner after his Man Utd departure",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cgljg5068n5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Manchester United midfielder Ella Toone says she will always be \"grateful\" to former manager Marc Skinner after he helped her through the death of her father.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20e6/live/792c1920-9007-11f1-9dfb-fd4408d16f2f.jpg"
         }
       ],
       "highlights": [
@@ -123,18 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Southampton are winning Championship this season - Downes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c935x03w2d5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Southampton midfielder Flynn Downes says he and his team-mates have a \"chip on their shoulder\" he believes can help them win the Championship.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde6/live/8b2b0c20-8fdb-11f1-a999-eb18d79411a9.jpg"
-        },
-        {
-          "title": "Goals galore as Scottish Championship & Leagues 1 and 2 return",
-          "link": "https://www.bbc.co.uk/sport/videos/c8jnmz34rzno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-03",
-          "summary": "Highlights of the opening day of the Scottish Championship, League 1 and League 2 for season 2026-27.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1128/live/04bf9540-8f0c-11f1-b2ab-0dd01740f9f6.png"
+          "title": "Argentina fly-half Albornoz hit with four-game ban over ugly England scenes",
+          "link": "https://www.skysports.com/rugby-union/news/12040/13570147/nations-championship-argentina-fly-half-albornoz-hit-with-four-game-ban-over-ugly-england-scenes-in-santiago-del-estero",
+          "published": "2026-08-05",
+          "summary": "Tomas Albornoz has been suspended for four matches after being hit with a misconduct charge following Argentina's Nations Championship defeat against England last month.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-tomas-albornoz-rugby_7314813.jpg?20260805173025"
         }
       ],
       "highlights": [
@@ -171,25 +164,32 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Key questions as Infantino faces Fifa executives",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c62vd95ljp0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05",
-          "summary": "Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d7d/live/8e2d63b0-90ac-11f1-b35a-3be58eca94a8.jpg"
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a436/live/19c96960-9174-11f1-b59e-3d7a9337129d.jpg"
         },
         {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0nzvk5j?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-05",
-          "summary": "Did Messi rage quit FIFA, did Fenners score at Wembley or did Rivaldo wee in a bush?",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p0f9rg.jpg"
+          "title": "Players who turned World Cup heroics into big transfers",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cj4kqdy4w4eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-06",
+          "summary": "BBC Sport looks back at some of the players whose standout performances at the World Cup earned a big transfer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2165/live/4a6970e0-909f-11f1-a7ab-8b30adf0800a.png"
         },
         {
-          "title": "Cape Verde coach Bubista resigns as Ivory Coast reappoint Renard",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c04kg192k2eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-04",
-          "summary": "Head coach Bubista leaves Cape Verde after reaching the last 32 at the World Cup while Ivory Coast reappoint two-time Afcon winner Herve Renard.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0349/live/6a2ede20-9017-11f1-b2ab-0dd01740f9f6.png"
+          "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+          "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe4/live/164aada0-8f29-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "title": "Defender Walker 'at ease' with England retirement",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ce8kn37gj82o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05",
+          "summary": "Former England defender Kyle Walker says he is \"at ease\" with his decision to quit international football and hoped it could lead to an extended club career, similar to that enjoyed by James Milner.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed4c/live/30d29c20-910c-11f1-b61e-4f9456542bbf.jpg"
         },
         {
           "title": "The five dramatic days that shook Infantino and world football",
@@ -197,13 +197,6 @@
           "published": "2026-08-01",
           "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb4/live/7545ce50-8d82-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Why women's football is first casualty of Fifa plans",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cp8xzl54wyzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-07-31",
-          "summary": "Fifa's president Gianni Infantino's plans will make women's football \"the first casualties\" according to former England defender Anita Asante.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c240/live/e1043780-8ce7-11f1-a65d-4f54e31f4a67.jpg"
         }
       ],
       "highlights": [
@@ -217,28 +210,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Hull sign goalkeeper Tzolakis for club record fee",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
+      "moment": "Chelsea lose friendly as Juventus score stunning winner",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c62qvzn4zx1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Watch highlights as St Johnstone edge out Killie in seven-goal thriller",
       "link": "https://www.bbc.co.uk/sport/articles/cn5nqg6vvvyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "The ex-sandwich maker who cycles to Champions League games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq7kgx9dko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Record number of new managers for season like no other",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss"
+      "moment": "Hull sign goalkeeper Tzolakis for club record fee",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "The five dramatic days that shook Infantino and world football",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Why have Barcelona broken transfer records to sign Kerolin?",
-      "link": "https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-joins-barcelona-as-womens-super-leagues-most-expensive-export"
     }
   ]
 }
