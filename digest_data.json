@@ -1,10 +1,101 @@
 {
-  "generated_date": "2026-08-09",
-  "week_ending": "August 09, 2026",
+  "generated_date": "2026-08-10",
+  "week_ending": "August 10, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Brazilian player falls down tunnel during goal celebration",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Brazilian player Jacy says he got \"carried away\" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/02235460-948f-11f1-9ade-bb7c8a2b6bc0.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 21",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc4/live/8fe12a80-85b1-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "title": "Hibs stun Rangers with dramatic late winner",
+          "link": "https://www.bbc.co.uk/sport/videos/cx2rdn40r1eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Callum Wright's dramatic late goal gives Hibernian victory at Ibrox and keeps Derek McInnes waiting for his first win as Rangers manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/42a8a180-949d-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
+          "title": "Hogh hat-trick fires Celtic to win at Kilmarnock",
+          "link": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Watch Sportscene highlights as Kasper Hogh's hat-trick fires Celtic to an emphatic Scottish Premiership victory at Kilmarnock.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f5/live/a4d21870-949b-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "title": "Hearts thump Dundee United for Vrancken's first win",
+          "link": "https://www.bbc.co.uk/sport/videos/cwymd7mmnddo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Hearts fire four past Dundee United in the Scottish Premiership as head coach Wouter Vrancken earns his first victory at the fifth attempt.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd0/live/34b81960-949e-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "When is the EFL Cup second-round draw?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "title": "Super League's Final Charge: Play-off spots taking shape with five rounds left",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention",
+          "published": "2026-08-10",
+          "summary": "There are just five rounds of Super League action remaining and, with it, a whole lot of drama as Super League's Final Charge ramps up.",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-super-league-rugby-league_7316787.jpg?20260808152136"
+        },
+        {
+          "title": "Palace latest: '\u00a335m but zero goals - Johnson to leave after underwhelming Eagles spell'",
+          "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+          "published": "2026-08-10",
+          "summary": "",
+          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117"
+        },
+        {
+          "title": "Osaka defeats local favourite to reach Canadian Open quarter-finals",
+          "link": "https://www.skysports.com/watch/video/13571540/naomi-osaka-vs-leylah-fernandez-national-bank-open-highlights",
+          "published": "2026-08-10",
+          "summary": "Highlights of the Canadian Open match between Naomi Osaka and Leylah Fernandez.",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-osaka-tennis_7317986.jpg?20260810081827"
+        },
+        {
+          "title": "Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09",
+          "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg"
+        },
+        {
+          "title": "McInnes left frustrated amid Rangers' poor start to season",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y36vr1j2zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09",
+          "summary": "Derek McInnes is still seeking a win after three games as Rangers managers and feels hard done by following a 2-1 home defeat by Hibernian and injury to big-money striker Youssef Chermiti.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36d5/live/0ac4fe70-9421-11f1-aa3c-4fd5547f7539.jpg"
+        },
+        {
+          "title": "Guimaraes can ignite something different in us - Arteta",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09",
+          "summary": "Mikel Arteta said the signing of Bruno Guimaraes will \"ignite something different\" in Arsenal and hinted that the Gunners are not done with their summer transfer activity.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b234/live/13b36eb0-9410-11f1-bc11-d9696db7ebba.jpg"
+        },
+        {
+          "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09",
+          "summary": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/56e5bbc0-9410-11f1-bc11-d9696db7ebba.jpg"
+        },
         {
           "title": "Unmasking London City's Spanish superstar",
           "link": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss",
@@ -13,102 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42fa/live/5a7f1660-9324-11f1-be7f-7379a19ef5b2.jpg"
         },
         {
-          "title": "Messi misses Miami defeat after death of father",
-          "link": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss",
+          "title": "Coleman training with Killybegs - but no GAA return for now",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-09",
-          "summary": "Lionel Messi misses Inter Miami's Leagues Cup defeat by Monterrey on Saturday night after the death of his father.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/023e/live/4e91ed30-93c6-11f1-8b64-d7ef958ad168.jpg"
-        },
-        {
-          "title": "Scott and Antony sent off in pre-season friendly",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c2k78znk7w2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09",
-          "summary": "Bournemouth's Alex Scott and Real Betis' Antony are sent off after a confrontation during a friendly match in Seville, which ended in a 2-2 draw.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1833/live/2798b740-93cb-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Who am I? Guess Premier League star No 20",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy8m5nlzmvlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/55cf7c10-85b2-11f1-926f-c90d1bcfbc84.png"
-        },
-        {
-          "title": "BBC Women's Football Weekly",
-          "link": "https://www.bbc.co.uk/sounds/play/p0p3j9rz?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-09",
-          "summary": "Two-time Ballon d'Or winner\u00a0and London City Lionesses' star signing joins the pod!",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3j9y0.jpg"
-        },
-        {
-          "title": "Huddersfield blitz Catalans in dominant home win",
-          "link": "https://www.skysports.com/watch/video/13571192/huddersfield-giants-42-20-catalans-dragons-super-league-highlights",
-          "published": "2026-08-09",
-          "summary": "Highlights of the Super League clash between Huddersfield Giants and Catalans Dragons as Sam Halsall and Connor Wrench scored twice in a 42-20 victory for the hosts.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-huddersfield-dragons_7317175.jpg?20260808210620"
-        },
-        {
-          "title": "Wolves overwhelm Bradford in emphatic away victory",
-          "link": "https://www.skysports.com/watch/video/13571231/bradford-bulls-4-42-warrington-wolves-super-league-highlights",
-          "published": "2026-08-09",
-          "summary": "Highlights of the Super League clash between Bradford Bulls and Warrington Wolves as Matty Ashton scored twice in a dominant 42-4 victory for the visitors.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wolves-bradford_7317178.jpg?20260808210836"
-        },
-        {
-          "title": "Wigan overpower Toulouse to close gap on leaders",
-          "link": "https://www.skysports.com/watch/video/13571216/wigan-warriors-48-18-toulouse-olympique-super-league-highlights",
-          "published": "2026-08-09",
-          "summary": "Highlights of the Super League clash between Wigan Warriors and Toulouse Olympique.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wigan-toulouse_7317173.jpg?20260808210421"
-        },
-        {
-          "title": "Tipped for drop but sitting top - St Mirren defying expectations",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c1k1g7ylyrko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/2bd52180-9354-11f1-8661-598e135a2da7.jpg"
-        },
-        {
-          "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c0/live/ec273140-9187-11f1-b8ee-9b3c26ad07bb.jpg"
-        },
-        {
-          "title": "Garcia hopes long-term friend Alonso's Chelsea finish second to Liverpool",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4gj9j7yv9do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c111/live/938cefe0-91a3-11f1-a8b2-a13c32fec0b9.jpg"
-        },
-        {
-          "title": "Arsenal sign Guimaraes from Newcastle in \u00a375m deal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for \u00a375m.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633b/live/60a9ce90-931a-11f1-9931-79a1e0bcb641.jpg"
-        },
-        {
-          "title": "Wolves legend Parkes dies aged 79",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y3d1l0236o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "Former Wolverhampton Wanderers goalkeeper Phil Parkes dies at the age of 79.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1667/live/1bccd000-9320-11f1-848f-43f11d41d8f5.jpg"
-        },
-        {
-          "title": "Sullivan attends West Ham game despite advice not to",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c07rx4r40ngo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc60/live/56ecf120-9333-11f1-8c55-af7610e137d7.jpg"
-        },
-        {
-          "title": "Life as a Wag in the transfer window",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg"
+          "summary": "Former Everton defender Seamus Coleman has been training with Killybegs but a return to his local Gaelic football club is unlikely to be on the cards for now.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84d8/live/2bf5c7a0-93fe-11f1-a10f-45ed743c6e4b.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Brennan, Hossler share Wyndham R3 lead as Thompson makes albatross",
-          "link": "https://www.skysports.com/watch/video/13571286/wyndham-championship-day-three-highlights",
+          "title": "Brennan secures FedEx Cup Playoffs spot and place at 2027 Masters with Wyndham win",
+          "link": "https://www.skysports.com/watch/video/13571537/wyndham-championship-day-four-highlights",
+          "published": "2026-08-10",
+          "summary": "Highlights from day four of the Wyndham Championship at Sedgefield Country Club, the final PGA Tour event before the FedExCup Playoffs.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wyndham-championship_7317921.png?20260810064300"
+        },
+        {
+          "title": "Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win",
+          "link": "https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory",
           "published": "2026-08-09",
-          "summary": "Highlights from day three of the Wyndham Championship held at Sedgefield Country Club in Greensboro, North Carolina, including an albatross from Davis Thompson.",
-          "image": "https://e1.365dm.com/26/08/1920x1080/sky-sports-golf-pga_7317311.jpg?20260809073023"
+          "summary": "Michael Brennan secured his place in the FedExCup Playoffs as he won the Wyndham Championship by three strokes from Beau Hossler.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-michael-brennan-wyndham-championship_7317892.jpg?20260809231802"
+        },
+        {
+          "title": "'Very pathetic' - Koepka fumes after missing FedExCup Playoffs",
+          "link": "https://www.skysports.com/golf/news/12040/13571491/brooks-koepka-fumes-after-pathetic-wyndham-championship-performance-costs-him-place-in-fedexcup-playoffs",
+          "published": "2026-08-09",
+          "summary": "Brooks Koepka labelled missing the FedExCup Playoffs \"pathetic\" in a brutally honest assessment of his game after a low finish at the Wyndham Championship.",
+          "image": "https://e1.365dm.com/26/07/1920x1080/skysports-brooks-koepka-golf_7300339.jpg?20260717193309"
         },
         {
           "title": "Partick Thistle beat Livingston in Scottish Championship",
@@ -171,11 +185,18 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-          "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-08",
-          "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg"
+          "title": "Infantino broke trust 'through deception' - confederation presidents",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10",
+          "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/9ca987b0-9495-11f1-9ade-bb7c8a2b6bc0.jpg"
+        },
+        {
+          "title": "UEFA signs joint letter slamming 'deception' as Infantino fallout continues",
+          "link": "https://www.skysports.com/football/news/12040/13571573/gianni-infantino-uefa-signs-joint-letter-slamming-deception-at-top-of-fifa-as-world-cup-stake-sale-fallout-continues",
+          "published": "2026-08-10",
+          "summary": "UEFA, CONMEBOL and AFC have hit out at \"deception\" and a \"fundamental breach of trust\" around Gianni Infantino's botched World Cup stake sale plans to further raise the pressure on the under-fire FIFA...",
+          "image": "https://e0.365dm.com/26/07/1920x1080/skysports-gianni-infantino_7311449.jpg?20260731192706"
         }
       ],
       "highlights": [
@@ -189,8 +210,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Chelsea lose friendly as Juventus score stunning winner",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c62qvzn4zx1o?at_medium=RSS&at_campaign=rss"
+      "moment": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Hibs stun Rangers with dramatic late winner",
+      "link": "https://www.bbc.co.uk/sport/videos/cx2rdn40r1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Hogh hat-trick fires Celtic to win at Kilmarnock",
+      "link": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
