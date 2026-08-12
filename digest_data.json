@@ -1,16 +1,72 @@
 {
-  "generated_date": "2026-08-11",
-  "week_ending": "August 11, 2026",
+  "generated_date": "2026-08-12",
+  "week_ending": "August 12, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Following Guardiola and captaincy dilemma - Maresca on life at Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cz970w31k75o?at_medium=RSS&at_campaign=rss",
+          "title": "Emery chases first Super Cup - but does it matter?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce54/live/7041d640-95b8-11f1-b16a-9d1bd99de52e.jpg"
+        },
+        {
+          "title": "The late-bloomer left-back joining Chelsea for \u00a316m",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvg0rw84xk9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/252e/live/88530ed0-962f-11f1-acde-358da1a6646b.jpg"
+        },
+        {
+          "title": "Slot pulls out of Netherlands talks to focus on club football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c980rd5njneo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Former Liverpool head coach Arne Slot confirms talks for Netherlands managerial vacancy but says his next job will be in club football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d2/live/7bbd0940-9612-11f1-845e-d7603be9e181.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 23",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly8xpjkendo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d7c/live/c4d89570-85b1-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "title": "How do add-ons work in football transfers?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjwqe8pqe31o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Our Ask Me Anything team examine exactly how extra amounts added on to transfer fees really work.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9580/live/604d8b40-962f-11f1-870d-5d08c49babb2.png"
+        },
+        {
+          "title": "Rybakina to meet Gauff in semis after Osaka fightback",
+          "link": "https://www.skysports.com/watch/video/13572134/elena-rybakina-vs-naomi-osaka-canadian-open-highlights",
+          "published": "2026-08-12",
+          "summary": "Highlights of the Canadian Open match between Elena Rybakina and Naomi Osaka.",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-wta-canadianopen_7319531.jpg?20260812101157"
+        },
+        {
+          "title": "Jaissle 'bit scared' how refs will take 'emotional' touchline style",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "New Manchester City manager Enzo Maresca talks about replacing Pep Guardiola, his interest in AI and his captaincy dilemma.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7263/live/9cd25cb0-94a6-11f1-afe9-fb1a837ec5d9.jpg"
+          "summary": "Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/2f830390-959f-11f1-a036-eb7cd99c5268.jpg"
+        },
+        {
+          "title": "Unhappy PSG given extra Super Cup dressing room",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11",
+          "summary": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8632/live/9fd891c0-95ac-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
+          "title": "How \u00a330m Charles became Northern Ireland's most expensive footballer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11",
+          "summary": "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's \u00a330m man.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75be/live/fcee1ec0-94a3-11f1-870d-5d08c49babb2.png"
         },
         {
           "title": "Meet Liverpool's rising star who can only play friendlies",
@@ -20,95 +76,39 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f852/live/2ea1a620-94a0-11f1-b485-c780285c5cc1.jpg"
         },
         {
-          "title": "Destination unknown - goalkeeper's 2,000-mile van trip to find new club",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3ek50x4jkqo?at_medium=RSS&at_campaign=rss",
+          "title": "Why do teams choose not to disclose transfer fees?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "Goalkeeper Milo Beimers is undertaking a 2,000-mile journey across Europe with one goal - to find a new club from his base in the back of a van.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee03/live/f5b83a10-955b-11f1-b96f-3d43158251d5.jpg"
+          "summary": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png"
         },
         {
-          "title": "Who am I? Guess Premier League star No 22",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&at_campaign=rss",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p3yxzk?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"
+          "summary": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3yy0v.jpg"
         },
         {
-          "title": "Everton sign Johnson from Palace in transfer swap for McNeil",
-          "link": "https://www.skysports.com/football/news/12040/13571877/everton-sign-brennan-johnson-from-crystal-palace-as-dwight-mcneil-moves-to-selhurst-park-in-transfer-swap-deal",
+          "title": "All done deals in August 2026",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "Everton have signed winger Brennan Johnson from Crystal Palace in a transfer swap deal that sees Dwight McNeil move to Selhurst Park.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-dwight-mcneil-brennan-johnson_7318092.jpg?20260810111528"
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
         },
         {
-          "title": "Swiatek cruises into Canadian Open semis with 64-minute-win over Shnaider",
-          "link": "https://www.skysports.com/watch/video/13571824/diana-shnaider-vs-iga-swiatek-canadian-open-highlights",
+          "title": "Sharks 0-54 New Zealand | Highlights",
+          "link": "https://www.skysports.com/watch/video/13572095/durban-sharks-0-54-new-zealand-highlights",
           "published": "2026-08-11",
-          "summary": "Highlights of the Canadian Open match between Diana Shnaider and Iga Swiatek.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-wta-tennis_7318716.jpg?20260811090144"
+          "summary": "Highlights of the Greatest Rivalry tour match between the Sharks and New Zealand in Durban.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-new-zealand_7319331.jpg?20260811230158"
         },
         {
-          "title": "McKenna is 'locked in' on Walsh showdown after viral KO win",
-          "link": "https://www.skysports.com/boxing/news/12040/13571739/stevie-mckenna-is-locked-in-on-all-irish-showdown-with-callum-walsh-after-viral-ko-win-says-manager-mike-borao",
+          "title": "Floodlights to be on throughout Hundred matches for solar eclipse",
+          "link": "https://www.skysports.com/cricket/news/12040/13572042/solar-eclipse-floodlights-to-be-turned-on-during-uk-sports-events-including-the-hundred-and-kempton-racing",
           "published": "2026-08-11",
-          "summary": "Stevie McKenna is 'locked in' on an all-Irish showdown with Callum Walsh after delivering a dramatic victory in Dublin, says his manager Mike Borao.",
-          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-stevie-mckenna-boxing_7318470.jpg?20260810175849"
-        },
-        {
-          "title": "Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
-          "link": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs",
-          "published": "2026-08-11",
-          "summary": "A number of clubs in the Premier League and Europe are exploring a deal to recruit Borussia Dortmund director of scouting and recruiting Sebastian Krug.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-erling-haaland-jude-bellingham_7318325.jpg?20260810151545"
-        },
-        {
-          "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ffc/live/bda591f0-9546-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Forest to host Leeds in EFL Cup - second-round draw in full",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c98vm4rz7m7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60eb/live/62b87140-94f1-11f1-a7ab-8b30adf0800a.jpg"
-        },
-        {
-          "title": "Hibs stun Rangers with dramatic late winner",
-          "link": "https://www.bbc.co.uk/sport/videos/cx2rdn40r1eo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Callum Wright's dramatic late goal gives Hibernian victory at Ibrox and keeps Derek McInnes waiting for his first win as Rangers manager.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5250/live/42a8a180-949d-11f1-870d-5d08c49babb2.jpg"
-        },
-        {
-          "title": "Hogh hat-trick fires Celtic to win at Kilmarnock",
-          "link": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Watch Sportscene highlights as Kasper Hogh's hat-trick fires Celtic to an emphatic Scottish Premiership victory at Kilmarnock.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f5/live/a4d21870-949b-11f1-a7ab-8b30adf0800a.jpg"
-        },
-        {
-          "title": "Hearts thump Dundee United for Vrancken's first win",
-          "link": "https://www.bbc.co.uk/sport/videos/cwymd7mmnddo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Hearts fire four past Dundee United in the Scottish Premiership as head coach Wouter Vrancken earns his first victory at the fifth attempt.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd0/live/34b81960-949e-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Championship all-stars to global gamble - will Ipswich's approach work?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50e9/live/87c78880-943e-11f1-a8a3-b1b5a1a29840.jpg"
-        },
-        {
-          "title": "It's football, not PlayStation - Uefa refs' chief on VAR",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvg90n3dvd5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e191/live/c5ee25e0-94e0-11f1-8d2f-451ff8544cca.jpg"
+          "summary": "Floodlights will be turned on throughout games in The Hundred on Wednesday due to the solar eclipse.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-the-hundred-floodlights_7319186.jpg?20260811182659"
         }
       ],
       "highlights": [
@@ -123,32 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Refreshed Rory returns for FedExCup Playoffs as he targets fourth title",
-          "link": "https://www.skysports.com/golf/news/12040/13571841/rory-mcilroy-returns-to-action-for-first-fedexcup-playoff-event-as-he-targets-record-extending-fourth-title",
+          "title": "What next for Birmingham City? Why Davies is changing his approach",
+          "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
+          "published": "2026-08-12",
+          "summary": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's ...",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649"
+        },
+        {
+          "title": "Championship play-off changes, new managers & star players - the EFL is BACK!",
+          "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
+          "published": "2026-08-12",
+          "summary": "The 2026/27 EFL season is here!",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729"
+        },
+        {
+          "title": "Fighting relegation & eyeing promotion? Championship set for six-team play-offs",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0r4j510do?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "Rory McIlroy returns to action at the FedEx St. Jude Championship this week, live on Sky Sports, with the world No 2 targeting a big finish to the PGA Tour season and a record-extending fourth FedExCu...",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7318707.jpg?20260811083846"
-        },
-        {
-          "title": "Derby 'off market' as takeover deal collapses",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg"
-        },
-        {
-          "title": "Wrexham closing in on Sunderland's Patterson",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx256kz7nkko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Goalkeeper Anthony Patterson is closing in on a switch from Sunderland to Championship side Wrexham.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0e/live/f0e2bb40-94ad-11f1-afe9-fb1a837ec5d9.jpg"
-        },
-        {
-          "title": "Britain's Hunt claims European Championships 100m gold",
-          "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete",
-          "published": "2026-08-10",
-          "summary": "",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-amy-hunt-european-championships_7318568.jpg?20260810223100"
+          "summary": "The Championship play-offs expand to six teams this season. Here's a closer look at how it may pan out and the thoughts of those involved.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ac/live/8715fad0-842f-11f1-8db9-6b4471749e2a.jpg"
         },
         {
           "title": "Partick Thistle beat Livingston in Scottish Championship",
@@ -168,7 +161,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "PFA starts legal proceedings over League One salary cap",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2g992y7veo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-11",
+          "summary": "The PFA starts legal proceedings against the EFL over changes to salary caps in League One.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccd/live/cfebe100-9584-11f1-8636-978a48bd79b6.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -192,18 +193,11 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "Trump warns of 'terrible mistake' if FIFA replaces Infantino",
-          "link": "https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president",
+          "title": "Women's football shouldn't be penalised by Uefa boycott - Nandy",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2grg84lzmo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-11",
-          "summary": "US President Donald Trump has warned FIFA would be making a \"terrible mistake\" if it got rid of Gianni Infantino as head of world football&#8217;s governing body.",
-          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-donald-trump-gianni-infantino_7318666.jpg?20260811073125"
-        },
-        {
-          "title": "Infantino broke trust 'through deception' - confederation presidents",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-10",
-          "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/9ca987b0-9495-11f1-9ade-bb7c8a2b6bc0.jpg"
+          "summary": "Culture Secretary Lisa Nandy says women's footballers should not be \"penalised\" by a potential boycott of next month's Under-20 Women's World Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/502d/live/28193bb0-95a9-11f1-969e-eb6036cb8925.jpg"
         }
       ],
       "highlights": [
@@ -223,18 +217,6 @@
     {
       "moment": "Hogh hat-trick fires Celtic to win at Kilmarnock",
       "link": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Derby 'off market' as takeover deal collapses",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Refreshed Rory returns for FedExCup Playoffs as he targets fourth title",
-      "link": "https://www.skysports.com/golf/news/12040/13571841/rory-mcilroy-returns-to-action-for-first-fedexcup-playoff-event-as-he-targets-record-extending-fourth-title"
-    },
-    {
-      "moment": "McKenna is 'locked in' on Walsh showdown after viral KO win",
-      "link": "https://www.skysports.com/boxing/news/12040/13571739/stevie-mckenna-is-locked-in-on-all-irish-showdown-with-callum-walsh-after-viral-ko-win-says-manager-mike-borao"
     }
   ]
 }
