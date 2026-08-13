@@ -1,16 +1,93 @@
 {
-  "generated_date": "2026-08-12",
-  "week_ending": "August 12, 2026",
+  "generated_date": "2026-08-13",
+  "week_ending": "August 13, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Emery chases first Super Cup - but does it matter?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss",
+          "title": "Fulham leave pitch as Malaga take penalty into empty net",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13",
+          "summary": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7973/live/8f6c4170-96f0-11f1-bdf3-57bf9a99cb46.jpg"
+        },
+        {
+          "title": "Can Sunderland defy the Premier League doubters again?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn8ndw25yjeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13",
+          "summary": "Sunderland were one of the stories of the 2025-26 Premier League season - but can they do it again this time around, with added European commitments?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/3b569980-962a-11f1-acde-358da1a6646b.jpg"
+        },
+        {
+          "title": "Who am I? Guess Premier League star No 24",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1j1w23dygjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572f/live/e6ff1b60-85b1-11f1-bee8-53ce494e1abc.png"
+        },
+        {
+          "title": "All done deals in August 2026",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13",
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+        },
+        {
+          "title": "Highlights: PSG beat Aston Villa in Super Cup",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cre4pxn402ro?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-12",
-          "summary": "Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce54/live/7041d640-95b8-11f1-b16a-9d1bd99de52e.jpg"
+          "summary": "Paris Saint-Germain beat Aston Villa in the Uefa Super Cup with goals from Khvicha Kvaratskhelia and Desire Doue.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c4d/live/29f7c300-9696-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
+          "title": "How 'hugely impressive' Villa teen Madjo took fight to PSG",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c2k72pep488o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Match of the Day's Nedum Onuoha and Stephen Warnock analyse 17-year-old Brian Madjo's \"hugely impressive\" goalscoring performance for Aston Villa in their 2-1 defeat by PSG in the UEFA Super Cup.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff7/live/082a2e50-969d-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "title": "Doue goal awarded on VAR after tight offside",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c4gw5zrznq1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Desire Doue's goal is awarded after initially being flagged offside to give PSG the lead in the second half of the Super Cup against Aston Villa.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c2/live/d2549200-9694-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
+          "title": "Bihina saves four penalties as Cameroon upset Morocco to make Wafcon final",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Cameroon's Michaely Bihina saves an extra-time penalty and three more spot kicks in a shootout to send her side though to the 2026 Wafcon final at the expense of host nation Morocco.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/174a34c0-96a7-11f1-9f2f-5b118fe88a53.jpg"
+        },
+        {
+          "title": "Messi's most iconic moments as he ponders retirement",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fa/live/6847edf0-b3bd-11ef-96fe-07f2cc4afa88.jpg"
+        },
+        {
+          "title": "Xavi becomes first non-Dutch Netherlands coach since 1978",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Former Barcelona manager Xavi is appointed as the new head coach of the Netherlands on a four-year deal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3524/live/7c45da20-9687-11f1-9854-73d5e7b83e3b.jpg"
+        },
+        {
+          "title": "How will relegated trio fare in the Championship?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvg0d3ewek0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "BBC Sport England looks at how the three relegated sides - West Ham, Burnley and Wolves - will navigate the Championship this season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d07/live/426ccae0-9185-11f1-b8ee-9b3c26ad07bb.png"
+        },
+        {
+          "title": "Chawinga sisters fire Malawi into Wafcon final",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckg9p34wgxvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-12",
+          "summary": "Malawi's fairy tale run at the 2026 Women's Africa Cup of Nations goes on as sisters Tabitha and Temwa Chawinga share three goals in a 3-1 semi-final win over Algeria.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d6/live/f5665260-9680-11f1-973c-d30f5fa7dfc2.jpg"
         },
         {
           "title": "The late-bloomer left-back joining Chelsea for \u00a316m",
@@ -20,95 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/252e/live/88530ed0-962f-11f1-acde-358da1a6646b.jpg"
         },
         {
-          "title": "Slot pulls out of Netherlands talks to focus on club football",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c980rd5njneo?at_medium=RSS&at_campaign=rss",
+          "title": "Everton's Sherif charged with 61 alleged bets on matches",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgvzpzxedjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-12",
-          "summary": "Former Liverpool head coach Arne Slot confirms talks for Netherlands managerial vacancy but says his next job will be in club football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d2/live/7bbd0940-9612-11f1-845e-d7603be9e181.jpg"
+          "summary": "The Football Association charges Everton's Martin Sherif with breaching betting rules after allegedly placing 61 bets on football matches.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5100/live/158a7970-9651-11f1-bcb3-97b92581837a.jpg"
         },
         {
-          "title": "Who am I? Guess Premier League star No 23",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cly8xpjkendo?at_medium=RSS&at_campaign=rss",
+          "title": "Rangers seek striker & are 'playing with fire' in defence",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyjp8d122do?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-12",
-          "summary": "Work out the identity of today's player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d7c/live/c4d89570-85b1-11f1-b976-0b9c15b0ccfc.png"
-        },
-        {
-          "title": "How do add-ons work in football transfers?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjwqe8pqe31o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-12",
-          "summary": "Our Ask Me Anything team examine exactly how extra amounts added on to transfer fees really work.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9580/live/604d8b40-962f-11f1-870d-5d08c49babb2.png"
-        },
-        {
-          "title": "Rybakina to meet Gauff in semis after Osaka fightback",
-          "link": "https://www.skysports.com/watch/video/13572134/elena-rybakina-vs-naomi-osaka-canadian-open-highlights",
-          "published": "2026-08-12",
-          "summary": "Highlights of the Canadian Open match between Elena Rybakina and Naomi Osaka.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-wta-canadianopen_7319531.jpg?20260812101157"
-        },
-        {
-          "title": "Jaissle 'bit scared' how refs will take 'emotional' touchline style",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/2f830390-959f-11f1-a036-eb7cd99c5268.jpg"
-        },
-        {
-          "title": "Unhappy PSG given extra Super Cup dressing room",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8632/live/9fd891c0-95ac-11f1-870d-5d08c49babb2.jpg"
-        },
-        {
-          "title": "How \u00a330m Charles became Northern Ireland's most expensive footballer",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's \u00a330m man.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75be/live/fcee1ec0-94a3-11f1-870d-5d08c49babb2.png"
-        },
-        {
-          "title": "Meet Liverpool's rising star who can only play friendlies",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq569dvxg2yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f852/live/2ea1a620-94a0-11f1-b485-c780285c5cc1.jpg"
-        },
-        {
-          "title": "Why do teams choose not to disclose transfer fees?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0p3yxzk?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3yy0v.jpg"
-        },
-        {
-          "title": "All done deals in August 2026",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-        },
-        {
-          "title": "Sharks 0-54 New Zealand | Highlights",
-          "link": "https://www.skysports.com/watch/video/13572095/durban-sharks-0-54-new-zealand-highlights",
-          "published": "2026-08-11",
-          "summary": "Highlights of the Greatest Rivalry tour match between the Sharks and New Zealand in Durban.",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-new-zealand_7319331.jpg?20260811230158"
-        },
-        {
-          "title": "Floodlights to be on throughout Hundred matches for solar eclipse",
-          "link": "https://www.skysports.com/cricket/news/12040/13572042/solar-eclipse-floodlights-to-be-turned-on-during-uk-sports-events-including-the-hundred-and-kempton-racing",
-          "published": "2026-08-11",
-          "summary": "Floodlights will be turned on throughout games in The Hundred on Wednesday due to the solar eclipse.",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-the-hundred-floodlights_7319186.jpg?20260811182659"
+          "summary": "Rangers are being \"proactive\" in seeking a new striker after Youssef Chermiti was ruled out long term, says manager Derek McInnes, who warns defensive injuries leave the club \"playing with fire\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c572/live/79feccf0-965e-11f1-b61b-4bcfe1167bd9.jpg"
         }
       ],
       "highlights": [
@@ -123,32 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "What next for Birmingham City? Why Davies is changing his approach",
-          "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
-          "published": "2026-08-12",
-          "summary": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's ...",
-          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649"
-        },
-        {
-          "title": "Championship play-off changes, new managers & star players - the EFL is BACK!",
-          "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
-          "published": "2026-08-12",
-          "summary": "The 2026/27 EFL season is here!",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729"
-        },
-        {
-          "title": "Fighting relegation & eyeing promotion? Championship set for six-team play-offs",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0r4j510do?at_medium=RSS&at_campaign=rss",
+          "title": "Hudson-Smith clinches history-making third 400m European Championship gold",
+          "link": "https://www.skysports.com/live-blog/12040/13571552/european-athletics-championships-2026-updates-from-birmingham-as-keely-hodgkinson-dina-asher-smith-katarina-johnson-thompson-compete",
           "published": "2026-08-11",
-          "summary": "The Championship play-offs expand to six teams this season. Here's a closer look at how it may pan out and the thoughts of those involved.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ac/live/8715fad0-842f-11f1-8db9-6b4471749e2a.jpg"
-        },
-        {
-          "title": "Partick Thistle beat Livingston in Scottish Championship",
-          "link": "https://www.bbc.co.uk/sport/videos/c98vppyny3go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-07",
-          "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7161/live/b7e91bd0-92a6-11f1-a7ab-8b30adf0800a.jpg"
+          "summary": "",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-matthew-hudson-smith_7320082.jpg?20260813090917"
         }
       ],
       "highlights": [
@@ -161,15 +140,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "PFA starts legal proceedings over League One salary cap",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm2g992y7veo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "The PFA starts legal proceedings against the EFL over changes to salary caps in League One.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccd/live/cfebe100-9584-11f1-8636-978a48bd79b6.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -191,15 +162,7 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [
-        {
-          "title": "Women's football shouldn't be penalised by Uefa boycott - Nandy",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm2grg84lzmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-11",
-          "summary": "Culture Secretary Lisa Nandy says women's footballers should not be \"penalised\" by a potential boycott of next month's Under-20 Women's World Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/502d/live/28193bb0-95a9-11f1-969e-eb6036cb8925.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -215,8 +178,12 @@
       "link": "https://www.bbc.co.uk/sport/videos/cx2rdn40r1eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Hogh hat-trick fires Celtic to win at Kilmarnock",
-      "link": "https://www.bbc.co.uk/sport/videos/cj6302d4n79o?at_medium=RSS&at_campaign=rss"
+      "moment": "Bihina saves four penalties as Cameroon upset Morocco to make Wafcon final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg3pzne52xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Xavi becomes first non-Dutch Netherlands coach since 1978",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
