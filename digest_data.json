@@ -1,37 +1,86 @@
 {
-  "generated_date": "2026-08-17",
-  "week_ending": "August 17, 2026",
+  "generated_date": "2026-08-18",
+  "week_ending": "August 18, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Spurs' Vicario set to join Juventus on loan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-17",
-          "summary": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a936/live/73a2a730-9a1b-11f1-aed2-8d6da8d75094.jpg"
+          "title": "Breakouts & wildcards - 13 surprise stars for new season",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
+          "summary": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a28/live/57dd5980-9a63-11f1-b792-a710e56a11dc.jpg"
         },
         {
-          "title": "Five in Five: Football quiz No 1",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-17",
+          "title": "Haaland's main rivals for the Premier League Golden Boot",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
+          "summary": "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd0d/live/02d7e550-9184-11f1-9587-294e25c71c14.jpg"
+        },
+        {
+          "title": "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
+          "summary": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09f/live/205992d0-97fc-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
+          "title": "Five in Five: Football quiz No 2",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gw6k476elo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
           "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f2/live/741530f0-95ae-11f1-b2ab-0dd01740f9f6.jpg"
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db5/live/c5015b30-95ac-11f1-a7ab-8b30adf0800a.jpg"
         },
         {
-          "title": "Man City face Neto competition - Monday's gossip",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-17",
-          "summary": "Manchester City face competition for Pedro Neto, Real Madrid want Martin Zubimendi and Premier League clubs want Liam Delap.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4308/live/581dd2a0-9a1b-11f1-aed2-8d6da8d75094.png"
+          "title": "Who am I? Guess Premier League star No 29",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cdx7dlwed1wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
+          "summary": "Work out the identity of today's player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"
         },
         {
-          "title": "Stats that show Premier League is getting more competitive",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss",
+          "title": "All done deals in August 2026",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18",
+          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+        },
+        {
+          "title": "Watch out for Brentford's Sangare - he could be signing of the season",
+          "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
+          "published": "2026-08-18",
+          "summary": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of ...",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706"
+        },
+        {
+          "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+          "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+          "published": "2026-08-18",
+          "summary": "",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
+        },
+        {
+          "title": "Williams sisters lose tie-break thriller in first doubles reunion since 2022",
+          "link": "https://www.skysports.com/tennis/news/12040/13574212/cincinnati-open-serena-williams-and-sister-venus-williams-lose-thriller-in-first-doubles-match-together-since-2022",
+          "published": "2026-08-18",
+          "summary": "Serena and Venus Williams were narrowly beaten in their first doubles match together in four years during a dramatic first-round tie-break exit at the Cincinnati Open.",
+          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-serena-williams-tennis_7324489.jpg?20260818060857"
+        },
+        {
+          "title": "\u00a32.14bn and counting - why Premier League spending could set new record",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-17",
-          "summary": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f059a560-99a0-11f1-a10a-71ff76b28954.jpg"
+          "summary": "Premier League clubs have spent \u00a32.14bn this summer, with huge sums moving between top-flight rivals. BBC Sport examines the possibility of a new spending record.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d64c/live/418c2e60-9a16-11f1-b0ec-399275ee28cb.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p51f17?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-17",
+          "summary": "Joe Hart, Chris Sutton and Adam Crafton join Mark to preview the Premier League season.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p51f1t.jpg"
         },
         {
           "title": "These eight players will help you win FPL",
@@ -55,60 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a03/live/78f533f0-9323-11f1-be7f-7379a19ef5b2.jpg"
         },
         {
-          "title": "Why electric Toure can be a game-changer for Newcastle",
-          "link": "https://www.skysports.com/football/news/12040/13561315/bazoumana-toure-to-newcastle-united-speed-of-ivorian-winger-from-hoffenheim-could-define-matthias-jaissles-new-team",
+          "title": "Spurs' Vicario set to join Juventus on loan",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
           "published": "2026-08-17",
-          "summary": "Amid the doom and gloom at Newcastle United as familiar faces depart and the future looks uncertain, do not sleep on the signing of Bazoumana Toure. The Ivorian winger has the potential to be one of t...",
-          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bazoumana-toure-newcastle-united_7291169.jpg?20260706132419"
-        },
-        {
-          "title": "'He's the professor' - Rodri's Manchester City journey",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aadf/live/4233aae0-9756-11f1-a7ab-8b30adf0800a.jpg"
-        },
-        {
-          "title": "Cameroon claim first Wafcon title with victory over Malawi",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crl77w8y8r3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a1d/live/d1ab13e0-99bb-11f1-870d-5d08c49babb2.jpg"
-        },
-        {
-          "title": "Rangers host Celtic in League Cup quarter-finals",
-          "link": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3c/live/1ffb4410-999a-11f1-ac5b-b961ed109b19.jpg"
-        },
-        {
-          "title": "'Probably my last year' - Ronaldo hints at retirement",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf02/live/7e1bfda0-9990-11f1-a4eb-59b79ff5ff4f.jpg"
-        },
-        {
-          "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/64893940-9989-11f1-a4eb-59b79ff5ff4f.jpg"
-        },
-        {
-          "title": "Villa close in on Suzuki with Martinez future in doubt",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckg44n858qvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "Aston Villa close in on the signing of Parma goalkeeper Zion Suzuki, with Emi Martinez's future in increasing doubt.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55c/live/94d25c30-997a-11f1-a992-3780b3f27758.jpg"
-        },
-        {
-          "title": "All done deals in August 2026",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-16",
-          "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+          "summary": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a936/live/73a2a730-9a1b-11f1-aed2-8d6da8d75094.jpg"
         }
       ],
       "highlights": [
@@ -123,32 +123,11 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Changing times as Welsh blockbuster awaits",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5ye0qekjelo?at_medium=RSS&at_campaign=rss",
+          "title": "Colwill hits last-second stunner as Cardiff fight back to deny Wrexham",
+          "link": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509",
           "published": "2026-08-17",
-          "summary": "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5070/live/2591c3e0-9661-11f1-b2ab-0dd01740f9f6.png"
-        },
-        {
-          "title": "GB denied 2028 Olympics spot as USA and Canada win flag football world titles",
-          "link": "https://www.skysports.com/nfl/news/12040/13573812/flag-football-los-angeles-2028-olympics-spots-decided-as-usa-and-canada-claim-mens-and-womens-world-titles",
-          "published": "2026-08-16",
-          "summary": "The United States successfully defended the men's title at the flag football world championships on Sunday but lost the women's title to Canada, while Mexico's women and Canada's men earned qualificat...",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-phoebe-schecter-nfl_7323531.jpg?20260816195358"
-        },
-        {
-          "title": "Clinical Scheffler claims emphatic win at FedEx St. Jude Championship",
-          "link": "https://www.skysports.com/golf/news/12040/13573858/scottie-scheffler-claims-dominant-victory-at-fedex-st-jude-championship-as-tommy-fleetwood-fades-on-tough-back-nine",
-          "published": "2026-08-16",
-          "summary": "Scottie Scheffler produced a clinical performance at TPC Southwind on his way to sealing an eight-shot victory at the FedEx St. Jude Championship.",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-scottie-scheffler_7323692.jpg?20260817001642"
-        },
-        {
-          "title": "Championship excellent place to discover talent - Espanyol's Monchi",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c62v1e64x41o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-15",
-          "summary": "Espanyol sporting director Monchi explains why he believes England's Championship is an undervalued source of talent, and outlines his ambitions to restore Espanyol to the top end of Spanish football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c42e/live/26745a90-97f4-11f1-8170-33f7e8571fbe.jpg"
+          "summary": "Cardiff earned the most dramatic point on their return to the Sky Bet Championship as Rubin Colwill's stunning 98th-minute free-kick earned a 1-1 draw against Wrexham.",
+          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rubin-colwill-cardiff_7324435.jpg?20260817220931"
         }
       ],
       "highlights": [
@@ -172,15 +151,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Wigan cruise past Bradford to seal play-off place",
-          "link": "https://www.skysports.com/watch/video/13573556/bradford-bulls-6-34-wigan-warriors-super-league-highlights",
-          "published": "2026-08-16",
-          "summary": "Highlights of the Super League match between Bradford Bulls and Wigan Warriors.",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bradford-wigan_7322827.jpg?20260815203732"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -191,7 +162,22 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Top Fifa official sacked after Infantino plan criticism",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-17",
+          "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg"
+        },
+        {
+          "title": "Scottish FA withdraws support for Fifa president Infantino",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-17",
+          "summary": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69f/live/e03a5720-9a35-11f1-bb53-f521e7e25454.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -201,5 +187,26 @@
       ]
     }
   },
-  "standout_moments": []
+  "standout_moments": [
+    {
+      "moment": "Top Fifa official sacked after Infantino plan criticism",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Haaland's main rivals for the Premier League Golden Boot",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "\u00a32.14bn and counting - why Premier League spending could set new record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Williams sisters lose tie-break thriller in first doubles reunion since 2022",
+      "link": "https://www.skysports.com/tennis/news/12040/13574212/cincinnati-open-serena-williams-and-sister-venus-williams-lose-thriller-in-first-doubles-match-together-since-2022"
+    },
+    {
+      "moment": "Colwill hits last-second stunner as Cardiff fight back to deny Wrexham",
+      "link": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509"
+    }
+  ]
 }
