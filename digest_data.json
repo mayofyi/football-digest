@@ -1,10 +1,80 @@
 {
-  "generated_date": "2026-09-04",
-  "week_ending": "September 04, 2026",
+  "generated_date": "2026-09-05",
+  "week_ending": "September 05, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "I've never spoken to Everton owner Friedkin - Moyes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2894/live/590172b0-a8ff-11f1-bd44-2b0afe453f7d.jpg"
+        },
+        {
+          "title": "Flex your football brain with our daily quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cz9zpq8lpvqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "Has there been a changing of guard for London sides in the WSL?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c7837gnn4ejo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "With the Women's Super League season starting up, are Arsenal in a better position than Chelsea to challenge for the title?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f04/live/672fe410-a883-11f1-824a-0fc4c5d895ae.jpg"
+        },
+        {
+          "title": "Eyes on big prize as Swansea and Wrexham collide",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6440/live/70e0d580-a7b8-11f1-a291-b542ee92de7c.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0p81k5b?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Kelly Somers speaks to Brentford head coach Keith Andrews.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p81k7l.jpg"
+        },
+        {
+          "title": "Putellas debut as London City beat Man Utd in opener",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cn74v6krpvno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Alexia Putellas makes her London City Lionesses debut as the home side beat Manchester United 2-1 in the first game of the Women's Super League season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebd/live/39c0a930-a89f-11f1-a291-b542ee92de7c.jpg"
+        },
+        {
+          "title": "Who am I? Guess WSL star No 2",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cn8nmnv8vrvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-05",
+          "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
+        },
+        {
+          "title": "St Helens 'need a clear out' as recruitment questioned after Leigh defeat",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13581438/super-league-st-helens-need-a-big-clear-out-as-teams-recruitment-questioned-after-missing-play-offs",
+          "published": "2026-09-05",
+          "summary": "Jamie Jones-Buchanan believes St Helens need a big rebuild as Eamon O&#8217;Carroll&#8217;s side missed out on making the Super League play-offs for the first time in the club's history.",
+          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-st-helens-rugby-league_7341447.jpg?20260904221607"
+        },
+        {
+          "title": "Superstar-led London City live up to hype as Man Utd suffer",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czxz1vnwgz6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04",
+          "summary": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e965/live/0e00f240-a8eb-11f1-b109-879e35c24276.jpg"
+        },
+        {
+          "title": "Isak finally arrives as Gakpo proves value to Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04",
+          "summary": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f5b/live/e9917310-a8b0-11f1-b109-879e35c24276.jpg"
+        },
         {
           "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
           "link": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
@@ -13,102 +83,32 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc7e/live/695b4a80-a70d-11f1-adb7-ad73f5f76a76.jpg"
         },
         {
-          "title": "No away fans for SPFL Old Firm matches this season",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
+          "title": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-04",
-          "summary": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5a/live/3da2e080-a85f-11f1-ae45-e9984fc27c77.jpg"
+          "summary": "How Liverpool and Ipswich Town's players rated following their Premier League match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9626/live/8030c050-a898-11f1-b29d-29a1a5e1e667.jpg"
         },
         {
-          "title": "Arsenal to face Barca & Lyon in Women's Champions League",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
+          "title": "'I thought we were excellent' - O'Neil on Liverpool defeat",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5y4rpj0lx4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-04",
-          "summary": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d77/live/f5a0f4e0-a85c-11f1-ae45-e9984fc27c77.jpg"
+          "summary": "Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7627/live/f4fa4310-a8a8-11f1-b109-879e35c24276.jpg"
         },
         {
-          "title": "From playing with Rashford to non-league and new career",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo?at_medium=RSS&at_campaign=rss",
+          "title": "Parrott fires Real Betis to win over Real Madrid",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-04",
-          "summary": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d0/live/1de54b70-a837-11f1-b3a7-d5de760fef6e.jpg"
+          "summary": "Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd0/live/ae87c250-a8ac-11f1-b109-879e35c24276.jpg"
         },
         {
-          "title": "Atletico's Alvarez will return after 'learning experience' - Simeone",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cje8wne0qy8o?at_medium=RSS&at_campaign=rss",
+          "title": "Dean says he always applied laws - but which matches did he play games in?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-04",
-          "summary": "Julian Alvarez will return to Atletico Madrid's squad for the La Liga game at Athletic Club despite his failed attempt to leave the club, says manager Diego Simeone.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9170/live/262a1c20-a850-11f1-80f8-c33181935c5a.jpg"
-        },
-        {
-          "title": "Earps eyes Man Utd reunion as WSL comeback nears",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c87v09l8599o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "Mary Earps is back in the Women's Super League and hopes to mark her return by facing former club Manchester United.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d8/live/7e0a34c0-a701-11f1-9deb-1f1584451e2c.jpg"
-        },
-        {
-          "title": "Who are best Man City players to buy? FPL gameweek three dilemmas",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "BBC Sport FPL expert Gianni Buttice looks at some of the biggest dilemmas facing Fantasy Premier League managers heading into gameweek three.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30c/live/df579590-a799-11f1-a291-b542ee92de7c.jpg"
-        },
-        {
-          "title": "Flex your football brain with our daily quizzes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c39mlwmg9w2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Who am I? Guess WSL star No 1",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c0qvxvp220jo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"
-        },
-        {
-          "title": "Pato consortium's Northampton investment approved",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cvgy7rx799yo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "The Independent Football Regulator approves investment into the Cobblers by a Brazilian consortium.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c32d/live/817113f0-a7a5-11f1-a7ad-37a1f7dc081c.jpg"
-        },
-        {
-          "title": "Stenhousemuir boss Bartley returns to Livingston - watch on BBC",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c7903rq5w2qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-04",
-          "summary": "Stenhousemuir manager Marvin Bartley reveals he has not spoken to Livingston sporting director David Martindale since resigning from the club at the end of last season, with the sides set to meet in F...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/cc6f3810-a835-11f1-b3a7-d5de760fef6e.jpg"
-        },
-        {
-          "title": "The assistant headteacher about to become England manager for a week",
-          "link": "https://www.skysports.com/football/news/12040/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week",
-          "published": "2026-09-04",
-          "summary": "Andy McCann has only just returned to work.",
-          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-andy-mccann-cheshire-league_7340119.jpg?20260903172059"
-        },
-        {
-          "title": "Women's CL draw: Arsenal to face reigning champions Barcelona",
-          "link": "https://www.skysports.com/football/news/12040/13581187/womens-champions-league-2026-27-draw-x",
-          "published": "2026-09-04",
-          "summary": "Arsenal will face reigning champions Barcelona in the league phase of the 2026/27 Women's Champions League.",
-          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-uefa-womens-champions_7340660.jpg?20260904101312"
-        },
-        {
-          "title": "No away fans at Old Firm Premiership games this season",
-          "link": "https://www.skysports.com/football/news/12040/13581296/celtic-and-rangers-away-fans-barred-from-all-old-firm-premiership-and-league-cup-games-this-season",
-          "published": "2026-09-04",
-          "summary": "There will be no fans allowed at Old Firm games between Celtic and Rangers in this season's Premiership and League Cup, the SPFL has announced.",
-          "image": "https://e0.365dm.com/26/08/1920x1080/skysports-celtic-rangers-fans_7333548.jpg?20260828120836"
-        },
-        {
-          "title": "Sutton's predictions v Kasabian frontman Serge Pizzorno",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-03",
-          "summary": "BBC Sport football expert Chris Sutton takes on Kasabian frontman Serge Pizzorno, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37ad/live/a2b56be0-a7d4-11f1-aed2-8d6da8d75094.png"
+          "summary": "Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/89d956a0-a878-11f1-824a-0fc4c5d895ae.jpg"
         }
       ],
       "highlights": [
@@ -121,7 +121,15 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm2mxe7g3gyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04",
+          "summary": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2a/live/df47c290-a853-11f1-aed2-8d6da8d75094.png"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -156,11 +164,18 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "FIFA accuses UEFA of launching 'smear campaign' against Infantino",
-          "link": "https://www.skysports.com/football/news/12040/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts",
-          "published": "2026-09-03",
-          "summary": "FIFA has accused European football&#8217;s governing body of launching a &#8220;smear campaign&#8221; against Gianni Infantino in a challenge to legal action over the aborted attempt to sell part of t...",
-          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346"
+          "title": "Guendouzi and Greenwood banned  after brawl",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cly7874vxzlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04",
+          "summary": "Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee9/live/f18aabb0-a890-11f1-96fc-dd627484b0e6.jpg"
+        },
+        {
+          "title": "FA to canvass England players in World Cup review",
+          "link": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04",
+          "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg"
         }
       ],
       "highlights": [
@@ -174,24 +189,16 @@
   },
   "standout_moments": [
     {
-      "moment": "Arsenal to face Barca & Lyon in Women's Champions League",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Earps eyes Man Utd reunion as WSL comeback nears",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c87v09l8599o?at_medium=RSS&at_campaign=rss"
+      "moment": "Eyes on big prize as Swansea and Wrexham collide",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
       "link": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Chelsea maintain perfect start in seven-goal Brighton thriller",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss"
+      "moment": "Arsenal to face Barca & Lyon in Women's Champions League",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
