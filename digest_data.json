@@ -1,16 +1,58 @@
 {
-  "generated_date": "2026-09-21",
-  "week_ending": "September 21, 2026",
+  "generated_date": "2026-09-22",
+  "week_ending": "September 22, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Celtic can't sack manager O'Neill, says Lambert",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
+          "title": "Arteta agrees new deal with champions Arsenal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22",
+          "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
+        },
+        {
+          "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22",
+          "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
+        },
+        {
+          "title": "Flex your football brain with our daily quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw20v5yelx3mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22",
+          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "Egan's late career resurgence back to Premier League",
+          "link": "https://www.bbc.co.uk/sport/articles/cgjq1x0wj7qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22",
+          "summary": "BBC Sport NI looks at Republic of Ireland centre-back's John Egan's rise back to the Premier League with Hull City and the international set-up under Heimir Hallgrimsson.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6021/live/4e772100-add7-11f1-871b-cb14676e811d.jpg"
+        },
+        {
+          "title": "Wigan focused on taking on 'battle-hardened' Wakefield in semis",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13585903/wigan-warriors-focused-on-taking-on-battle-hardened-wakefield-trinity-for-spot-in-super-league-grand-final",
+          "published": "2026-09-22",
+          "summary": "Wigan Warriors have been there, done that, and got the T-shirt when it comes to making it to the Betfred Super League Grand Final and so their routine is set as they hunt down the treble in 2026.",
+          "image": "https://e0.365dm.com/26/05/1920x1080/skysports-matt-peet_7255167.jpg?20260919213414"
+        },
+        {
+          "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-21",
-          "summary": "Martin O'Neill leaving Celtic would not surprise Paul Lambert, but the former club captain would be \"shocked and disappointed\" if the veteran manager was to be sacked.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg"
+          "summary": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f1/live/1132b1b0-b606-11f1-a9b8-1d52a2930956.jpg"
+        },
+        {
+          "title": "Scotland call for Montgomery as Tierney & McLean drop out",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6wyz22d39ldo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "Blackburn Rovers midfielder Kristi Montgomery gets a first call-up for Scotland as Kieran Tierney and Kenny McLean drop out of the Nations League squad.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fdf/live/f89dbbd0-b5de-11f1-a430-4d16ee157c41.png"
         },
         {
           "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
@@ -20,46 +62,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045d/live/68e30950-b51b-11f1-b01b-6bc45d07eb85.jpg"
         },
         {
+          "title": "Wales will have no fear in Portugal - James",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmn9wpzrz3g1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "Jordan James insists depleted Wales will not be overawed against \"the best players in the world\" in their Nations League A opener against Portugal on Thursday.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0513/live/e02b16d0-b5be-11f1-abb5-85e9be42cb76.jpg"
+        },
+        {
+          "title": "Celtic can't sack manager O'Neill, says Lambert",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "Martin O'Neill leaving Celtic would not surprise Paul Lambert, but the former club captain would be \"shocked and disappointed\" if the veteran manager was to be sacked.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg"
+        },
+        {
           "title": "League B return & Kvaratskhelia test - Northern Ireland talking points",
           "link": "https://www.bbc.co.uk/sport/football/articles/crz6zeqz678jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-21",
           "summary": "Northern Ireland's return to Uefa Nations League B will see them face a player manager Michael O'Neill calls \"one of the best in the world\" but they enter the campaign without their own captain.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ac/live/5938dea0-b43d-11f1-8eb0-59fdbbab66e7.jpg"
-        },
-        {
-          "title": "What will 'greatest captain' bring to Bellamy's Wales?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c58jdvlejve2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "The return of former captain Ashley Williams to the Wales coaching team excites boss Craig Bellamy before their Nations League fixtures.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bee/live/1e42d780-b4ea-11f1-947c-4906c0564be0.jpg"
-        },
-        {
-          "title": "Who would you pick for Wales against Portugal?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq62jr0k7gp8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "Craig Bellamy's side take on Portugal in Lisbon on Thursday, 24 September. Who would you pick for Wales opening Nations League A fixture?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1908/live/8412dfa0-0303-11f0-8c3d-b7dcc7510cb1.png"
-        },
-        {
-          "title": "How many times has a player scored a hat-trick in a Premier League loss?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "Sunderland's Brian Brobbey scored the first hat-trick by a player on a losing side in the Premier League for 19 years - but how many others have done so?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e2/live/691c39f0-b598-11f1-8ac1-4d5f189a56fb.jpg"
-        },
-        {
-          "title": "Flex your football brain with our daily quizzes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqdj4nk270meo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "title": "Republic of Ireland braced for testing Nations League",
-          "link": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a64e7a00-b2bd-11f1-9830-658a48c7da16.jpg"
         },
         {
           "title": "All the goals from the Women's Super League - matchweek three",
@@ -76,39 +97,18 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2693/live/d25828a0-b59a-11f1-b1d1-571ed4d7ff2c.jpg"
         },
         {
-          "title": "Ex-Liverpool forward Salah gets six-month driving ban",
-          "link": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
+          "title": "How many times has a player scored a hat-trick in a Premier League loss?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-21",
-          "summary": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445b/live/f5ccfb50-b5ac-11f1-8d1d-a985658d9d3a.jpg"
+          "summary": "Sunderland's Brian Brobbey scored the first hat-trick by a player on a losing side in the Premier League for 19 years - but how many others have done so?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e2/live/691c39f0-b598-11f1-8ac1-4d5f189a56fb.jpg"
         },
         {
-          "title": "The pros and cons of being a long-distance football manager",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c7v4l3z659vo?at_medium=RSS&at_campaign=rss",
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-21",
-          "summary": "The pros and cons of being a long-distance football manager. Former Stoke City manager Tony Pulis talks to BBC Sport about how he managed teams despite keeping his family home hundreds of miles away.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/43e63dd0-ab97-11f1-aa04-efbf6a882854.jpg"
-        },
-        {
-          "title": "Liverpool vs Man Utd and Man City's trip to Arsenal live on Sky Sports",
-          "link": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-          "published": "2026-09-21",
-          "summary": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432"
-        },
-        {
-          "title": "Wakefield's Guler set to miss rest of play-offs with ban for punching",
-          "link": "https://www.skysports.com/rugby-league/news/12040/13590455/super-league-wakefield-prop-emre-guler-set-to-miss-rest-of-play-offs-after-being-given-two-match-ban-for-punching",
-          "published": "2026-09-21",
-          "summary": "Wakefield prop Emre Guler is set to miss the rest of the Super League play-offs after being handed a two-match ban for punching.",
-          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-emre-guler-wakefield_7357965.jpg?20260921150820"
-        },
-        {
-          "title": "Brentford, Brighton, Bournemouth - how the PL's 'Bermuda Triangle' defies odds",
-          "link": "https://www.skysports.com/football/news/12040/13590434/brentford-brighton-bournemouth-how-the-premier-leagues-bermuda-triangle-defies-the-odds-with-recruitment-and-culture",
-          "published": "2026-09-21",
-          "summary": "A strange patch of Premier League territory stretches from west London to the south coast, where top clubs cannot pass through easily.",
-          "image": "https://e0.365dm.com/26/09/1920x1080/skysports-brighton-brentford_7357912.jpg?20260921133007"
+          "summary": "What is stopping Brentford & Brighton reaching the next level?",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
         }
       ],
       "highlights": [
@@ -135,20 +135,6 @@
           "published": "2026-09-21",
           "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/8752b6e0-b51d-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "title": "How Warwickshire can seal three-way battle for County Championship title",
-          "link": "https://www.skysports.com/cricket/news/12040/13590403/county-championship-permutations-warwickshire-attempt-to-seal-division-one-title-with-somerset-and-nottinghamshire-still-in-contention",
-          "published": "2026-09-21",
-          "summary": "The final round of fixtures in the County Championship begins on Thursday with three teams still in contention for the title, while who will be relegated from and promoted to Division One is also stil...",
-          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-warwickshire-hannon-dalby_7357864.jpg?20260921122506"
-        },
-        {
-          "title": "Littler withdraws from Players Championship events after clean sweep hopes dashed",
-          "link": "https://www.skysports.com/darts/news/12040/13590401/luke-littler-withdraws-from-players-championship-events-after-hopes-of-pdc-title-sweep-dashed",
-          "published": "2026-09-21",
-          "summary": "Luke Littler has withdrawn from two Players Championship events in the Netherlands less than 24 hours after his bid for a PDC majors title clean sweep was dashed.",
-          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-luke-littler-darts_7357137.jpg?20260920154649"
         }
       ],
       "highlights": [
@@ -161,15 +147,7 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [
-        {
-          "title": "Mourinho prints out 'red card' incidents after Real lose derby",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-20",
-          "summary": "Real Madrid manager Jose Mourinho prints out screenshots displaying two incidents he believes should have resulted in Atletico Madrid dismissals.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e586/live/33ea4fc0-b524-11f1-b1e2-034207760e32.png"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -182,11 +160,11 @@
       "name": "League Two",
       "articles": [
         {
-          "title": "Wrexham owners Reynolds and Mac buy football pub",
-          "link": "https://www.bbc.co.uk/news/articles/cmd68px6eg6vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-09-21",
-          "summary": "The Turf is a regular feature on the Welcome to Wrexham Disney documentary series.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1249/live/16d55520-b5af-11f1-8d1d-a985658d9d3a.jpg"
+          "title": "'This is not Wrexham. I'm not Ryan Reynolds' - behind the scenes at world's oldest club",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c617j8rz8q4lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-22",
+          "summary": "A new BBC podcast Mud, Sweat and Cheers: Trouble at the Bottom \u2013 Sheffield FC goes behind the scenes on an extraordinary season at the world's oldest football club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2993/live/8bddf0d0-b35b-11f1-b949-71f91f81d1ab.jpg"
         }
       ],
       "highlights": [
@@ -201,11 +179,32 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "Infantino says he is open to talks over Fifa reform",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg"
+        },
+        {
+          "title": "'Constant bombardment' - fans shown 65,000 junk food ads at World Cup",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf09/live/ff9b7b10-b58a-11f1-bc1f-3f186ca4140c.jpg"
+        },
+        {
           "title": "Palmer & Rice among five withdrawals from England squad",
           "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
           "published": "2026-09-21",
           "summary": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8faf/live/d4790270-b5be-11f1-bc1f-3f186ca4140c.png"
+        },
+        {
+          "title": "Will three-week break put more pressure on managers?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-21",
+          "summary": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee6/live/e96601c0-b59f-11f1-abe6-535e7b14de4c.jpg"
         },
         {
           "title": "Wilson, Darlow and Broadhead out of Wales squad",
@@ -215,11 +214,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/dcd85210-b5ad-11f1-a430-4d16ee157c41.png"
         },
         {
-          "title": "Will three-week break put more pressure on managers?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+          "title": "Papers: Dowman to link up with England squad",
+          "link": "https://www.skysports.com/football/news/12040/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
           "published": "2026-09-21",
-          "summary": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee6/live/e96601c0-b59f-11f1-abe6-535e7b14de4c.jpg"
+          "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
         }
       ],
       "highlights": [
@@ -233,28 +232,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Celtic can't sack manager O'Neill, says Lambert",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "moment": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Mourinho prints out 'red card' incidents after Real lose derby",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6m27p9e24zno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Man City beat Sunderland in eight-goal thriller to go three points clear",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmq5x78j0y1lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "How many times has a player scored a hat-trick in a Premier League loss?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss"
+      "moment": "Celtic can't sack manager O'Neill, says Lambert",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Holdt scores hat-trick as Spurs thrash 10-player Palace",
       "link": "https://www.bbc.co.uk/sport/football/videos/cqx2zg35kln5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "How many times has a player scored a hat-trick in a Premier League loss?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
