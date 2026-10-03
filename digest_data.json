@@ -1,23 +1,72 @@
 {
-  "generated_date": "2026-10-02",
-  "week_ending": "October 02, 2026",
+  "generated_date": "2026-10-03",
+  "week_ending": "October 03, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Republic of Ireland news conference ends abruptly amid accusations",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm78p5x6xqq7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Republic of Ireland manager Heimir Hallgrimsson's pre-match news conference ends abruptly as accusations are levelled at his players.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eee/live/4c3aab70-bf23-11f1-bacc-0989b00347ed.jpg"
+        },
+        {
+          "title": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his final game for Bosnia-Herzegovina.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/311aa970-bef2-11f1-babe-4199b0e7ccea.jpg"
+        },
+        {
+          "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fe4/live/ac690b50-bcd4-11f1-babe-4199b0e7ccea.png"
+        },
+        {
+          "title": "Flex your football brain with our daily quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c64gdgp8w4ddo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "title": "Who am I? Guess WSL star No 7",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9rk3vx2y7pro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Work out the identity of today's Women's Super League player in as few attempts as possible.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
+        },
+        {
+          "title": "Second Israel game won't be a friendly - Hallgrimsson",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq77075x5xv7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Republic of Ireland head coach Heimir Hallgrimsson admits Sunday's second game against Israel is \"not going to be a friendly\" following comments from the latter's camp after last week's match in Hunga...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c42/live/deaffb90-bded-11f1-8307-556ed6258238.jpg"
+        },
+        {
+          "title": "Man City whistleblower set to lose protection amid fears for life",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02",
+          "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
+        },
+        {
+          "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02",
+          "summary": "After an impressive 3-0 victory over Ukraine in the Nations League, Northern Ireland manager Michael O'Neill was impressed with his young side.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a472/live/b51a26e0-bea4-11f1-a22a-011993fe1af2.jpg"
+        },
         {
           "title": "What does Man City guilty verdict mean for their squad?",
           "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02",
           "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c7/live/372ea260-be45-11f1-beff-83dd12d67cca.jpg"
-        },
-        {
-          "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02",
-          "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg"
         },
         {
           "title": "The Unpromotables: Germany's league champions who can't go up",
@@ -30,8 +79,15 @@
           "title": "'Hitchy is always with us' - the keeper who died after one-punch attack",
           "link": "https://www.bbc.co.uk/sport/football/articles/cmn8en9wxv1no?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02",
-          "summary": "The memory of James Hitchcock lives on at non-league Barton Town, almost two years after he died following being punched on a visit to York.",
+          "summary": "The memory of James Hitchcock lives on at non-league Barton Town, almost two years after he died after being punched on a visit to York.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd2/live/7863d710-bd6d-11f1-8134-9503562e5ca9.png"
+        },
+        {
+          "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02",
+          "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg"
         },
         {
           "title": "Ferguson 'terrified' before 'fantastic' return to Man Utd after brain haemorrhage",
@@ -48,67 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
         },
         {
-          "title": "Flex your football brain with our daily quizzes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmkgwgd08yl1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02",
-          "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
           "title": "Hallgrimsson marvels at 'magical' Parrott's solo goal",
           "link": "https://www.bbc.co.uk/sport/football/articles/cx4gqg6840d4o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02",
           "summary": "Republic of Ireland boss Heimir Hallgrimsson praises Troy Parrott after his fine solo goal in their 2-2 Uefa Nations League draw against Austria on Thursday.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc7f/live/2f454ce0-bde4-11f1-a361-995fc2fd8a70.jpg"
-        },
-        {
-          "title": "Swindon's Holloway labels himself dead man walking",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmn8e80ln99lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02",
-          "summary": "Swindon manager Ian Holloway calls himself a \"dead man walking\" if the team's form does not turn around.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc0/live/ebdcb020-be3c-11f1-883b-cfbfbf424e7e.jpg"
-        },
-        {
-          "title": "Football Daily",
-          "link": "https://www.bbc.co.uk/sounds/play/p0pddfhc?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-02",
-          "summary": "Sir Alex Ferguson talks about the class of '92 and recovering from a brain hemorrhage.",
-          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pddfjs.jpg"
-        },
-        {
-          "title": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
-          "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-          "published": "2026-10-02",
-          "summary": "",
-          "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-        },
-        {
-          "title": "Sabalenka cruises past Zarazua at China Open",
-          "link": "https://www.skysports.com/watch/video/13594419/renata-zarazua-vs-aryna-sabalenka-china-open-highlights",
-          "published": "2026-10-02",
-          "summary": "Highlights of the China Open match between Renata Zarazua and Aryna Sabalenka.",
-          "image": "https://e2.365dm.com/26/10/1920x1080/tennis-sabelenka-wta-china-open_7366673.jpg?20261002150536"
-        },
-        {
-          "title": "Boulter loses out to Muchova in China after dominant second set",
-          "link": "https://www.skysports.com/watch/video/13594414/katie-boulter-vs-karolina-muchova-china-open-highlights",
-          "published": "2026-10-02",
-          "summary": "Highlights of the China Open match between Katie Boulter and Karolina Muchova.",
-          "image": "https://e1.365dm.com/26/10/1920x1080/boulter-muchova-tennis-china-open_7366646.jpg?20261002143125"
-        },
-        {
-          "title": "Man City lodge appeal against guilty verdict",
-          "link": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
-          "published": "2026-10-02",
-          "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial rules.",
-          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-manchester-city-appeal_7365010.jpg?20260930152949"
-        },
-        {
-          "title": "Dev's Digest: Hamza's FA Cup final shirt to be auctioned | Award winners stand with Iqbal",
-          "link": "https://www.skysports.com/football/news/12040/13594024/devs-digest-hamza-choudhurys-fa-cup-final-shirt-up-for-grabs-award-winning-pair-stand-with-zidane-iqbal-dilan-markanday-opens-up-on-wonder-goal",
-          "published": "2026-10-02",
-          "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
-          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-fa-cup-leicester_7366084.jpg?20261001220118"
         }
       ],
       "highlights": [
@@ -132,7 +132,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "What can Peterborough fans expect from 'relentless' Savage?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmdx366q29klo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-02",
+          "summary": "Peterborough United's director of football Barry Fry predicts life under Robbie Savage will be anything but dull.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbe/live/0b7f3df0-be77-11f1-8a45-cd59664d243b.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -156,6 +164,20 @@
       "name": "World Cup",
       "articles": [
         {
+          "title": "'Different' Morrison gives NI new option",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n9rlvr57pgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Northern Ireland's Kieran Morrison hopes he has earned the trust of manager Michael O'Neill after impressing on his first international start.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c979/live/12ca4de0-bea7-11f1-a22a-011993fe1af2.jpg"
+        },
+        {
+          "title": "Why beating Denmark matters to Wales' Euro 2028 hopes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck1wv77v9y3wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-03",
+          "summary": "Avoiding finishing bottom of their Nations League group is a major aim for Wales following a win over Erling Haaland's Norway.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19c/live/8c0378e0-be8d-11f1-888b-4d28ea12c7e2.jpg"
+        },
+        {
           "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
           "link": "https://www.bbc.co.uk/sport/football/videos/cx8dzpj896edo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-02",
@@ -163,11 +185,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afb/live/6d75a9e0-be68-11f1-babe-4199b0e7ccea.jpg"
         },
         {
-          "title": "Injured O'Reilly withdraws from England squad",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-01",
-          "summary": "Nico O'Reilly withdraws from the England squad for their final two Nations League games of the international break because of injury.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07b/live/12df77b0-bda3-11f1-8373-27235719cf2a.jpg"
+          "title": "Meet the only Scot managing a national team in world football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-30",
+          "summary": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for Scotland in international football - as manager of Dominica's national side.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30c/live/9f3fe530-b990-11f1-afe7-6566e301a06f.jpg"
         }
       ],
       "highlights": [
@@ -180,6 +202,10 @@
     }
   },
   "standout_moments": [
+    {
+      "moment": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "moment": "Thompson goal enough to give Chelsea feisty derby win over Arsenal",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmq8jnqxjx5no?at_medium=RSS&at_campaign=rss"
