@@ -1,10 +1,80 @@
 {
-  "generated_date": "2026-10-09",
-  "week_ending": "October 09, 2026",
+  "generated_date": "2026-10-10",
+  "week_ending": "October 10, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "Who changed the game? - player ratings for Arsenal v Leeds",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "How Arsenal and Leeds players rated following their Premier League match.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/206991f0-c4aa-11f1-ac13-6da90f5ff039.jpg"
+        },
+        {
+          "title": "Time to rise? Ranking European football's sleeping giants",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a8fc7030-c259-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "title": "Palmer signs new Chelsea contract until 2034",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a8/live/a94e41f0-c3d3-11f1-95ba-dba767ffba7e.jpg"
+        },
+        {
+          "title": "Man City titles 'absolutely not' tainted - Maresca",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/843a2b40-c3ce-11f1-8fc5-335d62f6730b.jpg"
+        },
+        {
+          "title": "Football Daily",
+          "link": "https://www.bbc.co.uk/sounds/play/p0pfxl7m?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "Kelly Somers speaks to Arsenal captain Martin Odegaard.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfxlf1.jpg"
+        },
+        {
+          "title": "Tottenham to fly to Marbella for training camp",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cxr5y32r26l5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-10",
+          "summary": "Tottenham manager Roberto De Zerbi to take his squad to Marbella for team-bonding training camp after clash against Manchester United",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf87/live/028207c0-c406-11f1-838e-6d1d6d701264.jpg"
+        },
+        {
+          "title": "Arsenal come from behind to beat stubborn Leeds",
+          "link": "https://www.skysports.com/football/arsenal-vs-leeds-united/report/559494",
+          "published": "2026-10-10",
+          "summary": "Arsenal scored two goals in eight minutes to come from behind and get back to winning ways via a 2-1 comeback win over Daniel Farke's stubborn Leeds.",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bruno-guimaraes-arsenal_7372967.jpg?20261010140742"
+        },
+        {
+          "title": "Chelsea lead Bournemouth after early goals LIVE!",
+          "link": "https://www.skysports.com/football/chelsea-vs-bournemouth/live/559496",
+          "published": "2026-10-10",
+          "summary": "",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jordan-henderson_7373084.jpg?20261010152114"
+        },
+        {
+          "title": "Arteta's conscience clear over Man City charges",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-09",
+          "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
+        },
+        {
+          "title": "Man City whistleblower to remain in witness protection",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-09",
+          "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the dec...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg"
+        },
         {
           "title": "I've got my own questions on Man City case - Carrick",
           "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
@@ -13,39 +83,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c67/live/e425d740-c3b8-11f1-a64c-550be9e3c66b.jpg"
         },
         {
-          "title": "Man City titles 'absolutely not' tainted - Maresca",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09",
-          "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/843a2b40-c3ce-11f1-8fc5-335d62f6730b.jpg"
-        },
-        {
           "title": "What reception awaits Man City at Anfield?",
           "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-09",
           "summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dfb/live/55b72350-c3d2-11f1-95ba-dba767ffba7e.jpg"
-        },
-        {
-          "title": "Everton up for sale again - so what next as owners TFG look for a way out?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09",
-          "summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c259/live/3bcda2b0-c3e7-11f1-badc-154546719036.jpg"
-        },
-        {
-          "title": "What to do with Joao Pedro? FPL gameweek six dilemmas",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1pk9w8y0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09",
-          "summary": "BBC Sport's Fantasy Premier League expert FPL Pras gives his answers to some of the biggest dilemmas facing managers in gameweek six.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/fa412830-c2fb-11f1-a64c-550be9e3c66b.png"
-        },
-        {
-          "title": "'You can be a mum and a footballer - they can co-exist'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ck9dzlv95lw3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09",
-          "summary": "Northern Ireland striker Simone Magill tells BBC Sport NI about balancing motherhood with her return to football and how her life has changed since giving birth to daughter Skye earlier this year.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ffe/live/054a7870-c307-11f1-8f04-85217d686658.jpg"
         },
         {
           "title": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
@@ -62,53 +104,11 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd4d/live/9bd17230-c32f-11f1-babe-4199b0e7ccea.jpg"
         },
         {
-          "title": "Carrick demands Man City verdict clarity: 'It has affected me personally'",
-          "link": "https://www.skysports.com/football/news/12040/13596900/manchester-city-charges-manchester-united-boss-michael-carrick-calls-for-speed-and-clarity-over-rivals-guilty-verdict",
+          "title": "Afcon move to every four years under review by Caf",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cv0ldzz7yy3no?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-09",
-          "summary": "Michael Carrick has called for a swift resolution to Manchester City's financial charges case, insisting clarity is needed for everyone involved as the Premier League awaits the outcome of the club's ...",
-          "image": "https://e0.365dm.com/26/09/1920x1080/skysports-carrick-manchester-united_7351245.jpg?20260914103712"
-        },
-        {
-          "title": "Sutton's predictions v Starsailor frontman James Walsh",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08",
-          "summary": "BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec26/live/b62ee460-c298-11f1-babe-4199b0e7ccea.png"
-        },
-        {
-          "title": "Clubs fear political interference in Man City appeal",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08",
-          "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c127/live/c855ee70-c290-11f1-a13a-652a29dd7204.jpg"
-        },
-        {
-          "title": "Inside the \u00a31-an-hour official football shirt factories",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08",
-          "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than \u00a31 an hour.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cddb/live/f3601520-c301-11f1-9955-5d2e13ff2bea.jpg"
-        },
-        {
-          "title": "How Brighton attract and develop the best young players ahead of their rivals",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08",
-          "summary": "Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/ca558840-c23e-11f1-b390-9f59a375fdd2.jpg"
-        },
-        {
-          "title": "Everton's Sherif fined for breaching betting rules",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-08",
-          "summary": "The Football Association fines Everton forward Martin Sherif \u00a35,000 for breaching its betting rules over a 15-month period.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/cef3f0b0-c31c-11f1-bd97-fbe5a3482cde.jpg"
-        },
-        {
-          "title": "Scotland let lead slip in abject defeat by Slovenia",
-          "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-06",
-          "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/1c455130-c1cc-11f1-babe-4199b0e7ccea.jpg"
+          "summary": "The Africa Cup of Nations may continue to be held every two years, with discussions under way to reverse its proposed switch to a four-year cycle.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7af/live/adcb29a0-c3f6-11f1-97a9-2d4b5e26e282.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,18 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "How Swansea refound their way as ambition returns",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ckjwel862376o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-09",
-          "summary": "With Swansea City leading the Championship as the EFL returns, BBC Sport looks at how the club has brought back old values and new hopes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/8370cdc0-c33f-11f1-b521-0bbd7e4f1f2e.jpg"
+          "title": "Bristol City extend Charlton's winless run to six games",
+          "link": "https://www.skysports.com/football/charlton-athletic-vs-bristol-city/report/560596",
+          "published": "2026-10-10",
+          "summary": "Bristol City goalkeeper Sam Tickle pulled off two big saves in the second half to extend Charlton's winless run in the Championship to six matches after a 1-1 draw at The Valley.",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-charlton-bristol-city_7373044.jpg?20261010145109"
+        },
+        {
+          "title": "Swansea fight back to beat Norwich and extend Championship lead",
+          "link": "https://www.skysports.com/football/swansea-city-vs-norwich-city/report/560602",
+          "published": "2026-10-10",
+          "summary": "Adam Idah made up for three near misses in the first half to head Championship leaders Swansea to a 2-1 home win over Norwich.",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-moussa-yeo-swansea_7373014.jpg?20261010144004"
         }
       ],
       "highlights": [
@@ -205,6 +212,10 @@
     {
       "moment": "'Amazing' Kane targets 100 international goals",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Arsenal come from behind to beat stubborn Leeds",
+      "link": "https://www.skysports.com/football/arsenal-vs-leeds-united/report/559494"
     }
   ]
 }
