@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-10-18",
-  "week_ending": "October 18, 2026",
+  "generated_date": "2026-10-19",
+  "week_ending": "October 19, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Martinez breaks jaw in Chelsea win at Everton",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
+          "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df87/live/52e94c20-cbbb-11f1-81ef-39e22b578b80.jpg"
+        },
+        {
+          "title": "Beer & Blackpool beach was how British players bonded - Pulis",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "Everton legend Ferguson returns to management in Irish League",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq62yd157rjeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Ex-Everton and Rangers striker Duncan Ferguson is named as the new manager of Irish Premiership club Glentoran.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaac/live/3a3a1250-cba6-11f1-9ee2-f74dfb8e54e5.jpg"
+        },
+        {
+          "title": "Hearts humiliated - but would Vrancken do anything differently?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6ev32zvzv01o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Manager Wouter Vrancken focuses on individual errors by his players rather than his tactical approach after Hearts are thrashed by Celtic.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e1/live/2da05c50-cb12-11f1-a9ef-8b4e735f71f0.jpg"
+        },
+        {
+          "title": "'Not in our DNA' - will 3v3 change the future of English football?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f54/live/4198f880-c7dd-11f1-b712-6f93dfe07e87.png"
+        },
+        {
+          "title": "I'll give Glentoran everything, vows new boss Ferguson",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c893zd3rge3po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Duncan Ferguson targets a return to the glory days at the Oval after his appointment as the new Glentoran manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3143/live/32dd3630-cbc5-11f1-aba9-2bb2608f11d9.jpg"
+        },
+        {
+          "title": "Who am I? Plus today's other quizzes",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwkg57jpj3yyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "title": "Jota 'met some demons' during long injury absence",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c820vzrq695xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e2/live/7c6a7bc0-cbd2-11f1-aba9-2bb2608f11d9.jpg"
+        },
+        {
+          "title": "All the goals from the Women's Super League - matchweek six",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Watch every goal from matchweek six of the Women's Super League 2026-27 season.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e9/live/247c2c40-cbb6-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "title": "How to follow the Champions League on the BBC",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291a/live/f0a04d80-aac6-11f1-8881-75c1b8a858c8.jpg"
+        },
+        {
+          "title": "Euro Leagues",
+          "link": "https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga.",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+        },
+        {
+          "title": "Arsenal vs Man Utd, NLD and Man City vs Chelsea live on Sky in December",
+          "link": "https://www.skysports.com/football/news/12040/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+          "published": "2026-10-19",
+          "summary": "Arsenal's home match against Manchester United, the north London derby and Chelsea's trip to Manchester City will all feature live on Sky Sports in December.",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-badges_7380864.jpg?20261019161220"
+        },
+        {
+          "title": "Merson: Brighton defeat scared Arsenal \u2013 they won\u2019t beat Bayern",
+          "link": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
+          "published": "2026-10-19",
+          "summary": "The defeat to Brighton has scared Arsenal. After winning the league, they came out and played some entertaining football, but then that result happened and they&#8217;ve gone back to being an efficien...",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-paul-merson-arsenal_7380639.jpg?20261019121242"
+        },
+        {
+          "title": "London City developing at a rapid rate as Arsenal flop again",
+          "link": "https://www.skysports.com/football/news/12040/13600861/wsl-london-city-lionesses-showing-rapid-development-in-pursuit-of-champions-league-football-as-arsenal-flop-again",
+          "published": "2026-10-19",
+          "summary": "<em>Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game. Plu...",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-arsenal-london-city_7380615.jpg?20261019114816"
+        },
+        {
+          "title": "Ramos could make La Liga return - Monday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-18",
-          "summary": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae43/live/de9a2760-cad7-11f1-806f-7338b2b9c1b1.jpg"
-        },
-        {
-          "title": "Do Manchester City have any grounds to win their appeal?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-18",
-          "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawye...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
-        },
-        {
-          "title": "Highlights: Dubois demolishes Wardley and retains WBO heavyweight title",
-          "link": "https://www.skysports.com/watch/video/13600497/daniel-dubois-vs-fabio-wardley-2-fight-highlights",
-          "published": "2026-10-18",
-          "summary": "Highlights of the WBO heavyweight rematch between Daniel Dubois and Fabio Wardley. Video credit: Courtesy of DAZN",
-          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-boxing-boxing-highlights_7379518.jpg?20261017231314"
-        },
-        {
-          "title": "What a rally! Kartal-Chwalinska starts in style",
-          "link": "https://www.skysports.com/watch/video/13600557/what-a-rally-sonay-kartal-maja-chwalinska-starts-in-style",
-          "published": "2026-10-18",
-          "summary": "The match between Sonay Kartal and Maja Chwalinska in the Wuhan Open final started in style with this rally.",
-          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-maja-chwalinska-tennus_7379655.jpg?20261018122744"
-        },
-        {
-          "title": "Boos and bananas on day of defiance at Man City",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"
-        },
-        {
-          "title": "Wirtz delivers but remains Liverpool's conundrum",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg"
-        },
-        {
-          "title": "Haaland nets double as Man City go six points clear at the top",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbaa/live/7da0f8b0-ca4d-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "title": "Manzambi heads Villa to victory at Newcastle",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb3/live/c78b6ee0-ca59-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "title": "Iwobi delivers Fulham's first win of season",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f8/live/a1c88950-ca4e-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "title": "Swansea must use West Ham defeat as fuel - Matos",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr5ynge8jnnyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae42/live/22723750-ca49-11f1-81dd-07b2258f847d.jpg"
-        },
-        {
-          "title": "How 'dangerous' Man City maintained 100 per cent record",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438e/live/d1402670-ca76-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "title": "Why Liverpool are still 'too easy' to play against",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Match of the Day's Danny Murphy analyses how Liverpool are still to \"easy\" to play against despite their 2-1 victory over Brentford.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as they swept aside Real Betis in a seven-goal thriller to stay five points clear at the top of La Liga.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db77/live/766abec0-ca69-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "title": "Bury FC fans say bumper FA Cup crowd 'meant everything'",
-          "link": "https://www.bbc.co.uk/news/articles/cv0ld456k5e6o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "The Shakers' home tie with Harrogate Town was described as \"massive\" by the resurgent club's fans.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c8/live/92366550-ca32-11f1-9ab2-b325ce61f9d2.jpg"
-        },
-        {
-          "title": "Alonso praises 'serious' Chelsea",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-17",
-          "summary": "Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f93/live/e4d8b4f0-ca39-11f1-a64c-550be9e3c66b.jpg"
+          "summary": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbd/live/5026a4c0-cb2e-11f1-bc2e-018d645d8d21.png"
         }
       ],
       "highlights": [
@@ -123,32 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Chacarra earns third win of year to move top of Race to Dubai standings",
-          "link": "https://www.skysports.com/golf/news/12040/13600531/dp-world-india-championship-eugenio-chacarra-wins-to-move-top-of-race-to-dubai-standings-with-rory-mcilroy-finishing-in-a-share-of-42nd-place",
-          "published": "2026-10-18",
-          "summary": "Eugenio Chacarra won the DP World India Championship by two shots with the Spaniard's third victory of the season moving him top of the Race to Dubai standings, above Patrick Reed and Rory McIlroy, wi...",
-          "image": "https://e1.365dm.com/26/06/1920x1080/skysports-eugenio-chacarra_7285012.jpg?20260628150827"
+          "title": "Ex-West Brom & Stoke striker Berahino retires at 33",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Saido Berahino, who cost Stoke City \u00a312m when they signed him from West Bromwich Albion in January 2017, retires from football at 33.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf55/live/9ea947a0-cbb1-11f1-81ef-39e22b578b80.jpg"
         },
         {
-          "title": "Chacarra targets Ryder Cup spot after winning DP World India Championship",
-          "link": "https://www.skysports.com/watch/video/13600571/eugenio-chacarra-focused-on-ryder-cup-place-after-dp-world-india-championship-win",
-          "published": "2026-10-18",
-          "summary": "Eugenio Chacarra is focused on securing a Ryder Cup place after winning the DP World India Championship, his third victory of the season.",
-          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-golf-chacarra_7379698.jpg?20261018125517"
+          "title": "Watch: Best of the weekend's SPFL action",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cw77p6z7enlko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"
         },
         {
-          "title": "Van Gerwen suffers another early exit as Van Veen makes history",
-          "link": "https://www.skysports.com/darts/news/12040/13600495/dutch-darts-championship-michael-van-gerwen-suffers-another-early-exit-as-gian-van-veen-makes-history-and-gerwyn-price-triumphs-on-return",
-          "published": "2026-10-17",
-          "summary": "Dutch favourite Michael van Gerwen suffered a shock second-round exit at the Dutch Darts Championship on Saturday, losing 6-5 to Irishman William O'Connor.",
-          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-van-gerwen-darts_7379515.jpg?20261017230933"
-        },
-        {
-          "title": "Dubois smashes through Wardley to win world title rematch in two rounds",
-          "link": "https://www.skysports.com/boxing/news/12040/13600415/daniel-dubois-smashes-through-fabio-wardley-to-win-wbo-heavyweight-world-championship-rematch-in-the-second-round",
-          "published": "2026-10-17",
-          "summary": "Daniel Dubois smashed Fabio Wardley to defeat in the second round of their world championship rematch at London&#8217;s O2 Arena.",
-          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-daniel-dubois-fabio-wardley_7379509.jpg?20261017230232"
+          "title": "Littler to face O'Connor in European Championship Darts opener",
+          "link": "https://www.skysports.com/darts/news/12040/13600917/european-championship-darts-luke-littler-to-face-william-oconnor-in-opener-as-gian-van-veen-starts-defence-vs-andrew-gilding",
+          "published": "2026-10-19",
+          "summary": "Luke Littler will face William O'Connor in his European Championship Darts opener, while&#160;Gian van Veen will start his title defence against Andrew Gilding on Thursday in Dortmund.",
+          "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7305455.jpg?20260723224554"
         }
       ],
       "highlights": [
@@ -183,7 +176,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "England manager Wiegman signs contract extension",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-19",
+          "summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -195,20 +196,20 @@
   },
   "standout_moments": [
     {
-      "moment": "Haaland nets double as Man City go six points clear at the top",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
+      "moment": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Long-range goals from further and further out",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6jdmy04ryjgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "How 'dangerous' Man City maintained 100 per cent record",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Van Gerwen suffers another early exit as Van Veen makes history",
-      "link": "https://www.skysports.com/darts/news/12040/13600495/dutch-darts-championship-michael-van-gerwen-suffers-another-early-exit-as-gian-van-veen-makes-history-and-gerwyn-price-triumphs-on-return"
+      "moment": "Arsenal vs Man Utd, NLD and Man City vs Chelsea live on Sky in December",
+      "link": "https://www.skysports.com/football/news/12040/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
     }
   ]
 }
