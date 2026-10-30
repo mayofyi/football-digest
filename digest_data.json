@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-10-29",
-  "week_ending": "October 29, 2026",
+  "generated_date": "2026-10-30",
+  "week_ending": "October 30, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "Is double drop from the Premier League becoming more common?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+          "title": "Britain's first \u00a3100m man facing defining moment",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg"
+        },
+        {
+          "title": "O'Neill agrees with McGregor about Celtic issues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Manager Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\".",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1b/live/4b429540-d46b-11f1-9dda-1ba6fcc7d159.jpg"
+        },
+        {
+          "title": "Ronaldo closes in on 1,000th goal with hat-trick",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Cristiano Ronaldo scores the 67th hat-trick of his career in Al-Nassr's 5-3 win against Al-Kholood in the Saudi Pro League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57f/live/1c4fff40-d446-11f1-97f9-27ebf08d99fe.jpg"
+        },
+        {
+          "title": "'The most important person managers must manage is themselves'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+        },
+        {
+          "title": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek nine.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54c4/live/03f07a30-d20f-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Our Ask Me Anything team explains how to follow matches from week nine of the Premier League season on the BBC this weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299a/live/02777700-d389-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "title": "Afcon to return to two-year cycle after Caf U-turn",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "The Africa Cup of Nations (Afcon) will return to its traditional two-year cycle after a review into December's decision to host it every four years instead.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a58/live/94f26780-d437-11f1-9ba3-e16b46d57ce6.jpg"
+        },
+        {
+          "title": "Prospective Gateshead takeover close to collapse",
+          "link": "https://www.bbc.co.uk/sport/football/articles/crz657qv7nv4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "The takeover of National League side Gateshead is close to collapsing due to third-party involvement, according to prospective owners Flacks Group.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4079/live/dc2e4040-d3c6-11f1-867c-77016fb236d7.jpg"
+        },
+        {
+          "title": "Carrick says there are 'no issues' with captain Fernandes",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Manchester United manager Michael Carrick says there are \"no issues\" with captain Bruno Fernandes after he was dropped from the team against Bournemouth.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4906/live/d18883a0-d446-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "title": "How Suzuki has wowed Villa fans since replacing Martinez",
+          "link": "https://www.skysports.com/football/news/12040/13605254/zion-suzuki-analysis-how-emi-martinezs-aston-villa-replacement-now-looks-like-a-potential-upgrade-given-his-range-of-skills",
+          "published": "2026-10-30",
+          "summary": "Aston Villa fans still sing about having the world's number one goalkeeper. But what started as a chant for Emiliano Martinez and morphed into defiant support for young Japanese goalkeeper Zion Suzuki...",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-zion-suzuki-aston-villa_7390795.jpg?20261029112621"
+        },
+        {
+          "title": "Djokovic suffers SHOCK defeat to put ATP Finals place in doubt",
+          "link": "https://www.skysports.com/watch/video/13605708/novak-djokovic-vs-jan-lennard-struff-swiss-indoors-basel-highlights",
+          "published": "2026-10-30",
+          "summary": "Highlights of the Swiss Indoors match between Novak Djokovic and Jan-Lennard Struff.",
+          "image": "https://e2.365dm.com/26/10/1920x1080/sky-sports-swiss-indoors-basel_7391754.jpg?20261030104312"
+        },
+        {
+          "title": "Emery believes 'time and consistency' will make Jackson one of the PL's best strikers",
+          "link": "https://www.skysports.com/watch/video/13605764/unai-emery-believes-that-time-and-consistency-will-make-nicolas-jackson-one-of-the-premier-leagues-best-strikers",
+          "published": "2026-10-30",
+          "summary": "Aston Villa boss Unai Emery believes that 'time and consistency' will allow Nicolas Jackson to become one of the Premier League's best strikers, but he admits he still has a lot of work to do to get t...",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-aston-villa_7391891.jpg?20261030141411"
+        },
+        {
+          "title": "'It's a process' - Alonso explains Estevao's lack of minutes",
+          "link": "https://www.skysports.com/watch/video/13605767/xabi-alonso-on-estevaos-lack-of-playing-time",
+          "published": "2026-10-30",
+          "summary": "Chelsea manager Xabi Alonso discusses Estevao&#8217;s lack of playing time so far this season.",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-alonso-chelsea_7391881.jpg?20261030140216"
+        },
+        {
+          "title": "Arteta shows tough love to Dowman after red - 'This isn't Disneyland'",
+          "link": "https://www.skysports.com/football/news/12040/13605766/max-dowman-red-card-mikel-artetas-tough-love-after-dismissal-this-isnt-disneyland",
+          "published": "2026-10-30",
+          "summary": "Mikel Arteta has gone down the tough love avenue with Max Dowman following his red card at Fleetwood, saying \"this is the Premier League, not Disneyland\" about the 16-year-old needing to control his e...",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dowman-arsenal_7389264.jpg?20261027232527"
+        },
+        {
+          "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
           "published": "2026-10-29",
-          "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg"
-        },
-        {
-          "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg"
-        },
-        {
-          "title": "Sometimes managers need sacking for own good - Neville",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg"
-        },
-        {
-          "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg"
-        },
-        {
-          "title": "Who am I? Plus today's other quizzes",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-        },
-        {
-          "title": "Why is there only one Premier League match on Sunday?",
-          "link": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c1/live/22b81730-d38f-11f1-b31d-29088a2dcf13.jpg"
-        },
-        {
-          "title": "Toney nightclub assault trial set for June 2028",
-          "link": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "The footballer has denied assaulting a man at a Soho nightclub on 6 December last year.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c935/live/d2a76ef0-d387-11f1-b5f4-fd541fd21001.jpg"
-        },
-        {
-          "title": "Boyd questions Rangers' title credentials after Hearts draw",
-          "link": "https://www.skysports.com/football/news/12040/13605223/rangers-kris-boyd-questions-sides-scottish-premiership-title-credentials-after-hearts-draw",
-          "published": "2026-10-29",
-          "summary": "\"If you're going to win a league, there has to be periods in games where you dominate that game... Rangers don't do that.\"",
-          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-rangers-olwethu-makhanya_7390688.jpg?20261029095101"
-        },
-        {
-          "title": "Fleetwood to face Everton or Newcastle in last eight",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg"
-        },
-        {
-          "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
-          "link": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg"
-        },
-        {
-          "title": "How unbeaten Chelsea are getting back to their best",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg"
-        },
-        {
-          "title": "Russo scores hat-trick as Arsenal beat Benfica",
-          "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e961/live/0fec4210-d31d-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "title": "Chelsea continue unbeaten start with win over Roma",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/6ae1e220-d30d-11f1-b441-2b33b063138f.jpg"
-        },
-        {
-          "title": "Lawlor delighted after beating 'best team in the country'",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/1682cd20-d29f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "title": "All Spanish cup matches suspended after Madrid train collision",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-28",
-          "summary": "All 24 matches in the Spanish Copa del Rey due to take place on Wednesday are suspended as a mark of respect after at least 68 people were killed in a train crash near Madrid.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/196d/live/ff0ee8f0-d2ca-11f1-8e79-5381b0a9d682.jpg"
+          "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"
         }
       ],
       "highlights": [
@@ -123,25 +123,25 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "England's Hull two off early LPGA Tour lead in Malaysia",
-          "link": "https://www.skysports.com/golf/news/12040/13605176/maybank-championship-englands-charley-hull-two-shots-off-lead-after-opening-round-of-lpga-tour-event-in-malaysia",
-          "published": "2026-10-29",
-          "summary": "England's Charley Hull sits two shots off the lead after the opening round of the LPGA's Maybank Championship in Kuala Lumpur, Malaysia.&#160;",
-          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-charley-hull-golf_7390561.jpg?20261029064304"
+          "title": "Sub-plots intensify Blades and Wrexham's rivalry",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cky931w9p0x0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Former team-mates Chris Wilder and Phil Parkinson lock horns again as Sheffield United face Wrexham in the Championship on Friday night.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b62/live/073c2c30-d3a3-11f1-b441-2b33b063138f.png"
         },
         {
-          "title": "Reyes pins nine-darter in opening round of Players Championship!",
-          "link": "https://www.skysports.com/watch/video/13604847/cristo-reyes-pins-nine-darter-in-opening-round-of-players-championship",
+          "title": "Hull remains in contention at LPGA Tour's Maybank Championship",
+          "link": "https://www.skysports.com/golf/news/12040/13605757/maybank-championship-charley-hull-four-shots-off-the-lead-after-second-round-in-malaysia",
+          "published": "2026-10-30",
+          "summary": "England's Charley Hull sits four shots off the lead after the second round of the LPGA's Maybank Championship in Malaysia.",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-charley-hull-golf_7391848.jpg?20261030132327"
+        },
+        {
+          "title": "Dobey wins Players Championship 32 as Van Gerwen struggles",
+          "link": "https://www.skysports.com/darts/news/12040/13605612/players-championship-32-chris-dobey-wins-third-ranking-title-of-year-as-michael-van-gerwen-struggles",
           "published": "2026-10-28",
-          "summary": "Cristo Reyes hits a nine-darter in his opening round game against Cor Dekker in the Players Championship 31.",
-          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-darts-pdc_7389810.jpg?20261028134455"
-        },
-        {
-          "title": "Watch: Best of Scottish Championship & League 1 action",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cqgm04mjkgzwo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-26",
-          "summary": "Watch the best of the action from the weekend's action in the Scottish Championship and League 1.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4a/live/e4f14f40-cba8-11f1-9ee2-f74dfb8e54e5.jpg"
+          "summary": "Chris Dobey clinched his third ranking title of the season as he beat Tommy Morris 8-4 at Players Championship 32 on Thursday.&#160;",
+          "image": "https://e0.365dm.com/25/12/1920x1080/skysports-darts-chris-dobye_7112299.jpg?20251216171357"
         }
       ],
       "highlights": [
@@ -154,7 +154,15 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Forest Green launch \u00a32m lawsuit over Savage approach",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-30",
+          "summary": "Forest Green chairman Dale Vince announces the club is taking legal action against Peterborough United following their approach for manager Robbie Savage.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17ef/live/37196de0-d458-11f1-93d9-89af68edb68a.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -165,15 +173,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Wrexham fined for fielding ineligible players",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-10-29",
-          "summary": "The English Football League fines Wrexham \u00a375k for two instances of fielding ineligible players.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edc/live/22cfb9f0-d2f7-11f1-93e1-3b657b665bcf.png"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -196,36 +196,28 @@
   },
   "standout_moments": [
     {
-      "moment": "Is double drop from the Premier League becoming more common?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss"
+      "moment": "Ronaldo closes in on 1,000th goal with hat-trick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Sometimes managers need sacking for own good - Neville",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss"
+      "moment": "Is double drop from the Premier League becoming more common?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Russo scores hat-trick as Arsenal beat Benfica",
       "link": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Kuyt named Fenerbahce interim boss before Liverpool tie",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss"
+      "moment": "Sometimes managers need sacking for own good - Neville",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "moment": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
       "link": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Man City's perfect start over after draw at rivals Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "moment": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss"
+      "moment": "Djokovic suffers SHOCK defeat to put ATP Finals place in doubt",
+      "link": "https://www.skysports.com/watch/video/13605708/novak-djokovic-vs-jan-lennard-struff-swiss-indoors-basel-highlights"
     }
   ]
 }
