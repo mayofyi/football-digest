@@ -1,114 +1,114 @@
 {
-  "generated_date": "2026-11-04",
-  "week_ending": "November 04, 2026",
+  "generated_date": "2026-11-05",
+  "week_ending": "November 05, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
         {
-          "title": "'Most difficult days of my life' for Owono after De Miguel death",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+          "title": "What new Kane deal means for England and the Premier League record",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Harry Kane's new deal at Bayern Munich may end his Premier League career but offers fresh hope he can lead England to glory, writes Phil McNulty.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2669/live/3768f3a0-d91d-11f1-ad94-e17fee4cd332.jpg"
+        },
+        {
+          "title": "Emery close to agreeing new Aston Villa contract",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg"
+        },
+        {
+          "title": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg"
+        },
+        {
+          "title": "Everton's Grealish unavailable again after 'breach of discipline'",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Jack Grealish remains unavailable for Everton's Premier League clash with Coventry on Friday, manager David Moyes confirms.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/445b20c0-d92b-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "title": "English female coach Kaminski reaping rewards in Norway",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "English manager Laura Kaminski has won the Norwegian league and cup double - so will that open doors in her coaching career?",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc10/live/642e8200-d8f6-11f1-9c68-d767468fa269.jpg"
+        },
+        {
+          "title": "FA and WSL launch major study into ACL injuries in women's football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "The Football Association and WSL Football launch a major research project to better understand why ACL injuries occur in women's football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/16f59790-d8ff-11f1-b441-2b33b063138f.png"
+        },
+        {
+          "title": "Coleman in 'hybrid role' with Republic of Ireland",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Republic of Ireland manager Heimir Hallgrimsson says it was \"tempting\" to include Seamus Coleman in his squad for this month's Nations League matches against Austria and Kosovo despite the defender ha...",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/93c2f6f0-d913-11f1-a81d-35e942472442.jpg"
+        },
+        {
+          "title": "Meet the people set for key role in deciding Man City fate",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw62ym8r113vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "The five individuals at the Premier League set to play a key role in the fate of Manchester City.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+        },
+        {
+          "title": "Owono left out of Eq Guinea squad after death of De Miguel",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Goalkeeper Jesus Owono will miss Equatorial Guinea's Afcon 2027 qualifiers after asking to be left out of the squad following the death of Tenerife forward Jesus de Miguel.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e9/live/aa4ff000-d907-11f1-b72c-d16cdc75f35f.jpg"
+        },
+        {
+          "title": "How to follow the Premier League on the BBC this weekend",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "Our Ask Me Anything team explains how to follow matches from week 10 of the Premier League season on the BBC this weekend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d644/live/e6e3eb50-d83c-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "title": "Europa League LIVE! Timber returns for Palace as Bournemouth change eight",
+          "link": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/live/577801",
+          "published": "2026-11-05",
+          "summary": "",
+          "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-europa-league_7333304.jpg?20260828073946"
+        },
+        {
+          "title": "Trout's Leigh absence down to cannabis ban",
+          "link": "https://www.skysports.com/rugby-league/news/12040/13608475/super-league-owen-trouts-one-month-absence-for-leigh-leopards-last-season-was-due-to-cannabis-ban",
+          "published": "2026-11-05",
+          "summary": "England forward Owen Trout's one-month absence from Leigh Leopards matches last season was due to a ban after testing positive for cannabis.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-owen-trout-leigh-leopards_7398200.jpg?20261105155830"
+        },
+        {
+          "title": "Alcaraz into Paris Masters quarter-finals after Berrettini withdraws",
+          "link": "https://www.skysports.com/tennis/news/12040/13608304/carlos-alcaraz-through-to-rolex-paris-masters-quarter-finals-after-matteo-berrettini-withdraws-injured",
+          "published": "2026-11-05",
+          "summary": "Carlos Alcaraz made it through to the quarter-finals at the Rolex Paris Masters without taking to the court after his scheduled opponent Matteo Berrettini withdrew from their third-round match.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-tennis_7397893.jpg?20261105132411"
+        },
+        {
+          "title": "Haaland scores winner as Man City beat Leipzig",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-04",
-          "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8bd/live/9677ecc0-d86e-11f1-85ab-b3cc3b5498c6.jpg"
-        },
-        {
-          "title": "Why is it going so wrong for Le Bris at Sunderland?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04",
-          "summary": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/cf211500-d6c1-11f1-ac20-7783925c811f.png"
-        },
-        {
-          "title": "From Derby to Champions League - Brown's journey to face Reds",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04",
-          "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed9/live/7f8180f0-d821-11f1-a9b6-0f4245e849b7.jpg"
-        },
-        {
-          "title": "How Carpenter has become Chelsea's surprise star",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04",
-          "summary": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e5/live/84926a10-d82a-11f1-be97-417dbcdedd32.jpg"
-        },
-        {
-          "title": "Wilson returns as Wales call up uncapped Duncan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04",
-          "summary": "Harry Wilson is back in Wales' squad for their Nations League matches against Norway and Portugal, while goalkeeper Joe Duncan earns his first call.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1e1/live/ea0b03a0-d836-11f1-87c3-29e1cdce63c6.png"
-        },
-        {
-          "title": "What are rules on loan players in Champions League?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-04",
-          "summary": "BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg"
-        },
-        {
-          "title": "Keeper defended after De Miguel's death - 'He would never intend to hurt anyone'",
-          "link": "https://www.skysports.com/football/news/12040/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
-          "published": "2026-11-04",
-          "summary": "Jesus Owono's team-mate has insisted the FC Andorra goalkeeper would never intend to hurt a fellow player following the death of Jesus de Miguel.",
-          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104154812"
-        },
-        {
-          "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg"
-        },
-        {
-          "title": "Football world mourns Tenerife striker De Miguel",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0f/live/e510d1a0-d83f-11f1-a701-fddedf244c16.jpg"
-        },
-        {
-          "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
-        },
-        {
-          "title": "Man Utd beat Roma - the other great Champions League comebacks",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a9/live/08b380a0-d7da-11f1-8cb0-d304936875f3.jpg"
-        },
-        {
-          "title": "Lionesses to face France and Portugal in Nations League",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
-        },
-        {
-          "title": "The referee who became a role model after bouncing back from Diaz error",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d8/live/3adfa190-ade0-11f1-9a5c-a7a4083eb832.jpg"
-        },
-        {
-          "title": "Boy arrested following Bradley Lowery taunt",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/dcbcdef0-d627-11f1-a947-0507737f09b2.jpg"
-        },
-        {
-          "title": "Everton hold off Newcastle to move into seventh",
-          "link": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-02",
-          "summary": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff55/live/2bdf6810-d76b-11f1-a701-fddedf244c16.jpg"
+          "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
         }
       ],
       "highlights": [
@@ -123,11 +123,32 @@
       "name": "Championship",
       "articles": [
         {
-          "title": "Leicestershire's relegation confirmed as points deduction for 'poor' pitch stands",
-          "link": "https://www.skysports.com/cricket/news/12040/13607997/leicestershires-county-championship-relegation-confirmed-as-points-deduction-for-poor-pitch-upheld",
-          "published": "2026-11-04",
-          "summary": "Leicestershire's relegation to County Championship Division Two has been confirmed after the club's points deduction for breaching pitch regulations was upheld.",
-          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leicestershire-cricket_7354095.png?20260916223225"
+          "title": "World record 53 red cards shown in Brazilian youth game",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "A world record of 43 players, eight members of staff and two board members were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+        },
+        {
+          "title": "Nations Championship: Under-fire England, confusing Ireland, hopeful Scotland",
+          "link": "https://www.skysports.com/rugby-union/news/12040/13608334/nations-championship-steve-borthwicks-under-fire-england-andy-farrells-confusing-ireland-gregor-townsends-hopeful-scotland",
+          "published": "2026-11-05",
+          "summary": "A Steve Borthwick England side which badly needs an uptick in performances and results, an Andy Farrell Ireland side that continues to confuse, and a Gregor Townsend Scotland side full of hope this au...",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-ireland-scotland_7397982.jpg?20261105132822"
+        },
+        {
+          "title": "Jones, Russell, Tuipulotu return in Scotland's quest for first win over All Blacks",
+          "link": "https://www.skysports.com/rugby-union/news/12040/13608330/nations-championship-huw-jones-finn-russell-sione-tuipulotu-start-in-scotland-quest-for-first-ever-win-vs-new-zealands-all-blacks",
+          "published": "2026-11-05",
+          "summary": "Gregor Townsend has welcomed back Huw Jones, Finn Russell and Sione Tuipulotu as Scotland seek a first-ever victory over New Zealand in Saturday's Nations Championship.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jones-tuipulotu-scotland_7398022.jpg?20261105140522"
+        },
+        {
+          "title": "Chacarra defends McIlroy over rules drama - 'I was happy to fight for it!'",
+          "link": "https://www.skysports.com/golf/news/12040/13608387/rory-mcilroy-rules-incident-race-to-dubai-leader-eugenio-chacarra-defends-masters-champion-over-abu-dhabi-penalty",
+          "published": "2026-11-05",
+          "summary": "Race to Dubai leader Eugenio Chacarra insists he was ready to help Rory McIlroy try and fight being penalised for a rules breach at the Abu Dhabi Aldar Championship.",
+          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rory-mcilroy-harry-diamond_7398131.jpg?20261105151604"
         }
       ],
       "highlights": [
@@ -140,7 +161,22 @@
     },
     "league_one": {
       "name": "League One",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "League One's bottom side Bromley name former MK Dons and Oxford United boss Karl Robinson as their new manager.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/1c9560f0-d90d-11f1-94c6-3f8050561bf5.jpg"
+        },
+        {
+          "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04",
+          "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "League One highlights this week - Week Highlights",
@@ -164,11 +200,39 @@
       "name": "World Cup",
       "articles": [
         {
-          "title": "McTominay returns as Penrice earns first Scotland call",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-03",
-          "summary": "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerla...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8424/live/2b4a2160-d775-11f1-a956-ff083523ef77.jpg"
+          "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/dfdded40-d915-11f1-a81d-35e942472442.jpg"
+        },
+        {
+          "title": "Who could be the next England debutant and who are the potential recalls?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e32/live/146d4c00-d870-11f1-85ab-b3cc3b5498c6.png"
+        },
+        {
+          "title": "Ronaldo's most iconic moments as he retires from international football",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05",
+          "summary": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/a3e114a0-8c89-11ef-8537-35d6ce5671fe.jpg"
+        },
+        {
+          "title": "Infantino faces fight for FIFA presidency as first challenger emerges",
+          "link": "https://www.skysports.com/football/news/12040/13608441/gianni-infantino-fifa-president-faces-challenge-from-japan-fa-chief-kohzo-tashima-in-2027-election",
+          "published": "2026-11-05",
+          "summary": "Gianni Infantino is facing his first serious challenger for the FIFA presidency after Japanese football chief Kohzo Tashima announced his intention to stand in March's election.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kohzo-tashima-gianni-infantino_7398127.jpg?20261105151346"
+        },
+        {
+          "title": "Ronaldo announces international retirement on Instagram!",
+          "link": "https://www.skysports.com/watch/video/13608338/cristiano-ronaldo-announces-international-retirement-on-instagram",
+          "published": "2026-11-05",
+          "summary": "Cristiano Ronaldo took to social media to announce his retirement from international football.",
+          "image": "https://e2.365dm.com/26/11/1920x1080/edaad10ea909d14f3c5e1fe4ad86fdc8fdad4c95b4e1121d0dcf961772d344af_7397842.jpg?20261105113505"
         }
       ],
       "highlights": [
@@ -182,20 +246,24 @@
   },
   "standout_moments": [
     {
-      "moment": "From Derby to Champions League - Brown's journey to face Reds",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss"
+      "moment": "What new Kane deal means for England and the Premier League record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Man Utd beat Roma - the other great Champions League comebacks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss"
+      "moment": "World record 53 red cards shown in Brazilian youth game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Clinical Man City edge past London City in WSL thriller",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss"
+      "moment": "Como score nine to make Champions League history",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Is double drop from the Premier League becoming more common?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss"
+      "moment": "Manchester United beat Roma in epic second-half comeback",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "moment": "Spence stars as Inter Milan cruise to win at Feyenoord",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
