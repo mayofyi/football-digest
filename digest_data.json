@@ -1,100 +1,86 @@
 {
-  "generated_date": "2026-11-27",
-  "week_ending": "November 27, 2026",
+  "generated_date": "2026-11-28",
+  "week_ending": "November 28, 2026",
   "divisions": {
     "premier_league": {
       "name": "Premier League",
       "articles": [
+        {
+          "title": "How a football team rebuilt after 19 players died in plane crash",
+          "link": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-28",
+          "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their lives.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg"
+        },
+        {
+          "title": "Ranking the Premier League's ultimate free-kick specialists",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-28",
+          "summary": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d9c/live/aafa5b20-e8fd-11f1-99a1-253766e7ad8b.png"
+        },
+        {
+          "title": "Brentford thump Man Utd for FOUR to condemn Poch to Old Trafford debut defeat",
+          "link": "https://www.skysports.com/watch/video/13617677/manchester-united-0-4-brentford-premier-league-highlights",
+          "published": "2026-11-28",
+          "summary": "FREE TO WATCH: Highlights from Manchester United&#8217;s match against Brentford in the Premier League.",
+          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-man-utd-brentford_7418872.jpg?20261128170609"
+        },
+        {
+          "title": "'They're in trouble' - Merse reacts to Brentford's FOUR goals at Man Utd",
+          "link": "https://www.skysports.com/watch/video/13617579/manchester-utd-vs-brentford-paul-merson-reacts-to-both-goals-from-the-visitors",
+          "published": "2026-11-28",
+          "summary": "Paul Merson reacts to all FOUR goals as Manchester United are beaten 4-0 in Mauricio Pochettino's first game in charge at Old Trafford.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-paul-merson-man-utd_7418741.jpg?20261128154348"
+        },
+        {
+          "title": "Cole in talks to become Bristol Rovers boss as pressure mounts on Evans",
+          "link": "https://www.skysports.com/football/news/12040/13617455/ashley-cole-in-talks-to-take-over-at-bristol-rovers-as-pressure-mounts-on-steve-evans-after-defeat-to-tranmere",
+          "published": "2026-11-28",
+          "summary": "Ashley Cole has held talks with Bristol Rovers about the possibility of taking over as manager, as pressure mounts on Steve Evans.&#160;",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-league-two-bristol-rovers_7418451.jpg?20261128113254"
+        },
+        {
+          "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27",
+          "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27",
+          "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2c/live/67522bc0-eab3-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "title": "Bremen fight back to earn draw in six-goal thriller",
+          "link": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27",
+          "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/827c8ba0-eab0-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+          "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27",
+          "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/9a001150-eab2-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27",
+          "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png"
+        },
         {
           "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
           "link": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-27",
           "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/61999920-ea77-11f1-a828-d384c0290f6b.jpg"
-        },
-        {
-          "title": "Man City owners should be forced to sell, say clubs",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Manchester City's owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/e37d1e90-e9e0-11f1-9361-cd8ed0157587.jpg"
-        },
-        {
-          "title": "Spurs' Savio to miss festive fixtures after injury setback",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Tottenham winger Savio will miss the club's Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg"
-        },
-        {
-          "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "BBC Sport's Fantasy Premier League expert Holly Shand gives her answers to some of the biggest dilemmas facing managers in gameweek 12.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e06/live/ee299260-e8e6-11f1-8808-1d4222955d7e.png"
-        },
-        {
-          "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
-        },
-        {
-          "title": "What makes or breaks a high press?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "A good high press has been the basis for some of the most successful sides in modern football, but what determines whether a press works or fails? And how are the always-adapting Premier League teams ...",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae39/live/a021d870-e9ae-11f1-859a-37130cd3a1d7.jpg"
-        },
-        {
-          "title": "Clashes mar European games as Macron condemns violence",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
-        },
-        {
-          "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/1ca69ca0-e9f0-11f1-afc6-7da1c727ad8d.jpg"
-        },
-        {
-          "title": "Iordanescu ready for Watford 'challenge'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "What we learned from new Watford manager Edward Iordanescu's first press conference.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108d/live/59076bc0-ea5e-11f1-a094-5fdc692f3e33.png"
-        },
-        {
-          "title": "McInnes tempers 'anxiety' as Rangers seek top spot",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnqxvy34wo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-27",
-          "summary": "Rangers should not experience any anxiety about the prospect of going top of the Premiership as they look to extend their winning run, says Derek McInnes.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4b/live/27d5d4b0-ea59-11f1-89b9-f318b11567ea.jpg"
-        },
-        {
-          "title": "Slegers sacked by Arsenal",
-          "link": "https://www.skysports.com/football/news/12040/13592850/renee-slegers-sacked-by-arsenal-only-18-months-after-winning-champions-league-following-poor-start-to-wsl-season",
-          "published": "2026-11-27",
-          "summary": "Renee Slegers has been sacked as Arsenal head coach after a poor start to the Women's Super League season.",
-          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7417953.jpg?20261127152059"
-        },
-        {
-          "title": "Maresca: You can't compare Man City and Arsenal",
-          "link": "https://www.skysports.com/football/news/12040/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
-          "published": "2026-11-27",
-          "summary": "Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn&#8217;t be compared after his side's early-season form raised expectations.",
-          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-maresca-arteta_7417937.jpg?20261127151212"
-        },
-        {
-          "title": "Rangers eye top spot vs flying Falkirk as Celtic face Tynecastle test",
-          "link": "https://www.skysports.com/football/news/12040/13616312/scottish-premiership-can-rangers-halt-falkirk-to-move-top-before-hearts-host-celtic-live-on-sky-is-time-running-out-for-neil-mccann-at-kilmarnock",
-          "published": "2026-11-27",
-          "summary": "There could be a change at the top of the Scottish Premiership if Rangers can halt the league's form team, but how long would they keep Celtic off the summit?",
-          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-scottish-premiership_7416033.jpg?20261125102522"
         },
         {
           "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
@@ -104,11 +90,25 @@
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e03/live/cfa33df0-e2a1-11f1-99a1-253766e7ad8b.png"
         },
         {
-          "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+          "title": "'Laughing gas has ended careers' - so how common is it in football?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
           "published": "2026-11-26",
-          "summary": "Bournemouth are dreaming of winning the Europa League after joining a select band of teams who have won their first five European games.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg"
+          "summary": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0a/live/8a3de1f0-e8fc-11f1-a77a-271abcb79951.jpg"
+        },
+        {
+          "title": "Why KMI Panel frustrates referees too - and affects their salary",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26",
+          "summary": "For Premier League referees, the KMI Panel is more important than you might realise - it determines a significant portion of their salary.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca44/live/8c9006a0-e7fc-11f1-85d8-8d5c5b3dc8c8.jpg"
+        },
+        {
+          "title": "Who is close to a yellow card suspension in Champions League?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26",
+          "summary": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
         }
       ],
       "highlights": [
@@ -121,7 +121,36 @@
     },
     "championship": {
       "name": "Championship",
-      "articles": [],
+      "articles": [
+        {
+          "title": "'It doesn't come from me' - Eckert irked by Southampton's jibes at Boro",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cq8e0xrk2gwno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-28",
+          "summary": "Southampton head coach Tonda Eckert stresses that taunts from the club aimed at Championship opponents Middlesbrough do not come from him.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c79/live/c6402090-eace-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "title": "Burnley claim second win of season at free-falling Millwall",
+          "link": "https://www.skysports.com/football/millwall-vs-burnley/report/560706",
+          "published": "2026-11-28",
+          "summary": "Jaydon Banel's deflected shot gave Burnley just their second victory of the season in the Sky Bet Championship as they won 1-0 at Millwall, whose own campaign is lurching from bad to worse.",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-burnley-milwall_7418877.jpg?20261128170716"
+        },
+        {
+          "title": "Wales rout Japan to round off Nations Championship",
+          "link": "https://www.skysports.com/rugby-union/wales-vs-japan/report/111702",
+          "published": "2026-11-28",
+          "summary": "Wales put Eddie Jones' Japan side to the sword to win 40-10 at Allianz Stadium Twickenham and complete their Nations Championship campaign.&#160;",
+          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wales-murray-rugby_7418618.jpg?20261128143030"
+        },
+        {
+          "title": "All Blacks still leading England with Coles sin-binned LIVE!",
+          "link": "https://www.skysports.com/rugby-union/live-blog/12040/13617317/england-vs-new-zealand-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+          "published": "2026-11-27",
+          "summary": "Live scores, team news, text, analysis from Allianz Stadium Twickenham for England vs New Zealand (4.40pm kick-off); Final round of Nations Championship contests all at Twickenham this weekend; Irelan...",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sititi-new-zealand_7418865.jpg?20261128170410"
+        }
+      ],
       "highlights": [
         {
           "title": "Championship highlights this week - Week Highlights",
@@ -143,15 +172,7 @@
     },
     "league_two": {
       "name": "League Two",
-      "articles": [
-        {
-          "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-11-26",
-          "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d92/live/3f83f370-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
-        }
-      ],
+      "articles": [],
       "highlights": [
         {
           "title": "League Two highlights this week - Week Highlights",
@@ -162,7 +183,15 @@
     },
     "world_cup": {
       "name": "World Cup",
-      "articles": [],
+      "articles": [
+        {
+          "title": "Germany's Freigang given 16-month ban over drugs test issues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26",
+          "summary": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5436/live/5b4afef0-e9b5-11f1-8d2a-f5d2aabc11cb.jpg"
+        }
+      ],
       "highlights": [
         {
           "title": "World Cup highlights this week - Week Highlights",
@@ -174,12 +203,12 @@
   },
   "standout_moments": [
     {
-      "moment": "Hearts' European hopes hang by a thread but Vrancken proud",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss"
+      "moment": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "moment": "Slegers sacked by Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13592850/renee-slegers-sacked-by-arsenal-only-18-months-after-winning-champions-league-following-poor-start-to-wsl-season"
+      "moment": "Bremen fight back to earn draw in six-goal thriller",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
